@@ -1,1 +1,1 @@
-# treasure.docs
+# docs.treasure.tool
