@@ -8,7 +8,7 @@
   * [TIP Template](governance/tip-template.md)
 * [Whitepaper](whitepaper/README.md)
   * [Bridgeworld 1.0](whitepaper/bridgeworld-1.0.md)
-  * [Medium Articles](whitepaper/medium-articles.md)
+  * [Posts, Podcasts and Articles](whitepaper/posts-podcasts-and-articles.md)
 * [Roadmap](roadmap.md)
 * [Official Links](official-links/README.md)
   * [Treasure](https://treasure.lol)
@@ -50,7 +50,7 @@
 
 ## Integrated Projects
 
-* [Overview](integrated-projects/overview.md)
+* [About Integrated Projects](integrated-projects/about-integrated-projects.md)
 * [Life](integrated-projects/life.md)
 * [Smol Brains](integrated-projects/smol-brains.md)
 * [Getting Bodied](integrated-projects/getting-bodied.md)
@@ -60,7 +60,7 @@
 
 ## External Projects
 
-* [Overview](external-projects/overview.md)
+* [About External Projects](external-projects/about-external-projects.md)
 * [Toadstoolz](external-projects/toadstoolz.md)
 
 ## References
