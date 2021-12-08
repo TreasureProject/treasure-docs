@@ -15,6 +15,7 @@
   * [Marketplace](https://marketplace.treasure.lol)
   * [Mine](https://mine.treasure.lol)
   * [Roadmap](https://www.treasure.lol/#roadmap)
+  * [Discord](https://discord.gg/treasuredao)
   * [Twitter](https://twitter.com/Treasure\_NFT)
 
 ## Getting Started
