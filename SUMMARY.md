@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Introduction](<README (1).md>)
 * [Meet the Team](meet-the-team.md)
 * [Governance](governance/README.md)
   * [Treasure DAO Improvement Proposals (TIP)](governance/treasure-dao-improvement-proposals-tip.md)
@@ -14,9 +13,7 @@
 * [Official Links](official-links/README.md)
   * [Treasure](https://treasure.lol)
   * [Marketplace](https://marketplace.treasure.lol)
-  * [Treasure - Marketplace](https://marketplace.treasure.lol)
   * [Mine](https://mine.treasure.lol)
-  * [Treasure - Mine](https://mine.treasure.lol)
   * [Roadmap](https://www.treasure.lol/#roadmap)
   * [Twitter](https://twitter.com/Treasure\_NFT)
 
