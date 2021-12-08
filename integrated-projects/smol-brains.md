@@ -1,2 +1,0 @@
-# Smol Brains
-

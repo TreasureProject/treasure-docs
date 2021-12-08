@@ -1,2 +1,0 @@
-# Staking Your Treasure
-
