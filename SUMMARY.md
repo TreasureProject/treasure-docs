@@ -20,7 +20,13 @@
 
 ## Getting Started
 
-* [What is $MAGIC?](getting-started/what-is-usdmagic.md)
+* [What is $MAGIC?](getting-started/what-is-usdmagic/README.md)
+  * [Treasures](getting-started/what-is-usdmagic/treasures.md)
+  * [Legions](getting-started/what-is-usdmagic/legions/README.md)
+    * [Genesis](getting-started/what-is-usdmagic/legions/genesis.md)
+    * [Numeraires](getting-started/what-is-usdmagic/legions/numeraires.md)
+    * [Riverman](getting-started/what-is-usdmagic/legions/riverman.md)
+    * [Common](getting-started/what-is-usdmagic/legions/common.md)
 * [Migrating to Arbitrum](getting-started/migrating-to-arbitrum/README.md)
   * [Arbiscan](getting-started/migrating-to-arbitrum/arbiscan.md)
 * [Buying $MAGIC](getting-started/buying-usdmagic.md)
@@ -45,18 +51,12 @@
 ## Integrated Projects
 
 * [Overview](integrated-projects/overview.md)
-* [Enjoyoooor](integrated-projects/enjoyoooor.md)
-* [Getting Bodied](integrated-projects/getting-bodied.md)
-* [Imperium](integrated-projects/imperium.md)
-* [Legions](integrated-projects/legions/README.md)
-  * [Genesis](integrated-projects/legions/genesis.md)
-  * [Numeraires](integrated-projects/legions/numeraires.md)
-  * [Riverman](integrated-projects/legions/riverman.md)
-  * [Common](integrated-projects/legions/common.md)
 * [Life](integrated-projects/life.md)
-* [Olympus Odysey](integrated-projects/olympus-odysey.md)
 * [Smol Brains](integrated-projects/smol-brains.md)
-* [Treasures](integrated-projects/treasures.md)
+* [Getting Bodied](integrated-projects/getting-bodied.md)
+* [Olympus Odysey](integrated-projects/olympus-odysey.md)
+* [Imperium](integrated-projects/imperium.md)
+* [Enjoyoooor](integrated-projects/enjoyoooor.md)
 
 ## External Projects
 
