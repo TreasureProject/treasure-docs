@@ -38,23 +38,35 @@ ERC-1155
 
 ## Smolverse
 
+### Smol Brains Mint
+
+[https://arbiscan.io/address/0xb986c968a8e64e29fb33c310a7b04ccb83bb7427#code](https://arbiscan.io/address/0xb986c968a8e64e29fb33c310a7b04ccb83bb7427#code)
+
 ### Smol Brains
 
 ERC-721
 
-[0x6325439389E0797Ab35752B4F43a14C004f22A9c](https://arbiscan.io/token/0x6325439389e0797ab35752b4f43a14c004f22a9c)
+[https://arbiscan.io/address/0x6325439389e0797ab35752b4f43a14c004f22a9c#code](https://arbiscan.io/address/0x6325439389e0797ab35752b4f43a14c004f22a9c#code)
 
 ### Smol Brains Land
 
 ERC-721
 
-[0xd666d1CC3102cd03e07794A61E5F4333B4239F53](https://arbiscan.io/token/0xd666d1CC3102cd03e07794A61E5F4333B4239F53)
+[https://arbiscan.io/address/0xd666d1cc3102cd03e07794a61e5f4333b4239f53#code](https://arbiscan.io/address/0xd666d1cc3102cd03e07794a61e5f4333b4239f53#code)
+
+### Smol Cars Mint
+
+[https://arbiscan.io/address/0xd414aba77365a1cbc90d3ea8c0e33c1ab5346c9f#code](https://arbiscan.io/address/0xd414aba77365a1cbc90d3ea8c0e33c1ab5346c9f#code)
 
 ### Smol Cars
 
 ERC-721
 
-[0xB16966daD2B5a5282b99846B23dcDF8C47b6132C](https://arbiscan.io/token/0xB16966daD2B5a5282b99846B23dcDF8C47b6132C)
+[https://arbiscan.io/address/0xb16966dad2b5a5282b99846b23dcdf8c47b6132c#code](https://arbiscan.io/address/0xb16966dad2b5a5282b99846b23dcdf8c47b6132c#code)
+
+### School/Staking
+
+[https://arbiscan.io/address/0x602e50ed10a90d324b35930ec0f8e5d3b28cd509#code](https://arbiscan.io/address/0x602e50ed10a90d324b35930ec0f8e5d3b28cd509#code)
 
 ## Treasures
 
