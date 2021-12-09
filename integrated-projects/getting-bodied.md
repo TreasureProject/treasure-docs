@@ -6,8 +6,6 @@
 
 ### **Team**&#x20;
 
-### **Contact**
-
-## Mechanics
-
-\[Insert high level mechanics here]
+* pixel.mat
+* Citruzzz
+* Twixy

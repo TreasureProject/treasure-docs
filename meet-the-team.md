@@ -6,10 +6,12 @@
 \[The Treasure DAO Council is...]
 {% endhint %}
 
-* John Patten
 * End
 * Gaarp
+* John Patten
+* JoshB
 * Mao
+*
 * Pixel.mat
 * Duke
 * Jumpman

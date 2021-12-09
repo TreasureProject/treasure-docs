@@ -12,10 +12,14 @@
 
 ### **Team**&#x20;
 
-### **Contact**
+* Duke
+* pixel.mat
+* Professor\_X\_
+* Spice
+* Trippe
+* Twixy
+* Wyze
 
 ## Mechanics
-
-\[Insert high level mechanics here]
 
 ![](../.gitbook/assets/image.png)
