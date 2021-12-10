@@ -6,15 +6,15 @@
 \[The Treasure DAO Council is...]
 {% endhint %}
 
-* End
-* Gaarp
-* John Patten
+* [@notrealend](https://twitter.com/notrealend)
+* [@gaarping](https://twitter.com/\_gaarping)
+* [@jpatten\_\_](https://twitter.com/jpatten\_\_)
 * JoshB
 * Mao
-*
-* Pixel.mat
-* Duke
-* Jumpman
+* [@pixel\_mat](https://twitter.com/pixel\_mat)
+* [@DukePaints](https://twitter.com/DukePaints)
+* [@jumpmanft](https://twitter.com/jumpmanft)
+* [@Timoraegi](https://twitter.com/Timoraegi)
 * Wyze
 
 ## Community
@@ -35,12 +35,12 @@
 \[The trackers are ...]
 {% endhint %}
 
-* Annon
+* [@Annon\_eth](https://twitter.com/Anonn\_eth)
 * bjornsamuel
-* Feline
+* [@BowTiedFeline](https://twitter.com/BowTiedFeline)
 * Ivan\_DE
 * Yostari
 
 ### Builders
 
-* 0xkarel: Treasure Tools
+* [@0xkarel](https://twitter.com/0xkarel): Treasure Tools

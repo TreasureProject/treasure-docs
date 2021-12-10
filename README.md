@@ -20,6 +20,10 @@ Treasure began as a complementary addition to the Loot metaverse, composable cur
 
 ## Who created Treasure?
 
+Treasure was ideated by John Patten and built by a distributed pseudo-anonymous team.
+
 ## Who runs Treasure?
 
-Treasure is \[council] - but run by the community. For more information on the team, see[meet-the-team.md](meet-the-team.md "mention").
+For more information on the team, see[meet-the-team.md](meet-the-team.md "mention").
+
+Decisions are formed by community members on the forum and made by token holders through snapshot voting.&#x20;

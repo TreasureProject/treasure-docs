@@ -9,7 +9,7 @@ coverY: 0
 
 \[INSERT BRIEF DESCRIPTION HERE]
 
-### Links
+### Legion Types
 
 * c
 

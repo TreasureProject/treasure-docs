@@ -74,4 +74,4 @@ OR
 
 Go to your inventory on https://marketplace.treasure.lol/ and right click the Smol that is listed there.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)

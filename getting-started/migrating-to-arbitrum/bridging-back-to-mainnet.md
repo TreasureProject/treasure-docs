@@ -1,7 +1,7 @@
 # Bridging Back to Mainnet
 
-**How do I bridge ETH back from Arbitrum to mainnet?**
+## **How do I bridge ETH back from Arbitrum to mainnet?**
 
-You can use the same bridge **** you used to bridge ETH from Mainnet to Arbitrum ([https://bridge.arbitrum.io/](https://bridge.arbitrum.io)) but it will take about a week for your ETH to get back to Mainnet.&#x20;
+You can use the same bridge **** that you used to bridge ETH from Mainnet to Arbitrum ([https://bridge.arbitrum.io/](https://bridge.arbitrum.io)). Please note that it will take approximately 7 days for your ETH to get back to Mainnet.
 
-A recommendation is to use Synapse ([https://synapseprotocol.com/](https://synapseprotocol.com)) as it has been tested by a large amount of members here
+You may also use Synapse ([https://synapseprotocol.com/](https://synapseprotocol.com)) which has been tested by a large number of members of the Treasure community.

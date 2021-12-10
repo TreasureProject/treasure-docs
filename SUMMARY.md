@@ -30,6 +30,7 @@
 * [Migrating to Arbitrum](getting-started/migrating-to-arbitrum/README.md)
   * [Using Arbiscan](getting-started/migrating-to-arbitrum/using-arbiscan.md)
   * [Bridging Back to Mainnet](getting-started/migrating-to-arbitrum/bridging-back-to-mainnet.md)
+  * [Migrating Treasures to Arbitrum](getting-started/migrating-to-arbitrum/migrating-treasures-to-arbitrum.md)
 * [Buying $MAGIC](getting-started/buying-usdmagic.md)
 * [Staking](getting-started/staking.md)
 * [Liquidity Pool](getting-started/liquidity-pool.md)
