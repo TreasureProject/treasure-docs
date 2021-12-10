@@ -4,4 +4,4 @@ A rarity checker is currently in-progress.
 
 ## Legion Rarities
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4).png>)

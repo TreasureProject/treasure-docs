@@ -36,17 +36,12 @@
 
 ## Using the Website
 
-* [Staking Your $MAGIC](using-the-website/staking-your-usdmagic.md)
-* [Staking Your Treasure](using-the-website/staking-your-treasure.md)
-* [Staking Your SLP Tokens](using-the-website/staking-your-slp-tokens.md)
-* [Using the Marketplace](using-the-website/using-the-marketplace.md)
-* [Checking Rarities](using-the-website/checking-rarities.md)
-
-## Contracts
-
-* [$MAGIC](contracts/usdmagic.md)
-* [Marketplace](contracts/marketplace.md)
-* [Integrated Projects](contracts/integrated-projects.md)
+* [Treasure Mine (Staking)](using-the-website/treasure-mine-staking/README.md)
+  * [Staking Your $MAGIC](using-the-website/treasure-mine-staking/staking-your-usdmagic.md)
+  * [Staking Your Treasure](using-the-website/treasure-mine-staking/staking-your-treasure.md)
+  * [Staking Your SLP Tokens](using-the-website/treasure-mine-staking/staking-your-slp-tokens.md)
+* [Treasure Marketplace (Buy and Sell)](using-the-website/using-the-marketplace/README.md)
+  * [Checking Rarities](using-the-website/using-the-marketplace/checking-rarities.md)
 
 ## Partnership Integrations
 
@@ -70,10 +65,14 @@
 
 ## References
 
+* [API](references/api.md)
+* [Contracts](references/integrated-projects.md)
 * [Glossary](references/glossary.md)
 
 ## Get Involved
 
-* [Contributing](get-involved/contributing.md)
+* [Contributing to Treasure Docs](get-involved/contributing-to-treasure-docs.md)
+* [Building on Treasure](get-involved/building-on-treasure/README.md)
+  * [Marketplace Curation](get-involved/building-on-treasure/marketplace-curation.md)
+* [Partnering with Treasure](get-involved/partnering-with-treasure.md)
 * [Credits](get-involved/credits.md)
-* [Community Discord](https://discord.gg/treasuredao)

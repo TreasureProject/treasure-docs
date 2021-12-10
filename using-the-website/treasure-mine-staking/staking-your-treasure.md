@@ -4,7 +4,7 @@
 
 Your deposited points, divided by total points deposited, equals your share of emissions.
 
-To see the point distributions, please refer to [treasures.md](../getting-started/what-is-usdmagic/treasures.md "mention").
+To see the point distributions, please refer to [treasures.md](../../getting-started/what-is-usdmagic/treasures.md "mention").
 
 ## Why are MAGIC emissions for Treasures so low?
 
