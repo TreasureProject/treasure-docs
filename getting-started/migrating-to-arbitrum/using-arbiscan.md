@@ -15,7 +15,7 @@ Assuming you are using MetaMask, you can access it by:
 3. Click the three dots in the top right;
 4. Click on "View Account in Explorer"
 
-![](<../../.gitbook/assets/image (6).png>)&#x20;
+![](<../../.gitbook/assets/image (6) (1).png>)&#x20;
 
 Alternatively, you can copy-and-paste the following URL into your browser and add your wallet's public address to the end: [https://arbiscan.io/address/](https://arbiscan.io/address/0x7A6a48b8e7BD3451Fc57f01Ad9Aaea62cdf5956E)
 

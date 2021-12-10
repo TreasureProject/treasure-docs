@@ -6,5 +6,5 @@ Future migrations may take place but, for now, the window to migrate has been cl
 
 There were previously two migration windows:
 
-* December 1, 2021 at 10:00pm to December 9, 2021 at 10:00pm ET
-* October 6, 2021 at 5:42pm to October 26, 2021 at 10:00pm ET&#x20;
+* December 1, 2021 at 3:00am to December 9, 2021 at 3:00am UTC
+* October 6, 2021 at 10:42pm to October 26, 2021 at 3:00am UTC

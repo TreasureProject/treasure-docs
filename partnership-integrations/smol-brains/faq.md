@@ -1,31 +1,4 @@
-# Smol Brains
-
-## Overview
-
-Smol Brains NFT was started by John Patten, founder of Treasure NFT. Here's how it works. You start with 2 monkeys and a piece of land. You are able to stake your monkeys to earn IQ. Collective IQ is rebasing. The more IQ that is staked, the faster the monkeys breed and the bigger brained their children. The bigger brain the monkey society, the more opportunities available to individual monkeys, such as building on their land or even going to space!
-
-### Links
-
-* [Website](https://www.smolverse.lol)
-* [Mint](https://smolverse.lol/station)
-* [Stake](https://smolverse.lol/stake)
-* [Discord](http://discord.gg/smolbrains)
-
-### **Team**&#x20;
-
-* Duke
-* pixel.mat
-* Professor\_X\_
-* Spice
-* Trippe
-* Twixy
-* Wyze
-
-## Mechanics
-
-
-
-## FAQ
+# FAQ
 
 ### How do I get Smol Brains?
 
@@ -65,7 +38,7 @@ Go to 📁┃resources and go to the Smol Brain contract and find safeTransferFr
 
 ### How can I get a higher resolution of my smol brain if I’ve already staked?
 
-1. go to https://www.smolverse.lol/stake
+1. Go to https://www.smolverse.lol/stake
 2. right click > inspect element
 3. ctrl + f > search "ipfs"
 4. click on the link which will give you a higher resolution pfp image
@@ -73,5 +46,3 @@ Go to 📁┃resources and go to the Smol Brain contract and find safeTransferFr
 OR
 
 Go to your inventory on https://marketplace.treasure.lol/ and right click the Smol that is listed there.
-
-![](<../.gitbook/assets/image (5).png>)

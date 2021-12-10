@@ -12,7 +12,7 @@ Explain why this proposal is necessary or useful for the DAO. The author is enco
 
 Lay out your proposal - explain how it is going to tackle the issue at hand and present the action items.
 
-## **Polling Perio**
+## **Polling Period**
 
 The polling process begins now and will end at HH:MM UTC on DD/MM/YYYY. If quorum and sufficient engagement reached, a formal Snapshot vote will be put up at HH:MM UTC on DD/MM/YYYY.
 
