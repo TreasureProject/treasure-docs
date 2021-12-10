@@ -50,7 +50,7 @@ Quick Guide on Bridge from L1 (Eth) to L2 (Arbitrum)
 Genesis Mine, Genesis Legions, Group Rewards, Marketplace and Gameplay
 {% endhint %}
 
-## Oct 1, 2021 | [Treasure: v1 Game Theory](articles-and-discussions.md#dec-1-2021-or-olympus-agora-soundbank-with-treasure-dao)
+## Oct 1, 2021 | [Treasure: v1 Game Theory](posts-podcasts-and-articles.md#dec-1-2021-or-olympus-agora-soundbank-with-treasure-dao)
 
 {% hint style="info" %}
 Incentive Equilibrium between Treasure and $Magic, Genesis Mine Powering Up/Down.

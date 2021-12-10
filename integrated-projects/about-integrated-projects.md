@@ -8,12 +8,12 @@ This further encapsulates the idea of extrinsically composable and intrinsically
 
 ### **Launched**
 
-* [life](life/ "mention")
-* [smol-brains](smol-brains/ "mention")
+* [life.md](life.md "mention")
+* [smol-brains.md](smol-brains.md "mention")
 
 ### **Coming soon**
 
-* [smol-bodies](smol-bodies/ "mention")
+* [getting-bodied.md](getting-bodied.md "mention")
 * [olympus-odysey.md](olympus-odysey.md "mention")
 * [imperium.md](imperium.md "mention")
 * [enjoyoooor.md](enjoyoooor.md "mention")
@@ -22,4 +22,4 @@ This further encapsulates the idea of extrinsically composable and intrinsically
 
 Community projects are currently being built within the Treasure community but have not yet been formally integrated. These projects still need to go through the due process to become listed on the Treasure Marketplace.
 
-Learn more [about-community-projects.md](../community-projects/about-community-projects.md "mention").
+Learn more [about-external-projects.md](../external-projects/about-external-projects.md "mention").

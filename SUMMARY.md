@@ -7,8 +7,8 @@
   * [TIP Log](governance/tip-log.md)
   * [Snapshot Voting](governance/snapshot-voting.md)
   * [TIP Template](governance/tip-template.md)
-* [Whitepaper and Content](whitepaper-and-content/README.md)
-  * [Articles and Discussions](whitepaper-and-content/articles-and-discussions.md)
+* [Whitepaper and Content](whitepaper/README.md)
+  * [Articles and Discussions](whitepaper/posts-podcasts-and-articles.md)
   * [Bridgeworld 1.0](whitepaper-and-content/bridgeworld-1.0.md)
 * [Roadmap](roadmap.md)
 * [Official Links](official-links/README.md)
@@ -23,11 +23,11 @@
 
 * [What is $MAGIC?](getting-started/what-is-usdmagic/README.md)
   * [Treasures](getting-started/what-is-usdmagic/treasures.md)
-  * [Bridgeworld and Legions](getting-started/what-is-usdmagic/bridgeworld-and-legions/README.md)
-    * [Genesis](getting-started/what-is-usdmagic/bridgeworld-and-legions/genesis.md)
-    * [Numeraire](getting-started/what-is-usdmagic/bridgeworld-and-legions/numeraire.md)
-    * [Riverman](getting-started/what-is-usdmagic/bridgeworld-and-legions/riverman.md)
-    * [Common](getting-started/what-is-usdmagic/bridgeworld-and-legions/common.md)
+  * [Bridgeworld and Legions](getting-started/what-is-usdmagic/legions/README.md)
+    * [Genesis](getting-started/what-is-usdmagic/legions/genesis.md)
+    * [Numeraire](getting-started/what-is-usdmagic/legions/numeraires.md)
+    * [Riverman](getting-started/what-is-usdmagic/legions/riverman.md)
+    * [Common](getting-started/what-is-usdmagic/legions/common.md)
 * [Migrating to Arbitrum](getting-started/migrating-to-arbitrum/README.md)
   * [Using Arbiscan](getting-started/migrating-to-arbitrum/using-arbiscan.md)
   * [Bridging Back to Mainnet](getting-started/migrating-to-arbitrum/bridging-back-to-mainnet.md)
@@ -35,7 +35,6 @@
 * [Buying $MAGIC](getting-started/buying-usdmagic.md)
 * [Staking](getting-started/staking.md)
 * [Liquidity Pool](getting-started/liquidity-pool.md)
-* [FAQ](getting-started/faq.md)
 
 ## Using the Website
 
@@ -53,22 +52,22 @@
 
 ## Partnership Integrations
 
-* [About Partnership Integrations](partnership-integrations/about-partnership-integrations.md)
-* [👶 Life](partnership-integrations/life/README.md)
+* [About Partnership Integrations](integrated-projects/about-integrated-projects.md)
+* [👶 Life](integrated-projects/life.md)
   * [FAQ](partnership-integrations/life/faq.md)
-* [🧠 Smol Brains](partnership-integrations/smol-brains/README.md)
+* [🧠 Smol Brains](integrated-projects/smol-brains.md)
   * [FAQ](partnership-integrations/smol-brains/faq.md)
   * [Potential Plans](partnership-integrations/smol-brains/potential-plans.md)
-* [💪 Smol Bodies](partnership-integrations/smol-bodies/README.md)
+* [💪 Smol Bodies](integrated-projects/getting-bodied.md)
   * [FAQ](partnership-integrations/smol-bodies/faq.md)
-* [🍄 Olympus Odysey](partnership-integrations/olympus-odysey.md)
-* [🔺 Imperium](partnership-integrations/imperium.md)
-* [😮 Enjoyoooor](partnership-integrations/enjoyoooor.md)
+* [🍄 Olympus Odysey](integrated-projects/olympus-odysey.md)
+* [🔺 Imperium](integrated-projects/imperium.md)
+* [😮 Enjoyoooor](integrated-projects/enjoyoooor.md)
 
 ## Community Projects
 
-* [About Community Projects](community-projects/about-community-projects.md)
-* [🐸 Toadstoolz](community-projects/toadstoolz/README.md)
+* [About Community Projects](external-projects/about-external-projects.md)
+* [🐸 Toadstoolz](external-projects/toadstoolz.md)
   * [FAQ](community-projects/toadstoolz/faq.md)
 
 ## References

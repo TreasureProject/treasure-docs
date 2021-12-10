@@ -18,7 +18,7 @@ Following the migration to Arbitrum, you can stake 3 things on Treasure:
 
 In some of the integrated projects, you can also stake the following:
 
-* [smol-brains](../partnership-integrations/smol-brains/ "mention")
+* [smol-brains.md](../integrated-projects/smol-brains.md "mention")
 
 ## How can I stake?
 

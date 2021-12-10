@@ -2,10 +2,6 @@
 
 ## Council
 
-{% hint style="info" %}
-\[The Treasure DAO Council is...]
-{% endhint %}
-
 * [@notrealend](https://twitter.com/notrealend)
 * [@gaarping](https://twitter.com/\_gaarping)
 * [@jpatten\_\_](https://twitter.com/jpatten\_\_)
@@ -15,25 +11,19 @@
 * [@DukePaints](https://twitter.com/DukePaints)
 * [@jumpmanft](https://twitter.com/jumpmanft)
 * [@Timoraegi](https://twitter.com/Timoraegi)
-* Wyze
+* [@wyze](https://twitter.com/wyze)
 
 ## Community
 
 ### Mods
 
-{% hint style="info" %}
-\[The community leads...]
-{% endhint %}
-
 * Abenger
-* Alex
+* [@cryptopantone](https://twitter.com/cryptopantone)
+* LUCIFER
 * Trippe
+* X\_
 
-### Trackers
-
-{% hint style="info" %}
-\[The trackers are ...]
-{% endhint %}
+### TrackerS
 
 * [@Annon\_eth](https://twitter.com/Anonn\_eth)
 * bjornsamuel

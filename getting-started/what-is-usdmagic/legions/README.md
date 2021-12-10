@@ -1,8 +1,3 @@
----
-cover: ../../../.gitbook/assets/1500x500.jpg
-coverY: 0
----
-
 # Bridgeworld and Legions
 
 ## About Bridgeworld
@@ -28,7 +23,7 @@ Players take control of Legions and Mine, Farm, Craft, Quest, Battle, and more t
 There are four different types of Legions:
 
 * [genesis.md](genesis.md "mention")
-* [numeraire.md](numeraire.md "mention")
+* [numeraires.md](numeraires.md "mention")
 * [riverman.md](riverman.md "mention")
 * [common.md](common.md "mention")
 

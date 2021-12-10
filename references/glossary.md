@@ -30,7 +30,7 @@ Harold is everywhere.
 
 ## SoL or SOL
 
-Acronym for "Seed of Life", the NFT for the [life](../partnership-integrations/life/ "mention") partnership.
+Acronym for "Seed of Life", the NFT for the [life.md](../integrated-projects/life.md "mention") partnership.
 
 
 

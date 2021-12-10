@@ -4,6 +4,6 @@ Community projects are currently being built within the Treasure community but h
 
 **Publicly announced community projects include:**
 
-* [toadstoolz](toadstoolz/ "mention")
+* [toadstoolz.md](toadstoolz.md "mention")
 
 Other external projects are currently in the works.
