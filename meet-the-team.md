@@ -2,21 +2,16 @@
 
 ## Council
 
-* [@jpatten\_\_](https://twitter.com/jpatten\_\_)
-* [@Yuta](https://twitter.com/0xyyyy\))
-* [@gaarping](https://twitter.com/\_gaarping)
-* [@Timoraegi](https://twitter.com/Timoraegi)
-* [@Cheese](https://twitter.com/jc\_1917)
-* [@wyze](https://twitter.com/wyze)
 * [@notrealend](https://twitter.com/notrealend)
-* [@jumpmanft](https://twitter.com/jumpmanft)
-* [@DukePaints](https://twitter.com/DukePaints)
-* [@pixel\_mat](https://twitter.com/pixel\_mat)
-* [@Sisu](https://twitter.com/sisukasgod)
-* [@T1dev](https://twitter.com/pr0zy)
+* [@gaarping](https://twitter.com/\_gaarping)
+* [@jpatten\_\_](https://twitter.com/jpatten\_\_)
 * JoshB
 * Mao
-* @yyyy
+* [@pixel\_mat](https://twitter.com/pixel\_mat)
+* [@DukePaints](https://twitter.com/DukePaints)
+* [@jumpmanft](https://twitter.com/jumpmanft)
+* [@Timoraegi](https://twitter.com/Timoraegi)
+* [@wyze](https://twitter.com/wyze)
 
 ## Community
 
@@ -25,7 +20,7 @@
 * Abenger
 * [@cryptopantone](https://twitter.com/cryptopantone)
 * LUCIFER
-* [@Trippe](https://twitter.com/TrippyCoin)
+* Trippe
 * X\_
 
 ### TrackerS

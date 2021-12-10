@@ -6,9 +6,7 @@ description: The official documentation for Treasure, the Metaverse Bridgeworld.
 
 ## What is Treasure?
 
-Treasure bridges the growing network of metaverses through an open and composable approach to the convergence of NFTs, DeFi and Gaming.
-
-Cross-ecosystem ties are bolstered through our interrelated resource model:
+Treasure is building composable economic resources to act as bridges between the growing network of metaverses. Cross-ecosystem ties are bolstered through our interrelated resource model:
 
 * **$MAGIC** (Power);
 * **Treasures** (NFT | Resources); and&#x20;
@@ -38,7 +36,7 @@ Treasure aspires to act as the bridge between metaverses. To become the base lay
 
 ## Who created Treasure?
 
-Treasure was ideated by John Patten and is being built by a distributed pseudo-anonymous team.
+Treasure was originally created by John Patten and is being built by a distributed pseudo-anonymous team.
 
 ## Who runs Treasure?
 
