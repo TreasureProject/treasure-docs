@@ -4,7 +4,7 @@
 * [Meet the Team](meet-the-team.md)
 * [Governance](governance/README.md)
   * [Treasure DAO Improvement Proposals (TIP)](governance/treasure-dao-improvement-proposals-tip.md)
-  * [How to Participate in Snapshot Voting](governance/how-to-participate-in-snapshot-voting.md)
+  * [Snapshot Voting](governance/snapshot-voting.md)
   * [TIP Template](governance/tip-template.md)
 * [Whitepaper](whitepaper/README.md)
   * [Bridgeworld 1.0](whitepaper/bridgeworld-1.0.md)

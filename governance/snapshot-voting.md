@@ -1,4 +1,6 @@
-# How to Participate in Snapshot Voting
+# Snapshot Voting
+
+## How to participate in snapshot voting
 
 1. Follow the Snapshot link to the TIP.
 2. Connect Metamask associated with your $MAGIC holdings. You must be on the Arbitrum network.

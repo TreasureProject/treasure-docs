@@ -1,29 +1,31 @@
 ---
-description: >-
-  The official Treasure documentation and whitepaper, last updated December 8,
-  2021.
+description: The official documentation for Treasure, the Metaverse Bridgeworld.
 ---
 
 # Introduction
 
 ## What is Treasure?
 
-Treasure began as a free-to-mint Loot derivative that included 8 "Treasures" per NFT. The project, lead by John Patten, has since evolved into TreasureDAO, which aims to create a giga-verse based on the interaction between two resources - Treasures and $MAGIC. TreasureDAO and $MAGIC's goals are to be bridges between metaverses, becoming the base layer of disparate universes, powering and connecting them. $MAGIC is to be the reserve currency of the metaverse, fueling the ecosystem and making its resources productive!
+Treasure bridges the growing network of metaverses through an open and composable approach to the convergence of NFTs, DeFi and Gaming.
 
-Treasure began as a complementary addition to the Loot metaverse, composable currencies that adventurers would need in their new metaverse. Treasure quickly developed a life of its own, spawning MAGIC to be the reserve currency of the Gigaverse! Building bridges between metaverses with MAGIC and Treasure.
+Cross-ecosystem ties are bolstered through our interrelated resource model:
 
-## What is the point of Treasure?
+* $MAGIC (Power);
+* Treasures (NFT | Resources); and&#x20;
+* Legions (NFT | Players)
 
-## How do I participate in Treasure?
+Treasure originally began as a complementary addition to the Loot metaverse with composable currencies that adventurers would need in the new metaverse (8 "Treasures" in the form of an NFT). Treasure quickly developed a life of its own and evolved into TreasureDAO, which aims to create a gigaverse based on the interaction between two resources - Treasures and $MAGIC.&#x20;
 
-## How can I benefit from Treasure?
+Treasure aspires to act as the bridge between metaverses. To become the base layer of disparate universes and to power and connect them. $MAGIC aims to be the reserve currency of the metaverse, fueling the ecosystem and making its resources productive.
 
 ## Who created Treasure?
 
-Treasure was ideated by John Patten and built by a distributed pseudo-anonymous team.
+Treasure was ideated by John Patten and is being built by a distributed pseudo-anonymous team.
 
 ## Who runs Treasure?
 
-For more information on the team, see[meet-the-team.md](meet-the-team.md "mention").
+Treasure is DAO-governed. However, we believe some structure is still needed and a group of dedicated DAO members and the original founders comprise the "Treasure Council" which execute upon Treasure's vision.
 
-Decisions are formed by community members on the forum and made by token holders through snapshot voting.&#x20;
+For more information on the Treasure Council and broader team, see[meet-the-team.md](meet-the-team.md "mention").
+
+Decisions are formed by community members on the Discord and made by token holders through [snapshot-voting.md](governance/snapshot-voting.md "mention").&#x20;
