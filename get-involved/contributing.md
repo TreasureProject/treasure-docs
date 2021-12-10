@@ -8,10 +8,10 @@ Found a typo, think there's a missing page/section, shed some more light on a to
 
 ## Launching a project on Treasure
 
-Have an idea for a project that could interface with Treasure and $MAGIC and be a part of the Bridgeworld Metaverse? Join the Discord and leave a note in #partnership-prospects or DM John Patten, JoshB or Gaarp.
+Have an idea for a project that could interface with Treasure and $MAGIC and be a part of the Bridgeworld Metaverse? Join the Discord and leave a note in #partnership-prospects or DM John Patten or Gaarp.
 
 ## Forming partnerships
 
-Have a prospective partnership you would like to run by the Treasure Council? Join the Discord and leave a note in #partnership-prospects or DM John Patten, JoshB or Gaarp.
+Have a prospective partnership you would like to run by the Treasure Council? Join the Discord and leave a note in #partnership-prospects or DM John Patten or Gaarp.
 
 ##

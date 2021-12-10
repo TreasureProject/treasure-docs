@@ -6,6 +6,11 @@ description: Still in stealth.
 
 More details coming soon.
 
+## Links
+
+* [Discord](http://discord.gg/toadstoolz)
+* [Twitter](https://twitter.com/toadstoolzNFT)
+
 ## Team
 
 * michaelangetoad

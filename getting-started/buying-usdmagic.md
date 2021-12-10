@@ -12,6 +12,6 @@ You can buy $MAGIC on SushiSwap on Arbitrum: [https://app.sushi.com/swap?inputCu
 
 There are a few options to check the price of $MAGIC:
 
-* [Defined.fi](https://www.defined.fi/arb/0xb7e50106a5bd3cf21af210a755f9c8740890a8c9)
+* [Dexscreener](https://dexscreener.com/arbitrum/0xb7e50106a5bd3cf21af210a755f9c8740890a8c9)
 * [CoinMarketCap](https://coinmarketcap.com/currencies/magic-token/)
 * [CoinGecko](https://www.coingecko.com/en/coins/magic)

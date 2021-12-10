@@ -8,12 +8,12 @@ This further encapsulates the idea of extrinsically composable and intrinsically
 
 ### **Launched**
 
-* [life.md](life.md "mention")
 * [smol-brains.md](smol-brains.md "mention")
+* [getting-bodied.md](getting-bodied.md "mention")
 
 ### **Coming soon**
 
-* [getting-bodied.md](getting-bodied.md "mention")
+* [life.md](life.md "mention")
 * [olympus-odysey.md](olympus-odysey.md "mention")
 * [imperium.md](imperium.md "mention")
 * [enjoyoooor.md](enjoyoooor.md "mention")

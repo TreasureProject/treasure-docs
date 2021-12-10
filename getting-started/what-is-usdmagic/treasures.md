@@ -1,6 +1,6 @@
 # Treasures
 
-## What are treasures?
+## What are Treasures?
 
 Treasures (NFTs) are a set of economic resources shared across the metaverse. As such, each Treasure carries a unique story that weaves different worlds.
 
