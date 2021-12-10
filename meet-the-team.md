@@ -9,7 +9,7 @@
 * [@notrealend](https://twitter.com/notrealend) - Product Lead | Quests and Consumables
 * [@jumpmanft](https://twitter.com/jumpmanft) - Marketplace Curation | Life NFT
 * [@JustCheese](https://twitter.com/jc\_1917) - Front End Dev | UI
-* [@wyze](https://twitter.com/wyze) - Front End Dev | UI
+* [@wyze](https://twitter.com/wyze) (Neil) - Front End Dev | UI
 * [@DukePaints](https://twitter.com/DukePaints) - Concept Artist | Imperium&#x20;
 * [@Mao](https://twitter.com/Mezereth) - Art | Life NFT
 * [@pixel\_mat](https://twitter.com/pixel\_mat) - Art | Smol Brains
