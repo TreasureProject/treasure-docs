@@ -13,3 +13,5 @@ description: >-
 * [@Timoraegi](https://twitter.com/Timoraegi)
 * [@gaarping](https://twitter.com/\_gaarping)
 * [@jpatten\_\_](https://twitter.com/jpatten\_\_)
+* @fleet
+* @Veggiemang

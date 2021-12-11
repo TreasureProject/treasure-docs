@@ -5,7 +5,7 @@
 You can buy $MAGIC on SushiSwap on Arbitrum: [https://app.sushi.com/swap?inputCurrency=\&outputCurrency=0x539bdE0d7Dbd336b79148AA742883198BBF60342](https://app.sushi.com/swap?inputCurrency=\&outputCurrency=0x539bdE0d7Dbd336b79148AA742883198BBF60342)
 
 {% hint style="info" %}
-**Please note:** $MAGIC is also available on L1 via Uniswap so please be mindful of the network you are buying $MAGIC on. Arbitrum is where the Treasure ecosystem is currently being built out.
+**Please note:** $MAGIC is also available on L1 via Uniswap, so please be mindful of the network you're buying $MAGIC on. Arbitrum is where the Treasure ecosystem is currently being built out.
 {% endhint %}
 
 ## How do I check the price of $MAGIC?

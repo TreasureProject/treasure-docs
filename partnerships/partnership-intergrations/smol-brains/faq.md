@@ -2,7 +2,7 @@
 
 ### How do I get Smol Brains?
 
-I have 1 IQ ser Currently our Whitelist process is closed, but you can still buy your Smol Brain on the secondary market via https://marketplace.treasure.lol/
+After a fun and innovative whitelist process, all Smol Brains were claimed by members of the community Discord. But don't worry - you can buy Smol Brains on the secondary market at [https://marketplace.treasure.lol/](https://marketplace.treasure.lol).
 
 ### Do I need Treasure or $Magic to get a Smol Brain?
 
@@ -14,35 +14,35 @@ You can buy/sell your Smol Brain on https://marketplace.treasure.lol/ which is a
 
 ### What is the supply of Smol Brains?
 
-The supply is 13,422! (6,711 males and females)
+The supply is 13,422! There are 6,711 males and 6,711 females.
 
-### How many smol brains can I have?
+### How many Smol Brains can I have?
 
-The amount of Smol Brains you can have is infinite as of now. They will all fit on 1 piece of land.
+The number of Smol Brains you can have is infinite as of now. They will all fit on one piece of land.
 
 ### How many pieces of land can I have?
 
-Each wallet can only contain 1 piece of land
+Each wallet can only contain one piece of land
 
-### I have whitelist, but can't mint. Why?&#x20;
+### I have whitelist, but can't mint. Why?
 
 With the whitelist role, you were required to send us your address in the 📋┃smol-whitelist-address channel. If you've done this and still cannot mint, please fill out the spreadsheet pinned in 💬┃og-general
 
 ### How can I tell if my Smol Brain is rare?
 
-Rarity checker coming soooon! In the meantime check the pinned messages in 🧠┃smol-brain-general, a fellow Smol Brain made an unofficial rarity form for male and female. This will give you an idea of how rare your Smol Brain is!
+Rarity checker coming soooon! In the meantime, check the pinned messages in 🧠┃smol-brain-general. A fellow Smol Brain made an unofficial rarity form for male and female. This will give you an idea of how rare your Smol Brain is!
 
 ### How do I transfer my Smol Brain to another wallet?
 
-Go to 📁┃resources and go to the Smol Brain contract and find safeTransferFrom with 3 fields. (Labeled as #9)
+Go to 📁┃resources and then go to the Smol Brain contract and find safeTransferFrom with 3 fields. (Labeled as #9)
 
-### How can I get a higher resolution of my smol brain if I’ve already staked?
+### How can I get a higher resolution of my Smol Brain if I’ve already staked?
 
 1. Go to https://www.smolverse.lol/stake
-2. right click > inspect element
-3. ctrl + f > search "ipfs"
-4. click on the link which will give you a higher resolution pfp image
+2. Right click > inspect element
+3. Ctrl + f > search "ipfs"
+4. Click on the link, which will give you a higher resolution pfp image
 
 OR
 
-Go to your inventory on https://marketplace.treasure.lol/ and right click the Smol that is listed there.
+Go to your inventory on https://marketplace.treasure.lol/ and right click the Smol that's listed there.

@@ -1,18 +1,20 @@
 # Table of contents
 
+* [Introduction](README.md)
+
 ## About Treasure DAO
 
-* [Introduction](README.md)
-* [Meet the Team](about-treasure-dao/meet-the-team.md)
-* [Governance](about-treasure-dao/governance/README.md)
-  * [Treasure DAO Improvement Proposals (TIP)](about-treasure-dao/governance/treasure-dao-improvement-proposals-tip.md)
+* [Introduction](<README (1).md>)
+* [Meet the Team](meet-the-team.md)
+* [Governance](governance/README.md)
+  * [Treasure DAO Improvement Proposals (TIP)](governance/treasure-dao-improvement-proposals-tip.md)
   * [TIP Log](about-treasure-dao/governance/tip-log.md)
-  * [Snapshot Voting](about-treasure-dao/governance/snapshot-voting.md)
-  * [TIP Template](about-treasure-dao/governance/tip-template.md)
+  * [Snapshot Voting](governance/snapshot-voting.md)
+  * [TIP Template](governance/tip-template.md)
 * [Whitepaper and Content](about-treasure-dao/whitepaper-and-content/README.md)
   * [Articles and Discussions](about-treasure-dao/whitepaper-and-content/articles-and-discussions.md)
-  * [Bridgeworld 1.0](about-treasure-dao/whitepaper-and-content/bridgeworld-1.0.md)
-* [Roadmap](about-treasure-dao/roadmap.md)
+  * [Bridgeworld 1.0](learn/whitepaper-and-content/bridgeworld-1.0.md)
+* [Roadmap](roadmap.md)
 * [Official Links](about-treasure-dao/official-links/README.md)
   * [Treasure](https://treasure.lol)
   * [Marketplace](https://marketplace.treasure.lol)
@@ -20,7 +22,7 @@
   * [Roadmap](https://www.treasure.lol/#roadmap)
   * [Discord](https://discord.gg/treasuredao)
   * [Twitter](https://twitter.com/Treasure\_NFT)
-* [Lore](about-treasure-dao/lore/README.md)
+* [Lore](learn/lore.md)
   * [Contemporary History](about-treasure-dao/lore/contemporary-history.md)
   * [Origin Stories](about-treasure-dao/lore/origin-stories/README.md)
     * [Rivermen](about-treasure-dao/lore/origin-stories/rivermen.md)
@@ -29,26 +31,26 @@
 
 ## Getting Started
 
-* [What is $MAGIC?](getting-started/what-is-usdmagic.md)
-* [Treasures](getting-started/treasures.md)
-* [Bridgeworld and Legions](getting-started/bridgeworld-and-legions/README.md)
-  * [Genesis (Gen0)](getting-started/bridgeworld-and-legions/genesis-gen0.md)
-  * [Non-Genesis (Gen1)](getting-started/bridgeworld-and-legions/non-genesis-gen1.md)
+* [What is $MAGIC?](getting-started/what-is-usdmagic/README.md)
+* [Treasures](getting-started/what-is-usdmagic/treasures.md)
+* [Bridgeworld and Legions](getting-started/what-is-usdmagic/legions/README.md)
+  * [Genesis (Gen0)](getting-started/what-is-usdmagic/bridgeworld-and-legions/genesis-gen0.md)
+  * [Non-Genesis (Gen1)](getting-started/what-is-usdmagic/bridgeworld-and-legions/non-genesis-gen1.md)
 * [Migrating to Arbitrum](getting-started/migrating-to-arbitrum/README.md)
   * [Using Arbiscan](getting-started/migrating-to-arbitrum/using-arbiscan.md)
   * [Bridging Back to Mainnet](getting-started/migrating-to-arbitrum/bridging-back-to-mainnet.md)
   * [Migrating Treasures to Arbitrum](getting-started/migrating-to-arbitrum/migrating-treasures-to-arbitrum.md)
 * [Buying $MAGIC](getting-started/buying-usdmagic.md)
 * [Treasure Mine (Staking)](getting-started/treasure-mine-staking/README.md)
-  * [Staking Your $MAGIC](using-the-website/treasure-mine-staking/staking-your-usdmagic.md)
+  * [Staking Your $MAGIC](getting-started/treasure-mine-staking/staking-your-usdmagic.md)
   * [Staking Your Treasure](getting-started/treasure-mine-staking/staking-your-treasure.md)
   * [Staking Your SLP Tokens](getting-started/treasure-mine-staking/staking-your-slp-tokens.md)
 * [Treasure Marketplace](getting-started/using-the-marketplace/README.md)
   * [Checking Rarities](getting-started/using-the-marketplace/checking-rarities.md)
 
-## Learn&#x20;
+## Learn
 
-* [Lore](learn/lore.md)
+* [Lore](<learn/lore (1).md>)
 
 ## Partnerships
 

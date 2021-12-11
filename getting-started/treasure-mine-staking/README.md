@@ -2,7 +2,7 @@
 
 ## What is staking?
 
-Staking is the process of locking up your holdings (whether that be $MAGIC or your NFTs) in order to obtain rewards or earn interest.&#x20;
+Staking is the process of locking up your holdings (whether that be $MAGIC or your NFTs) in order to obtain rewards or earn interest.
 
 ## What can I stake?
 
@@ -13,7 +13,7 @@ Following the migration to Arbitrum, you can stake 3 things on Treasure:
 * SLP tokens in the MAGIC-WETH SLP
 
 {% hint style="danger" %}
-**Note:** Staking is no longer active on the Ethereum Mainnet **and** you can no longer stake Loot, n, AGLD for MAGIC.&#x20;
+**Note:** Staking is no longer active on the Ethereum Mainnet, and **** you can no longer stake Loot, n, or AGLD for MAGIC.&#x20;
 {% endhint %}
 
 In some of the integrated projects, you can also stake the following:
@@ -22,13 +22,13 @@ In some of the integrated projects, you can also stake the following:
 
 ## How can I stake?
 
-* [staking-your-usdmagic.md](../../using-the-website/treasure-mine-staking/staking-your-usdmagic.md "mention")
+* [staking-your-usdmagic.md](staking-your-usdmagic.md "mention")
 * [staking-your-treasure.md](staking-your-treasure.md "mention")
 * [staking-your-slp-tokens.md](staking-your-slp-tokens.md "mention")
 
 ## Other
 
-### Can I still stake Loot, n, AGLD for $MAGIC?
+### Can I still stake Loot, n, or AGLD for $MAGIC?
 
 No, that phase is over.
 

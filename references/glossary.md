@@ -14,7 +14,7 @@ Annual Percentage Yield, is the normalized representation of an interest rate, b
 
 ## Crispy
 
-The legend of `crispyboi` - best understood by searching up the username in Discord.&#x20;
+The legend of `crispyboi` - best understood by searching up the username in Discord.
 
 ## DAO
 
@@ -22,7 +22,7 @@ Decentralized Autonomous Organization, is a governance mechanism for making deci
 
 ## gMAGIC
 
-Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. Learn more in [governance](../about-treasure-dao/governance/ "mention").
+Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. Learn more in [governance](../governance/ "mention").
 
 ## Harold
 
@@ -31,7 +31,5 @@ Harold is everywhere.
 ## SoL or SOL
 
 Acronym for "Seed of Life", the NFT for the [life](../partnerships/partnership-intergrations/life/ "mention") partnership.
-
-
 
 ## veMAGIC
