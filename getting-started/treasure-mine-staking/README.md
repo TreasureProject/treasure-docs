@@ -1,4 +1,4 @@
-# Staking
+# Treasure Mine (Staking)
 
 ## What is staking?
 
@@ -18,13 +18,13 @@ Following the migration to Arbitrum, you can stake 3 things on Treasure:
 
 In some of the integrated projects, you can also stake the following:
 
-* [smol-brains.md](../integrated-projects/smol-brains.md "mention")
+* [smol-brains](../../partnerships/partnership-intergrations/smol-brains/ "mention")
 
 ## How can I stake?
 
-* [staking-your-usdmagic.md](../using-the-website/treasure-mine-staking/staking-your-usdmagic.md "mention")
-* [staking-your-treasure.md](../using-the-website/treasure-mine-staking/staking-your-treasure.md "mention")
-* [staking-your-slp-tokens.md](../using-the-website/treasure-mine-staking/staking-your-slp-tokens.md "mention")
+* [staking-your-usdmagic.md](staking-your-usdmagic.md "mention")
+* [staking-your-treasure.md](staking-your-treasure.md "mention")
+* [staking-your-slp-tokens.md](staking-your-slp-tokens.md "mention")
 
 ## Other
 

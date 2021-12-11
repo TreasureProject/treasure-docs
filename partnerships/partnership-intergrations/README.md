@@ -1,4 +1,4 @@
-# About Partnership Integrations
+# Partnership Intergrations
 
 ## What are integrated projects?
 
@@ -8,18 +8,18 @@ This further encapsulates the idea of extrinsically composable and intrinsically
 
 ### **Launched**
 
-* [smol-brains.md](smol-brains.md "mention")
-* [getting-bodied.md](getting-bodied.md "mention")
+* [smol-brains](smol-brains/ "mention")
+* [smol-bodies](smol-bodies/ "mention")
 
 ### **Coming soon**
 
-* [life.md](life.md "mention")
+* [life](life/ "mention")
 * [olympus-odysey.md](olympus-odysey.md "mention")
 * [imperium.md](imperium.md "mention")
-* [enjoyoooor.md](enjoyoooor.md "mention")
+* [Broken link](broken-reference "mention")
 
 ## What about community projects?
 
 Community projects are currently being built within the Treasure community but have not yet been formally integrated. These projects still need to go through the due process to become listed on the Treasure Marketplace.
 
-Learn more [about-external-projects.md](../external-projects/about-external-projects.md "mention").
+Learn more [community-projects](../community-projects/ "mention").

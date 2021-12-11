@@ -7,9 +7,6 @@
   * [TIP Log](governance/tip-log.md)
   * [Snapshot Voting](governance/snapshot-voting.md)
   * [TIP Template](governance/tip-template.md)
-* [Whitepaper and Content](whitepaper/README.md)
-  * [Articles and Discussions](whitepaper/posts-podcasts-and-articles.md)
-  * [Bridgeworld 1.0](whitepaper-and-content/bridgeworld-1.0.md)
 * [Roadmap](roadmap.md)
 * [Official Links](official-links/README.md)
   * [Treasure](https://treasure.lol)
@@ -31,38 +28,36 @@
   * [Bridging Back to Mainnet](getting-started/migrating-to-arbitrum/bridging-back-to-mainnet.md)
   * [Migrating Treasures to Arbitrum](getting-started/migrating-to-arbitrum/migrating-treasures-to-arbitrum.md)
 * [Buying $MAGIC](getting-started/buying-usdmagic.md)
-* [Staking](getting-started/staking.md)
-* [Liquidity Pool](getting-started/liquidity-pool.md)
+* [Treasure Mine (Staking)](getting-started/treasure-mine-staking/README.md)
+  * [Staking Your $MAGIC](getting-started/treasure-mine-staking/staking-your-usdmagic.md)
+  * [Staking Your Treasure](getting-started/treasure-mine-staking/staking-your-treasure.md)
+  * [Staking Your SLP Tokens](getting-started/treasure-mine-staking/staking-your-slp-tokens.md)
+* [Treasure Marketplace](getting-started/using-the-marketplace/README.md)
+  * [Checking Rarities](getting-started/using-the-marketplace/checking-rarities.md)
 
-## Using the Website
+## Learn&#x20;
 
-* [Treasure Mine (Staking)](using-the-website/treasure-mine-staking/README.md)
-  * [Staking Your $MAGIC](using-the-website/treasure-mine-staking/staking-your-usdmagic.md)
-  * [Staking Your Treasure](using-the-website/treasure-mine-staking/staking-your-treasure.md)
-  * [Staking Your SLP Tokens](using-the-website/treasure-mine-staking/staking-your-slp-tokens.md)
-* [Treasure Marketplace (Buy and Sell)](using-the-website/using-the-marketplace/README.md)
-  * [Checking Rarities](using-the-website/using-the-marketplace/checking-rarities.md)
+* [Lore](learn/lore.md)
+* [Whitepaper and Content](learn/whitepaper-and-content/README.md)
+  * [Articles and Discussions](learn/whitepaper-and-content/articles-and-discussions.md)
+  * [Bridgeworld 1.0](learn/whitepaper-and-content/bridgeworld-1.0.md)
 
-## Partnership Integrations
+## Partnerships
 
-* [About Partnership Integrations](integrated-projects/about-integrated-projects.md)
-* [👶 Life](integrated-projects/life.md)
-  * [FAQ](partnership-integrations/life/faq.md)
-* [🧠 Smol Brains](integrated-projects/smol-brains.md)
-  * [FAQ](partnership-integrations/smol-brains/faq.md)
-  * [Potential Plans](partnership-integrations/smol-brains/potential-plans.md)
-* [💪 Smol Bodies](integrated-projects/getting-bodied.md)
-  * [FAQ](partnership-integrations/smol-bodies/faq.md)
-* [👹 Ether Orcs](partnership-integrations/ether-orcs.md)
-* [🍄 Mushrohms](integrated-projects/olympus-odysey.md)
-* [🔺 Imperium](integrated-projects/imperium.md)
-* [😮 Enjoyoooor](integrated-projects/enjoyoooor.md)
-
-## Community Projects
-
-* [About Community Projects](external-projects/about-external-projects.md)
-* [🐸 Toadstoolz](external-projects/toadstoolz.md)
-  * [FAQ](community-projects/toadstoolz/faq.md)
+* [Partnership Intergrations](partnerships/partnership-intergrations/README.md)
+  * [🧠 Smol Brains](partnerships/partnership-intergrations/smol-brains/README.md)
+    * [FAQ](partnerships/partnership-intergrations/smol-brains/faq.md)
+    * [Potential Plans](partnerships/partnership-intergrations/smol-brains/potential-plans.md)
+  * [💪 Smol Bodies](partnerships/partnership-intergrations/smol-bodies/README.md)
+    * [FAQ](partnerships/partnership-intergrations/smol-bodies/faq.md)
+  * [👶 Life](partnerships/partnership-intergrations/life/README.md)
+    * [FAQ](partnerships/partnership-intergrations/life/faq.md)
+  * [🍄 Mushrohms](partnerships/partnership-intergrations/olympus-odysey.md)
+  * [👹 Ether Orcs](partnerships/partnership-intergrations/ether-orcs.md)
+  * [🔺 Imperium](partnerships/partnership-intergrations/imperium.md)
+* [Community Projects](partnerships/community-projects/README.md)
+  * [🐸 Toadstoolz](partnerships/community-projects/toadstoolz/README.md)
+    * [FAQ](partnerships/community-projects/toadstoolz/faq.md)
 
 ## References
 

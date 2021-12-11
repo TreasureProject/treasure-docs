@@ -6,7 +6,7 @@ Life is a long experiential board game. It is meant to be an emotional experienc
 
 Life is the creation of NFT builder, [@jumpman](https://twitter.com/jumpmanft), and is the first project built on top of Treasure not created by then team.
 
-![](<../.gitbook/assets/1500x500 (1).jpg>)
+![](<../../../.gitbook/assets/1500x500 (1).jpg>)
 
 ## How it works
 
@@ -18,7 +18,7 @@ Life is a long experiential board game. It is meant to be an **emotional experie
 
 The owner of the NFT will be responsible for choosing the direction of the individual’s life. Transferring the NFT to another wallet would “reset” the individual back to a newborn, its life erased. At death, the owner will receive a commemorative NFT of the person that they shepherded through the world.
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)
 
 ## **Team**
 
