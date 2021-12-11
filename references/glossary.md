@@ -22,7 +22,7 @@ Decentralized Autonomous Organization, is a governance mechanism for making deci
 
 ## gMAGIC
 
-Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. Learn more in [governance](../governance/ "mention").
+Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. Learn more in [governance](../about-treasure-dao/governance/ "mention").
 
 ## Harold
 

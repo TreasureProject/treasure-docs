@@ -46,6 +46,6 @@ Treasure was originally created by John Patten and is being built by a distribut
 
 Treasure is DAO-governed. However, we believe some structure is still needed and a group of dedicated DAO members and the original founders comprise the "Treasure Council" which execute upon Treasure's vision.
 
-For more information on the Treasure Council and broader team, see[meet-the-team.md](meet-the-team.md "mention").
+For more information on the Treasure Council and broader team, see[meet-the-team.md](about-treasure-dao/meet-the-team.md "mention").
 
-Decisions are formed by community members on the Discord and made by token holders through [snapshot-voting.md](governance/snapshot-voting.md "mention").&#x20;
+Decisions are formed by community members on the Discord and made by token holders through [snapshot-voting.md](about-treasure-dao/governance/snapshot-voting.md "mention").&#x20;

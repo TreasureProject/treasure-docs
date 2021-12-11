@@ -22,7 +22,7 @@ In some of the integrated projects, you can also stake the following:
 
 ## How can I stake?
 
-* [staking-your-usdmagic.md](staking-your-usdmagic.md "mention")
+* [staking-your-usdmagic.md](../../using-the-website/treasure-mine-staking/staking-your-usdmagic.md "mention")
 * [staking-your-treasure.md](staking-your-treasure.md "mention")
 * [staking-your-slp-tokens.md](staking-your-slp-tokens.md "mention")
 
