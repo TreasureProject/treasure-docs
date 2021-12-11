@@ -2,6 +2,13 @@
 description: Bridging the worlds with magical mycelium.
 ---
 
-# 🍄 Olympus Odysey
+# 🍄 Mushrohms
+
+## Overview
 
 More details coming soon.
+
+## Links
+
+* [Discord](https://t.co/WWoLGeQAws)
+* [OpenSea](https://t.co/zLJZDb6mgJ)

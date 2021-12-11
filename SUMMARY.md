@@ -53,7 +53,8 @@
   * [Potential Plans](partnership-integrations/smol-brains/potential-plans.md)
 * [💪 Smol Bodies](integrated-projects/getting-bodied.md)
   * [FAQ](partnership-integrations/smol-bodies/faq.md)
-* [🍄 Olympus Odysey](integrated-projects/olympus-odysey.md)
+* [👹 Ether Orcs](partnership-integrations/ether-orcs.md)
+* [🍄 Mushrohms](integrated-projects/olympus-odysey.md)
 * [🔺 Imperium](integrated-projects/imperium.md)
 * [😮 Enjoyoooor](integrated-projects/enjoyoooor.md)
 
