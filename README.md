@@ -51,5 +51,5 @@ For more information on the Treasure Council and broader team, see[meet-the-team
 Decisions are formed by the DAO and voted by $MAGIC holders through [snapshot-voting.md](governance/snapshot-voting.md "mention").&#x20;
 
 {% hint style="info" %}
-**Decentralization** will serve two purposes. First, it creates the conditions by which a true metaverse can develop and be free of proprietary distortion.
+**Decentralization** creates the conditions by which a true metaverse can develop and be free of proprietary distortion.
 {% endhint %}

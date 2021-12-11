@@ -24,6 +24,10 @@ Navigate to any item available for sale and click the Purchase button. If you ha
 
 ![](<../../.gitbook/assets/image (6) (1).png>)
 
+{% hint style="info" %}
+**Note**: You will need **ETH** to conduct any transactions on the Marketplace&#x20;
+{% endhint %}
+
 ## Can I make an offer to items listed on the marketplace?
 
 Currently, you cannot make offers on items, and can only buy the NFTs listed on the marketplace.
@@ -36,7 +40,7 @@ To sell an item, first navigate to your [Inventory](https://marketplace.treasure
 
 You can see all recent transactions by clicking on [Activity](https://marketplace.treasure.lol/activity) in the top right of the main navigation.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](../../.gitbook/assets/Screenshot\_4.jpg)
 
 ## Where can I view all of my items and NFTs in my wallet?
 

@@ -28,10 +28,10 @@
 
 ### Governance and Marketplace
 
-* [ ] Launch of TreasureDAO and the first fair NFT ‘governance model’ - only veMAGIC holders and LP can vote where weight of veMAGIC adjusted based on lock (gMAGIC)
-* [ ] First all token standard NFT marketplace on Arbitrum
-* [ ] Smol Brain collection launched with 3m MAGIC volume in first 3 days
-* [ ] Several integrations in the works - LIFE, Getting Bodied, Crab People, ???, ???
+* [x] Launch of TreasureDAO and the first fair NFT ‘governance model’ - only veMAGIC holders and LP can vote where weight of veMAGIC adjusted based on lock (gMAGIC)
+* [x] First all token standard NFT marketplace on Arbitrum
+* [x] Smol Brain collection launched with 3m MAGIC volume in first 3 days
+* [x] Several integrations in the works - LIFE, Getting Bodied, Olympus Odyssey, Ether Orcs&#x20;
 
 ## 2022
 

@@ -13,7 +13,3 @@ In Bridgeworld, players are the soul and Legions are the bodies fallen from myri
 * **Stake/Mine:** Time-locked mechanism to mine $MAGIC. Progressively harder based on ‘Proof of Work'.
 * **LP:** Different aspects of liquidity provision are abstracted to the gameplay and large economic mechanics.
 * **Trade:** Marketplace where users can trade Treasure-curated collections on Arbitrum.
-
-**Materials to add: XXX**
-
-**Glossy Sheet for Battle, Questing Etc.**&#x20;

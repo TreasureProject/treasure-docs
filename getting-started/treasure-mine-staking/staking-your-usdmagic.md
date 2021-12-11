@@ -13,4 +13,8 @@ Note: This is not a return, it's a multiplier on the $MAGIC that you've deposite
 
 ## Can I mix and match the Genesis Mine MAGIC lockup?
 
-Yes. You can lock some up for one month and some for two weeks at the same time. You can also claim your rewards at any point and lock those as well.
+Yes. You can lock some up for one month and some for two weeks at the same time. You can also claim your rewards at any point and lock those as well.D
+
+## Does unlocked MAGIC still accrue rewards?&#x20;
+
+No. You will need to un-stake any unlocked MAGIC and re-stake it back into the mine.&#x20;

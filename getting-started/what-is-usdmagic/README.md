@@ -10,8 +10,6 @@ Players can earn $MAGIC through playing, mining, and participating in Bridgeworl
 **Note:** You can learn more about how MAGIC is integrated over at [Bridgeworld ](../../learn/bridgeworld/)
 {% endhint %}
 
-
-
 ## Proof of Work
 
 In the next phase of farming, users will have to stake Legion, treasures and MAGIC to earn new items (see [Bridgeworld](../../learn/bridgeworld/)). The cost of farming is the price of the initial assets (the mining equipment) and the time it takes to perform these actions. An example mine would include:
@@ -42,8 +40,7 @@ MAGIC emission mimics Bitcoin’s **halvening**, but this event occurs every yea
 
 The team deliberately opted for high inflation at the beginning to create long-term sustainability. Successful DeFi protocols have almost universally implemented high emissions to help bootstrap a community and liquidity.
 
-Moreover, the design of the MAGIC mine created uniquely high rewards for users who were willing to lock up their MAGIC for longer periods. These users played a key role in bootstrapping liquidity for the protocol and demonstrated great confidence in its future. This group proved themselves to be the best stewards of the protocol and therefore the best possible trustees of the DAO.\
-
+Moreover, the design of the MAGIC mine created uniquely high rewards for users who were willing to lock up their MAGIC for longer periods. These users played a key role in bootstrapping liquidity for the protocol and demonstrated great confidence in its future. This group proved themselves to be the best stewards of the protocol and therefore the best possible trustees of the DAO.
 
 ## **Deflationary Mechanisms**
 

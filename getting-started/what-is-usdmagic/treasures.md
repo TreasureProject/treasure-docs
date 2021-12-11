@@ -7,3 +7,7 @@ Treasures (NFTs) are a set of economic resources shared across the metaverse. As
 They are lore of other worlds, and they, themselves, are the bridges between these various worlds.
 
 Players will be able to use Treasures to craft consumables or burn them for special effects.
+
+## L1 and L2 Treasures
+
+ASDASDASDD
