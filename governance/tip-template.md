@@ -1,4 +1,4 @@
-# TIP Template
+# Proposal Template
 
 ## **Summary**
 

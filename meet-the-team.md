@@ -33,8 +33,8 @@ Also special thanks to: Abenger, DetailOriented, LUCIFER, [NFTbroo](https://twit
 * bjornsamuel
 * [@BowTiedFeline](https://twitter.com/BowTiedFeline)
 * Ivan\_DE
-* Yostari
+* [@Yostari](https://twitter.com/yostari)
 
 ### Builders
 
-* [@0xkarel](https://twitter.com/0xkarel): Treasure Tools
+* [@0xkarel](https://twitter.com/0xkarel) - Treasure Tools

@@ -1,4 +1,4 @@
-# FAQ
+# Smol Bodies FAQ
 
 ## **How do I get a Smol Body?**
 

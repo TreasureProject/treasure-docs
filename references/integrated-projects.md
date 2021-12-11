@@ -20,10 +20,6 @@ description: All contracts are on Arbitrum, unless otherwise stated.
 
 ## Partnership Integrations
 
-### Life
-
-* [Seeds of Life](https://arbiscan.io/address/0x3956C81A51FeAed98d7A678d53F44b9166c8ed66#code) (ERC-1155)
-
 ### Smolverse
 
 * [Smol Brains Mint](https://arbiscan.io/address/0xb986c968a8e64e29fb33c310a7b04ccb83bb7427#code)
@@ -32,6 +28,10 @@ description: All contracts are on Arbitrum, unless otherwise stated.
 * [Smol Cars Mint](https://arbiscan.io/address/0xd414aba77365a1cbc90d3ea8c0e33c1ab5346c9f#code)
 * [Smol Cars](https://arbiscan.io/address/0xb16966dad2b5a5282b99846b23dcdf8c47b6132c#code) (ERC-721)
 * [School/Staking](https://arbiscan.io/address/0x602e50ed10a90d324b35930ec0f8e5d3b28cd509#code)
+
+### Life
+
+* [Seeds of Life](https://arbiscan.io/address/0x3956C81A51FeAed98d7A678d53F44b9166c8ed66#code) (ERC-1155)
 
 ### Ether Orcs
 

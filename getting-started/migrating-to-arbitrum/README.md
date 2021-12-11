@@ -41,4 +41,4 @@ Be sure to bridge additional ETH to allow for you to pay for transactions on Arb
 
 Once you have Ether or a token on Arbitrum, you're ready to buy $MAGIC, the currency of the Treasure ecosystem.
 
-To learn how, visit: [buying-usdmagic](../buying-usdmagic/ "mention").
+To learn how, visit: [buying-usdmagic.md](../buying-usdmagic.md "mention").

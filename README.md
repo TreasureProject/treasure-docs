@@ -46,7 +46,7 @@ Treasure stays true to the Loot ethos, providing extrinsically composable and in
 
 Treasure is DAO-governed. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
 
-For more information on the Treasure Council and broader team, see[meet-the-team.md](get-involved/meet-the-team.md "mention").
+For more information on the Treasure Council and broader team, see[meet-the-team.md](meet-the-team.md "mention").
 
 Decisions are formed by the DAO and voted by $MAGIC holders through [snapshot-voting.md](governance/snapshot-voting.md "mention").&#x20;
 

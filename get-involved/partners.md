@@ -1,3 +1,3 @@
-# Gameplay 1.0
+# Partners
 
 _More information coming soon._

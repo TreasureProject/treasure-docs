@@ -6,7 +6,7 @@ description: Still in stealth.
 
 ## Overview
 
-More details coming soon.
+_More details coming soon._
 
 ![](<../../.gitbook/assets/image (10).png>)
 

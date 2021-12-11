@@ -18,13 +18,13 @@ Following the migration to Arbitrum, you can stake 3 things on Treasure:
 
 In some of the integrated projects, you can also stake the following:
 
-* [smolverse](../partnerships/partnership-intergrations/smolverse/ "mention")
+* [smol-brains](../partnerships/partnership-intergrations/smol-brains/ "mention")
 
 ## How can I stake?
 
-* [staking-your-usdmagic.md](../getting-started/what-is-usdmagic/staking-your-usdmagic.md "mention")
-* [staking-your-treasure.md](../getting-started/what-is-usdmagic/staking-your-treasure.md "mention")
-* [staking-your-slp-tokens.md](../getting-started/what-is-usdmagic/staking-your-slp-tokens.md "mention")
+* [staking-your-usdmagic.md](treasure-mine-staking/staking-your-usdmagic.md "mention")
+* [staking-your-treasure.md](treasure-mine-staking/staking-your-treasure.md "mention")
+* [staking-your-slp-tokens.md](treasure-mine-staking/staking-your-slp-tokens.md "mention")
 
 ## FAQ
 

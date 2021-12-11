@@ -6,7 +6,7 @@ description: Bridging the worlds with magical mycelium.
 
 ## Overview
 
-More details coming soon.
+_More details coming soon._
 
 ![](<../../.gitbook/assets/image (8).png>)
 

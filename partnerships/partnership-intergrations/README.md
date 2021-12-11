@@ -8,7 +8,7 @@ This further encapsulates the idea of extrinsically composable and intrinsically
 
 ### **Launched**
 
-* [smolverse](smolverse/ "mention")
+* [smol-brains](smol-brains/ "mention")
 
 ### **Coming soon**
 
