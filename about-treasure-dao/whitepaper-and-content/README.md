@@ -1,2 +1,0 @@
-# Whitepaper and Content
-

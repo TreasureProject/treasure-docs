@@ -1,6 +1,6 @@
 # Treasure Marketplace
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 ## Where can I find the marketplace?
 
@@ -22,7 +22,7 @@ For Treasures and Legions, the royalty fees are 5% if an item is sold. A minimum
 
 Navigate to any item available for sale and click the Purchase button. If you have insufficient $MAGIC in your wallet, you won't be able to buy the item and will need to purchase additional $MAGIC on SushiSwap. &#x20;
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ## Can I make an offer to items listed on the marketplace?
 
@@ -36,13 +36,13 @@ To sell an item, first navigate to your [Inventory](https://marketplace.treasure
 
 You can see all recent transactions by clicking on [Activity](https://marketplace.treasure.lol/activity) in the top right of the main navigation.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ## Where can I view all of my items and NFTs in my wallet?
 
 You can view all of your items and NFTs in your wallet by clicking on [Inventory](https://marketplace.treasure.lol/inventory) in the top right of the main navigation.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 ## I am missing my staked Treasures, where are they?
 

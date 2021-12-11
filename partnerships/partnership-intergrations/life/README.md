@@ -20,9 +20,12 @@ Life is a long experiential board game. It is meant to be an **emotional experie
 
 The owner of the NFT will be responsible for choosing the direction of the individual’s life. Transferring the NFT to another wallet would “reset” the individual back to a newborn, its life erased. At death, the owner will receive a commemorative NFT of the person that they shepherded through the world.
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/FGG9q2WUUAcZXWz (1).jpg>) ![](../../../.gitbook/assets/FFYxjuOXsA0\_BPr.jpg) ![](../../../.gitbook/assets/FF8zDcsVcAIRO5T.jpg)
+
+![](<../../../.gitbook/assets/image (5) (1) (1).png>)
 
 ## **Team**
 
 * [@jumpmanft](https://twitter.com/jumpmanft)
+* [@DukePaints](https://twitter.com/DukePaints)
 * [@mao](https://twitter.com/Mezereth)

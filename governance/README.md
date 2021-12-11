@@ -1,7 +1,7 @@
 # Governance
 
 * [**Forum**](https://treasuredao.freeflarum.com)**:** Where to go to discuss new proposals and review formalized TIPs
-* \*\*\*\*[**Snapshot**](https://snapshot.org/#/treasuredao.eth)**:** Where to go to vote on proposals for implementations by the DAO
+* [**Snapshot**](https://snapshot.org/#/treasuredao.eth)**:** Where to go to vote on proposals for implementations by the DAO
 
 ## **Process**
 

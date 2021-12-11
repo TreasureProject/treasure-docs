@@ -8,15 +8,14 @@ This further encapsulates the idea of extrinsically composable and intrinsically
 
 ### **Launched**
 
-* [smol-brains](smol-brains/ "mention")
-* [smol-bodies](smol-bodies/ "mention")
+* [smolverse](smolverse/ "mention")
 
 ### **Coming soon**
 
 * [life](life/ "mention")
 * [olympus-odysey.md](olympus-odysey.md "mention")
-* [imperium.md](imperium.md "mention")
-* [broken-reference](broken-reference/ "mention")
+* [ether-orcs.md](ether-orcs.md "mention")  **** &#x20;
+* ****[imperium.md](imperium.md "mention") &#x20;
 
 ## What about community projects?
 

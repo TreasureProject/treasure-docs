@@ -2,14 +2,14 @@
 
 ## **TIP-06: Update on TIP-03 and Additional Funding (**<mark style="color:green;">**Ratified**</mark>**)**
 
-* **Summary:** The TreasureDAO Council proposed raising additional funds from the Ecofund to compete effectively in a highly competitive and fast growing space. This raise will be led by 1kx, the lead strategic partner.
+* **Summary:** The DAO Council proposed raising additional funds from the Ecofund to compete effectively in a highly competitive and fast growing space. This raise will be led by 1kx, the lead strategic partner.
 * **Links:** [Detailed Proposal](https://treasuredao.freeflarum.com/d/10-tip-06-update-on-tip-03-and-additional-funding) | [Snapshot Vote](https://snapshot.org/#/treasuredao.eth/proposal/0x5a600dd9d684796c4c51a0d6f7d60846bac40ff2f11f0bea1e79f5082c1f7345)
 * **Date Ratified:** November 28, 2021
 * **Date Called:** November 24, 2021
 
 ## **TIP-05: Transition Towards Sustainable LP (**<mark style="color:green;">**Ratified**</mark>**)**
 
-* **Summary:** The TreasureDAO Council proposed a multi-phased approach to transition towards sustainable LP, including:
+* **Summary:** The DAO Council proposed a multi-phased approach to transition towards sustainable LP, including:
   * a progresssive reduction in LP rewards to sustainable emissions, reviewed on an ongoing basis;
   * creation of a MAGIC<>gOHM pair;
   * pursuing protocol owned liquidity; and
@@ -20,7 +20,7 @@
 
 ## **TIP-04: Minting NFTs for User Acquisition (**<mark style="color:green;">**Ratified**</mark>**)**
 
-* **Summary:** The TreasureDAO Council proposed seeking approval to inflate the supply of Legions and Treasures proportionately to be used in acquisition drives.
+* **Summary:** The DAO Council proposed seeking approval to inflate the supply of Legions and Treasures proportionately to be used in acquisition drives.
 * **Links:** [Detailed Proposal ](https://treasuredao.freeflarum.com/d/7-tip-04-minting-nfts-for-user-acquisition)| [Snapshot Vote](https://snapshot.org/#/treasuredao.eth/proposal/0x5c48a3abdbc3db3b1bbfa64544c140e7c0228e26436691e412471aaa35206ea1)
 * **Date Ratified:** November 14, 2021
 * **Date Called:** November 11, 2021
@@ -34,14 +34,14 @@
 
 ## **TIP-02: Launch v1.0 of the Treasure Marketplace (**<mark style="color:green;">**Ratified**</mark>**)**
 
-* **Summary:** The TreasureDAO Council proposed to launch Version 1.0 of the Treasure Marketplace, addressing a gap in the market to provide a marketplace that caters to a wide array of token standards, while positioning Treasure at the forefront of NFTs on Arbitrum.
+* **Summary:** The DAO Council proposed to launch Version 1.0 of the Treasure Marketplace, addressing a gap in the market to provide a marketplace that caters to a wide array of token standards, while positioning Treasure at the forefront of NFTs on Arbitrum.
 * **Links:** [Detailed Proposal](https://treasuredao.freeflarum.com/d/2-tip-01-approval-of-treasure-dao-tokenomics) | [Snapshot Vote](https://snapshot.org/#/treasuredao.eth/proposal/0x6064e3a41e2dbf557837ee605bd8935da75bb4dd4882cb7b846e988338820e85)
 * **Date Ratified:** November 10, 2021
 * **Date Called:** November 8, 2021
 
 ## **TIP-01: Approval of the Treasure DAO Tokenomic Framework (**<mark style="color:green;">**Ratified**</mark>**)**
 
-* **Summary:** The TreasureDAO Council proposed that the DAO formalise the Treasure Tokenomic Framework outlined in [this Medium article](https://medium.com/@TreasureNFT/magic-dao-full-decentralization-of-the-treasure-project-ea61544ade55).
+* **Summary:** The DAO Council proposed that the DAO formalise the Treasure Tokenomic Framework outlined in [this Medium article](https://medium.com/@TreasureNFT/magic-dao-full-decentralization-of-the-treasure-project-ea61544ade55).
 * **Links:** [Detailed Proposal](https://treasuredao.freeflarum.com/d/2-tip-01-approval-of-treasure-dao-tokenomics) | [Snapshot Vote](https://snapshot.org/#/treasuredao.eth/proposal/0x6064e3a41e2dbf557837ee605bd8935da75bb4dd4882cb7b846e988338820e85)
 * **Date Ratified:** November 9, 2021
 * **Date Called:** November 5, 2021

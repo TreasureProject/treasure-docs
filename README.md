@@ -4,9 +4,7 @@ description: The official documentation for Treasure, the Metaverse Bridgeworld.
 
 # Introduction
 
-
-
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/1500x500 (2).jpg>)
 
 ## What is Treasure?
 
@@ -38,14 +36,20 @@ Treasure aspires to act as the bridge between metaverses. To become the base lay
 >
 > **This is where our story begins.**
 
-## Who created Treasure?
+## Vision and Mission
 
-Treasure was originally created by John Patten and is being built by a distributed pseudo-anonymous team.
+Treasure stays true to the Loot ethos, providing extrinsically composable and intrinsically modular building blocks for the community to expand. This approach has nurtured a highly engaged, grassroots community. Over time, we hope that Treasure can create a highly accessible and engaging ecosystem that fosters a strong sense of belonging and allows users to have genuine fun playing and participating.
 
-## Who runs Treasure?
+![](.gitbook/assets/image.png)
 
-Treasure is DAO-governed. However, we believe some structure is still needed, and a group of dedicated DAO members and the original founders comprise the "Treasure Council" which executes upon Treasure's vision.
+## TreasureDAO
 
-For more information on the Treasure Council and broader team, see[meet-the-team.md](meet-the-team.md "mention").
+Treasure is DAO-governed. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
 
-Decisions are formed by community members on the Discord and made by token holders through [snapshot-voting.md](governance/snapshot-voting.md "mention").&#x20;
+For more information on the Treasure Council and broader team, see[meet-the-team.md](get-involved/meet-the-team.md "mention").
+
+Decisions are formed by the DAO and voted by $MAGIC holders through [snapshot-voting.md](governance/snapshot-voting.md "mention").&#x20;
+
+{% hint style="info" %}
+**Decentralization** will serve two purposes. First, it creates the conditions by which a true metaverse can develop and be free of proprietary distortion.
+{% endhint %}

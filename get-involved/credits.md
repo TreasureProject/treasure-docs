@@ -8,10 +8,10 @@ description: >-
 
 ## Contributors
 
-* [0xkarel](https://twitter.com/0xkarel)
+* [@0xkarel](https://twitter.com/0xkarel)
 * [@notrealend](https://twitter.com/notrealend)
 * [@Timoraegi](https://twitter.com/Timoraegi)
 * [@gaarping](https://twitter.com/\_gaarping)
 * [@jpatten\_\_](https://twitter.com/jpatten\_\_)
-* @fleet
-* @Veggiemang
+* [@VeggieMang](https://twitter.com/randomdude3847)
+* @Fleet

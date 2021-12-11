@@ -4,4 +4,4 @@ description: Still in stealth.
 
 # 🔺 Imperium
 
-More details coming soon.
+_More details coming soon._
