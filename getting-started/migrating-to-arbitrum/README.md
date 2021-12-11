@@ -1,5 +1,19 @@
 # Migrating to Arbitrum
 
+## Treasure on Arbitrum
+
+A quick summary on why we moved and the benefits of L2.
+
+Possibly linking some resources such as&#x20;
+
+big picture perspective on L2 [https://www.youtube.com/watch?v=9pJjtEeq-N4](https://www.youtube.com/watch?v=9pJjtEeq-N4)
+
+[https://l2fees.info/](https://l2fees.info) just for seeing the fees on each
+
+{% embed url="https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40" %}
+
+## Pre-reading&#x20;
+
 _This tutorial assumes you have already downloaded a Web3 wallet like_ [_MetaMask_](https://metamask.io) _and that you have Ether or a token in that wallet on the Ethereum Mainnet._
 
 {% embed url="https://arbitrum.io/bridge-tutorial" %}
