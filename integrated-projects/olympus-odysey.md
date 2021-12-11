@@ -8,6 +8,8 @@ description: Bridging the worlds with magical mycelium.
 
 More details coming soon.
 
+![](<../.gitbook/assets/image (8).png>)
+
 ## Links
 
 * [Discord](https://t.co/WWoLGeQAws)

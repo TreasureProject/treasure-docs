@@ -15,9 +15,9 @@
 * 709 Numeraires (8 different types)
 * 1564 Commons (12 different types)
 
-![](<../../../.gitbook/assets/image (5) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1).png>)
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (3).png>)
 
 ### Other Genesis Legions
 

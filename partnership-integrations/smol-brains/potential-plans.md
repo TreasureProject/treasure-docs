@@ -1,3 +1,3 @@
 # Potential Plans
 
-![](<../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
