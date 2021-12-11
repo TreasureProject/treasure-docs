@@ -24,8 +24,8 @@
   * [Using Arbiscan](getting-started/migrating-to-arbitrum/using-arbiscan.md)
   * [Bridging Back to Mainnet](getting-started/migrating-to-arbitrum/bridging-back-to-mainnet/README.md)
   * [Migrating Treasures to Arbitrum](getting-started/migrating-to-arbitrum/migrating-treasures-to-arbitrum.md)
-* [What is $MAGIC?](getting-started/what-is-usdmagic.md)
-* [Buying $MAGIC](getting-started/buying-usdmagic.md)
+* [What is $MAGIC?](getting-started/what-is-usdmagic/README.md)
+  * [Buying $MAGIC](getting-started/what-is-usdmagic/buying-usdmagic.md)
 * [Treasure Marketplace](getting-started/using-the-marketplace/README.md)
   * [Checking Rarities](getting-started/using-the-marketplace/checking-rarities.md)
   * [API](references/api.md)
@@ -38,7 +38,6 @@
 
 * [Infographic](learn/infographic.md)
 * [Bridgeworld](learn/bridgeworld/README.md)
-  * [Lore](learn/lore.md)
   * [Legions](learn/bridgeworld/legions.md)
   * [Treasures](getting-started/what-is-usdmagic/treasures.md)
 * [Gameplay 1.0](learn/gameplay-1.0.md)
