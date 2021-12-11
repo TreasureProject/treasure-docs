@@ -1,3 +1,3 @@
 # Infographic
 
-More information coming soon
+_More information coming soon._

@@ -22,7 +22,7 @@ For Treasures and Legions, the royalty fees are 5% if an item is sold. A minimum
 
 Navigate to any item available for sale and click the Purchase button. If you have insufficient $MAGIC in your wallet, you won't be able to buy the item and will need to purchase additional $MAGIC on SushiSwap. &#x20;
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 {% hint style="info" %}
 **Note**: You will need **ETH** to conduct any transactions on the Marketplace&#x20;
@@ -46,8 +46,10 @@ You can see all recent transactions by clicking on [Activity](https://marketplac
 
 You can view all of your items and NFTs in your wallet by clicking on [Inventory](https://marketplace.treasure.lol/inventory) in the top right of the main navigation.
 
-![](<../../.gitbook/assets/image (2) (2).png>)
-
 ## I am missing my staked Treasures, where are they?
 
 Once Treasures have been staked, they have been deposited into the staking contract and no longer available in your wallet, thus they won't be visible in your inventory.
+
+
+
+![](<../../.gitbook/assets/image (5) (1).png>)

@@ -22,17 +22,17 @@
 
 * [Migrating to Arbitrum](getting-started/migrating-to-arbitrum/README.md)
   * [Using Arbiscan](getting-started/migrating-to-arbitrum/using-arbiscan.md)
-  * [Bridging Back to Mainnet](getting-started/migrating-to-arbitrum/bridging-back-to-mainnet.md)
+  * [Bridging Back to Mainnet](getting-started/migrating-to-arbitrum/bridging-back-to-mainnet/README.md)
   * [Migrating Treasures to Arbitrum](getting-started/migrating-to-arbitrum/migrating-treasures-to-arbitrum.md)
-* [What is $MAGIC?](getting-started/what-is-usdmagic/README.md)
-  * [Buying $MAGIC](getting-started/what-is-usdmagic/buying-usdmagic.md)
-  * [Staking Your $MAGIC](getting-started/treasure-mine-staking/staking-your-usdmagic.md)
-  * [Staking Your Treasure](getting-started/treasure-mine-staking/staking-your-treasure.md)
-  * [Staking Your SLP Tokens](getting-started/treasure-mine-staking/staking-your-slp-tokens.md)
+* [What is $MAGIC?](getting-started/what-is-usdmagic.md)
+* [Buying $MAGIC](getting-started/buying-usdmagic.md)
 * [Treasure Marketplace](getting-started/using-the-marketplace/README.md)
   * [Checking Rarities](getting-started/using-the-marketplace/checking-rarities.md)
   * [API](references/api.md)
-* [Treasure Mine (Staking)](getting-started/treasure-mine-staking.md)
+* [Treasure Mine (Staking)](getting-started/treasure-mine-staking/README.md)
+  * [Staking Your $MAGIC](getting-started/treasure-mine-staking/staking-your-usdmagic.md)
+  * [Staking Your Treasure](getting-started/treasure-mine-staking/staking-your-treasure.md)
+  * [Staking Your SLP Tokens](getting-started/treasure-mine-staking/staking-your-slp-tokens.md)
 
 ## Learn
 
@@ -42,10 +42,7 @@
   * [Legions](learn/bridgeworld/legions.md)
   * [Treasures](getting-started/what-is-usdmagic/treasures.md)
 * [Gameplay 1.0](learn/gameplay-1.0.md)
-* [Lore](learn/lore/README.md)
-  * [Contemporary History](learn/lore/contemporary-history.md)
-  * [Report of Investigation](learn/lore/report-of-investigation.md)
-  * [Origin Stories](learn/lore/origin-stories.md)
+* [Lore](<learn/lore (1).md>)
 
 ## Partnerships
 

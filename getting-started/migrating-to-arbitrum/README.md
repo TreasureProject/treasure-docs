@@ -33,12 +33,12 @@ On desktop, you can add the Arbitrum Network in two ways:
 Be sure to bridge additional ETH to allow for you to pay for transactions on Arbitrum. Like L1, this still costs ETH. However, it costs significantly less as most transactions are between 0.003 and 0.009.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (2) (1).png>)
-
 {% embed url="https://bridge.arbitrum.io" %}
+
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ## 3. Buy $MAGIC
 
 Once you have Ether or a token on Arbitrum, you're ready to buy $MAGIC, the currency of the Treasure ecosystem.
 
-To learn how, visit: [buying-usdmagic.md](../what-is-usdmagic/buying-usdmagic.md "mention").
+To learn how, visit: [buying-usdmagic.md](../buying-usdmagic.md "mention").
