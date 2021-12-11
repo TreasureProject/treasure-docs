@@ -5,7 +5,7 @@
 * [@jpatten\_\_](https://twitter.com/jpatten\_\_) (John) - Founder | Creative Advisor
 * [@yyyy](ttps://twitter.com/0xyyyy) (Yuta) - Founder | Solidity Dev | Game Lead
 * [@gaarping](https://twitter.com/\_gaarping) - Growth | Tokenomics
-* [@Timoraegi](https://twitter.com/Timoraegi) (Tei) - Art | Narrative | Game Design
+* [@Timoraegi](https://twitter.com/Timoraegi) (Tei) - Art Director | Narrative | Game Design
 * [@notrealend](https://twitter.com/notrealend) - Product Lead | Quests and Consumables
 * [@jumpmanft](https://twitter.com/jumpmanft) - Marketplace Curation | Life NFT
 * [@JustCheese](https://twitter.com/jc\_1917) - Front End Dev | UI
