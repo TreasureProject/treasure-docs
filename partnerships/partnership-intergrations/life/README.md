@@ -2,8 +2,6 @@
 
 ## Overview
 
-Life is a long experiential board game. It's meant to be an emotional experience. The NFTs breed like people, not hamsters. Their lifespans are finite but non-trivial, like our own. Life NFTs are not merely collectibles. They'll be the first NFT designed to simulate the experience of living as an on-chain experience.
-
 Life is a long experiential board game. It is meant to be an emotional experience. The NFTs breed like people, not hamsters. Their lifespans are finite but non-trivial, like our own. Life NFTs are not merely collectibles. They will be the first NFT designed to simulate living, as an on-chain experience.
 
 Life is the creation of NFT builder, [@jumpman](https://twitter.com/jumpmanft), and is the first project built on top of Treasure not created by then team.
