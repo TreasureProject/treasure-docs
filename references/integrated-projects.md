@@ -15,9 +15,9 @@ description: All contracts are on Arbitrum, unless otherwise stated.
 
 ## Liquidity Pairs
 
-* [MAGIC-ETH LP rewarder](https://arbiscan.io/address/0x73EB8b2b235F7957f830ea66ABE433D9EED9f0E3)&#x20;
+* [MAGIC-ETH LP Rewarder](https://arbiscan.io/address/0x73EB8b2b235F7957f830ea66ABE433D9EED9f0E3)&#x20;
 * [MAGIC-ETH LP pair](https://arbiscan.io/address/0xb7e50106a5bd3cf21af210a755f9c8740890a8c9)
-* MAGIC-gOHM LP rewarder - TBC
+* MAGIC-gOHM LP Rewarder - TBC
 * [MAGIC-gOHM pair](https://arbiscan.io/address/0xac75a1a0c4933e6537eafb6af3d402f82a459389)&#x20;
 
 ## Bridgeworld / Legions
@@ -46,7 +46,7 @@ description: All contracts are on Arbitrum, unless otherwise stated.
 
 **Ethereum Mainnet:**
 
-* [Ether Orcs](https://etherscan.io/address/0x3aBEDBA3052845CE3f57818032BFA747CDED3fca#code)
+* [Ether Orcs](https://etherscan.io/address/0x3aBEDBA3052845CE3f57818032BFA747CDED3fca#code) (ERC-721)
 * [ZUG Token](https://etherscan.io/token/0xfee5f54e1070e7ed31be341e0a5b1e847f6a84ab)
 * [Bone Shards](https://etherscan.io/address/0x6c716bDB4289283e0ad1926c47B54412Bd2C257B)
 
