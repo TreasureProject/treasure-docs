@@ -50,9 +50,9 @@ Smol Bodies is also an experiment in decentralization. Community members have be
 
 ## **Smolverse Team**&#x20;
 
-* John Pattern
-* Duke
-* pixel.mat
+* [@jpatten\_\_](https://twitter.com/jpatten\_\_) (John) - Founder | Creative Advisor
+* [@DukePaints](https://twitter.com/DukePaints) - Concept Artist | Imperium
+* [@pixel\_mat](https://twitter.com/pixel\_mat) - Art | Smol Brains
 * Professor\_X\_
 * Spice
 * Trippe

@@ -49,11 +49,11 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 * 1197 Common Legions
 
 {% hint style="info" %}
-**Note**: As per TIP-04, the TreasureDAO team will be minting 300 additional **Gen1 common legion** as part of our on-boarding new user program.&#x20;
+**Note**: As per TIP-04, the TreasureDAO team will be minting 300 additional **Gen1 Common Legions** as part of our onboarding new user program.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-**Important:** As the Treasure metaverse scales, Gen1 legions will be inflated via [Broken link](broken-reference "mention") mechanics. This is vital to ensure there exists a vibrant and participatory ecosystem that can accommodate the next wave of users.&#x20;
+**Important:** As the Treasure metaverse scales, Gen1 Legions will be inflated via summoning mechanics. This is vital to ensure there exists a vibrant and participatory ecosystem that can accommodate the next wave of users.&#x20;
 {% endhint %}
 
 ![](../../../.gitbook/assets/Screenshot\_1.jpg)
