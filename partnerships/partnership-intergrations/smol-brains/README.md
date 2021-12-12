@@ -33,12 +33,12 @@ Go to the [Smol Brains discord](https://discord.gg/gBYkwEk4fN) --> Bot-spam chan
 ![](../../../.gitbook/assets/439.gif) ![](../../../.gitbook/assets/2251.gif)
 
 {% hint style="danger" %}
-This bot was developed for fun by **Cure For Optimism#5061**, and is **unofficial**. Smol admins aren't associated with this bot and cannot assist you with any potential issues. Please ping cureForOptimism on the Smol Brains Discord with any feedback/questions.
+This unofficial bot was developed for fun by **cureForOptimism#5061**. Smol admins aren't associated with this bot and won't be able to assist you with any potential issues. Please ping **cureForOptimism** on the Smol Brains Discord with any feedback/questions.
 {% endhint %}
 
 ## Smol Bodies
 
-The Smol Bodies will inhabit a gym near you, stacking $plates to earn muscle and be not smol.
+The Smol Bodies will inhabit a gym near you, stacking $plates to earn muscle and to not be smol.
 
 Smol Bodies is also an experiment in decentralization. Community members have been selected to lead the project alongside Treasure’s development team, and community ideas, feedback and suggestions will drive development.
 
@@ -48,7 +48,7 @@ Smol Bodies is also an experiment in decentralization. Community members have be
 
 ![](<../../../.gitbook/assets/unknown (2).png>) ![](<../../../.gitbook/assets/unknown (6).png>) ![](../../../.gitbook/assets/Swol\_Brain.jpg) ![](../../../.gitbook/assets/Fire\_Man.jpg)
 
-## **Team**&#x20;
+## **Smolverse Team**&#x20;
 
 * John Pattern
 * Duke
