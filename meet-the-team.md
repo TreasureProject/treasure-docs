@@ -20,6 +20,8 @@
 
 ## Community
 
+TreasureDAO could not be the entity it is today without the love and support from the community. A special thank you is due to the following individuals for helping us grow and foster.&#x20;
+
 {% tabs %}
 {% tab title="Moderators" %}
 **Community and Discord management**

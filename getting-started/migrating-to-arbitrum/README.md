@@ -2,7 +2,7 @@
 
 ## Treasure on Arbitrum
 
-While Treasure originated on the Ethereum Mainnet ("L1"), it has since migrated and is now being built on Arbitrum
+Originally created on the Ethereum Mainnet ("L1"), Treasure has since migrated to Arbitrum.&#x20;
 
 [Arbitrum](https://arbitrum.io) is an Optimistic Rollup scaling solution and Layer 2 ("L2") protocol that allows participants to settle their transactions away from L1, leading to much lower transaction fees.
 
@@ -10,15 +10,19 @@ While many L2s exist, Arbitrum was selected for the following reasons:
 
 * **Significantly lower gas fees:** On Arbitrum, transactions fees and gas are a fraction of the costs on L1. This is illustrated on [L2Fees.info](https://l2fees.info) which contrasts the costs pertaining to transferring or swapping ETH and other tokens.
 * **Wide Adoption:** At the time of writing, Arbitrum's TVL was nearly US$2B.
-* <mark style="color:red;">**\[NTD: OTHER REASON]**</mark>
-* <mark style="color:red;">**\[NTD: OTHER REASON]**</mark>
+* **Partnerships**: Multiple DeFi prominent protocols are transitioning into Arbitrum. Having first mover advantage thus allows us to establish more mutually beneficial partnerships.
+* **Security**: Arbitrum has the right balance between speed and security.&#x20;
 
-**To learn more about L2, check out the following resources:**
+{% hint style="warning" %}
+**Note**: As multi-chain become more prevalent, it will matter less and less where Treasure's home base is (e.g., see LUNA, MIM, and OHM transitioning to cross-chain).&#x20;
+{% endhint %}
 
-* [ ] L2 Scaling Solution Video: [https://www.youtube.com/watch?v=9pJjtEeq-N4](https://www.youtube.com/watch?v=9pJjtEeq-N4)
-* [ ] Differences between L1 and L2 [Medium Article By Petro Wallace](https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40)
-* [ ] L2 Fees Checker: [https://l2fees.info/](https://l2fees.info)
-* [ ] The Arbitrum Ecosystem: [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)
+### **To learn more about L2, check out the following resources:**
+
+* [x] L2 Scaling Solution Video: [https://www.youtube.com/watch?v=9pJjtEeq-N4](https://www.youtube.com/watch?v=9pJjtEeq-N4)
+* [x] Differences between L1 and L2 [Medium Article By Petro Wallace](https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40)
+* [x] L2 Fees Checker: [https://l2fees.info/](https://l2fees.info)
+* [x] The Arbitrum Ecosystem: [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)
 
 ## Steps to Migrate to Arbitrum&#x20;
 

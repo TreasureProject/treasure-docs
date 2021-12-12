@@ -4,6 +4,8 @@ A rarity checker native to the Treasure Marketplace is currently being developed
 
 ## Bridgeworld / Legions
 
+Coming soon.
+
 In development.
 
 ## Smolverse

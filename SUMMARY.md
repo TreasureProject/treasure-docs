@@ -58,7 +58,7 @@
 
 ## References
 
-* [Articles and Apperances](references/articles-and-discussions.md)
+* [Articles and Apperances](about-treasure-dao/whitepaper-and-content/articles-and-discussions.md)
 * [Contracts](references/integrated-projects.md)
 * [Glossary](references/glossary.md)
 

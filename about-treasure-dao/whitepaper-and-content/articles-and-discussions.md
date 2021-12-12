@@ -4,7 +4,7 @@ description: >-
   discussions.
 ---
 
-# Articles and Discussions
+# Articles and Apperances
 
 **Official Medium Page:** [https://medium.com/@TreasureNFT](https://medium.com/@TreasureNFT)
 

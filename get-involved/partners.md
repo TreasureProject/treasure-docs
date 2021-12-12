@@ -1,3 +1,3 @@
 # Partners
 
-_More information coming soon._
+More information coming soon.

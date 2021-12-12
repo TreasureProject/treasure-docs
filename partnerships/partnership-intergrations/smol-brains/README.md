@@ -33,7 +33,7 @@ Go to the [Smol Brains discord](https://discord.gg/gBYkwEk4fN) --> Bot-spam chan
 ![](../../../.gitbook/assets/439.gif) ![](../../../.gitbook/assets/2251.gif)
 
 {% hint style="danger" %}
-This unofficial bot was developed for fun by **cureForOptimism#5061**. Smol admins aren't associated with this bot and won't be able to assist you with any potential issues. Please ping **cureForOptimism** on the Smol Brains Discord with any feedback/questions.
+This unofficial bot was developed for fun by **cureForOptimism#5061**. Smol admins are not associated with this bot and won't be able to assist you with any potential issues. Please ping **cureForOptimism** on the Smol Brains Discord with any feedback/questions.
 {% endhint %}
 
 ## Smol Bodies
@@ -46,7 +46,7 @@ Smol Bodies is also an experiment in decentralization. Community members have be
 **Smol Bodies Links:** [Website](https://www.smolverse.lol) | [Mint](https://smolverse.lol/station) | [Stake](https://www.smolverse.lol/smolbodies) | [Discord](https://discord.gg/XCKDQfRsXU)
 {% endhint %}
 
-![](<../../../.gitbook/assets/unknown (2).png>) ![](<../../../.gitbook/assets/unknown (6).png>) ![](../../../.gitbook/assets/Swol\_Brain.jpg) ![](../../../.gitbook/assets/Fire\_Man.jpg)
+![](<../../../.gitbook/assets/image (7).png>) ![](<../../../.gitbook/assets/unknown (6).png>)
 
 ## **Smolverse Team**&#x20;
 

@@ -12,4 +12,4 @@ Have an idea for a project (and/or NFT collection) that could interface with Tre
 
 Join the Discord and leave a note in `#partnership-prospects` or DM [**@jumpmanft**](https://twitter.com/jumpmanft).
 
-To learn more about how the Treasure Marketplace is curated, visit: **XXXXX**
+More information soon on how the Treasure Marketplace is curated.
