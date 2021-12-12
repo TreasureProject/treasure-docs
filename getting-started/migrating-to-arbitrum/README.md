@@ -8,15 +8,12 @@ While Treasure originated on the Ethereum Mainnet ("L1"), it has since migrated 
 
 While many L2s exist, Arbitrum was selected for the following reasons:
 
-**To learn more about L2, check out the following resources:**
-
 * **Significantly lower gas fees:** On Arbitrum, transactions fees and gas are a fraction of the costs on L1. This is illustrated on [L2Fees.info](https://l2fees.info) which contrasts the costs pertaining to transferring or swapping ETH and other tokens.
 * **Wide Adoption:** At the time of writing, Arbitrum's TVL was nearly US$2B.
-  * \[NTD: [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)]
 * <mark style="color:red;">**\[NTD: OTHER REASON]**</mark>
 * <mark style="color:red;">**\[NTD: OTHER REASON]**</mark>
 
-\[NTD: Other resources / links to include]
+**To learn more about L2, check out the following resources:**
 
 * [ ] L2 Scaling Solution Video: [https://www.youtube.com/watch?v=9pJjtEeq-N4](https://www.youtube.com/watch?v=9pJjtEeq-N4)
 * [ ] Differences between L1 and L2 [Medium Article By Petro Wallace](https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40)
