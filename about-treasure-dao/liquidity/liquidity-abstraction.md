@@ -40,7 +40,7 @@ Growth in liquidity could result in time shifts in the metaverse. New time perio
 
 You could even design a world where time has frozen, and the solution is for the game players to collectively grow liquidity to re-start time. (The MAGIC-Treasure design is rooted in a similar idea. Productivity of Treasures, and output from the mine, is kickstarted by MAGIC staking.)
 
-### Liquidity as measure of Spatial Reach
+### Liquidity as Measure of Spatial Reach
 
 Extending on the idea of LP tokens as keys to unlock adventures, liquidity could also be the key to unlocking new realms. As liquidity grows, the world expands outward. This design would create a very fun collective gaming experience and more importantly, begin to heal the extremely damaging mentality borne out of DeFi that LPing is a PVP sport.
 
@@ -91,7 +91,7 @@ After a few terraforming attempts, they discovered ways to power satellite civil
 Because of this, things move easily between worlds, but no world is over-crowded nor are specific worlds forced to live under universal rule. Moreover, the power-planet exists safely as a separate part of the universe, free from political turmoil on the colonized planets.
 
 {% hint style="info" %}
-It would be **trilling** to see games build their **own chains**. If NFTs function as better proxies for governance than most tokens, then in the case of game worlds, it is even more true.
+It would be **thrilling** to see games build their **own chains**. If NFTs function as better proxies for governance than most tokens, then in the case of game worlds, it is even more true.
 {% endhint %}
 
 {% embed url="https://medium.com/@TreasureNFT/founders-long-term-vision-for-treasure-project-c236bfee0039" %}
