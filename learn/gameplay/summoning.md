@@ -1,3 +1,3 @@
-# Infographic
+# Summoning
 
 More information coming soon.

@@ -1,10 +1,8 @@
 ---
-description: >-
-  Articles posted by Treasure on Medium, plus various interviews and
-  discussions.
+description: Articles posted by Treasure on Medium, plus various interviews
 ---
 
-# Articles and Apperances
+# Articles and AMAs
 
 **Official Medium Page:** [https://medium.com/@TreasureNFT](https://medium.com/@TreasureNFT)
 

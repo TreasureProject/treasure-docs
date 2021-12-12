@@ -1,14 +1,10 @@
-# Legions
-
-Legions (NFTs) are the physical entities of the Bridgeworld, borne through spontaneous cracks and expanding entropies of the Bridgeworld.
-
-Players take control of Legions and Mine, Farm, Craft, Quest, Battle, and more to propagate and build the Bridgeworld together.
-
-There are two generations of Legions: (1) Genesis (Gen0) and (2) Non-genesis (Gen1).
+# Legion Rarity
 
 ## **Genesis Legions in Existence**
 
-**The supply of Genesis Legion will never increase moving forward.**&#x20;
+{% hint style="warning" %}
+**Important:** The supply of Genesis Legion will **never** increase moving forward.&#x20;
+{% endhint %}
 
 * 5 1/1s Ultra Rares
 * 271 All Class Rare (38 different types)
@@ -18,12 +14,12 @@ There are two generations of Legions: (1) Genesis (Gen0) and (2) Non-genesis (Ge
 * 70 Fighter (7 different types)
 * 130 Ranges (13 different types)
 * 540 Rivermen (7 different types)
-* 709 Numeraires (8 different types)
+* 711 Numeraires (8 different types)
 * 1564 Commons (12 different types)
 
-![](<../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 ### Other Genesis Legions
 
@@ -31,7 +27,7 @@ There are two generations of Legions: (1) Genesis (Gen0) and (2) Non-genesis (Ge
 {% tab title="Numeraire " %}
 The Numeraire is a special type of Legion that was custom-made and given to all n holders who staked at least 10,000 $MAGIC in the initial migration to Arbitrum.
 
-Only 709 exist in the Treasure Bridgeworld Metaverse.
+Only 711 exist in the Treasure Bridgeworld Metaverse.
 {% endtab %}
 
 {% tab title="Riverman" %}
@@ -52,8 +48,16 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 * 21 Fighter
 * 1197 Common Legions
 
-![](../../.gitbook/assets/Screenshot\_1.jpg)
+{% hint style="info" %}
+**Note**: As per TIP-04, the TreasureDAO team will be minting 300 additional **Gen1 common legion** as part of our on-boarding new user program.&#x20;
+{% endhint %}
+
+{% hint style="warning" %}
+**Important:** As the Treasure metaverse scales, Gen1 legions will be inflated via [summoning.md](../../../learn/gameplay/summoning.md "mention") mechanics. This is vital to ensure there exists a vibrant and participatory ecosystem that can accommodate the next wave of users.&#x20;
+{% endhint %}
+
+![](../../../.gitbook/assets/Screenshot\_1.jpg)
 
 ## Potential Plans
 
-![](<../../.gitbook/assets/image (7).png>)![](../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (7).png>)![](../../../.gitbook/assets/image.png)

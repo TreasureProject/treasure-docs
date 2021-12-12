@@ -20,6 +20,10 @@ The legend of `crispyboi` - best understood by searching up the username in Disc
 
 Decentralized Autonomous Organization, is a governance mechanism for making decisions in a more trustless and collaborative way. Voting rights are often bound to a governance token. In Treasure, the governance token is Governance $MAGIC ("gMAGIC").
 
+## Extra Life
+
+Exclusive NFT gifted to our earliest and most loyal supporters.&#x20;
+
 ## gMAGIC
 
 Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. Learn more in [governance](../governance/ "mention").
@@ -30,7 +34,7 @@ Harold is everywhere.
 
 ## SoL or SOL
 
-Acronym for "Seed of Life", the NFT for the [life](../partnerships/partnership-intergrations/life/ "mention") partnership.
+Acronym for "Seed of Life", the NFT for the [life](../partnerships/partnership-integrations/life/ "mention") partnership.
 
 ## veMAGIC
 

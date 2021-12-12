@@ -19,10 +19,10 @@ While many L2s exist, Arbitrum was selected for the following reasons:
 
 ### **To learn more about L2, check out the following resources:**
 
-* [x] L2 Scaling Solution Video: [https://www.youtube.com/watch?v=9pJjtEeq-N4](https://www.youtube.com/watch?v=9pJjtEeq-N4)
-* [x] Differences between L1 and L2 [Medium Article By Petro Wallace](https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40)
-* [x] L2 Fees Checker: [https://l2fees.info/](https://l2fees.info)
-* [x] The Arbitrum Ecosystem: [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)
+* L2 Scaling Solution Video: [https://www.youtube.com/watch?v=9pJjtEeq-N4](https://www.youtube.com/watch?v=9pJjtEeq-N4)
+* Differences between L1 and L2 [Medium Article By Petro Wallace](https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40)
+* L2 Fees Checker: [https://l2fees.info/](https://l2fees.info)
+* The Arbitrum Ecosystem: [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)
 
 ## Steps to Migrate to Arbitrum&#x20;
 

@@ -2,12 +2,6 @@
 
 A rarity checker native to the Treasure Marketplace is currently being developed.
 
-## Bridgeworld / Legions
-
-Coming soon.
-
-In development.
-
 ## Smolverse
 
 The unofficial rankings and rarity for Smol Brains and Smol Cars can be checked using the `#bot-spam` channel in the [Smol Brains Discord](https://discord.gg/smolbrains).

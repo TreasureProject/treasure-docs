@@ -1,3 +1,3 @@
-# Infographic
+# Pilgrimage
 
 More information coming soon.

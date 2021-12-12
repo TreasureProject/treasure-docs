@@ -10,7 +10,7 @@
 * [x] Novel approaches to incentivise LP and abstract away complexity (as an access key)
 * [x] Introduced and educated a new wave of users to DeFi
 
-## 2021 Q4 (Oct)
+## 2021 Q4 (Oct) **| Complete**&#x20;
 
 ### Migration to Arbitrum
 
@@ -24,14 +24,16 @@
 * [x] 78% of circulating supply committed to our Genesis mine for between 2 weeks and 3 months (TVL of \~$33m USD)
 * [x] Regular top 10 liquidity pair on Sushiswap with >$3m liquidity
 
-## 2021 Q4 (Nov/Dec)
+## 2021 Q4 (Nov/Dec) | Ongoing
 
 ### Governance and Marketplace
 
 * [x] Launch of TreasureDAO and the first fair NFT ‘governance model’ - only veMAGIC holders and LP can vote where weight of veMAGIC adjusted based on lock (gMAGIC)
 * [x] First all token standard NFT marketplace on Arbitrum
 * [x] Smol Brain collection launched with 3m MAGIC volume in first 3 days
-* [x] Several integrations in the works - LIFE, Getting Bodied, Olympus Odyssey, Ether Orcs&#x20;
+* [x] Several integrations in the works - LIFE, Getting Bodied, Olympus Odyssey, Ether Orcs
+* [x] MAGIC LP rewards on Sushiswap Onsen Program
+* [x] MAGIC-gOHM Incentives and Olympus Pro Bonds
 
 ## 2022
 

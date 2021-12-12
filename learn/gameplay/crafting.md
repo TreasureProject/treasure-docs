@@ -1,3 +1,3 @@
-# Infographic
+# Crafting
 
 More information coming soon.

@@ -99,5 +99,7 @@ _â€œPerhaps with a bit of a hint, these people will be be able to work it out,â€
 She folded the sheet of parchment and tossed it into a glowing orb, and watched as it morphed into a two-dimensional form, legible in a three-dimensional world.
 
 {% hint style="info" %}
-**Credits:** AllYourCat - Read more by clicking [Here](https://allyourcat.medium.com).&#x20;
+**Credits:** AllYourCat - Read more by clicking the Medium article below.&#x20;
 {% endhint %}
+
+{% embed url="https://allyourcat.medium.com" %}

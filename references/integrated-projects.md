@@ -9,7 +9,16 @@ description: All contracts are on Arbitrum, unless otherwise stated.
 * [$MAGIC](https://arbiscan.io/token/0x539bdE0d7Dbd336b79148AA742883198BBF60342)
 * [Treasures](https://arbiscan.io/address/0xEBba467eCB6b21239178033189CeAE27CA12EaDf#code) (ERC-1155)
 * [Marketplace](https://arbiscan.io/address/0x2e3b85f85628301a0bce300dee3a6b04195a15ee#code)
+* [DAO Marketplace Multisig](https://arbiscan.io/address/0xDb6Ab450178bAbCf0e467c1F3B436050d907E233)&#x20;
+* [DAO Ecofund / Treasury Multisig](https://arbiscan.io/address/0x482729215AAF99B3199E41125865821ed5A4978a)
 * [Mine](https://arbiscan.io/address/0xdf19f1216aa406df8bc585246bee7d96933f285f#code)
+
+## Liquidity Pairs
+
+* [MAGIC-ETH LP rewarder](https://arbiscan.io/address/0x73EB8b2b235F7957f830ea66ABE433D9EED9f0E3)&#x20;
+* [MAGIC-ETH LP pair](https://arbiscan.io/address/0xb7e50106a5bd3cf21af210a755f9c8740890a8c9)
+* MAGIC-gOHM LP rewarder - TBC
+* [MAGIC-gOHM pair](https://arbiscan.io/address/0xac75a1a0c4933e6537eafb6af3d402f82a459389)&#x20;
 
 ## Bridgeworld / Legions
 

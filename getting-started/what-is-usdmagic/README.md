@@ -7,12 +7,12 @@ MAGIC is designed to be increasingly scarce (emissions decline as the complexity
 Players can earn $MAGIC through playing, mining, and participating in Bridgeworld. The Treasure ecosystem, therefore, is governed by $MAGIC holders.
 
 {% hint style="info" %}
-**Note:** You can learn more about how MAGIC is integrated over at [Bridgeworld ](../../learn/bridgeworld/)
+**Note:** You can learn more about how MAGIC is integrated over at [Bridgeworld ](../../learn/gameplay/)
 {% endhint %}
 
 ## Proof of Work
 
-In the next phase of farming, users will have to stake Legion, treasures and MAGIC to earn new items (see [Bridgeworld](../../learn/bridgeworld/)). The cost of farming is the price of the initial assets (the mining equipment) and the time it takes to perform these actions. An example mine would include:
+In the next phase of farming, users will have to stake Legion, treasures and MAGIC to earn new items (see [Bridgeworld](../../learn/gameplay/)). The cost of farming is the price of the initial assets (the mining equipment) and the time it takes to perform these actions. An example mine would include:
 
 * Stake MAGIC and diamonds to create drilling tools (one-time use consumables)
 
@@ -41,11 +41,3 @@ MAGIC emission mimics Bitcoin’s **halvening**, but this event occurs every yea
 The team deliberately opted for high inflation at the beginning to create long-term sustainability. Successful DeFi protocols have almost universally implemented high emissions to help bootstrap a community and liquidity.
 
 Moreover, the design of the MAGIC mine created uniquely high rewards for users who were willing to lock up their MAGIC for longer periods. These users played a key role in bootstrapping liquidity for the protocol and demonstrated great confidence in its future. This group proved themselves to be the best stewards of the protocol and therefore the best possible trustees of the DAO.
-
-## **Deflationary Mechanisms**
-
-MAGIC is designed to be increasingly scarce (emissions declining as complexity of the economy increases). The mines also function as token sinks that encourage staking, with longer-term staking receiving the most unique rewards.
-
-MAGIC is deflationary by design. Certain mines will require users to burn MAGIC to extract the asset. Users will also be able to convert treasures into consumables. This alchemy process (often referred to as “crafting” in other games) will require a burn of both treasures and MAGIC.
-
-Growth of the native marketplace will also create more opportunities to reduce the circulating supply of MAGIC, through token sinks as well as a buy-and-burn model similar to BNB’s.

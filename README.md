@@ -38,9 +38,17 @@ Treasure aspires to act as the bridge between metaverses. To become the base lay
 
 ## Vision and Mission
 
-Treasure stays true to the Loot ethos, providing extrinsically composable and intrinsically modular building blocks for the community to expand. This approach has nurtured a highly engaged, grassroots community. Over time, we hope that Treasure can create a highly accessible and engaging ecosystem that fosters a strong sense of belonging and allows users to have genuine fun playing and participating.
+Treasure stays true to the Loot ethos, providing extrinsically composable and intrinsically modular building blocks for the community to expand. This approach has nurtured a strong and highly engaged, grassroots community. Over time, we hope that Treasure can create a highly accessible and engaging ecosystem that fosters a strong sense of belonging and allows users to have genuine fun playing and participating (see [how-to-get-involved.md](get-involved/how-to-get-involved.md "mention") to build with us!).
 
 ![](<.gitbook/assets/image (1).png>)
+
+## Community
+
+TreasureDAO have fought hard to maintain the fair launch nature of the project, to date eschewing outside funding and instead self-financing the project. We genuinely believe that Treasure will form the cradle for a cross-game, cross-chain metaverse. Having built this as a fair launch project will ensure long-term relevance for the project. The collaborators that we have attracted have been drawn to the project due to its genesis story, and we expect the organic growth of the ecosystem to continue to increase the longer that the project is able to sustain full decentralization.
+
+{% hint style="info" %}
+**Note**: All of TreasureDAO's launches have been free and fairly distributed.
+{% endhint %}
 
 ## TreasureDAO
 
@@ -51,5 +59,5 @@ For more information on the Treasure Council and broader team, see[meet-the-team
 Decisions are formed by the DAO and voted by $MAGIC holders through [snapshot-voting.md](governance/snapshot-voting.md "mention").&#x20;
 
 {% hint style="info" %}
-**Decentralization** creates the conditions by which a true metaverse can develop and be free of proprietary distortion.
+**Decentralization** solves a crucial scaling problem. There is no way the team (no matter the size) can scrape together a **collective imagination** sufficient to construct the entirety of this metaverse. Decentralization, therefore, **** creates the conditions by which a true metaverse can develop and be **free of proprietary distortion**.&#x20;
 {% endhint %}
