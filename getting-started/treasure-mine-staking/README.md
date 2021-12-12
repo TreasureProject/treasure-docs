@@ -26,6 +26,10 @@ In some of the integrated projects, you can also stake the following:
 * [staking-your-treasure.md](staking-your-treasure.md "mention")
 * [staking-your-slp-tokens.md](staking-your-slp-tokens.md "mention")
 
+## Potential Plans
+
+![](<../../.gitbook/assets/image (6).png>)
+
 ## FAQ
 
 ### Can I still stake Loot, n, or AGLD for $MAGIC?

@@ -6,7 +6,7 @@ Players take control of Legions and Mine, Farm, Craft, Quest, Battle, and more t
 
 There are two generations of Legions: (1) Genesis (Gen0) and (2) Non-genesis (Gen1).
 
-## **Genesis Legions in existence**
+## **Genesis Legions in Existence**
 
 **The supply of Genesis Legion will never increase moving forward.**&#x20;
 
@@ -43,7 +43,7 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 {% endtab %}
 {% endtabs %}
 
-## Non-genesis Legions in existence
+## Non-Genesis Legions in Existence
 
 * 9 Assassin
 * 11 Range
@@ -53,3 +53,7 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 * 1197 Common Legions
 
 ![](../../.gitbook/assets/Screenshot\_1.jpg)
+
+## Potential Plans
+
+![](<../../.gitbook/assets/image (7).png>)![](../../.gitbook/assets/image.png)

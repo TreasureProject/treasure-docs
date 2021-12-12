@@ -46,7 +46,7 @@ Smol Bodies is also an experiment in decentralization. Community members have be
 **Smol Bodies Links:** [Website](https://www.smolverse.lol) | [Mint](https://smolverse.lol/station) | [Stake](https://www.smolverse.lol/smolbodies) | [Discord](https://discord.gg/XCKDQfRsXU)
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (7).png>) ![](<../../../.gitbook/assets/unknown (6).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>) ![](<../../../.gitbook/assets/unknown (6).png>)
 
 ## **Smolverse Team**&#x20;
 

@@ -34,7 +34,7 @@ The number of Smol Brains you can have is infinite as of now. They will all fit 
 
 Each unique wallet can only consist of one piece of land.
 
-## I have te whitelist role but can't mint my Smol Brain. Why?
+## I have the whitelist role but can't mint my Smol Brain. Why?
 
 With the whitelist role, you were required to send us your address in the `📋┃smol-whitelist-address` channel. If you've done this and still cannot mint, please fill out the spreadsheet pinned in `💬┃og-general`.
 
@@ -48,7 +48,7 @@ Go to `#📁┃resources` and then go to the Smol Brain contract and find `safeT
 
 ## How can I get a higher resolution of my Smol Brain if I’ve already staked?
 
-1. Go to https://www.smolverse.lol/stake
+1. Go to [https://www.smolverse.lol/stake](https://www.smolverse.lol/stake)
 2. Right click > inspect element
 3. Ctrl + f > search "ipfs"
 4. Click on the link, which will give you a higher resolution pfp image
