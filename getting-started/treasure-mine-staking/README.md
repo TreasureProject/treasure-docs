@@ -28,7 +28,7 @@ In some of the integrated projects, you can also stake the following:
 
 ## Potential Plans
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ## FAQ
 

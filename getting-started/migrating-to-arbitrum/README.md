@@ -42,7 +42,7 @@ On desktop, you can add the Arbitrum Network in two ways:
     2. Once you're logged in, click "Add L2 Network" in the top right corner and click "Switch network" in the popup that appears
 
     ![](<../../.gitbook/assets/image (4) (1) (1).png>)\
-    ![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+    ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 2. Manually by following these steps:
    1. Click on the MetaMask extension
    2.  Click on “Ethereum Mainnet” network at the top -> click on “Add Network” at the bottom of the menu, and enter the following in the tab that appears:
@@ -61,7 +61,7 @@ Be sure to bridge additional ETH to allow for you to pay for transactions on Arb
 
 {% embed url="https://bridge.arbitrum.io" %}
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 ### 3. Buy $MAGIC
 
