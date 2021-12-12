@@ -8,10 +8,9 @@ description: Still in stealth.
 
 _More details coming soon._
 
-## Links
-
-* [Discord](http://discord.gg/toadstoolz)
-* [Twitter](https://twitter.com/toadstoolzNFT)
+{% hint style="success" %}
+**Toadstoolz Links**: [Discord](http://discord.gg/toadstoolz) | [Twitter](https://twitter.com/toadstoolzNFT)
+{% endhint %}
 
 ## Team
 
