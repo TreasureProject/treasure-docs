@@ -10,11 +10,11 @@ While many L2s exist, Arbitrum was selected for the following reasons:
 
 * **Significantly lower gas fees:** On Arbitrum, transactions fees and gas are a fraction of the costs on L1. This is illustrated on [L2Fees.info](https://l2fees.info) which contrasts the costs pertaining to transferring or swapping ETH and other tokens.
 * **Wide Adoption:** At the time of writing, Arbitrum's TVL was nearly US$2B.
-* **Partnerships**: Multiple DeFi prominent protocols are transitioning into Arbitrum. Having first mover advantage thus allows us to establish more mutually beneficial partnerships.
+* **Partnerships**: With multiple DeFi transitioning to Arbitrum, it is critical for TreasureDAO to capture this momentum to establish mutually beneficial partnerships.
 * **Security**: Arbitrum has the right balance between speed and security.&#x20;
 
 {% hint style="warning" %}
-**Note**: As multi-chain become more prevalent, it will matter less and less where Treasure's home base is (e.g., see LUNA, MIM, and OHM transitioning to cross-chain).&#x20;
+**Note**: As multi-chain become more prevalent, it will matter less and less where Treasure's home base is (e.g., LUNA, MIM, and OHM transitioning to cross-chain).&#x20;
 {% endhint %}
 
 ### **To learn more about L2, check out the following resources:**
