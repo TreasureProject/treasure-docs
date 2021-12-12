@@ -10,14 +10,7 @@
   * [TIP Log](about-treasure-dao/governance/tip-log.md)
 * [Liquidity](about-treasure-dao/liquidity/README.md)
   * [Liquidity Abstraction](about-treasure-dao/liquidity/liquidity-abstraction.md)
-* [Treasury Management](about-treasure-dao/treasury-management.md)
 * [Roadmap](roadmap.md)
-* [Official Links](about-treasure-dao/official-links/README.md)
-  * [Website](https://treasure.lol)
-  * [Marketplace](https://marketplace.treasure.lol)
-  * [Mine](https://mine.treasure.lol)
-  * [Discord](https://discord.gg/treasuredao)
-  * [Twitter](https://twitter.com/Treasure\_NFT)
 
 ## Getting Started
 
@@ -39,12 +32,7 @@
 ## Learn
 
 * [Infographic](learn/infographic.md)
-* [Gameplay](learn/gameplay/README.md)
-  * [Pilgrimage](learn/gameplay/pilgrimage.md)
-  * [Summoning](learn/gameplay/summoning.md)
-  * [Questing](learn/gameplay/questing.md)
-  * [Crafting](learn/gameplay/crafting.md)
-  * [Mining](learn/gameplay/mining.md)
+* [Gameplay](learn/gameplay.md)
 * [Lore](<learn/lore (1).md>)
 
 ## Partnerships
@@ -65,6 +53,12 @@
 
 ## References
 
+* [Official Links](references/official-links/README.md)
+  * [Website](https://treasure.lol)
+  * [Marketplace](https://marketplace.treasure.lol)
+  * [Mine](https://mine.treasure.lol)
+  * [Discord](https://discord.gg/treasuredao)
+  * [Twitter](https://twitter.com/Treasure\_NFT)
 * [Contracts](references/integrated-projects.md)
 * [Glossary](references/glossary.md)
 * [Articles and AMAs](about-treasure-dao/whitepaper-and-content/articles-and-discussions.md)

@@ -53,7 +53,7 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 {% endhint %}
 
 {% hint style="warning" %}
-**Important:** As the Treasure metaverse scales, Gen1 legions will be inflated via [summoning.md](../../../learn/gameplay/summoning.md "mention") mechanics. This is vital to ensure there exists a vibrant and participatory ecosystem that can accommodate the next wave of users.&#x20;
+**Important:** As the Treasure metaverse scales, Gen1 legions will be inflated via [Broken link](broken-reference "mention") mechanics. This is vital to ensure there exists a vibrant and participatory ecosystem that can accommodate the next wave of users.&#x20;
 {% endhint %}
 
 ![](../../../.gitbook/assets/Screenshot\_1.jpg)

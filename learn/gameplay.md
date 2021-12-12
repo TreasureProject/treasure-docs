@@ -39,30 +39,10 @@ Marketplace where users can trade Treasure-curated collections on Arbitrum.
 
 Different aspects of liquidity provision are abstracted to the game-play and economic mechanics.
 
-### Pilgrimage
-
-More information coming soon.
-
-### Summoning
-
-More information coming soon.
-
-### Questing
-
-More information coming soon.
-
-### Crafting
-
-More information coming soon.
-
 ### Mining
 
 Time-locked mechanism to mine $MAGIC. Progressively harder based on ‘Proof of Work'.
 
-## Learn More&#x20;
+### ??????
 
-* [pilgrimage.md](pilgrimage.md "mention")
-* [summoning.md](summoning.md "mention")
-* [questing.md](questing.md "mention")
-* [crafting.md](crafting.md "mention")
-* [mining.md](mining.md "mention")
+More information coming soon.

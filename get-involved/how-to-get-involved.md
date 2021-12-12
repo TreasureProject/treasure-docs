@@ -1,9 +1,5 @@
 # How to Get Involved
 
-## Building with Treasure
-
-Importance of cultivating a strong and engaged community
-
 ## Proposed Partnerships
 
 Have an idea for a project that could interface with Treasure and $MAGIC and be a part of the Bridgeworld Metaverse? Launching an NFT project that you would like to have listed on the Treasure Marketplace?

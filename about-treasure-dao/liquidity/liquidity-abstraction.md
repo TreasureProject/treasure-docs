@@ -6,10 +6,6 @@ description: >-
 
 # Liquidity Abstraction
 
-{% embed url="https://medium.com/@TreasureNFT/founders-long-term-vision-for-treasure-project-c236bfee0039" %}
-Full version of our LP Abstraction
-{% endembed %}
-
 ## Short-Term Objective: Gamifying Liquidity
 
 The hardest part of Proof of Imagination is achieving the critical mass necessary for an invented universe to possess gravity.
@@ -23,8 +19,10 @@ Instead of using MAGIC as the ecosystem’s core token, the project could transi
 Developing this concept would solve the impermanent loss problem. Impermanent loss can be reduced to the idea that financial yield does not compensate for the losses incurred by LPing (either real losses or opportunity costs). But the yield in game worlds we are talking about is qualitative — joy! The value of a great gaming experience goes beyond money. It unlocks joy through experiencing, collecting, collective brainstorming, collective experiencing, and so on… Outcomes that DeFi would never in a million years achieve without NFTs.
 
 {% hint style="info" %}
-**Framing liquidity as the game’s core objective** could take the form of **three metaphor**: liquidity as **weather**, liquidity as **time**, and liquidity as a **measure of spatial reach.**
+**Framing liquidity as the game’s core objective** could take the form of **** three metaphor: liquidity as **weather**, liquidity as **time**, and liquidity as a **measure of spatial reach.**
 {% endhint %}
+
+![](../../.gitbook/assets/1\_kfeJ4Gm3zEZnofi7XQv\_Nw.png)
 
 ### Liquidity as Weather
 
@@ -47,6 +45,8 @@ You could even design a world where time has frozen, and the solution is for the
 Extending on the idea of LP tokens as keys to unlock adventures, liquidity could also be the key to unlocking new realms. As liquidity grows, the world expands outward. This design would create a very fun collective gaming experience and more importantly, begin to heal the extremely damaging mentality borne out of DeFi that LPing is a PVP sport.
 
 We should think of providing liquidity as a means to improve the world and explore its limits. This attitude seems much healthier than what DeFi 1.0 manifested.
+
+![](../../.gitbook/assets/1\_JowRpRgS42Zx8G8tql2Ocw.png)
 
 ## Medium-Term: MAGIC as a Natural Resource
 
@@ -74,6 +74,8 @@ NFTs as governance tokens are probably also inevitable. Given that the basic con
 We think a council comprised of **NFT-community tribes**, each choosing how to represent themselves before the council, would be an extremely fun experiment for NFTs — and could easily become the new norm for **intra-DeFi governance**.
 {% endhint %}
 
+![](../../.gitbook/assets/Bombmaker.png)
+
 ## Long-term: Cross-Chain Treasures
 
 The move to Arbitrum is in no way short-term or medium-term. Hopefully Treasure becomes a staple of Arbitrum for the foreseeable future.
@@ -91,3 +93,7 @@ Because of this, things move easily between worlds, but no world is over-crowded
 {% hint style="info" %}
 It would be **trilling** to see games build their **own chains**. If NFTs function as better proxies for governance than most tokens, then in the case of game worlds, it is even more true.
 {% endhint %}
+
+{% embed url="https://medium.com/@TreasureNFT/founders-long-term-vision-for-treasure-project-c236bfee0039" %}
+Full Article
+{% endembed %}
