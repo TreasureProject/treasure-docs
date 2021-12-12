@@ -50,6 +50,3 @@ You can view all of your items and NFTs in your wallet by clicking on [Inventory
 
 Once Treasures have been staked, they have been deposited into the staking contract and no longer available in your wallet, thus they won't be visible in your inventory.
 
-
-
-![](<../../.gitbook/assets/image (5) (1).png>)

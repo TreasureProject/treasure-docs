@@ -8,7 +8,6 @@
   * [Proposal Template](governance/tip-template.md)
   * [Snapshot Voting](governance/snapshot-voting.md)
   * [TIP Log](about-treasure-dao/governance/tip-log.md)
-  * [Articles and Discussions](about-treasure-dao/whitepaper-and-content/articles-and-discussions.md)
 * [Roadmap](roadmap.md)
 * [Official Links](about-treasure-dao/official-links/README.md)
   * [Treasure](https://treasure.lol)
@@ -40,7 +39,6 @@
 * [Bridgeworld](learn/bridgeworld/README.md)
   * [Legions](learn/bridgeworld/legions.md)
   * [Treasures](getting-started/what-is-usdmagic/treasures.md)
-* [Gameplay 1.0](learn/gameplay-1.0.md)
 * [Lore](<learn/lore (1).md>)
 
 ## Partnerships
@@ -60,6 +58,7 @@
 
 ## References
 
+* [Articles and Apperances](references/articles-and-discussions.md)
 * [Contracts](references/integrated-projects.md)
 * [Glossary](references/glossary.md)
 

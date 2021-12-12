@@ -4,7 +4,7 @@ A rarity checker native to the Treasure Marketplace is currently being developed
 
 ## Bridgeworld / Legions
 
-![](<../../.gitbook/assets/image (4) (1) (2).png>)
+In development.
 
 ## Smolverse
 
