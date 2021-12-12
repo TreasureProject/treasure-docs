@@ -32,7 +32,7 @@
 ## Learn
 
 * [Infographic](learn/infographic.md)
-* [Gameplay](learn/gameplay.md)
+* [Gameplay](learn/gameplay/README.md)
 * [Lore](<learn/lore (1).md>)
 
 ## Partnerships
@@ -53,7 +53,7 @@
 
 ## References
 
-* [Official Links](references/official-links/README.md)
+* [Official Links](about-treasure-dao/official-links/README.md)
   * [Website](https://treasure.lol)
   * [Marketplace](https://marketplace.treasure.lol)
   * [Mine](https://mine.treasure.lol)
