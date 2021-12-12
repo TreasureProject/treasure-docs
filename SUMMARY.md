@@ -52,6 +52,7 @@
   * [🍄 Mushrohms](partnerships/partnership-intergrations/olympus-odysey.md)
   * [👹 Ether Orcs](partnerships/partnership-intergrations/ether-orcs.md)
   * [🔺 Imperium](partnerships/partnership-intergrations/imperium.md)
+  * [😯 Enjoyoooors](partnerships/partnership-intergrations/enjoyoooors.md)
 * [Community Projects](partnerships/community-projects/README.md)
   * [🐸 Toadstoolz](partnerships/community-projects/toadstoolz/README.md)
     * [FAQ](partnerships/community-projects/toadstoolz/faq.md)
