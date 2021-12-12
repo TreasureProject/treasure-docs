@@ -2,18 +2,28 @@
 
 ## Treasure on Arbitrum
 
-A quick summary on why we moved and the benefits of L2.
+While Treasure originated on the Ethereum Mainnet ("L1"), it has since migrated and is now being built on Arbitrum
 
-Possibly linking some resources such as To leaASDASD
+[Arbitrum](https://arbitrum.io) is an Optimistic Rollup scaling solution and Layer 2 ("L2") protocol that allows participants to settle their transactions away from L1, leading to much lower transaction fees.
+
+While many L2s exist, Arbitrum was selected for the following reasons:
 
 **To learn more about L2, check out the following resources:**
+
+* **Significantly lower gas fees:** On Arbitrum, transactions fees and gas are a fraction of the costs on L1. This is illustrated on [L2Fees.info](https://l2fees.info) which contrasts the costs pertaining to transferring or swapping ETH and other tokens.
+* **Wide Adoption:** At the time of writing, Arbitrum's TVL was nearly US$2B.
+  * \[NTD: [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)]
+* <mark style="color:red;">**\[NTD: OTHER REASON]**</mark>
+* <mark style="color:red;">**\[NTD: OTHER REASON]**</mark>
+
+\[NTD: Other resources / links to include]
 
 * [ ] L2 Scaling Solution Video: [https://www.youtube.com/watch?v=9pJjtEeq-N4](https://www.youtube.com/watch?v=9pJjtEeq-N4)
 * [ ] Differences between L1 and L2 [Medium Article By Petro Wallace](https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40)
 * [ ] L2 Fees Checker: [https://l2fees.info/](https://l2fees.info)
 * [ ] The Arbitrum Ecosystem: [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)
 
-## Pre-reading&#x20;
+## Steps to Migrate to Arbitrum&#x20;
 
 _This tutorial assumes you have already downloaded a Web3 wallet like_ [_MetaMask_](https://metamask.io) _and that you have Ether or a token in that wallet on the Ethereum Mainnet._
 
@@ -21,7 +31,7 @@ _This tutorial assumes you have already downloaded a Web3 wallet like_ [_MetaMas
 
 The steps below assume you are using MetaMask as your wallet.
 
-## 1. Add the Arbitrum Network
+### 1. Add the Arbitrum Network
 
 On desktop, you can add the Arbitrum Network in two ways:
 
@@ -42,7 +52,7 @@ On desktop, you can add the Arbitrum Network in two ways:
        **Currency Symbol:** ETH\
        **Block Explorer URL:** https://arbiscan.io
 
-## 2. Bridge Your ETH
+### 2. Bridge Your ETH
 
 {% hint style="info" %}
 Be sure to bridge additional ETH to allow for you to pay for transactions on Arbitrum. Like L1, this still costs ETH. However, it costs significantly less as most transactions are between 0.003 and 0.009.
@@ -52,7 +62,7 @@ Be sure to bridge additional ETH to allow for you to pay for transactions on Arb
 
 ![](<../../.gitbook/assets/image (2) (1).png>)
 
-## 3. Buy $MAGIC
+### 3. Buy $MAGIC
 
 Once you have Ether or a token on Arbitrum, you're ready to buy $MAGIC, the currency of the Treasure ecosystem.
 

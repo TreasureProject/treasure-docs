@@ -1,6 +1,6 @@
 # Meet the Team
 
-## Council
+## DAO Council
 
 * [@jpatten\_\_](https://twitter.com/jpatten\_\_) (John) - Founder | Creative Advisor
 * [@yyyy](ttps://twitter.com/0xyyyy) (Yuta) - Founder | Solidity Dev | Game Lead

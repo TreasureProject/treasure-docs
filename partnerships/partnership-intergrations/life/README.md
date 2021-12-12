@@ -6,6 +6,10 @@ Life is a long experiential board game. It is meant to be an emotional experienc
 
 Life is the creation of NFT builder, [@jumpman](https://twitter.com/jumpmanft), and is the first project built on top of Treasure not created by then team.
 
+{% hint style="success" %}
+**Life Links**: [Twitter](https://twitter.com/lifenft\_)
+{% endhint %}
+
 ![](<../../../.gitbook/assets/1500x500 (1).jpg>)
 
 ## How it works

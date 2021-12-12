@@ -10,6 +10,6 @@ Have a prospective partnership you would like to run by the Treasure Council? Jo
 
 Have an idea for a project (and/or NFT collection) that could interface with Treasure and $MAGIC that you would like to have listed on the Treasure Marketplace?
 
-Join the Discord and leave a note in `#partnership-prospects` or DM **jumpmanft**.
+Join the Discord and leave a note in `#partnership-prospects` or DM [**@jumpmanft**](https://twitter.com/jumpmanft).
 
 To learn more about how the Treasure Marketplace is curated, visit: **XXXXX**
