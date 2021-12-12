@@ -4,13 +4,14 @@
 
 A quick summary on why we moved and the benefits of L2.
 
-Possibly linking some resources such as&#x20;
+Possibly linking some resources such as To leaASDASD
 
-big picture perspective on L2 [https://www.youtube.com/watch?v=9pJjtEeq-N4](https://www.youtube.com/watch?v=9pJjtEeq-N4)
+**To learn more about L2, check out the following resources:**
 
-[https://l2fees.info/](https://l2fees.info) just for seeing the fees on each
-
-{% embed url="https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40" %}
+* [ ] L2 Scaling Solution Video: [https://www.youtube.com/watch?v=9pJjtEeq-N4](https://www.youtube.com/watch?v=9pJjtEeq-N4)
+* [ ] Differences between L1 and L2 [Medium Article By Petro Wallace](https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40)
+* [ ] L2 Fees Checker: [https://l2fees.info/](https://l2fees.info)
+* [ ] The Arbitrum Ecosystem: [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)
 
 ## Pre-reading&#x20;
 

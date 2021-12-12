@@ -14,8 +14,8 @@
 * [@Mao](https://twitter.com/Mezereth) - Art | Life NFT
 * [@pixel\_mat](https://twitter.com/pixel\_mat) - Art | Smol Brains
 * [@sisu](https://twitter.com/sisukasgod) Social Media | Marketing
-* JoshB
 * [@T1dev](https://twitter.com/pr0zy)
+* JoshB
 
 ## Community
 
@@ -27,6 +27,10 @@
 
 Also special thanks to: Abenger, DetailOriented, LUCIFER, [NFTbroo](https://twitter.com/cryptonftbroo)
 
+### Builders
+
+[@0xkarel](https://twitter.com/0xkarel) - Treasure Tools
+
 ### Trackers
 
 * [@Annon\_eth](https://twitter.com/Anonn\_eth)
@@ -34,7 +38,3 @@ Also special thanks to: Abenger, DetailOriented, LUCIFER, [NFTbroo](https://twit
 * [@BowTiedFeline](https://twitter.com/BowTiedFeline)
 * Ivan\_DE
 * [@Yostari](https://twitter.com/yostari)
-
-### Builders
-
-* [@0xkarel](https://twitter.com/0xkarel) - Treasure Tools
