@@ -4,6 +4,12 @@
 
 TIPs are proposals submitted by the community and the DAO Council proposing changes and improvements to different elements of Treasure. These proposals may touch on things like the use of funds, liquidity pool, tokenomics framework, development focus, and more.
 
+{% hint style="info" %}
+**Proposals**: [https://treasuredao.freeflarum.com/t/proposal](https://treasuredao.freeflarum.com/t/proposal)
+
+**Snapshot Vote**: [https://snapshot.org/#/treasuredao.eth](https://snapshot.org/#/treasuredao.eth)
+{% endhint %}
+
 ## Rules and Guidelines
 
 * Start a discussion on the DAO Discord or General Forum prior to posting a proposal.

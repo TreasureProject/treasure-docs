@@ -10,7 +10,7 @@ description: >-
 ## How Bridgeworld Works
 
 {% hint style="danger" %}
-<mark style="color:red;">**MAGIC**</mark> powers everything | <mark style="color:red;">**TREASURES**</mark> as resources | <mark style="color:red;">**LEGIONS**</mark> required to play
+<mark style="color:red;">**MAGIC**</mark> powers everything | <mark style="color:red;">**TREASURES**</mark> as resources | <mark style="color:red;">**LEGIONS**</mark> required to play |
 {% endhint %}
 
 ### Magic
@@ -27,7 +27,7 @@ Treasures (NFTs) are a set of economic resources shared across the metaverse. As
 
 ### Consumables
 
-Consumables play a critical role in Bridgeworld. They highlight the notion of composability cross-metaverse and are key inputs into game mechanics. In the first iteration,  players can use Legions and Treasures to create harvester parts and mining equipments (e.g., mining drills).&#x20;
+Consumables play a critical role in Bridgeworld. They highlight the notion of composability cross-metaverse and are key inputs into game mechanics. In the first iteration,  players can use Legions and Treasures to create harvester parts and mining equipment (e.g., mining drills).&#x20;
 
 ## Functions in Bridgeworld (subject to change):
 

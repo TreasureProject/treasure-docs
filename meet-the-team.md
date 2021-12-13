@@ -9,7 +9,7 @@
 * [@DukePaints](https://twitter.com/DukePaints) - Concept Artist | Imperium
 * [@Mao](https://twitter.com/Mezereth) - Art | Life NFT
 * [@pixel\_mat](https://twitter.com/pixel\_mat) - Art | Smol Brains
-* [@notrealend](https://twitter.com/notrealend) - Product Lead | Quests and Consumables
+* [@notrealend](https://twitter.com/notrealend) - Product Lead | Quests | Consumables
 * [@jumpmanft](https://twitter.com/jumpmanft) - Marketplace Curation | Life NFT
 * JoshB - Community Management
 * [@sisu](https://twitter.com/sisukasgod) Social Media | Marketing
@@ -20,7 +20,7 @@
 
 ## Community
 
-TreasureDAO could not be the entity it is today without the love and support from our community. A special thank you is due for the following individuals are helping us grow and foster.&#x20;
+TreasureDAO could not be the entity it is today without the love and support from its community. A special thank you is due for the following individuals for helping us grow and foster.&#x20;
 
 {% tabs %}
 {% tab title="Moderators" %}
@@ -39,6 +39,13 @@ TreasureDAO could not be the entity it is today without the love and support fro
 **Building community-operated tools for Treasure**&#x20;
 
 * ****[@0xkarel](https://twitter.com/0xkarel) - Treasure Tools
+{% endtab %}
+
+{% tab title="Lore" %}
+**Writers contributing to Bridgeworld's Lore**&#x20;
+
+* [AllYourCat](https://twitter.com/AllYourCat) (Carlotta)
+* TGH - Rickard
 {% endtab %}
 
 {% tab title="Trackers" %}

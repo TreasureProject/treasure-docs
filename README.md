@@ -44,7 +44,7 @@ Treasure stays true to the Loot ethos, providing extrinsically composable and in
 
 ## Community
 
-TreasureDAO have fought hard to maintain the fair launch nature of the project, to date eschewing outside funding and instead self-financing the project. We genuinely believe that Treasure will form the cradle for a cross-game, cross-chain metaverse. Having built this as a fair launch project will ensure long-term relevance for the project. The collaborators that we have attracted have been drawn to the project due to its genesis story, and we expect the organic growth of the ecosystem to continue to increase the longer that the project is able to sustain full decentralization.
+TreasureDAO have fought hard to maintain the fair launch nature of the project, eschewing outside funding and instead self-financing the project. The collaborators that we have attracted have been drawn to the project due to its genesis story. Of importance is our strategic arrangement with venture fund 1kx, an early-stage fund that helps founders launch and bootstrap token networks with a focus in DeFi, NFTs and social tokens. They are leading further treasury diversification to create a long-term aligned network of strategic partners to help Treasure rapidly scale and grow.&#x20;
 
 {% hint style="info" %}
 **Note**: All of TreasureDAO's launches have been free and fairly distributed.
@@ -52,7 +52,7 @@ TreasureDAO have fought hard to maintain the fair launch nature of the project, 
 
 ## TreasureDAO
 
-Treasure is DAO-governed. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
+Treasure is DAO-governed. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.&#x20;
 
 For more information on the Treasure Council and broader team, see[meet-the-team.md](meet-the-team.md "mention").
 
