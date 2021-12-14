@@ -44,8 +44,8 @@ TreasureDAO could not be the entity it is today without the love and support fro
 {% tab title="Lore" %}
 **Writers contributing to Bridgeworld's Lore**&#x20;
 
-* [AllYourCat](https://twitter.com/AllYourCat) (Carlotta)
-* TGH - Rickard
+* [AllYourCat](https://twitter.com/AllYourCat) (Carlotta / Andiamo)
+* [TGH Rickard](https://twitter.com/thegolden\_horde)
 {% endtab %}
 
 {% tab title="Trackers" %}
@@ -57,4 +57,45 @@ TreasureDAO could not be the entity it is today without the love and support fro
 * Ivan\_DE
 * [@Yostari](https://twitter.com/yostari)
 {% endtab %}
+
+{% tab title="Ancient Magicians" %}
+**Ancient Magicians who were there right from the start with all the support they could give to the project. They are how Treasure stayed standing during the perilous inception of the project**
+
+* Catwalker - Catwalker#1559
+* End - End#7777
+* exhuman || Axiology Wizard#0420
+* JoeR - JoeR#1626
+* Slaterade - Slaterade#6560
+* Squid - Squid#3047
+* t0nzbrah - t0nzbrah#8984
+* Treasure\_Abenger- Abenger#7884
+* Treasure\_Alex - fritten.eth#0586
+* Treasure\_Crayonz - fragmented / crayonz#4169
+* Treasure\_DetailOriented - DetailOriented#4324
+* Treasure\_Grinsweeper - Bryan#3153
+* Treasure\_JoshB - Treasure\_JoshB#0869
+* Treasure\_Jumpman - Jumpman#0001
+* Treasure\_Mariner - Mariner#9882
+* Treasure\_Mike\_Crypto - Mike\_Crypto (🪄,🧠)#0192
+* Treasure\_moonboi\_sumtem - sumtem#2808
+* Treasure\_Sammy - sammy#9162
+* Treasure\_sisu.rome - sisu#1337
+* Treasure\_sjcpapa - sjcpapa#0120
+* Treasure\_Trippe - trippytré#1257
+* Treasure\_UjikUjik - UjikUjik#8644
+* Treasure\_UpgradedCheese - Treasure\_UpgradedCheese#9895
+* Treasure\_Viggy - Viggy#9834
+* Treasure\_X\_ - X\_#9776
+* xinc.eth - xinc.eth#2349
+* Bittawm - Bittawm#7197
+{% endtab %}
+
+{% tab title="Creatures" %}
+#### Mythical creatures whom reside in the server
+
+* Harold - The legendary fudder who's character redemption arc was the most satisfying and admirable if not the most beautiful.
+* BonkBonk - A peculiar enigma whom have raised the bonking culture within the Treasure community.
+* Crispyboi - Another mythical fudder whom have now been immortalized.
+{% endtab %}
 {% endtabs %}
+
