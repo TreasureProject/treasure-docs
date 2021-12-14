@@ -42,20 +42,21 @@ TreasureDAO could not be the entity it is today without the love and support fro
 {% endtab %}
 
 {% tab title="Lore" %}
-**Writers contributing to Bridgeworld's Lore**&#x20;
+**Writers, travelling Bards contributing to Bridgeworld's Lore**
 
 * [AllYourCat](https://twitter.com/AllYourCat) (Carlotta / Andiamo)
 * [TGH Rickard](https://twitter.com/thegolden\_horde)
+* [NFDoggo](https://twitter.com/kc\_morrissey)
 {% endtab %}
 
 {% tab title="Trackers" %}
 **Analytical reports of the Treasure ecosystem**
 
-* [@Annon\_eth](https://twitter.com/Anonn\_eth)
+* @Annon\_eth
 * bjornsamuel
-* [@BowTiedFeline](https://twitter.com/BowTiedFeline)
+* @BowTiedFeline
 * Ivan\_DE
-* [@Yostari](https://twitter.com/yostari)
+* @Yostari
 {% endtab %}
 
 {% tab title="Ancient Magicians" %}
