@@ -21,6 +21,7 @@
 * [What is $MAGIC?](getting-started/what-is-usdmagic/README.md)
   * [Buying $MAGIC](getting-started/what-is-usdmagic/buying-usdmagic.md)
 * [Treasure Marketplace](getting-started/using-the-marketplace/README.md)
+  * [Listing on the Marketplace](getting-started/using-the-marketplace/listing-on-the-marketplace.md)
   * [Checking Rarities](getting-started/using-the-marketplace/checking-rarities/README.md)
     * [Legion Rarity](getting-started/using-the-marketplace/checking-rarities/legion-rarity.md)
   * [API](references/api.md)

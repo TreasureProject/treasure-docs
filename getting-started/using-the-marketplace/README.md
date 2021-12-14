@@ -34,7 +34,7 @@ Currently, you cannot make offers on items, and can only buy the NFTs listed on 
 
 ## How do I sell items on the marketplace?
 
-To sell an item, first navigate to your [Inventory](https://marketplace.treasure.lol/inventory). The very first time you attempt to sell an item, you'll first need to "Approve Collection to List". You'll need to do this everytime you try to sell an item for the first time for every new collection.
+Please see [listing-on-the-marketplace.md](listing-on-the-marketplace.md "mention") for a short tutorial.
 
 ## Where can I see recent transactions?
 
