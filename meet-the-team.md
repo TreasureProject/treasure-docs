@@ -58,8 +58,8 @@ TreasureDAO could not be the entity it is today without the love and support fro
 * [@Yostari](https://twitter.com/yostari)
 {% endtab %}
 
-{% tab title="Ancient Magicians" %}
-**Ancient Magicians who were there right from the start with all the support they could give to the project. They are how Treasure stayed standing during the perilous inception of the project**
+{% tab title="Old Magicians" %}
+**Old Magicians who were there right from the start with all the support they could give to the project. They are how Treasure stayed standing during the perilous inception of the project**
 
 * Catwalker - Catwalker#1559
 * End - End#7777
