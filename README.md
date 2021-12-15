@@ -40,7 +40,7 @@ Treasure aspires to act as the bridge between metaverses. To become the base lay
 
 Treasure stays true to the Loot ethos, providing extrinsically composable and intrinsically modular building blocks for the community to expand. This approach has nurtured a strong and highly engaged, grassroots community. Over time, we hope that Treasure can create a highly accessible and engaging ecosystem that fosters a strong sense of belonging and allows users to have genuine fun playing and participating (see [how-to-get-involved.md](get-involved/how-to-get-involved.md "mention") to build with us!).
 
-![](<.gitbook/assets/8udn2uch28hdjs .png>)
+![Click to view the "The Composable Metaverse", the TreasureDAO Community WGMI Trailer.](<.gitbook/assets/8udn2uch28hdjs .png>)
 
 ## Community
 
