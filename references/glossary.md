@@ -36,6 +36,10 @@ Harold is everywhere.
 
 Acronym for "Seed of Life", the NFT for the [life](../partnerships/partnership-integrations/life/ "mention") partnership.
 
+## Bonk
+
+Bonk.
+
 ## veMAGIC
 
 Vested $MAGIC (or "veMAGIC") is $MAGIC that is staked in the mines and time-locked, thereby converting their $MAGIC into veMAGIC. veMAGIC cannot be traded or transferred until the user’s selected time period has expired.
