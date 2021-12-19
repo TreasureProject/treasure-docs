@@ -15,7 +15,6 @@
 * [@sisu](https://twitter.com/sisukasgod) Social Media | Marketing
 * [@JustCheese](https://twitter.com/jc\_1917) - Front End Developer | UI
 * [@wyze](https://twitter.com/wyze) (Neil) - Front End Developer | UI
-* ItsNickBarry - Solidity Developer
 * [@T1dev](https://twitter.com/pr0zy) - Solidity Developer
 
 ## Community
@@ -57,6 +56,7 @@ TreasureDAO could not be the entity it is today without the love and support fro
 * @BowTiedFeline
 * Ivan\_DE
 * @Yostari
+* Feline
 {% endtab %}
 
 {% tab title="Ancient Magicians" %}
