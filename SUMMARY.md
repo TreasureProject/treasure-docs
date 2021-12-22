@@ -62,12 +62,12 @@
   * [Twitter](https://twitter.com/Treasure\_NFT)
 * [Contracts](references/contracts.md)
 * [Glossary](references/glossary.md)
-* [Articles and AMAs](about-treasure-dao/whitepaper-and-content/articles-and-discussions.md)
+* [Articles and AMAs](references/articles.md)
 
 ## Get Involved
 
 * [Meet the Team](meet-the-team.md)
-* [Partners](get-involved/partners.md)
-* [How to Get Involved](get-involved/how-to-get-involved.md)
-* [Contributing to Treasure Docs](get-involved/contributing-to-treasure-docs.md)
+* [Strategic Partners](get-involved/strategic-partners.md)
+* [How to Get Involved](get-involved/involvement.md)
+* [Contributing to Treasure Docs](get-involved/contributors.md)
 * [Credits](get-involved/credits.md)
