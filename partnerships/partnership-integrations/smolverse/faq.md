@@ -30,3 +30,7 @@ Smol bodies are tradeable on the Treasure marketplace. Go to [https://marketplac
 ## **How do I stake my smol bodies?**
 
 You can stake your smol bodies at the smolverse.lol site to !pump up your smol to their full swoltential.
+
+## Where do I find rarity information?
+
+There is an unofficial list here: https://docs.google.com/spreadsheets/d/1xyH3pYPtfMHoHrGlE\_fJdqT-MssnQgnTz9En7hp8z0Y/edit#gid=416300967&#x20;

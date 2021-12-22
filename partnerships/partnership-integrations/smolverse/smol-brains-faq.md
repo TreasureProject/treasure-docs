@@ -75,3 +75,7 @@ Land will have technical advances based on the highest Smol Brain's IQ. If you h
 * 100 IQ: Helicopter
 * 110 IQ: Bus Station
 * 120 IQ: ???
+
+## Where can I see the rarity of my Smolbrains?
+
+In the Smolbrain discord: [https://discord.com/channels/897404773622505482/897404773622505485/912702069742379009](https://discord.com/channels/897404773622505482/897404773622505485/912702069742379009)

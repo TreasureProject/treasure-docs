@@ -6,9 +6,13 @@ BUILDING A SMOLVERSE WITH FREE MINTS AND GOOD VIBES.&#x20;
 
 The long term vision (dream) of Smolverse is create a metaverse (either pixelated or 3D) where smolfrens can walk around, drive, shop, hang out.&#x20;
 
+{% embed url="https://medium.com/@SMOLBRAINS/smol-brains-a-beginners-guide-268e1b24aab8" %}
+
 ![](../../../.gitbook/assets/FGSbrNuXMAUfGrZ.jpg)
 
+{% hint style="info" %}
 **Please Note**: Smolverse currently encompasses Smol Brains and Smol Bodies.
+{% endhint %}
 
 ## Smol Brains
 
