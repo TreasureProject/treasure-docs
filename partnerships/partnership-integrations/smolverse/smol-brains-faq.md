@@ -78,4 +78,4 @@ Land will have technical advances based on the highest Smol Brain's IQ. If you h
 
 ## Where can I see the rarity of my Smolbrains?
 
-In the Smolbrain discord: [https://discord.com/channels/897404773622505482/897404773622505485/912702069742379009](https://discord.com/channels/897404773622505482/897404773622505485/912702069742379009)
+Check FAQ/Start Here section in the Treasure discord ([https://discord.gg/treasuredao](https://discord.gg/treasuredao))
