@@ -8,9 +8,11 @@ You will have until the end of time to mint your Smol Brains if you have the abi
 
 ## What can I do with Smol Brains?
 
-You can stake your Smol Brains to earn 10 IQ points per day.
+You can stake your Smol Brains to earn 10 IQ points per day. To stake your Smol Brain, you'll need Smol Brains Land which you can purchase on the secondary market at [treasure.lol](https://marketplace.treasure.lol/collection/0xd666d1cc3102cd03e07794a61e5f4333b4239f53)
 
-The smart contract collects on a continuous basis the average IQ of all Smol Brains that are staked. For every 10 point increase in the average Smol Brain IQ, Smol Brains of at least that IQ level can unlock a special technological advance.
+The smart contract collects the average IQ of all **staked** Smol Brains on a continuous basis. For every 10 point increase in the average Smol Brain IQ, a new technological development will appear on your Smol Brain Land as long as you have a Smol Brain staked with the equivalent or higher of the average IQ.
+
+For example, if the average Smol Brain IQ is 200 and your staked Smol Brain has an IQ of 205 you'll have all available technological developments on your land. You only need one Smol Brain above the average IQ to unlock the technological developments. 
 
 At 50 points, your Smol Brain's head expands one size large to a maximum of six possible sizes representing 300 IQ.
 
@@ -46,6 +48,8 @@ Go to the [Smol Brains Discord](https://discord.gg/gBYkwEk4fN) --> `#bot-spam` c
 
 Go to `#📁┃resources` and then go to the Smol Brain contract and find `safeTransferFrom` with 3 fields. (labeled as #9)
 
+You can also do this directly from the Treasure Marketplace by navigating to your own token details page by clicking on the name of the NFT, and you'll see a little transfer icon on the very right of the details page.
+
 ## How can I get a higher resolution of my Smol Brain if I’ve already staked?
 
 1. Go to [https://www.smolverse.lol/stake](https://www.smolverse.lol/stake)
@@ -74,7 +78,13 @@ Land will have technical advances based on the highest Smol Brain's IQ. If you h
 * 90 IQ: Roadways
 * 100 IQ: Helicopter
 * 110 IQ: Bus Station
-* 120 IQ: ???
+* 120 IQ: Streetlights
+* 130 IQ: Launchad
+* 140 IQ: Shuttle Construction
+* 150 IQ: Extended Shuttle Construction
+* 160 IQ: Smol Crack
+* 170 IQ: Crack
+* 180 IQ: Xmas
 
 ## Where can I see the rarity of my Smolbrains?
 
