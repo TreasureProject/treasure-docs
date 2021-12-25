@@ -8,13 +8,13 @@ You will have until the end of time to mint your Smol Brains if you have the abi
 
 ## What can I do with Smol Brains?
 
-You can stake your Smol Brains to earn 10 IQ points per day. To stake your Smol Brain, you'll need Smol Brains Land which you can purchase on the secondary market at [treasure.lol](https://marketplace.treasure.lol/collection/0xd666d1cc3102cd03e07794a61e5f4333b4239f53)
+You can stake your Smol Brains to earn 10 IQ points per day. To stake your Smol Brain, you'll need Smol Brains Land which you can purchase on the secondary market at the [Treasure Marketplace](https://marketplace.treasure.lol/collection/0xd666d1cc3102cd03e07794a61e5f4333b4239f53)
 
 The smart contract collects the average IQ of all **staked** Smol Brains on a continuous basis. For every 10 point increase in the average Smol Brain IQ, a new technological development will appear on your Smol Brain Land as long as you have a Smol Brain staked with the equivalent or higher of the average IQ.
 
-For example, if the average Smol Brain IQ is 200 and your staked Smol Brain has an IQ of 205 you'll have all available technological developments on your land. You only need one Smol Brain above the average IQ to unlock the technological developments. 
+For example, if the average Smol Brain IQ is 200 and your staked Smol Brain has an IQ of 205, you'll have all available technological developments on your land. You only need one Smol Brain above the average IQ on your land to unlock the technological developments. 
 
-At 50 points, your Smol Brain's head expands one size large to a maximum of six possible sizes representing 300 IQ.
+At 50 points, your Smol Brain's head expands one size larger to a maximum of six possible sizes (representing 300 IQ).
 
 Once your Smol Brain is at max capacity, new exciting things will start happening. This will include breeding which will initiate after the first three months, enabling you to:
 
@@ -46,9 +46,9 @@ Go to the [Smol Brains Discord](https://discord.gg/gBYkwEk4fN) --> `#bot-spam` c
 
 ## How do I transfer my Smol Brain to another wallet?
 
-Go to `#📁┃resources` and then go to the Smol Brain contract and find `safeTransferFrom` with 3 fields. (labeled as #9)
+You can transfer your Smol Brain to another wallet from the [Treasure Marketplace](https://marketplace.treasure.lol/) by navigating to your Smol Brain's details page and clicking the `Transfer` icon on the right of the details page.
 
-You can also do this directly from the Treasure Marketplace by navigating to your own token details page by clicking on the name of the NFT, and you'll see a little transfer icon on the very right of the details page.
+Alternatively, if you're comfortable interacting directly with the Smol Brains contract, you can to go to the [Smol Brains contract](https://arbiscan.io/address/0x6325439389e0797ab35752b4f43a14c004f22a9c#writeContract) and use the `safeTransferFrom` function (labeled as #9).
 
 ## How can I get a higher resolution of my Smol Brain if I’ve already staked?
 
