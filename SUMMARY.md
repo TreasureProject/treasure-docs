@@ -26,7 +26,7 @@
     * [Legion Rarity](getting-started/using-the-marketplace/checking-rarities/legion-rarity.md)
   * [API](references/api.md)
 * [Treasure Mine (Staking)](getting-started/treasure-mine-staking/README.md)
-  * [Staking Your $MAGIC](getting-started/treasure-mine-staking/staking-your-usdmagic.md)
+  * [Staking Your $MAGIC](getting-started/treasure-mine-staking/staking-your-magic.md)
   * [Staking Your Treasure](getting-started/treasure-mine-staking/staking-your-treasure.md)
   * [Staking Your SLP Tokens](getting-started/treasure-mine-staking/staking-your-slp-tokens.md)
 

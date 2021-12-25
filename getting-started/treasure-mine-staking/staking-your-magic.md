@@ -4,7 +4,7 @@
 
 You can stake your $MAGIC in the Genesis Mine until January 25th by following these instructions:
 
-1. Navigate to [mine.treasure.lol](https://https/mine.treasure.lol) and click the "Stake" button for the Genesis Mine.
+1. Navigate to [mine.treasure.lol](https://mine.treasure.lol) and click the "Stake" button for the Genesis Mine.
 2. Enter the amount to stake and select the staking duration.
 3. Click "Stake and lock for X" and review the transaction confirmation popup from MetaMask and hit "Confirm" to stake your $MAGIC in the Genesis Mine. &#x20;
 
