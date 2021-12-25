@@ -32,13 +32,13 @@ For more details, read [Smol Brains: A Beginner’s Guide](https://medium.com/@S
 
 ### Smolbot&#x20;
 
-Go to the [Smol Brains discord](https://discord.gg/gBYkwEk4fN) --> Bot-spam channel and check the pinned post for commands. As an example, you can animate your Smol using !pfp \[ID] reverse faster faster faster faster
-
-![](../../../.gitbook/assets/439.gif) ![](../../../.gitbook/assets/2251.gif)
-
 {% hint style="danger" %}
 This unofficial bot was developed for fun by **cureForOptimism#5061**. Smol admins are not associated with this bot and won't be able to assist you with any potential issues. Please ping **cureForOptimism** on the Smol Brains Discord with any feedback/questions.
 {% endhint %}
+
+Go to the [Smol Brains Discord](https://discord.gg/gBYkwEk4fN) --> `#bot-spam` channel and check the pinned post for a list of available commands or run `!smolhelp`. As an example, you can animate your Smol using `!pfp <token_id> reverse faster faster faster`.
+
+![](../../../.gitbook/assets/439.gif) ![](../../../.gitbook/assets/2251.gif)
 
 ## Smol Bodies
 
