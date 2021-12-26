@@ -10,7 +10,7 @@ To stake your MAGIC-ETH SLP, [please visit SushiSwap Farm here](https://app.sush
 
 ## MAGIC SLP bonds via Olympus Pro
 
-There are two MAGIC SLP bonds offered via Olympus Pro:&#x20;
+Two MAGIC SLP bonds are offered via Olympus Pro:&#x20;
 
 1\. MAGIC-ETH SLP Bonds --> 2.5m MAGIC over 6 months&#x20;
 
