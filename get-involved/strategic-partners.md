@@ -1,3 +1,3 @@
-# Partners
+# Strategic Partners
 
-More information coming soon.
+![](../.gitbook/assets/FHTHWY1XwAEyWLz.png)
