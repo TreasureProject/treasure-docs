@@ -3,7 +3,7 @@
 ## DAO Council
 
 * [@jpatten\_\_](https://twitter.com/jpatten\_\_) (John) - Founder | Creative Advisor
-* [@yyyy](ttps://twitter.com/0xyyyy) (Yuta) - Founder | Solidity Dev | Game Lead
+* [@yyyy](https://twitter.com/0xyyyy) (Yuta) - Founder | Solidity Dev | Game Lead
 * [@gaarping](https://twitter.com/\_gaarping) - Growth | Tokenomics | Partnerships
 * [@Timoraegi](https://twitter.com/Timoraegi) (Tei) - Art Director | Narrative | Game Design
 * [@DukePaints](https://twitter.com/DukePaints) - Concept Artist | Imperium
