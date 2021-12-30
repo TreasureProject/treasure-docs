@@ -4,8 +4,6 @@ description: The official documentation for Treasure, the Metaverse Bridgeworld.
 
 # Introduction
 
-![](<.gitbook/assets/1500x500 (2).jpg>)
-
 ## What is Treasure?
 
 Treasure is building composable economic resources to act as bridges between the growing network of metaverses. Cross-ecosystem ties are bolstered through our interrelated resource model:
