@@ -1,7 +1,7 @@
 ---
 description: >-
   The official documentation for Treasure, a decentralized NFT ecosystem on
-  Arbitrum that is built specifically for metaverse projects.
+  Arbitrum built for metaverse projects.
 ---
 
 # Introduction
