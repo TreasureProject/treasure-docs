@@ -1,11 +1,18 @@
 # TIP Log
 
-## **TIP-07:** MAGIC-gOHM Incentives and Olympus Pro Bonds (<mark style="color:purple;">Voting</mark>)
+## TIP-08 Liquidity Bootstrapping Program (<mark style="color:purple;">**Proposal**</mark>)
+
+* **Summary**: The DAO Council is proposing onboarding new projects into the ecosystem on a quarterly basis using a liquidity bootstrapping program. This program will divert 50% of MAGIC staking emissions into partnering metaverse(s) for two weeks.
+* **Links**: [Detailed Proposal](https://treasuredao.freeflarum.com/d/15-tip-07-magic-gohm-incentives-and-olympus-pro-bonds) | [Snapshot Vote](https://snapshot.org/#/treasuredao.eth/proposal/0x1006646fc6199a00239f97d7022b4e712857192373c9020adf6aaadc4852f858)
+* **Date Ratified**: Pending
+* **Date Called**: December 13, 2021
+
+## **TIP-07:** MAGIC-gOHM Incentives and Olympus Pro Bonds (<mark style="color:green;">**Ratified**</mark>)
 
 * **Summary**: The DAO Council proposed tapering of emissions, together with the introduction of Olympus Pro bonds to allow the DAO to build protocol-owned liquidity for sustainable liquidity management.
 * **Links**: [Detailed Proposal](https://treasuredao.freeflarum.com/d/15-tip-07-magic-gohm-incentives-and-olympus-pro-bonds) | [Snapshot Vote](https://snapshot.org/#/treasuredao.eth/proposal/0x1006646fc6199a00239f97d7022b4e712857192373c9020adf6aaadc4852f858)
-* **Date Ratified**: Current Voting
-* **Date Called**: December 13, 2021
+* **Date Ratified**: December 14, 2021
+* **Date Called**: December 12, 2021
 
 ## **TIP-06: Update on TIP-03 and Additional Funding (**<mark style="color:green;">**Ratified**</mark>**)**
 

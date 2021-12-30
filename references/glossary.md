@@ -10,7 +10,7 @@ Vested $MAGIC (or "veMAGIC") is $MAGIC that is staked in the mines and time-lock
 
 ## gMAGIC
 
-Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. Learn more in [governance](../governance/ "mention").
+Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. Learn more in [governance](../about-treasure/governance/ "mention").
 
 ## APR
 

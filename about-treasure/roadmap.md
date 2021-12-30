@@ -30,7 +30,7 @@
 
 * [x] Launch of TreasureDAO and the first fair NFT ‘governance model’ - only veMAGIC holders and LP can vote where weight of veMAGIC adjusted based on lock (gMAGIC)
 * [x] First all token standard NFT marketplace on Arbitrum
-* [x] Smol Brain collection launched with 3m MAGIC volume in first 3 days
+* [x] Smol Brain collection launched with 3M MAGIC volume in the first 3 days
 * [x] Several integrations in the works - Life, Smol Bodies, Olympus Odyssey, and Ether Orcs
 * [x] MAGIC LP rewards on Sushiswap Onsen Program
 * [x] MAGIC-gOHM Incentives and Olympus Pro Bonds

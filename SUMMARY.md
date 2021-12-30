@@ -1,16 +1,16 @@
 # Table of contents
 
-## About Treasure DAO
+## About Treasure
 
 * [Introduction](README.md)
-* [Governance](governance/README.md)
-  * [Improvement Proposals](governance/treasure-dao-improvement-proposals-tip.md)
-  * [Proposal Template](governance/tip-template.md)
-  * [Snapshot Voting](governance/snapshot-voting.md)
-  * [TIP Log](about-treasure-dao/governance/tip-log.md)
-* [Liquidity](about-treasure-dao/liquidity/README.md)
-  * [Liquidity Abstraction](about-treasure-dao/liquidity/liquidity-abstraction.md)
-* [Roadmap](roadmap.md)
+* [Governance](about-treasure/governance/README.md)
+  * [Improvement Proposals](about-treasure/governance/treasure-dao-improvement-proposals-tip.md)
+  * [Proposal Template](about-treasure/governance/tip-template.md)
+  * [Snapshot Voting](about-treasure/governance/snapshot-voting.md)
+  * [TIP Log](about-treasure/governance/tip-log.md)
+* [Liquidity](about-treasure/liquidity/README.md)
+  * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
+* [Roadmap](about-treasure/roadmap.md)
 
 ## Getting Started
 
