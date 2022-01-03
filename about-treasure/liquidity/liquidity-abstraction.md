@@ -6,6 +6,10 @@ description: >-
 
 # Liquidity Abstraction
 
+{% embed url="https://medium.com/@TreasureNFT/founders-long-term-vision-for-treasure-project-c236bfee0039" %}
+Summary of article can be found below.
+{% endembed %}
+
 ## Short-Term Objective: Gamifying Liquidity
 
 The hardest part of Proof of Imagination is achieving the critical mass necessary for an invented universe to possess gravity.
@@ -93,7 +97,3 @@ Because of this, things move easily between worlds, but no world is over-crowded
 {% hint style="info" %}
 It would be **thrilling** to see games build their **own chains**. If NFTs function as better proxies for governance than most tokens, then in the case of game worlds, it is even more true.
 {% endhint %}
-
-{% embed url="https://medium.com/@TreasureNFT/founders-long-term-vision-for-treasure-project-c236bfee0039" %}
-Full Article
-{% endembed %}
