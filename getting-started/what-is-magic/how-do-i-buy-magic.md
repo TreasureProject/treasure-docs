@@ -1,5 +1,7 @@
 # How do I buy $MAGIC?
 
+🎥 **For a video walkthrough,** [**please see this link**](https://twitter.com/rheger7/status/1478466956718182406?s=20)**.**
+
 First, make sure you're on Arbitrum (not L1 / Ethereum Mainnet) because this is where all of the magic happens (no pun intended) and where the Treasure ecosystem is currently being built out.
 
 {% hint style="info" %}
