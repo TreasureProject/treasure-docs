@@ -1,6 +1,6 @@
 # Treasure Marketplace
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 ## Where can I find the marketplace?
 

@@ -6,11 +6,11 @@ You can stake your $MAGIC in the Genesis Mine until January 25th by following th
 
 1. Navigate to [mine.treasure.lol](https://mine.treasure.lol) and click the "Stake" button for the Genesis Mine.
 2. Enter the amount to stake and select the staking duration.
-3. Click "Stake and lock for X" and review the transaction confirmation popup from MetaMask and hit "Confirm" to stake your $MAGIC in the Genesis Mine. &#x20;
+3. Click "Stake and lock for X" and review the transaction confirmation popup from MetaMask and hit "Confirm" to stake your $MAGIC in the Genesis Mine.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (8).png>)
 
@@ -25,6 +25,6 @@ Note: This is not a return, it's a multiplier on the $MAGIC that you've deposite
 
 Yes. You can lock some up for one month and some for two weeks at the same time. You can also claim your rewards at any point and lock those as well.
 
-## Does unlocked MAGIC still accrue rewards?&#x20;
+## Does unlocked MAGIC still accrue rewards?
 
-No. You will need to un-stake any unlocked MAGIC and re-stake it back into the mine.&#x20;
+No. You will need to un-stake any unlocked MAGIC and re-stake it back into the mine.

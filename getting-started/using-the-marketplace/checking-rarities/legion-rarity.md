@@ -17,9 +17,9 @@
 * 711 Numeraires (8 different types)
 * 1564 Commons (12 different types)
 
-![](<../../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1) (2).png>)
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 ### Other Genesis Legions
 
@@ -60,4 +60,4 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 
 ## Potential Plans
 
-![](<../../../.gitbook/assets/image (7).png>)![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (7).png>)![](<../../../.gitbook/assets/image (1).png>)
