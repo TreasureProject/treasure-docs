@@ -4,7 +4,7 @@
 
 For every Treasure staked you collect points (see table below).&#x20;
 
-The sum of all points determine your stake of the mine. In total 22,222 MAGIC is paid our per day and you get a share of your total points compared to the overall points of all people staked.&#x20;
+The sum of all points determine your stake of the mine. In total 22,222 MAGIC is paid out per day and you get a share of your total points compared to the overall points of all people staked.&#x20;
 
 ![](../../.gitbook/assets/BCA6EA23-ABC6-49CD-A69C-A60B288F5995.png)
 
