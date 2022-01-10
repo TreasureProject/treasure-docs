@@ -7,7 +7,7 @@ Life is a long experiential board game. It is meant to be an emotional experienc
 Life is the creation of [@jumpmanft](https://twitter.com/jumpmanft), and is the first project to be built on top of Treasure.
 
 {% hint style="success" %}
-**Life Links**: [Twitter](https://twitter.com/lifenft\_)
+**Life Links**: [Twitter](https://twitter.com/lifenft\_) | [Discord (Community Led)](https://discord.gg/KeMDATw2)
 {% endhint %}
 
 ![](<../../../.gitbook/assets/1500x500 (1).jpg>)
