@@ -22,6 +22,10 @@ The owner of the NFT will be responsible for choosing the direction of the indiv
 
 ![](<../../../.gitbook/assets/FGG9q2WUUAcZXWz (1).jpg>) ![](../../../.gitbook/assets/FFYxjuOXsA0\_BPr.jpg) ![](../../../.gitbook/assets/FF8zDcsVcAIRO5T.jpg)
 
+## **Potential Plans**
+
+![](<../../../.gitbook/assets/image (7).png>)
+
 ## **Team**
 
 * [@jumpmanft](https://twitter.com/jumpmanft)
