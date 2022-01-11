@@ -1,6 +1,6 @@
 # Migrating Treasures to Arbitrum
 
-As of December 9, 2021, there is no active migration for Treasure Bags (8x fractions) and individual fractions on L1 to L@.
+As of December 9, 2021, there is no active migration for Treasure Bags (8x fractions) and individual fractions on L1 to L2.
 
 Future migrations may take place but, for now, the window to migrate has been closed for the time being.
 
