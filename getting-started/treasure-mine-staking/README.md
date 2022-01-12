@@ -22,9 +22,13 @@ In some of the integrated projects, you can also stake the following:
 
 ## How can I stake?
 
-* [staking-your-usdmagic.md](staking-your-usdmagic.md "mention")
+* [Broken link](broken-reference "mention")
 * [staking-your-treasure.md](staking-your-treasure.md "mention")
 * [staking-your-slp-tokens.md](staking-your-slp-tokens.md "mention")
+
+## Potential Plans
+
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 ## FAQ
 

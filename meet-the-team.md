@@ -29,6 +29,8 @@ TreasureDAO could not be the entity it is today without the love and support fro
 * [@Trippe ](https://twitter.com/NFTrippe)
 * [@X\_](https://twitter.com/cxf\_0886)&#x20;
 * [NFTbroo](https://twitter.com/cryptonftbroo)
+* [Hildi](https://twitter.com/0xHildi)
+* JoeR
 * Abenger
 * DetailOriented
 * LUCIFER
