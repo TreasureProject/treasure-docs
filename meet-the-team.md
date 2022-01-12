@@ -26,7 +26,7 @@ TreasureDAO could not be the entity it is today without the love and support fro
 **Community and Discord management**
 
 * ****[cryptopantone](https://twitter.com/cryptopantone) (Alex)
-* [@Trippe](https://twitter.com/TrippyCoin)&#x20;
+* [@Trippe ](https://twitter.com/NFTrippe)
 * [@X\_](https://twitter.com/cxf\_0886)&#x20;
 * [NFTbroo](https://twitter.com/cryptonftbroo)
 * Abenger
