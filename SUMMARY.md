@@ -32,9 +32,9 @@
 
 ## Learn
 
+* [Bridgeworld Lore](https://lore.treasure.lol)
 * [Infographic](learn/infographic.md)
 * [Gameplay](learn/gameplay/README.md)
-* [Lore](<learn/lore (1).md>)
 
 ## Partnerships
 
