@@ -30,11 +30,22 @@
   * [Staking Your Treasure](getting-started/treasure-mine-staking/staking-your-treasure.md)
   * [Staking Your SLP Tokens](getting-started/treasure-mine-staking/staking-your-slp-tokens.md)
 
-## Learn
+## Gameplay
 
-* [Bridgeworld Lore](https://lore.treasure.lol)
-* [Infographic](learn/infographic.md)
-* [Gameplay](learn/gameplay/README.md)
+* [Lore](https://lore.treasure.lol)
+* [Core Resources](gameplay/core-resources/README.md)
+  * [Magic](gameplay/core-resources/magic.md)
+  * [Legion](gameplay/core-resources/legion.md)
+  * [Treasure](gameplay/core-resources/treasure.md)
+* [Gameplay](gameplay/gameplay/README.md)
+  * [Magic Mining](gameplay/gameplay/magic-mining/README.md)
+    * [Atlas Mine](gameplay/gameplay/magic-mining/atlas-mine.md)
+    * [The Harvesters](gameplay/gameplay/magic-mining/the-harvesters.md)
+    * [Game Theory](gameplay/gameplay/magic-mining/game-theory.md)
+  * [Summoning Circle](gameplay/gameplay/summoning-circle.md)
+  * [The Barracks](gameplay/gameplay/the-barracks.md)
+  * [Ivory Tower](gameplay/gameplay/ivory-tower.md)
+  * [The Forge](gameplay/gameplay/the-forge.md)
 
 ## Partnerships
 

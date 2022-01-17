@@ -7,6 +7,10 @@ description: >-
 
 # Gameplay
 
+## What is Bridgeworld?
+
+
+
 ## How Bridgeworld Works
 
 {% hint style="danger" %}
