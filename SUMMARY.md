@@ -37,7 +37,7 @@
   * [Magic](gameplay/bridgeworld/magic.md)
   * [Legion](gameplay/bridgeworld/legion.md)
   * [Treasure](gameplay/bridgeworld/treasure.md)
-* [Game Mechanics](gameplay/gameplay/README.md)
+* [Game Paths](gameplay/gameplay/README.md)
   * [Mining Magic](gameplay/gameplay/mining-magic/README.md)
     * [Atlas Mine](gameplay/gameplay/mining-magic/atlas-mine.md)
     * [The Harvesters](gameplay/gameplay/mining-magic/the-harvesters.md)
