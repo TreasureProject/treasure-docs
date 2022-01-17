@@ -7,3 +7,14 @@ description: >-
 
 # Gameplay
 
+## Season 1 Roadmap
+
+Coming soon...
+
+## Gaming Pathways
+
+Coming soon...
+
+## Which "oor" are you?&#x20;
+
+Coming soon...

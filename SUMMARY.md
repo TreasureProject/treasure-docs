@@ -38,7 +38,6 @@
   * [Legion](gameplay/bridgeworld/legion.md)
   * [Treasure](gameplay/bridgeworld/treasure.md)
 * [Gameplay](gameplay/gameplay/README.md)
-  * [Season 1 Roadmap](gameplay/gameplay/season-1-roadmap.md)
   * [Mining Magic](gameplay/gameplay/mining-magic/README.md)
     * [Atlas Mine](gameplay/gameplay/mining-magic/atlas-mine.md)
     * [The Harvesters](gameplay/gameplay/mining-magic/the-harvesters.md)
