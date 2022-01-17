@@ -22,7 +22,7 @@ This mechanism is a vast improvement over traditional LP incentives. Most farms 
 
 Mining results in a virtuous cycle for MAGIC and the actual treasures. MAGIC is put into staking or LP positions indefinitely, leaving less of the token to go around. The token then gains “density” (i.e., a loyal community, established use cases), meaning it forms a foundation on which new types of derivatives and financial products can be built.
 
-Users love rare items not only for their qualities, but also because of the effort it took to achieve them. This proof of work mechanism turns treasures from words onto a card into collectibles of provable value (cost of mining + time + collectors’ affinity for their treasure).
+Users love rare items not only for their qualities, but also because of the effort it took to achieve them. This proof of work mechanism turns treasures from words on a card into collectibles of provable value (cost of mining + time + collectors’ affinity for their treasure).
 
 Moreover, as treasures gain financial value, they become valuable inputs for other DeFi products. Builders will compete to attract liquidity to their products. Protocols bid for users’ loyalty with higher yield and lower fees.
 
