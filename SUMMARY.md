@@ -33,6 +33,7 @@
 ## Gameplay
 
 * [Lore](https://lore.treasure.lol)
+* [Whitepaper](https://drive.google.com/file/d/1u4dizg3qqdlnVmBXHCGjpjKZAn\_oitW7/view)
 * [Bridgeworld](gameplay/bridgeworld/README.md)
   * [Magic](gameplay/bridgeworld/magic.md)
   * [Legion](gameplay/bridgeworld/legion.md)
