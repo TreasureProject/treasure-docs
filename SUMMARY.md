@@ -33,20 +33,7 @@
 ## Gameplay
 
 * [Lore](https://lore.treasure.lol)
-* [Whitepaper](https://drive.google.com/file/d/1u4dizg3qqdlnVmBXHCGjpjKZAn\_oitW7/view)
-* [Bridgeworld](gameplay/bridgeworld/README.md)
-  * [Magic](gameplay/bridgeworld/magic.md)
-  * [Legion](gameplay/bridgeworld/legion.md)
-  * [Treasure](gameplay/bridgeworld/treasure.md)
-* [Game Paths](gameplay/gameplay/README.md)
-  * [Mining Magic](gameplay/gameplay/mining-magic/README.md)
-    * [Atlas Mine](gameplay/gameplay/mining-magic/atlas-mine.md)
-    * [The Harvesters](gameplay/gameplay/mining-magic/the-harvesters.md)
-    * [Game Theory](gameplay/gameplay/mining-magic/game-theory.md)
-  * [Summoning Circle](gameplay/gameplay/summoning-circle.md)
-  * [The Barracks](gameplay/gameplay/the-barracks.md)
-  * [Ivory Tower](gameplay/gameplay/ivory-tower.md)
-  * [The Forge](gameplay/gameplay/the-forge.md)
+* [Game Guide](https://drive.google.com/file/d/1u4dizg3qqdlnVmBXHCGjpjKZAn\_oitW7/view)
 
 ## Partnerships
 

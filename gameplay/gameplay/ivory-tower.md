@@ -1,2 +1,0 @@
-# Ivory Tower
-

@@ -1,3 +1,0 @@
-# Bridgeworld
-
-## What is Bridgeworld?
