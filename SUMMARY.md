@@ -33,7 +33,7 @@
 ## Gameplay
 
 * [Lore](https://lore.treasure.lol)
-* [Game Guide](https://drive.google.com/file/d/1u4dizg3qqdlnVmBXHCGjpjKZAn\_oitW7/view)
+* [Game Guide](https://drive.google.com/file/d/1KBE1PjEOPNEljsJ97XLoJsm1vycVdZAp/view?usp=sharing)
 
 ## Partnerships
 
