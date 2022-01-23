@@ -40,7 +40,7 @@ Please see [listing-on-the-marketplace.md](listing-on-the-marketplace.md "mentio
 
 You can see all recent transactions by clicking on [Activity](https://marketplace.treasure.lol/activity) in the top right of the main navigation.
 
-![](<../../.gitbook/assets/Screenshot\_4 (1).jpg>)
+![](../../.gitbook/assets/Screenshot\_4.jpg)
 
 ## Where can I view all of my items and NFTs in my wallet?
 
