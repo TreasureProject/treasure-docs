@@ -15,17 +15,17 @@ Legions are able to summon new Auxiliary Legions at the Summoning Altar. Balance
 ### **Difference between Genesis and Auxiliary in Summoning**
 
 ![\* MAGIC and LP fee will be reviewed on a constant basis to ensure the game meta remains accessible.&#x20;
-\*\*Returned at the end of the Summoning process.](<../../.gitbook/assets/image (10) (1).png>)
+\*\*Returned at the end of the Summoning process.](<../../.gitbook/assets/image (1).png>)
 
 ### **What are the drop rates of Summoning?**
 
-![Note. All Summoned Legion have a 0.01% of obtaining 1 completed constellation.](<../../.gitbook/assets/image (11) (1).png>)
+![Note: All summoned Legion has a 0.01% chance of obtaining 1 completed constellation. ](<../../.gitbook/assets/image (6).png>)
 
 ### **Can I increase the odds of getting Rares from Summoning?**
 
-You can craft small/medium/large crystals and sacrifice them in the summoning circle to improve the odds of obtaining a rare auxiliary legion via summoning. The boost rates are as follows:
+You can craft small/medium/large prisms and sacrifice them in the summoning circle to improve the odds of obtaining a rare Auxiliary Legion via summoning. The boost rates are as follows:
 
-![Note. For example, using a large crystal will decrease the odds of summoning a common auxiliary by 7%, while also increasing the odds of obtaining an uncommon or rare.](<../../.gitbook/assets/image (5) (1).png>)
+![Note. For example, using a large crystal will decrease the odds of summoning a common Auxiliary by 7%, while also increasing the odds of obtaining an uncommon or rare.](../../.gitbook/assets/image.png)
 
 ### **Do I get anything special from Summoning?**
 

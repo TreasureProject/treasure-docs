@@ -60,4 +60,4 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 
 ## Potential Plans
 
-![](<../../../.gitbook/assets/image (7) (1) (1).png>)![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (7) (1) (1).png>)![](<../../../.gitbook/assets/image (1) (1) (1).png>)

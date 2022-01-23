@@ -22,7 +22,7 @@ On January 9, Treasure announced Peek-A-Boo as its [first project in the Treasur
 
 Peek-A-Boo is releasing a P2E NFT Game alongside the adorable Ghost and Buster NFTs. The game is called Hide-N-Seek and it will feature battleship-style gameplay. Ghosts can passively earn $BOO by staking their ghosts normally, or staking their ghosts onto a GhostMap. Busters can passively earn $BOO by staking their busters normally, or actively earn $BOO by playing and winning GhostMaps.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ## **Team**
 
