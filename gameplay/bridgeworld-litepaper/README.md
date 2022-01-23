@@ -13,6 +13,10 @@ Bridgeworld not only incorporates many of the DeFi concepts that are becoming st
 
 As a community-first game, Bridgeworld incentivizes social coordination through the formation of guilds and sub-DAOs, enabling collective strategies around resource accumulation and optimisation, including the onboarding of new players. In the first Season, NFTs will play a key role as players can stake their Legions, Treasures and Consumables to develop characters, build narrative, and improve mining efficiency.
 
+{% hint style="danger" %}
+TreasureDAO will be regularly update Bridgeworld as the game Evolves. When we do, we’ll inform you of the new patch updates, which will supersede the existing terms.
+{% endhint %}
+
 ## Glossary of Terms
 
 ![](../../.gitbook/assets/Screenshot\_14.jpg)
