@@ -70,3 +70,5 @@ The main protagonists and stewards of Bridgeworld carry with them the greatest m
 The economic resources of Bridgeworld and the key ingredients to consumables and items yet unknown. Their relative power is determined by Genesis rarity (distribution) with the two most rare Treasures - Honeycomb and Grin - given heightened powers.&#x20;
 
 Refer to the picture below for details about Treasures’ boost.
+
+![](../../../.gitbook/assets/Treasure-Boosts.jpg)
