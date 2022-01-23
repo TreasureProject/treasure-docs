@@ -35,12 +35,13 @@
 * [Lore](https://lore.treasure.lol)
 * [Master Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
 * [Bridgeworld Litepaper](gameplay/bridgeworld-litepaper/README.md)
-  * [Atlas Mine](gameplay/bridgeworld-litepaper/atlas-mine.md)
-  * [Pilgrimage](gameplay/bridgeworld-litepaper/pilgrimage.md)
+  * [Magic Mining](gameplay/bridgeworld-litepaper/magic-mining/README.md)
+    * [Atlas Mine](gameplay/bridgeworld-litepaper/magic-mining/atlas-mine.md)
   * [Barracks](gameplay/bridgeworld-litepaper/barracks.md)
   * [Summoning Circle](gameplay/bridgeworld-litepaper/summoning-circle.md)
   * [Ivory Tower](gameplay/bridgeworld-litepaper/ivory-tower.md)
   * [The Forge](gameplay/bridgeworld-litepaper/the-forge.md)
+  * [Pilgrimage](gameplay/bridgeworld-litepaper/pilgrimage.md)
 
 ## Partnerships
 
