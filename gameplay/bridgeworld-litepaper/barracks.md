@@ -4,8 +4,8 @@ The Barrack is where players can summon a “Recruit” legion to explore the ga
 
 * Cannot summon or gain questing/crafting experience points/levels&#x20;
 * Cannot upgrade to a common legion&#x20;
-* Can only do a Recruit-specific Quest (see below)&#x20;
 * Cannot be burned and/or transferred to another wallet
+* Can only do a Recruit-specific Quest (see below)&#x20;
 
 ![](<../../.gitbook/assets/image (21).png>)
 
