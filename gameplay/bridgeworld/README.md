@@ -11,3 +11,7 @@ As a community-first game, Bridgeworld incentivizes social coordination through 
 Here, you’ll be able to send your Legions to (1) Summon more Legions, (2) Quest for drops (e.g., Essences of Starlight, Treasures), (3) Craft consumables using Treasures and (4) Mine $MAGIC. More features such as World Events will be added later.
 
 ![](../../.gitbook/assets/Screenshot\_4.jpg)
+
+## What are the different game paths?
+
+![](../../.gitbook/assets/Screenshot\_5.jpg)
