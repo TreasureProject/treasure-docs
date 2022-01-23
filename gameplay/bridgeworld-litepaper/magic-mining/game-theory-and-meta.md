@@ -5,7 +5,7 @@ The introduction of Harvesters will drive social coordination and progressive ch
 We will also seed these dynamics through macro shifts over time that force decision tradeoffs, disincentivise monopolistic behaviors and create meta tension between Harvester owners and new participants. This seeks to keep the economy vibrant, thriving and attractive to new players.
 
 {% hint style="info" %}
-**There are no “correct” ways to structure a guild to optimize earnings from harvesters; small elite guilds can thrive, as can larger mainstream guilds.**
+There are no “correct” ways to structure a guild to optimize earnings from harvesters; small elite guilds can thrive, as can larger mainstream guilds.
 {% endhint %}
 
 Some guilds are collectors, and have spent time curating and honing crafting skills to manufacture harvester parts faster than others, others are warlike and have access to the most powerful legions. Other guilds don’t have the wealth or resources, but are simply better at building community and recruiting followers to their cause—and with them, their legions. They find strength in numbers.
