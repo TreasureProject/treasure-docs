@@ -27,7 +27,7 @@ Here, you’ll be able to send your Legions to (1) Summon more Legions, (2) Ques
 
 ![](../../.gitbook/assets/Screenshot\_13.jpg)
 
-## Roadmap
+## Bridgeworld Season 1 Roadmap
 
 The following diagram illustrates the different phases in Bridgeworld 1.0. This phased roadmap is indicative only, and subject to change.
 
