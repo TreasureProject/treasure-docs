@@ -35,6 +35,7 @@
 * [Lore](https://lore.treasure.lol)
 * [Master Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
 * [Bridgeworld Litepaper](gameplay/bridgeworld-litepaper/README.md)
+  * [Atlas Mine](gameplay/bridgeworld-litepaper/atlas-mine.md)
   * [Pilgrimage](gameplay/bridgeworld-litepaper/pilgrimage.md)
   * [Barracks](gameplay/bridgeworld-litepaper/barracks.md)
   * [Summoning Circle](gameplay/bridgeworld-litepaper/summoning-circle.md)
