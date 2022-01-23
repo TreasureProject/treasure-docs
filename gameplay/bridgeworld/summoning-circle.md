@@ -2,7 +2,9 @@
 
 The Summoning Circle is where Legions can be sent to summon Auxiliary Legions. Summoning will take 7 days to complete and newly summoned Auxiliary Legions will experience a “Summoning Fatigue” which disables them from summoning for another 7 days.
 
-Records kept by Summoner Melchizor suggest that the Summoning Circle needs occasional maintenance, especially after intense utilization. When this occurs, no new Auxiliary Legions can be summoned. Mysterious events in Bridgeworld can also impact the art of Summoning. &#x20;
+Records kept by Summoner Melchizor suggest that the Summoning Circle needs occasional maintenance, especially after intense utilization. When this occurs, no new Auxiliary Legions can be summoned. Mysterious events in Bridgeworld can also impact the art of Summoning.&#x20;
+
+![](../../.gitbook/assets/summoning\_final\_v01.jpg)
 
 ### **How many Auxiliary Legions can I summon?**&#x20;
 
