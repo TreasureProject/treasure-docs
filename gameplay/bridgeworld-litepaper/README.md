@@ -13,13 +13,17 @@ Bridgeworld not only incorporates many of the DeFi concepts that are becoming st
 
 As a community-first game, Bridgeworld incentivizes social coordination through the formation of guilds and sub-DAOs, enabling collective strategies around resource accumulation and optimisation, including the onboarding of new players. In the first Season, NFTs will play a key role as players can stake their Legions, Treasures and Consumables to develop characters, build narrative, and improve mining efficiency.
 
+## Glossary of Terms
+
+![](../../.gitbook/assets/Screenshot\_14.jpg)
+
 ## What can you do in Bridgeworld?
 
 Here, you’ll be able to send your Legions to (1) Summon more Legions, (2) Quest for drops (e.g., Essences of Starlight, Treasures), (3) Craft consumables using Treasures and (4) Mine $MAGIC. More features such as World Events will be added later.
 
 ![](../../.gitbook/assets/Screenshot\_4.jpg)
 
-## What are the different game paths?
+## Different Gaming Pathways Explained
 
 ![](../../.gitbook/assets/Screenshot\_13.jpg)
 
