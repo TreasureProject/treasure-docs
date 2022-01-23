@@ -37,7 +37,7 @@
 * [Bridgeworld](gameplay/bridgeworld/README.md)
   * [Pilgrimage](gameplay/bridgeworld/pilgrimage.md)
   * [Barracks](gameplay/bridgeworld/barracks.md)
-  * [Summoner Circle](gameplay/bridgeworld/summoner-circle.md)
+  * [Summoning Circle](gameplay/bridgeworld/summoning-circle.md)
   * [Ivory Tower](gameplay/bridgeworld/ivory-tower.md)
   * [The Forge](gameplay/bridgeworld/the-forge.md)
 
