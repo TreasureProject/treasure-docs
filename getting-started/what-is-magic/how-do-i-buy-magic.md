@@ -20,27 +20,27 @@ You can also buy ETH on Arbitrum directly on exchanges like [Binance](https://ww
 
 If you are on another network and not Arbitrum, follow these screenshot instructions to switch between networks.
 
-![At the top, click the "Ethereum" button near the middle of the screen.](<../../.gitbook/assets/image (10) (1).png>)
+![At the top, click the "Ethereum" button near the middle of the screen.](<../../.gitbook/assets/image (10) (1) (1).png>)
 
-![Click the Arbitrum network.](<../../.gitbook/assets/image (3).png>)
+![Click the Arbitrum network.](<../../.gitbook/assets/image (3) (1).png>)
 
-![Review the prompt that appears and click "Switch network".](<../../.gitbook/assets/image (13) (1).png>)
+![Review the prompt that appears and click "Switch network".](<../../.gitbook/assets/image (13) (1) (1).png>)
 
 ### ii. Purchase $MAGIC
 
 Now that you're on the Arbitrum network (you can confirm this with the "Arbitrum" button at the top-middle of the screen), you're ready to buy some $MAGIC.
 
-![Click the "Select a token" button in the "Swap To (est.):" field.](<../../.gitbook/assets/image (9).png>)
+![Click the "Select a token" button in the "Swap To (est.):" field.](<../../.gitbook/assets/image (9) (1).png>)
 
-![Type in "MAGIC" to find the $MAGIC token. If you don't have any $MAGIC, the number to the right will read "0".](<../../.gitbook/assets/image (11) (1).png>)
+![Type in "MAGIC" to find the $MAGIC token. If you don't have any $MAGIC, the number to the right will read "0".](<../../.gitbook/assets/image (11) (1) (1).png>)
 
-![Confirm that the screen looks like this to swap buy $MAGIC with ETH.](<../../.gitbook/assets/image (12).png>)
+![Confirm that the screen looks like this to swap buy $MAGIC with ETH.](<../../.gitbook/assets/image (12) (1).png>)
 
-![Enter the amount of MAGIC you'd like to purchase OR the amount of ETH you'd like to spend. Click the "Swap" button when you're ready.](../../.gitbook/assets/image.png)
+![Enter the amount of MAGIC you'd like to purchase OR the amount of ETH you'd like to spend. Click the "Swap" button when you're ready.](<../../.gitbook/assets/image (1).png>)
 
 ![Review the swap details and, when you're happy, click "Confirm Swap". ](<../../.gitbook/assets/image (2).png>)
 
-![Review the MetaMask notification that appears and confirm the transaction once you've reviewed and are okay with all of the details.](<../../.gitbook/assets/image (5) (1).png>)
+![Review the MetaMask notification that appears and confirm the transaction once you've reviewed and are okay with all of the details.](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 {% hint style="info" %}
 **Note:** These steps are also applicable if you have a hardware wallet like a Ledger or a Trezor.

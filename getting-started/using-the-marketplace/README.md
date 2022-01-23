@@ -1,6 +1,6 @@
 # Treasure Marketplace
 
-![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1) (1) (1).png>)
 
 ## Where can I find the marketplace?
 
@@ -22,7 +22,7 @@ For Treasures and Legions, the royalty fees are 5% if an item is sold. A minimum
 
 Navigate to any item available for sale and click the Purchase button. If you have insufficient $MAGIC in your wallet, you won't be able to buy the item and will need to purchase additional $MAGIC on SushiSwap. &#x20;
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 {% hint style="info" %}
 **Note**: You will need **ETH** to conduct any transactions on the Marketplace&#x20;

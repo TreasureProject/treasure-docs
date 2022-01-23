@@ -19,7 +19,7 @@
 
 ![](<../../../.gitbook/assets/image (5) (1) (1) (2) (1).png>)
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 ### Other Genesis Legions
 
@@ -60,4 +60,4 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 
 ## Potential Plans
 
-![](<../../../.gitbook/assets/image (7) (1).png>)![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (7) (1) (1).png>)![](<../../../.gitbook/assets/image (1) (1).png>)

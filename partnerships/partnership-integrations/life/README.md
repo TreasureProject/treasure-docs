@@ -24,7 +24,7 @@ The owner of the NFT will be responsible for choosing the direction of the indiv
 
 ## **Potential Plans**
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 ## **Team**
 
