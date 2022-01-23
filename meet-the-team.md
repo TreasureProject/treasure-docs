@@ -11,7 +11,6 @@
 * [@pixel\_mat](https://twitter.com/pixel\_mat) - Art | Smol Brains
 * [@notrealend](https://twitter.com/notrealend) - Product Lead | Quests | Consumables
 * [@jumpmanft](https://twitter.com/jumpmanft) - Marketplace Curation | Life NFT
-* JoshB - Community Management
 * [@sisu](https://twitter.com/sisukasgod) Social Media | Marketing
 * [@JustCheese](https://twitter.com/jc\_1917) - Front End Developer | UI
 * [@wyze](https://twitter.com/wyze) (Neil) - Front End Developer | UI
@@ -31,9 +30,6 @@ TreasureDAO could not be the entity it is today without the love and support fro
 * [NFTbroo](https://twitter.com/cryptonftbroo)
 * [Hildi](https://twitter.com/0xHildi)
 * JoeR
-* Abenger
-* DetailOriented
-* LUCIFER
 {% endtab %}
 
 {% tab title="Builders" %}
