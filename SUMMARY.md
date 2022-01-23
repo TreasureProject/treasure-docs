@@ -37,6 +37,7 @@
 * [Bridgeworld Litepaper](gameplay/bridgeworld-litepaper/README.md)
   * [Magic Mining](gameplay/bridgeworld-litepaper/magic-mining/README.md)
     * [Atlas Mine](gameplay/bridgeworld-litepaper/magic-mining/atlas-mine.md)
+    * [The Harvesters](gameplay/bridgeworld-litepaper/magic-mining/the-harvesters.md)
   * [Barracks](gameplay/bridgeworld-litepaper/barracks.md)
   * [Summoning Circle](gameplay/bridgeworld-litepaper/summoning-circle.md)
   * [Ivory Tower](gameplay/bridgeworld-litepaper/ivory-tower.md)
