@@ -33,13 +33,13 @@
 ## Gameplay
 
 * [Lore](https://lore.treasure.lol)
-* [Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
-* [Bridgeworld](gameplay/bridgeworld/README.md)
-  * [Pilgrimage](gameplay/bridgeworld/pilgrimage.md)
-  * [Barracks](gameplay/bridgeworld/barracks.md)
-  * [Summoning Circle](gameplay/bridgeworld/summoning-circle.md)
-  * [Ivory Tower](gameplay/bridgeworld/ivory-tower.md)
-  * [The Forge](gameplay/bridgeworld/the-forge.md)
+* [Master Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
+* [Bridgeworld Litepaper](gameplay/bridgeworld-litepaper/README.md)
+  * [Pilgrimage](gameplay/bridgeworld-litepaper/pilgrimage.md)
+  * [Barracks](gameplay/bridgeworld-litepaper/barracks.md)
+  * [Summoning Circle](gameplay/bridgeworld-litepaper/summoning-circle.md)
+  * [Ivory Tower](gameplay/bridgeworld-litepaper/ivory-tower.md)
+  * [The Forge](gameplay/bridgeworld-litepaper/the-forge.md)
 
 ## Partnerships
 

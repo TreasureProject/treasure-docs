@@ -1,4 +1,11 @@
-# Bridgeworld
+---
+description: >-
+  The Litepaper is a condensed version of the Master Game Guide. Please consult
+  the full game guide for detailed information about the different mechanics and
+  how they interact.
+---
+
+# Bridgeworld Litepaper
 
 Bridgeworld is a game of strategic commerce, trade and domination which sits at the center of the Treasure metaverse. Legions, Treasures and other NFTs native to Bridgeworld, represent player characters and items that are used to explore, create and ultimately extract $MAGIC from the world.&#x20;
 
@@ -14,4 +21,10 @@ Here, you’ll be able to send your Legions to (1) Summon more Legions, (2) Ques
 
 ## What are the different game paths?
 
-![](../../.gitbook/assets/Screenshot\_5.jpg)
+![](../../.gitbook/assets/Screenshot\_13.jpg)
+
+## Roadmap
+
+The following diagram illustrates the different phases in Bridgeworld 1.0. This phased roadmap is indicative only, and subject to change.
+
+![](../../.gitbook/assets/Screenshot\_12.jpg)
