@@ -58,6 +58,7 @@ Smol Bodies is also an experiment in decentralization. Community members have be
 * [@DukePaints](https://twitter.com/DukePaints) - Concept Artist | Imperium
 * [@pixel\_mat](https://twitter.com/pixel\_mat) - Art | Smol Brains
 * [@Wyze](https://twitter.com/wyze)
+* [@JC](https://twitter.com/jc\_1917)
 * [travelerr](https://twitter.com/NFTravelerr)
 * [Maximee](https://twitter.com/maximee\_eth)
 * Professor\_X\_
