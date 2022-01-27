@@ -20,15 +20,19 @@
   * [Migrating Treasures to Arbitrum](getting-started/migrating-to-arbitrum/migrating-treasures-to-arbitrum.md)
 * [What is $MAGIC?](getting-started/what-is-magic/README.md)
   * [How do I buy $MAGIC?](getting-started/what-is-magic/how-do-i-buy-magic.md)
-* [Treasure Marketplace](getting-started/using-the-marketplace/README.md)
-  * [Listing on the Marketplace](getting-started/using-the-marketplace/listing-on-the-marketplace.md)
-  * [Checking Rarities](getting-started/using-the-marketplace/checking-rarities/README.md)
-    * [Legion Rarity](getting-started/using-the-marketplace/checking-rarities/legion-rarity.md)
-  * [API](references/api.md)
 * [Treasure Mine (Staking)](getting-started/treasure-mine-staking/README.md)
   * [Staking Your $MAGIC](getting-started/treasure-mine-staking/staking-your-usdmagic.md)
   * [Staking Your Treasure](getting-started/treasure-mine-staking/staking-your-treasure.md)
   * [Staking Your SLP Tokens](getting-started/treasure-mine-staking/staking-your-slp-tokens.md)
+
+## Marketplaces
+
+* [Treasure Marketplace](marketplaces/using-the-marketplace/README.md)
+  * [Listing on the Marketplace](marketplaces/using-the-marketplace/listing-on-the-marketplace.md)
+  * [Checking Rarities](marketplaces/using-the-marketplace/checking-rarities/README.md)
+    * [Legion Rarity](marketplaces/using-the-marketplace/checking-rarities/legion-rarity.md)
+  * [API](marketplaces/using-the-marketplace/api.md)
+* [Trove Whitepaper](https://drive.google.com/file/d/17oP5tMsgHbMX6OjC3D61Bvgg-xVkkPlU/view?usp=sharing)
 
 ## Gameplay
 
