@@ -32,7 +32,7 @@
   * [Checking Rarities](marketplaces/using-the-marketplace/checking-rarities/README.md)
     * [Legion Rarity](marketplaces/using-the-marketplace/checking-rarities/legion-rarity.md)
   * [API](marketplaces/using-the-marketplace/api.md)
-* [Trove Whitepaper](https://drive.google.com/file/d/17oP5tMsgHbMX6OjC3D61Bvgg-xVkkPlU/view?usp=sharing)
+* [Trove Whitepaper](https://drive.google.com/file/d/1FyuF2To5nhXatlxHjIGhUkjcRcaQYjPR/view?usp=sharing)
 
 ## Gameplay
 
