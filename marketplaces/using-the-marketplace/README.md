@@ -1,7 +1,5 @@
 # Treasure Marketplace
 
-![](<../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png>)
-
 ## Where can I find the marketplace?
 
 The Treasure Marketplace is available on Arbitrum network at [https://marketplace.treasure.lol/](https://marketplace.treasure.lol).

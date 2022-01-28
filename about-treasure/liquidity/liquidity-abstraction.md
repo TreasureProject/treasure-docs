@@ -26,8 +26,6 @@ Developing this concept would solve the impermanent loss problem. Impermanent lo
 **Framing liquidity as the game’s core objective** could take the form of **** three metaphor: liquidity as **weather**, liquidity as **time**, and liquidity as a **measure of spatial reach.**
 {% endhint %}
 
-![](../../.gitbook/assets/1\_kfeJ4Gm3zEZnofi7XQv\_Nw.png)
-
 ### Liquidity as Weather
 
 We have not prescribed a single genesis story for the Legions to create room for other storytellers.
@@ -49,8 +47,6 @@ You could even design a world where time has frozen, and the solution is for the
 Extending on the idea of LP tokens as keys to unlock adventures, liquidity could also be the key to unlocking new realms. As liquidity grows, the world expands outward. This design would create a very fun collective gaming experience and more importantly, begin to heal the extremely damaging mentality borne out of DeFi that LPing is a PVP sport.
 
 We should think of providing liquidity as a means to improve the world and explore its limits. This attitude seems much healthier than what DeFi 1.0 manifested.
-
-![](../../.gitbook/assets/1\_JowRpRgS42Zx8G8tql2Ocw.png)
 
 ## Medium-Term: MAGIC as a Natural Resource
 
@@ -77,8 +73,6 @@ NFTs as governance tokens are probably also inevitable. Given that the basic con
 {% hint style="info" %}
 We think a council comprised of **NFT-community tribes**, each choosing how to represent themselves before the council, would be an extremely fun experiment for NFTs — and could easily become the new norm for **intra-DeFi governance**.
 {% endhint %}
-
-![](../../.gitbook/assets/Bombmaker.png)
 
 ## Long-term: Cross-Chain Treasures
 
