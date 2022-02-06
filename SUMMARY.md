@@ -37,6 +37,7 @@
 ## Gameplay
 
 * [Lore](https://lore.treasure.lol)
+* [Game Video Tutorials](https://www.youtube.com/channel/UCw3mq\_ycQog6byQUspG-Pag)
 * [Master Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
 * [Bridgeworld Litepaper](gameplay/bridgeworld-litepaper/README.md)
   * [Magic Mining](gameplay/bridgeworld-litepaper/magic-mining/README.md)
