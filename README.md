@@ -15,7 +15,7 @@ Treasure projects are linked–narratively and economically–through MAGIC. The
 The central metaverse in Treasure is a place called Bridgeworld, where MAGIC is emitted and harvested. Bridgeworld utilizes a three-part resource economy:
 
 * **$MAGIC** (Power);
-* **Treasures** (NFT | Resources); and&#x20;
+* **Treasures** (NFT | Resources); and
 * **Legions** (NFT | Players)
 
 Legions use treasures to mine for MAGIC and build larger forms of infrastructure and equipment. MAGIC is the resource that allows legions to quest and craft new items using treasures. The relationship between treasures and MAGIC is the equilibrium underpinning Bridgeworld.
@@ -36,7 +36,7 @@ MAGIC is an increasingly scarce resource needed to “power on” treasures and 
 >
 > _The Treasure World._
 >
-> The celestial ones deemed this world the nexus of all worlds. It weaves other worlds together in perpetuity. _**Legions**_** ** were elected to study the _**Magic**_** ** that sustained this world -- to guide, to govern, and to protect it.
+> The celestial ones deemed this world the nexus of all worlds. It weaves other worlds together in perpetuity. _**Legions**_\*\* \*\* were elected to study the _**Magic**_\*\* \*\* that sustained this world -- to guide, to govern, and to protect it.
 >
 > **This is where our story begins.**
 
@@ -62,12 +62,12 @@ The genesis story of the project has attracted collaborators who align with our 
 
 ## TreasureDAO
 
-Treasure is DAO-governed. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.&#x20;
+Treasure is DAO-governed. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
 
 For more information on the Treasure Council and broader team, see[meet-the-team.md](meet-the-team.md "mention").
 
-Decisions are formed by the DAO and voted by $MAGIC holders through [snapshot-voting.md](about-treasure/governance/snapshot-voting.md "mention").&#x20;
+Decisions are formed by the DAO and voted by $MAGIC holders through [snapshot-voting.md](about-treasure/governance/snapshot-voting.md "mention").
 
 {% hint style="info" %}
-**Decentralization** solves a crucial scaling problem. There is no way the team (no matter the size) can scrape together a **collective imagination** sufficient to construct the entirety of this metaverse. Decentralization, therefore, **** creates the conditions by which a true metaverse can develop and be **free of proprietary distortion**.&#x20;
+**Decentralization** solves a crucial scaling problem. There is no way the team (no matter the size) can scrape together a **collective imagination** sufficient to construct the entirety of this metaverse. Decentralization, therefore, creates the conditions by which a true metaverse can develop and be **free of proprietary distortion**.
 {% endhint %}
