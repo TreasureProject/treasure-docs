@@ -1,10 +1,10 @@
 # Magic Mining
 
-Bridgeworld is a primary source of MAGIC mining emissions outlined in Treasure’s tokenomics. The original MAGIC distribution was a fair launch in September 2021, running for 30 days.&#x20;
+Bridgeworld is a primary source of MAGIC mining emissions outlined in Treasure’s tokenomics. The original MAGIC distribution was a fair launch in September 2021, running for 30 days.
 
-Users could stake their fractionalised Treasure, Loot, N and ALGD for a static daily rate. MAGIC emitted from this event earmarked one third of total supply (115,904,669) and created the anchor for the total supply of MAGIC at 347,714,007.&#x20;
+Users could stake their fractionalised Treasure, Loot, N and ALGD for a static daily rate. MAGIC emitted from this event earmarked one third of total supply (115,904,669) and created the anchor for the total supply of MAGIC at 347,714,007.
 
-Mining emissions comprise 25% of total supply (86,928,502) and follow a ‘halvening’ schedule under an augmented ‘proof-of-work’ model taking over 10 years to emit.&#x20;
+Mining emissions comprise 25% of total supply (86,928,502) and follow a ‘halvening’ schedule under an augmented ‘proof-of-work’ model taking over 10 years to emit.
 
 The ‘work’ undertaken by the user / player represents the time and effort required to mine MAGIC together with the cost of inputs. Over time, MAGIC becomes increasingly scarce, so on a relative basis, ‘work increases’ to mine it.
 
@@ -18,10 +18,10 @@ Mining emissions can be supplemented by MAGIC from staking rewards, the Ecofund 
 
 ### Distribution of Mining Emissions
 
-![](../../../.gitbook/assets/Screenshot\_16.jpg)
+![](<../../../.gitbook/assets/Screenshot\_16 (1).jpg>)
 
 ### Activating Mining Emissions
 
 MAGIC must be staked (veMAGIC) within the Atlas Mine, Harvesters and partner ecosystem power sources to activate emissions and mining proficiency. The following table outlines the level of circulating MAGIC required to be staked to unlock each level of mining output:
 
-![You will NOT be able to move Locked Magic between the Atlas Mine and Harvesters. Harvesters are releasing in February.](../../../.gitbook/assets/Screenshot\_17.jpg)
+![You will NOT be able to move Locked Magic between the Atlas Mine and Harvesters. Harvesters are releasing in February.](<../../../.gitbook/assets/Screenshot\_17 (1).jpg>)
