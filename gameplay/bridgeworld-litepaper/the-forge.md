@@ -24,7 +24,7 @@ There is no auto-craft feature.
 
 Initially, in Season 1, crafting can produce three types of productive consumables (see below).
 
-![](../../.gitbook/assets/Screenshot\_16.jpg)
+![](<../../.gitbook/assets/Screenshot\_19 (1).jpg>)
 
 ### **What are the ingredients needed for each Recipe?**
 
