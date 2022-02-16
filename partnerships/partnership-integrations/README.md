@@ -15,7 +15,7 @@ This further encapsulates the idea of extrinsically composable and intrinsically
 * [life](life/ "mention")
 * [olympus-odysey.md](olympus-odysey.md "mention")
 * [ether-orcs.md](ether-orcs.md "mention")
-* ****[imperium.md](imperium.md "mention")
+* [imperium.md](imperium.md "mention")
 * [enjoyooooors.md](enjoyooooors.md "mention")
 
 ## What about community projects?

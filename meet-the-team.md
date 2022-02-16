@@ -17,24 +17,24 @@
 
 ## Community
 
-TreasureDAO could not be the entity it is today without the love and support from its community. A special thank you is due for the following individuals for helping us grow and foster.&#x20;
+TreasureDAO could not be the entity it is today without the love and support from its community. A special thank you is due for the following individuals for helping us grow and foster.
 
 {% tabs %}
 {% tab title="Moderators" %}
 **Community and Discord management**
 
-* ****[cryptopantone](https://twitter.com/cryptopantone) (Alex)
-* [@Trippe ](https://twitter.com/NFTrippe)
-* [@X\_](https://twitter.com/cxf\_0886)&#x20;
+* [cryptopantone](https://twitter.com/cryptopantone) (Alex)
+* [@Trippe](https://twitter.com/NFTrippe)
+* [@X\_](https://twitter.com/cxf\_0886)
 * [NFTbroo](https://twitter.com/cryptonftbroo)
 * [Hildi](https://twitter.com/0xHildi)
 * JoeR
 {% endtab %}
 
 {% tab title="Builders" %}
-**Building community-operated tools for Treasure**&#x20;
+**Building community-operated tools for Treasure**
 
-* ****[@0xkarel](https://twitter.com/0xkarel) - Treasure Tools
+* [@0xkarel](https://twitter.com/0xkarel) - Treasure Tools
 {% endtab %}
 
 {% tab title="Lore" %}
@@ -89,11 +89,10 @@ TreasureDAO could not be the entity it is today without the love and support fro
 {% endtab %}
 
 {% tab title="Creatures" %}
-#### Mythical creatures whom reside in the server
+**Mythical creatures whom reside in the server**
 
 * Harold - The legendary fudder who's character redemption arc was the most satisfying and admirable if not the most beautiful.
 * BonkBonk - A peculiar enigma whom have raised the bonking culture within the Treasure community.
 * Crispyboi - Another mythical fudder whom have now been immortalized.
 {% endtab %}
 {% endtabs %}
-
