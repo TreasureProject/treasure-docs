@@ -1,5 +1,7 @@
 # Barracks
 
+{% embed url="https://youtu.be/MqZI7bdyOPg" %}
+
 The Barrack is where players can summon a “Recruit” legion to explore the game. Recruits can be minted for 10 MAGIC, and have multiple restrictions relative to normal Legions. These are:
 
 * Cannot summon or gain questing/crafting experience points/levels

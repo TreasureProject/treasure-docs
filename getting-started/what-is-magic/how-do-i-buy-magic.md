@@ -5,14 +5,14 @@
 First, make sure you're on Arbitrum (not L1 / Ethereum Mainnet) because this is where all of the magic happens (no pun intended) and where the Treasure ecosystem is currently being built out.
 
 {% hint style="info" %}
-**Please note:** $MAGIC is also available on L1 via Uniswap so please be mindful of the network you're buying $MAGIC on. Any $MAGIC you own can be bridged over onto  Arbitrum.
+**Please note:** $MAGIC is also available on L1 via Uniswap so please be mindful of the network you're buying $MAGIC on. Any $MAGIC you own can be bridged over onto Arbitrum.
 {% endhint %}
 
 ## 1. Move ETH over onto Arbitrum.
 
 If you already have some ETH on L1 / Ethereum Mainnet, please see the [Steps to Migrate to Arbitrum](https://docs.treasure.lol/getting-started/migrating-to-arbitrum#steps-to-migrate-to-arbitrum) guide (which uses MetaMask as an example).
 
-You can also buy ETH on Arbitrum directly on exchanges like [Binance](https://www.binance.com/en), [Crypto.com](https://crypto.com), and [FTX](https://ftx.com). &#x20;
+You can also buy ETH on Arbitrum directly on exchanges like [Binance](https://www.binance.com/en), [Crypto.com](https://crypto.com), and [FTX](https://ftx.com).
 
 ## 2. Purchase $MAGIC using SushiSwap.
 
@@ -34,11 +34,11 @@ Now that you're on the Arbitrum network (you can confirm this with the "Arbitrum
 
 ![Type in "MAGIC" to find the $MAGIC token. If you don't have any $MAGIC, the number to the right will read "0".](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
-![Confirm that the screen looks like this to swap buy $MAGIC with ETH.](<../../.gitbook/assets/image (12) (1) (1).png>)
+![Confirm that the screen looks like this to swap buy $MAGIC with ETH.](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 ![Enter the amount of MAGIC you'd like to purchase OR the amount of ETH you'd like to spend. Click the "Swap" button when you're ready.](<../../.gitbook/assets/image (1) (1).png>)
 
-![Review the swap details and, when you're happy, click "Confirm Swap". ](<../../.gitbook/assets/image (2) (1).png>)
+![Review the swap details and, when you're happy, click "Confirm Swap".](<../../.gitbook/assets/image (2) (1).png>)
 
 ![Review the MetaMask notification that appears and confirm the transaction once you've reviewed and are okay with all of the details.](<../../.gitbook/assets/image (5) (1) (1).png>)
 
