@@ -1,5 +1,7 @@
 # The Forge
 
+[https://youtu.be/KYKBrVRgOkw](https://youtu.be/KYKBrVRgOkw)
+
 The Forge is where Legions can utilize Treasures to craft powerful consumables. Treasures contain magical properties that Legions can extract and use to craft valuable consumables, growing more experienced as they continue to hone their trade.
 
 ![](<../../.gitbook/assets/image (18).png>)
