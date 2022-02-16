@@ -1,7 +1,5 @@
 # Magic Mining
 
-[https://youtu.be/8Pw\_mkkULmw](https://youtu.be/8Pw\_mkkULmw)
-
 Bridgeworld is a primary source of MAGIC mining emissions outlined in Treasure’s tokenomics. The original MAGIC distribution was a fair launch in September 2021, running for 30 days.
 
 Users could stake their fractionalised Treasure, Loot, N and ALGD for a static daily rate. MAGIC emitted from this event earmarked one third of total supply (115,904,669) and created the anchor for the total supply of MAGIC at 347,714,007.
