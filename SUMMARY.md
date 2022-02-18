@@ -53,8 +53,6 @@
   * [🧠 Smolverse](partnerships/partnership-integrations/smolverse/README.md)
     * [Smol Brains FAQ](partnerships/partnership-integrations/smolverse/smol-brains-faq.md)
     * [Smol Bodies FAQ](partnerships/partnership-integrations/smolverse/faq.md)
-  * [👶 Life](partnerships/partnership-integrations/life/README.md)
-    * [FAQ](partnerships/partnership-integrations/life/faq.md)
   * [🍄 Mushrohms](partnerships/partnership-integrations/olympus-odysey.md)
   * [👹 Ether Orcs](partnerships/partnership-integrations/ether-orcs.md)
   * [🔺 Imperium](partnerships/partnership-integrations/imperium.md)

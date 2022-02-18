@@ -12,7 +12,7 @@ This further encapsulates the idea of extrinsically composable and intrinsically
 
 ### **Coming soon**
 
-* [life](life/ "mention")
+* [Broken link](broken-reference "mention")
 * [olympus-odysey.md](olympus-odysey.md "mention")
 * [ether-orcs.md](ether-orcs.md "mention")
 * [imperium.md](imperium.md "mention")

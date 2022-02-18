@@ -26,11 +26,11 @@ Decentralized Autonomous Organization, is a governance mechanism for making deci
 
 ## SoL or SOL
 
-Acronym for "Seed of Life", the NFT for the [life](../partnerships/partnership-integrations/life/ "mention") partnership.
+Acronym for "Seed of Life"
 
 ## Extra Life
 
-Exclusive NFT gifted to our earliest and most loyal supporters.&#x20;
+Exclusive NFT gifted to our earliest and most loyal supporters.
 
 ## Crispy
 
