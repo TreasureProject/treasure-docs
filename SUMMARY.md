@@ -31,21 +31,21 @@
   * [API](marketplaces/using-the-marketplace/api.md)
 * [Trove Whitepaper](https://drive.google.com/file/d/1FyuF2To5nhXatlxHjIGhUkjcRcaQYjPR/view?usp=sharing)
 
-## Gameplay
+## Bridgeworld
 
 * [Lore](https://lore.treasure.lol)
 * [Game Video Tutorials](https://www.youtube.com/channel/UCw3mq\_ycQog6byQUspG-Pag)
 * [Master Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
-* [Bridgeworld Litepaper](gameplay/bridgeworld-litepaper/README.md)
-  * [Magic Mining](gameplay/bridgeworld-litepaper/magic-mining/README.md)
-    * [Atlas Mine](gameplay/bridgeworld-litepaper/magic-mining/atlas-mine.md)
-    * [The Harvesters](gameplay/bridgeworld-litepaper/magic-mining/the-harvesters.md)
-    * [Game Theory and Meta](gameplay/bridgeworld-litepaper/magic-mining/game-theory-and-meta.md)
-  * [Barracks](gameplay/bridgeworld-litepaper/barracks.md)
-  * [Summoning Circle](gameplay/bridgeworld-litepaper/summoning-circle.md)
-  * [Ivory Tower](gameplay/bridgeworld-litepaper/ivory-tower.md)
-  * [The Forge](gameplay/bridgeworld-litepaper/the-forge.md)
-  * [Pilgrimage](gameplay/bridgeworld-litepaper/pilgrimage.md)
+* [Bridgeworld Litepaper](bridgeworld/bridgeworld-litepaper/README.md)
+  * [Magic Mining](bridgeworld/bridgeworld-litepaper/magic-mining/README.md)
+    * [Atlas Mine](bridgeworld/bridgeworld-litepaper/magic-mining/atlas-mine.md)
+    * [The Harvesters](bridgeworld/bridgeworld-litepaper/magic-mining/the-harvesters.md)
+    * [Game Theory and Meta](bridgeworld/bridgeworld-litepaper/magic-mining/game-theory-and-meta.md)
+  * [Barracks](bridgeworld/bridgeworld-litepaper/barracks.md)
+  * [Summoning Circle](bridgeworld/bridgeworld-litepaper/summoning-circle.md)
+  * [Ivory Tower](bridgeworld/bridgeworld-litepaper/ivory-tower.md)
+  * [The Forge](bridgeworld/bridgeworld-litepaper/the-forge.md)
+  * [Pilgrimage](bridgeworld/bridgeworld-litepaper/pilgrimage.md)
 
 ## Partnerships
 
