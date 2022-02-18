@@ -47,9 +47,9 @@
   * [The Forge](bridgeworld/bridgeworld-litepaper/the-forge.md)
   * [Pilgrimage](bridgeworld/bridgeworld-litepaper/pilgrimage.md)
 
-## Lifeform
+## Life
 
-* [Lifeform Whitepaper](https://drive.google.com/file/d/1HwV-90u5TwffAvk83DIxfCKKLHfBAdmo/view?usp=sharing)
+* [Life Whitepaper](https://drive.google.com/file/d/1HwV-90u5TwffAvk83DIxfCKKLHfBAdmo/view?usp=sharing)
 
 ## Partnerships
 
