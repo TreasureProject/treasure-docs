@@ -6,7 +6,7 @@ The Summoning Circle is where Legions can be sent to summon Auxiliary Legions. S
 
 Records kept by Summoner Melchizor suggest that the Summoning Circle needs occasional maintenance, especially after intense utilization. When this occurs, no new Auxiliary Legions can be summoned. Mysterious events in Bridgeworld can also impact the art of Summoning.
 
-![](../../.gitbook/assets/summoning\_final\_v01.jpg)
+![](../../../.gitbook/assets/summoning\_final\_v01.jpg)
 
 ### **How many Auxiliary Legions can I summon?**
 
@@ -19,17 +19,17 @@ Legions are able to summon new Auxiliary Legions at the Summoning Altar. Balance
 ### **Difference between Genesis and Auxiliary in Summoning**
 
 ![\* MAGIC and LP fee will be reviewed on a constant basis to ensure the game meta remains accessible.&#x20;
-\*\*Returned at the end of the Summoning process.](<../../.gitbook/assets/image (1).png>)
+\*\*Returned at the end of the Summoning process.](<../../../.gitbook/assets/image (1).png>)
 
 ### **What are the drop rates of Summoning?**
 
-![Note: All summoned Legion has a 0.01% chance of obtaining 1 completed constellation.](<../../.gitbook/assets/image (6).png>)
+![Note: All summoned Legion has a 0.01% chance of obtaining 1 completed constellation.](<../../../.gitbook/assets/image (6).png>)
 
 ### **Can I increase the odds of getting Rares from Summoning?**
 
 You can craft small/medium/large prisms and sacrifice them in the summoning circle to improve the odds of obtaining a rare Auxiliary Legion via summoning. The boost rates are as follows:
 
-![Note. For example, using a large crystal will decrease the odds of summoning a common Auxiliary by 7%, while also increasing the odds of obtaining an uncommon or rare.](../../.gitbook/assets/image.png)
+![Note. For example, using a large crystal will decrease the odds of summoning a common Auxiliary by 7%, while also increasing the odds of obtaining an uncommon or rare.](../../../.gitbook/assets/image.png)
 
 ### **Do I get anything special from Summoning?**
 

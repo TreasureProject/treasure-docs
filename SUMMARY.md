@@ -26,8 +26,6 @@
 
 * [Treasure Marketplace](marketplaces/using-the-marketplace/README.md)
   * [Listing on the Marketplace](marketplaces/using-the-marketplace/listing-on-the-marketplace.md)
-  * [Checking Rarities](marketplaces/using-the-marketplace/checking-rarities/README.md)
-    * [Legion Rarity](marketplaces/using-the-marketplace/checking-rarities/legion-rarity.md)
   * [API](marketplaces/using-the-marketplace/api.md)
 * [Trove Whitepaper](https://drive.google.com/file/d/1FyuF2To5nhXatlxHjIGhUkjcRcaQYjPR/view?usp=sharing)
 
@@ -42,7 +40,8 @@
     * [The Harvesters](bridgeworld/bridgeworld-litepaper/magic-mining/the-harvesters.md)
     * [Game Theory and Meta](bridgeworld/bridgeworld-litepaper/magic-mining/game-theory-and-meta.md)
   * [Barracks](bridgeworld/bridgeworld-litepaper/barracks.md)
-  * [Summoning Circle](bridgeworld/bridgeworld-litepaper/summoning-circle.md)
+  * [Summoning Circle](bridgeworld/bridgeworld-litepaper/summoning-circle/README.md)
+    * [Legion Rarity](bridgeworld/bridgeworld-litepaper/summoning-circle/legion-rarity.md)
   * [Ivory Tower](bridgeworld/bridgeworld-litepaper/ivory-tower.md)
   * [The Forge](bridgeworld/bridgeworld-litepaper/the-forge.md)
   * [Pilgrimage](bridgeworld/bridgeworld-litepaper/pilgrimage.md)
