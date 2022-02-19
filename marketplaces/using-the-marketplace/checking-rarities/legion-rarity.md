@@ -3,7 +3,7 @@
 ## **Genesis Legions in Existence**
 
 {% hint style="warning" %}
-**Important:** The supply of Genesis Legion will **never** increase moving forward.&#x20;
+**Important:** The supply of Genesis Legion will **never** increase moving forward.
 {% endhint %}
 
 * 5 1/1s Ultra Rares
@@ -41,23 +41,12 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 
 ## Non-Genesis Legions in Existence
 
-* 9 Assassin
-* 11 Range
-* 13 Spellcaster
-* 14 Siege
-* 21 Fighter
-* 1197 Common Legions
-
 {% hint style="info" %}
-**Note**: As per TIP-04, the TreasureDAO team will be minting 300 additional **Gen1 Common Legions** as part of our onboarding new user program.&#x20;
+**Note**: As per TIP-04, the TreasureDAO team will be minting 300 additional **Gen1 Common Legions** as part of our onboarding new user program.
 {% endhint %}
 
 {% hint style="warning" %}
-**Important:** As the Treasure metaverse scales, Gen1 Legions will be inflated via summoning mechanics. This is vital to ensure there exists a vibrant and participatory ecosystem that can accommodate the next wave of users.&#x20;
+**Important:** As the Treasure metaverse scales, Gen1 Legions will be inflated via summoning mechanics. This is vital to ensure there exists a vibrant and participatory ecosystem that can accommodate the next wave of users.
 {% endhint %}
 
 ![](../../../.gitbook/assets/Screenshot\_1.jpg)
-
-## Potential Plans
-
-![](<../../../.gitbook/assets/image (7) (1) (1).png>)![](<../../../.gitbook/assets/image (1) (1) (1).png>)
