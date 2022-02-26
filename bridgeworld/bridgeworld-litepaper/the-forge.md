@@ -14,9 +14,7 @@ In Season 1, Legions will have a maximum of 5 Crafting Levels. Increasing Legion
 
 ### **Do I need to pay MAGIC to craft a recipe?**
 
-Yes. There is a 5 MAGIC cost associated with crafting. Fee structure are as follows:
-
-![](<../../.gitbook/assets/image (11).png>)
+Yes. There is a 5 MAGIC cost associated with crafting. Crafting has a 100% chance of success.
 
 ### **Is there an auto-craft feature?**
 
@@ -44,14 +42,12 @@ When crafting, Treasures have a chance of breaking. Broken Treasures are sent to
 
 With the exception of Grin and Honeycomb, Treasures’ likelihood of breaking are based on their Tier. Treasures break during the process required to extract and apply the Magic at their core to Legions' craft. Legions who break a Grin or Honeycomb report feeling a tremor that shakes the very foundation of Bridgeworld, an Essence of Grin or Honeycomb in the debris.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](../../.gitbook/assets/Screenshot\_28.jpg)
 
 ### **How does crafting success rate interact with Treasures’ break chance?**
 
-**If your crafting is successful**, 100% of the MAGIC cost is consumed. Additionally, all the Treasures used in the recipe have a chance of breaking. For example: For a **prism recipe**
+**When your craft is successful**, 100% of the MAGIC cost is consumed. Additionally, all the Treasures used in the recipe have a chance of breaking. For example: For a **prism recipe**
 
 * The ingredients required are 1 x T3, 2x T4 and 4 x T5 Treasures
-* They have a 8.20%, 11.30% and 18.10% to break, respectively.&#x20;
-* If your craft succeeds (90% chance), the RNG is run against each of the Treasure. If the RNG hits the corresponding threshold probability, your Treasure breaks and is burned. This is repeated for each of the Treasures.
-
-**If your crafting fails**, you will be refunded 90% of the MAGIC required for the recipe, and nothing will happen to your Treasures.
+* They have a 6.90%, 11.30% and 15.30% to break, respectively.
+* The RNG is run against each of the Treasure. If the RNG hits the corresponding threshold probability, your Treasure breaks and is burned. This is repeated for each of the Treasures.
