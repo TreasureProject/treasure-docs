@@ -1,4 +1,4 @@
-# Staking $MAIC
+# Treasure Mine (Staking)
 
 ## What is staking?
 
@@ -8,7 +8,7 @@ Staking is the process of locking up your holdings (whether that be $MAGIC and/o
 
 Following the migration to Arbitrum, you can stake 2 things on Treasure:
 
-* $MAGIC in the Atlas Mine in Bridgeworld
+* $MAGIC in the Atlas Mine
 * SLP tokens in the MAGIC-WETH SLP
 
 {% hint style="danger" %}
