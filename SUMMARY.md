@@ -20,7 +20,7 @@
   * [Migrating Treasures to Arbitrum](getting-started/migrating-to-arbitrum/migrating-treasures-to-arbitrum.md)
 * [What is $MAGIC?](getting-started/what-is-magic/README.md)
   * [How do I buy $MAGIC?](getting-started/what-is-magic/how-do-i-buy-magic.md)
-* [Staking $MAIC](getting-started/treasure-mine-staking.md)
+* [Staking $MAGIC](getting-started/treasure-mine-staking.md)
 
 ## Marketplaces
 
