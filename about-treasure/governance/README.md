@@ -12,22 +12,22 @@ Typically, voting lasts 24-48 hours.
 
 ## Who is allowed to vote?
 
-Only veMAGIC holders (those staked in the Genesis Mine) and those with $MAGIC-WETH SLP in the Arbitrum LP Rewards contract are eligible to vote with gMAGIC. The longer the vest on your veMAGIC, the higher the weight of your vote.
+Only veMAGIC holders (those staked in the Atlas Mine) and those with $MAGIC-WETH SLP in the Arbitrum LP Rewards contract are eligible to vote with gMAGIC. The longer the vest on your veMAGIC, the higher the weight of your vote.
 
 ## **gMAGIC**
 
 Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. As such:
 
 * Only staked $MAGIC (veMAGIC) or $MAGIC-WETH SLP within the Arbitrum LP Rewards contract will count for voting - liquid $MAGIC (eg. unstaked or uncommited $MAGIC) will **NOT** count for governance.
-* gMAGIC derived from the Genesis Mine is weighted based on timelock - the longer the lock, the higher the weight.
+* gMAGIC derived from the Atlas Mine is weighted based on timelock - the longer the lock, the higher the weight.
 
-gMAGIC automatically adjusts for new positions in the Genesis Mine and SLP rewards contract.
+gMAGIC automatically adjusts for new positions in the Atlas Mine and SLP rewards contract.
 
 ## **Snapshot Voting**
 
 Snapshot voting will be based on your gMAGIC holdings on Arbitrum only.
 
-If you're already staked in the Genesis Mine or you have SLP within the LP Rewards contract, you do **NOT** need to do anything.&#x20;
+If you're already staked in the Atlas Mine or you have SLP within the LP Rewards contract, you do **NOT** need to do anything.
 
 To participate in voting, you'll need to connect your wallet to our Snapshot page (to be shared at later date) and your gMAGIC holdings will automatically appear. You must be connected to the Arbitrum network.
 
