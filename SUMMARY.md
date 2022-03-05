@@ -73,6 +73,7 @@
   * [Mine](https://mine.treasure.lol)
   * [Discord](https://discord.gg/treasuredao)
   * [Twitter](https://twitter.com/Treasure\_NFT)
+  * [GitHub] (https://github.com/TreasureProject)
 * [Contracts](references/contracts.md)
 * [Glossary](references/glossary.md)
 * [Articles and AMAs](references/articles.md)
