@@ -110,6 +110,16 @@ The table below highlights the requirements for each constellation. To get to Ra
 
 ![](../../../.gitbook/assets/Screenshot\_31.jpg)
 
+{% hint style="info" %}
+**1/1 and All-class Genesis Legion comes with Constellations pre-unlocked.**
+
+1/1: 3 Unlocked
+
+All-class: 1 Unlocked
+
+Uncommon/Special/Common has 10%/3%/1% to unlock 1 Constellation through Pilgrimage
+{% endhint %}
+
 #### FAQ for Starlight Temple
 
 * Can I stake MAGIC on my Rank 7 Legion yet? No this will be enabled closer to Season 2
