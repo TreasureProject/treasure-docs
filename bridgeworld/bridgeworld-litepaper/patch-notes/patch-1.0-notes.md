@@ -121,6 +121,12 @@ The table below highlights the requirements for each constellation. To get to Ra
 
 ## The Future <a href="#thefuture" id="thefuture"></a>
 
+{% hint style="danger" %}
+The below are **IDEAS** only and **NOT** implemented in Patch 1.0
+
+We would love feedback on some/all of these. Thank you.&#x20;
+{% endhint %}
+
 Beyond this, we are also excited to showcase some tentative ideas behind the scene. It is our hope to test and refine these ideas with the community for continued aligned interest:
 
 1. Providing more utility for Legion Genesis outside the mine.&#x20;
