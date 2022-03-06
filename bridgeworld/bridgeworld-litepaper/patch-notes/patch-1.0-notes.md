@@ -139,7 +139,7 @@ We would love feedback on some/all of these. Thank you.&#x20;
 
 1. Providing more utility for Legion Genesis outside the mine.&#x20;
    * For example: Rarer (Genesis) Legions able to complete Quests/Crafts faster&#x20;
-   * Auxiliary Legions have a chance at being Fatigue when questing, which prohibits them from starting the next quest for X days&#x20;
+   * A chance of Legions being Fatigue when questing.&#x20;
 2. Revamping the Recruit system.&#x20;
    * Implement features to combat bots&#x20;
    * Allow recruits to gain levels, and unlock other types of Loot.&#x20;
