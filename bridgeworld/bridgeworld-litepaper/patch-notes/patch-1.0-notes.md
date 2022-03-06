@@ -106,7 +106,7 @@ Completing a Rank 7 constellation will enable you to stake MAGIC on your legion.
 * Rank 7 constellation and&#x20;
 * MAGIC staked on Legion (information will be released as we approach Season 2).
 
-The table below highlights the requirements for each constellation. To get to Rank 2, for example, you will need 25 + 38 = 63 Essences of Starlight (and 3 Small Prisms).
+The table below highlights the requirements for each constellation. To get to Rank 2, for example, you will need 25 + 38 = 63 Essences of Starlight (and 1 Small Prism).
 
 ![](../../../.gitbook/assets/Screenshot\_31.jpg)
 
