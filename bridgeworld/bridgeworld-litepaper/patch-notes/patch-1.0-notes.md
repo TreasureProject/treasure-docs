@@ -117,6 +117,7 @@ The table below highlights the requirements for each constellation. To get to Ra
 * Can I sell Legions with Staked MAGIC on the Marketplace? Yes.
 * Will I eventually be able to unstake MAGIC from a Legion? Yes.
 * Which constellation do I pick? Up to you, each correspond to a different Realm in Season 2.
+* Will Legions with staked MAGIC on themselves earn MAGIC? No.
 
 ## The Future <a href="#thefuture" id="thefuture"></a>
 
