@@ -166,5 +166,5 @@ Moving forward, the Bridgeworld team will host fortnightly AMAs, where we can re
 If you have any suggestions or ideas (or any constructive criticism on current implementations), please reach out to us via the Bridgeworld Feedback Form (see below).
 
 {% hint style="info" %}
-**Bridgeworld 1.0 Patch Feedback Form**: https://forms.gle/N4Cpo6VZ3GLpdKV99 &#x20;
+**Bridgeworld 1.0 Patch Feedback Form**: [https://forms.gle/Ez5dNQumjtxR26CB8](https://forms.gle/Ez5dNQumjtxR26CB8) &#x20;
 {% endhint %}
