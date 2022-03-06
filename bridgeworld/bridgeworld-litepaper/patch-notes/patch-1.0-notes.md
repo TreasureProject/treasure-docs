@@ -18,7 +18,7 @@ The Summoning Circle is still being repaired. The Numeraire note that it's close
 Adjustments **A** and **D** are <mark style="color:red;">**temporary**</mark> measures while we integrate more complex ones.&#x20;
 {% endhint %}
 
-**Adjustment A: Increase Questing Duration**&#x20;
+**Adjustment A: Increase Questing Duration (Temporary)**
 
 * "easy": ~~8 hrs~~ => 23.5 hrs
 * "medium": ~~12 hr~~s => 35.5 hrs
@@ -36,7 +36,7 @@ Adjustments **A** and **D** are <mark style="color:red;">**temporary**</mark> me
 
 ![Updated Numbers](../../../.gitbook/assets/Screenshot\_29.jpg)
 
-**Adjustment D: Increase Crafting Duration**
+**Adjustment D: Increase Crafting Duration (Temporary)**
 
 * "prisms": ~~24 hrs~~ => 47.5 hrs&#x20;
 * "parts": ~~36 hrs~~ => 71.5 hrs
