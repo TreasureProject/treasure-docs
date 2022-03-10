@@ -14,8 +14,8 @@ New summoning mechanics to increase the sustainability of Bridgeworld economy. T
 
 **Adjustment A: Summoning now succeeds with a probability that**&#x20;
 
-* Decreases with the number of legions simultaneously summoning, and&#x20;
-* Increases with the number of legions crafting.
+* Decreases with the number of legions simultaneously summoning (globally), and&#x20;
+* Increases with the number of legions crafting (globally).
 
 {% hint style="danger" %}
 Summoning Success rate is **Global** (based on everyone playing Bridgeworld)&#x20;
