@@ -8,9 +8,45 @@ Attention all Legions! Reveal of the Starlight Temple!
 >
 > _The core focus will be on reducing Treasure inflation and slowing down crafting._&#x20;
 
-## Summoning&#x20;
+## Summoning 2.0 Post-Corruption Era Changes
 
-The Summoning Circle is still being repaired. The Numeraire note that it's close to completion.
+New summoning mechanics to increase the sustainability of Bridgeworld economy. The following changes incentives  opportunity costs and competition to slow down the growth rate of legions.&#x20;
+
+**Adjustment A: Summoning now succeeds with a probability that**&#x20;
+
+* Decreases with the number of legions simultaneously summoning, and&#x20;
+* Increases with the number of legions crafting.
+
+![](<../../../.gitbook/assets/unknown (6).png>)
+
+When summons fail:
+
+* All MAGIC and prisms are refunded&#x20;
+* Legion enters stasis, a 1 day lock which (cannot re-summoning or engage in other activities)
+
+This change links summoning to core Bridgeworld economic activities, aligning supply expansions more closely with the overall growth of active Bridgeworld users.
+
+**Adjustment B: Increase in Summoning Time**
+
+Base summoning duration increased from ~~7~~ => 10 days
+
+Prisms reduce summoning time, with base duration increased from 7 to 10 days.&#x20;
+
+Prisms are consumed to reduce summoning time&#x20;
+
+* Small Prism: Decrease 6 hours
+* Medium Prism: Decrease 24 hours
+* Large Prism: Decrease 74 hours
+
+Prisms cannot be stacked.
+
+{% hint style="info" %}
+Prisms will now serve two purposes (1) increase odds of obtaining a rare legion and (2) decrease the base summoning duration (contingent on the prism's size).&#x20;
+{% endhint %}
+
+{% hint style="warning" %}
+While this is a minor case of corruption, the Numeraires observed in some circles, further instabilities led to the need for additional prisms to improve the odds of success, and in some cases, a requirement to even initiate summoning.&#x20;
+{% endhint %}
 
 ## Questing and Crafting
 

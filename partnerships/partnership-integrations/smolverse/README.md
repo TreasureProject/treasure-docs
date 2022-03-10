@@ -2,9 +2,9 @@
 
 ## Overview
 
-BUILDING A SMOLVERSE WITH FREE MINTS AND GOOD VIBES.&#x20;
+BUILDING A SMOLVERSE WITH FREE MINTS AND GOOD VIBES.
 
-The long term vision (dream) of Smolverse is create a metaverse (either pixelated or 3D) where smolfrens can walk around, drive, shop, hang out.&#x20;
+The long term vision (dream) of Smolverse is create a metaverse (either pixelated or 3D) where smolfrens can walk around, drive, shop, hang out.
 
 {% embed url="https://medium.com/@SMOLBRAINS/smol-brains-a-beginners-guide-268e1b24aab8" %}
 
@@ -30,7 +30,7 @@ For more details, read [Smol Brains: A Beginner’s Guide](https://medium.com/@S
 
 ![May or may not be affa leaks](<../../../.gitbook/assets/image (5) (1) (1) (2) (1) (1).png>) ![More leeks](../../../.gitbook/assets/Screenshot\_3.jpg)
 
-### Smolbot&#x20;
+### Smolbot
 
 {% hint style="danger" %}
 This unofficial bot was developed for fun by **cureForOptimism#5061**. Smol admins are not associated with this bot and won't be able to assist you with any potential issues. Please ping **cureForOptimism** on the Smol Brains Discord with any feedback/questions.
@@ -50,9 +50,9 @@ Smol Bodies is also an experiment in decentralization. Community members have be
 **Smol Bodies Links:** [Website](https://www.smolverse.lol) | [Mint](https://smolverse.lol/station) | [Stake](https://www.smolverse.lol/smolbodies) | [Discord](https://discord.gg/XCKDQfRsXU)
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (7) (1) (1) (1).png>) ![](<../../../.gitbook/assets/unknown (6).png>)
+![](<../../../.gitbook/assets/image (7) (1) (1) (1).png>) ![](<../../../.gitbook/assets/unknown (6) (1).png>)
 
-## **Smolverse Team**&#x20;
+## **Smolverse Team**
 
 * [@jpatten\_\_](https://twitter.com/jpatten\_\_) (John) - Founder | Creative Advisor
 * [@DukePaints](https://twitter.com/DukePaints) - Concept Artist | Imperium
