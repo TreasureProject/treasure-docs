@@ -33,9 +33,9 @@ Prisms reduce summoning time, with base duration increased from 7 to 10 days.&#x
 
 Prisms are consumed to reduce summoning time&#x20;
 
-* Small Prism: Decrease X hours (Editing)
-* Medium Prism: Decrease X hours  (Editing)
-* Large Prism: Decrease X hours  (Editing)
+* Small Prism: Decrease 6 hours (0.25 days)
+* Medium Prism: Decrease 24 hours (1 day)
+* Large Prism: Decrease 72 hours (3 days)
 
 Prisms cannot be stacked.
 
