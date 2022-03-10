@@ -20,7 +20,7 @@ New summoning mechanics to increase the sustainability of Bridgeworld economy. T
 When summons fail:
 
 * All MAGIC and prisms are refunded&#x20;
-* Legion enters stasis, a 2 days lock which (cannot re-summon or engage in other activities)
+* Legion enters stasis, a **2** days lock which (cannot re-summon or engage in other activities)
 * Failing with AUX legion will **NOT** count towards the 1 Summon Limit
 
 This change links summoning to core Bridgeworld economic activities, aligning supply expansions more closely with the overall growth of active Bridgeworld users.
@@ -33,8 +33,8 @@ Prisms reduce summoning time, with base duration increased from 7 to 10 days.&#x
 
 Prisms are consumed to reduce summoning time&#x20;
 
-* Small Prism: Decrease 6 hours (0.25 days)
-* Medium Prism: Decrease 24 hours (1 day)
+* Small Prism: Decrease 12 hours (0.5 days)
+* Medium Prism: Decrease 36 hours (1.5 days)
 * Large Prism: Decrease 72 hours (3 days)
 
 Prisms cannot be stacked.
