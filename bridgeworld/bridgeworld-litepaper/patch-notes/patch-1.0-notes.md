@@ -25,7 +25,7 @@ prob\_summon\_legion(N, k, s) = 1 / (1 + (N/k\*s)\*\*2)
 
 * N: #current\_summoners
 * k: #current\_crafters
-* s: parameter to control sensitivity
+* s: parameter to control sensitivity (currently set as s = 1, but subject to changes)
 {% endhint %}
 
 ![Model of Summoning Success Rate](../../../.gitbook/assets/Screenshot\_32.jpg)
