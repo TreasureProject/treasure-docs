@@ -28,6 +28,8 @@ prob\_summon\_legion(N, k, s) = 1 / (1 + (N/k\*s)\*\*2)
 * s: parameter to control sensitivity
 {% endhint %}
 
+![Model of Summoning Success Rate](../../../.gitbook/assets/Screenshot\_32.jpg)
+
 When summon fails:
 
 * All MAGIC and prisms are refunded&#x20;
