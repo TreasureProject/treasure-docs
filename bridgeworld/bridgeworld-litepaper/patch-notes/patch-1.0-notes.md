@@ -17,6 +17,10 @@ New summoning mechanics to increase the sustainability of Bridgeworld economy. T
 * Decreases with the number of legions simultaneously summoning, and&#x20;
 * Increases with the number of legions crafting.
 
+{% hint style="danger" %}
+Summoning Success rate is **Global** (not individual)&#x20;
+{% endhint %}
+
 When summon fails:
 
 * All MAGIC and prisms are refunded&#x20;
@@ -29,9 +33,7 @@ This change links summoning to core Bridgeworld economic activities, aligning su
 
 Base summoning duration increased from ~~7~~ => 10 days
 
-Prisms reduce summoning time, with base duration increased from 7 to 10 days.&#x20;
-
-Prisms are consumed to reduce summoning time&#x20;
+Prisms reduce summoning time. Prisms are consumed to reduce summoning time&#x20;
 
 * Small Prism: Decrease 12 hours (0.5 days)
 * Medium Prism: Decrease 36 hours (1.5 days)
