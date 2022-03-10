@@ -65,7 +65,6 @@
 * [Community Projects](partnerships/community-projects/README.md)
   * [🐸 Toadstoolz](partnerships/community-projects/toadstoolz/README.md)
     * [FAQ](partnerships/community-projects/toadstoolz/faq.md)
-* [Ecosytem Integration Framework](partnerships/ecosytem-integration-framework.md)
 
 ## References
 
