@@ -20,7 +20,7 @@ New summoning mechanics to increase the sustainability of Bridgeworld economy. T
 When summons fail:
 
 * All MAGIC and prisms are refunded&#x20;
-* Legion enters stasis, a 1 day lock which (cannot re-summon or engage in other activities)
+* Legion enters stasis, a 2 days lock which (cannot re-summon or engage in other activities)
 * Failing with AUX legion will **NOT** count towards the 1 Summon Limit
 
 This change links summoning to core Bridgeworld economic activities, aligning supply expansions more closely with the overall growth of active Bridgeworld users.
