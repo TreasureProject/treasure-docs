@@ -17,7 +17,7 @@ New summoning mechanics to increase the sustainability of Bridgeworld economy. T
 * Decreases with the number of legions simultaneously summoning, and&#x20;
 * Increases with the number of legions crafting.
 
-When summons fail:
+When summon fails:
 
 * All MAGIC and prisms are refunded&#x20;
 * Legion enters stasis, a **2** days lock which (cannot re-summon or engage in other activities)
