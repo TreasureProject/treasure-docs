@@ -17,8 +17,6 @@ New summoning mechanics to increase the sustainability of Bridgeworld economy. T
 * Decreases with the number of legions simultaneously summoning, and&#x20;
 * Increases with the number of legions crafting.
 
-![](<../../../.gitbook/assets/unknown (6).png>)
-
 When summons fail:
 
 * All MAGIC and prisms are refunded&#x20;
