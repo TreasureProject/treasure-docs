@@ -32,7 +32,7 @@ prob\_summon\_legion(N, k, s) = 1 / (1 + (N/k\*s)\*\*2)
 
 When summon fails:
 
-* All MAGIC and prisms are refunded&#x20;
+* All MAGIC and prisms are refunded <mark style="color:red;">**after they return from the failed summon**</mark>
 * Legion enters stasis, a **2** days lock which (cannot re-summon or engage in other activities)
 * Failing with AUX legion will **NOT** count towards the 1 Summon Limit
 
