@@ -70,7 +70,7 @@ The below outlines the high-level process for deeper integration within the Trea
          * How the project will add value to the broader Treasure ecosystem (ie. grow network effects)
       6. The ask (including size of grant)
          * Bootstrapped liquidity / funding (incl. How it will be used)
-         * Ongoing Emissions (incl. How it will be used - size, duration, mechanics, implied ROI; complete emissions schedule template - to be provided)Treasure Marketplace Integration&#x20;
+         * Ongoing Emissions (incl. How it will be used - size, duration, mechanics, implied ROI; complete emissions schedule template - to be provided)&#x20;
          * Treasure Marketplace Integration
    2. White paper, lite paper and other relevant artefacts / materials
    3. Socials (eg. website, Discord, Twitter etc)
