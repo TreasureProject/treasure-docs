@@ -1,6 +1,6 @@
 # Summoning Circle
 
-{% embed url="https://youtu.be/rE7XF7EQ01Y" %}
+{% embed url="https://youtu.be/G33j-nns0vI" %}
 
 The Summoning Circle is where Legions can be sent to summon Auxiliary Legions. Summoning will take 7 days to complete and newly summoned Auxiliary Legions will experience a “Summoning Fatigue” which disables them from summoning for another 7 days.
 
