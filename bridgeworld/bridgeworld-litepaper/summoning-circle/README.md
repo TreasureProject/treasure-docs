@@ -2,7 +2,7 @@
 
 {% embed url="https://youtu.be/G33j-nns0vI" %}
 
-The Summoning Circle is where Legions can be sent to summon Auxiliary Legions. Summoning will take 7 days to complete and newly summoned Auxiliary Legions will experience a “Summoning Fatigue” which disables them from summoning for another 7 days.
+The Summoning Circle is where Legions can be sent to summon Auxiliary Legions. Summoning will take 10 days to complete and newly summoned Auxiliary Legions will experience a “Summoning Fatigue” which disables them from summoning for another 7 days. The 10 day Summoning length can be reduced with the use of Prisms.&#x20;
 
 Records kept by Summoner Melchizor suggest that the Summoning Circle needs occasional maintenance, especially after intense utilization. When this occurs, no new Auxiliary Legions can be summoned. Mysterious events in Bridgeworld can also impact the art of Summoning.
 
@@ -30,6 +30,8 @@ Legions are able to summon new Auxiliary Legions at the Summoning Altar. Balance
 You can craft small/medium/large prisms and sacrifice them in the summoning circle to improve the odds of obtaining a rare Auxiliary Legion via summoning. The boost rates are as follows:
 
 ![Note. For example, using a large crystal will decrease the odds of summoning a common Auxiliary by 7%, while also increasing the odds of obtaining an uncommon or rare.](../../../.gitbook/assets/image.png)
+
+You can also use a small, medium or large prism to reduce the Summoning time by 12 hours, 36 hours and 72 hours.
 
 ### **Do I get anything special from Summoning?**
 
