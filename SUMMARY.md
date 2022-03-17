@@ -79,7 +79,8 @@
   * [Twitter](https://twitter.com/Treasure\_NFT)
 * [Contracts](references/contracts.md)
 * [Glossary](references/glossary.md)
-* [Articles and AMAs](references/articles.md)
+* [Media & Content](references/articles/README.md)
+  * [TreasureDAO Announces Integration of Chainlink Oracles for Secure NFT Marketplace Pricing](references/articles/treasuredao-announces-integration-of-chainlink-oracles-for-secure-nft-marketplace-pricing.md)
 
 ## Get Involved
 
