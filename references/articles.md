@@ -6,7 +6,7 @@ description: Articles posted by Treasure on Medium, plus various interviews
 
 **Official Medium Page:** [https://medium.com/@TreasureNFT](https://medium.com/@TreasureNFT)
 
-## Mar 17, 2022 | [TreasureDAO Announces Integration of Chainlink Oracles for Secure NFT Marketplace Pricing](https://app.gitbook.com/o/QSGsBbSq3YtPSvuPl09q/s/6Fzd6KIBkr0J1u6G4iJv/\~/changes/aQos8JZjAcRqZFpGiBix/references/articles/treasuredao-announces-integration-of-chainlink-oracles-for-secure-nft-marketplace-pricing)
+## Mar 17, 2022 | [TreasureDAO Announces Integration of Chainlink Oracles for Secure NFT Marketplace Pricing](https://docs.treasure.lol/references/articles/treasuredao-announces-integration-of-chainlink-oracles-for-secure-nft-marketplace-pricing)
 
 _TreasureDAO is integrating Chainlink Price Feeds to deliver ETH prices on Arbitrum for Trove, its generalized NFT Marketplace._
 
@@ -42,7 +42,7 @@ _Quick Guide on Bridge from L1 (Eth) to L2 (Arbitrum)_
 
 _Genesis Mine, Genesis Legions, Group Rewards, Marketplace and Gameplay_
 
-## Oct 1, 2021 | [Treasure: v1 Game Theory](./#dec-1-2021-or-olympus-agora-soundbank-with-treasure-dao)
+## Oct 1, 2021 | [Treasure: v1 Game Theory](articles.md#dec-1-2021-or-olympus-agora-soundbank-with-treasure-dao)
 
 _Incentive Equilibrium between Treasure and $Magic, Genesis Mine Powering Up/Down_
 
