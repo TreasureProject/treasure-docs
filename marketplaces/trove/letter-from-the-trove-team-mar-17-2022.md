@@ -27,7 +27,7 @@ Since the announcement in February, we have been hard at work hiring to scale th
 * **sisu#1337** - Ecosystem Coordinator (former UX Designer)
 * **Duke#1000** - Concept Artist and Illustrator
 * **vinnytreasure#9958** - Solidity Developer&#x20;
-* **\*frannyverse#2033** - Front-End Developer (ex-Manifold and Dropbox)&#x20;
+* **\*frannyverse#2033** - Front-End Developer (Manifold and ex-Dropbox)&#x20;
 * **\*Antlion#2676** - Backend Developer (ex-Google)
 * **\*Peyton#4374** - UI/UX Designer (ex-Electronic Arts)
 * **\*a1rport#6969** - Communications (Corporate lawyer - M\&A)
