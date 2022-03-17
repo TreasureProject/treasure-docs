@@ -6,6 +6,10 @@ description: Articles posted by Treasure on Medium, plus various interviews
 
 **Official Medium Page:** [https://medium.com/@TreasureNFT](https://medium.com/@TreasureNFT)
 
+## Mar 1, 2022 | [Evolving Treasure’s Free Mint Model](https://medium.com/@TreasureNFT/evolving-treasures-free-mint-model-3b405224f382)
+
+_Treasure NFTs and MAGIC have been distributed for free. Treasure will continue to use this mint model for its products, but we are exploring ways to collaborate with projects that use paid mints._
+
 ## Dec 1, 2021 | [Olympus Agora Soundbank with Treasure DAO](https://www.twitch.tv/olympusagora/v/1221281944)
 
 _Interview with Treasure Council members John, Gaarp, and Tei_
