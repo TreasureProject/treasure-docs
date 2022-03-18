@@ -30,7 +30,7 @@ Initially, in Season 1, crafting can produce three types of productive consumabl
 
 Various recipes will require a number of different Treasures as ingredients (see below).&#x20;
 
-![](../../.gitbook/assets/Screenshot\_17.jpg)
+![](<../../.gitbook/assets/image (15).png>)
 
 ### **What are the crafting times and success rates?**
 

@@ -4,7 +4,7 @@
 
 The Ivory Tower is where Legions can set out on quests in search of Treasures and other items, growing more experienced as they continue to explore Bridgeworld’s frontiers. Questing points are awarded per completed quests, and these are used to automatically gain questing levels.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20) (1).png>)
 
 ### **How many Questing Points are required per level?**
 
@@ -30,17 +30,17 @@ Yes! You can stake Balancer Crystals to have the game automate questing for you.
 2. The Balancer Crystals requirements are per legion, not per wallet.
 3. Balancer Crystals tokens are locked for the duration of the auto-quest.
 
-![Note. This requirement is per legion. If you want to send two legions on easy 3 auto-questing loops, you will need to stake and lock 5 x 2 = 10 Balancer Crystals.](<../../.gitbook/assets/image (12) (1).png>)
+![Note: This requirement is per legion. If you want to send two legions on easy 3 auto-questing loops, you will need to stake and lock 5 x 2 = 10 Balancer Crystals.](<../../.gitbook/assets/image (14).png>)
 
 ### **What kinds of loot are dropped from Quests?**
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 ### **Does Treasures’ Tier affect their drop rate in Quests?**
 
-Yes, if a player is lucky enough to obtain a Treasure from a Quest (20% chance), the probability of them obtaining a T1 to T5 treasure is weighted based on the Questing Tier. Of importance, Grins and Honeycomb will not drop from Quests as their supply is capped.
+Yes, if a player is lucky enough to obtain a Treasure from a Quest (15% chance), the probability of them obtaining a T1 to T5 treasure is weighted based on the Questing Tier. Of importance, Grins and Honeycomb will not drop from Quests as their supply is capped.
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 ### **What is this loot used for?**
 

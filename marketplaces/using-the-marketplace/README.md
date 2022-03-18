@@ -18,12 +18,12 @@ For Treasures and Legions, the royalty fees are 5% if an item is sold. A minimum
 
 ## How can I buy an item on the marketplace?
 
-Navigate to any item available for sale and click the Purchase button. If you have insufficient $MAGIC in your wallet, you won't be able to buy the item and will need to purchase additional $MAGIC on SushiSwap. &#x20;
+Navigate to any item available for sale and click the Purchase button. If you have insufficient $MAGIC in your wallet, you won't be able to buy the item and will need to purchase additional $MAGIC on SushiSwap.
 
-![](<../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 {% hint style="info" %}
-**Note**: You will need **ETH** to conduct any transactions on the Marketplace&#x20;
+**Note**: You will need **ETH** to conduct any transactions on the Marketplace
 {% endhint %}
 
 ## Can I make an offer to items listed on the marketplace?
@@ -47,4 +47,3 @@ You can view all of your items and NFTs in your wallet by clicking on [Inventory
 ## I am missing my staked Treasures, where are they?
 
 Once Treasures have been staked, they have been deposited into the staking contract and no longer available in your wallet, thus they won't be visible in your inventory.
-

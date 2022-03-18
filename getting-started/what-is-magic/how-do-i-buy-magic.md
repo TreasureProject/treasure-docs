@@ -20,7 +20,7 @@ You can also buy ETH on Arbitrum directly on exchanges like [Binance](https://ww
 
 If you are on another network and not Arbitrum, follow these screenshot instructions to switch between networks.
 
-![At the top, click the "Ethereum" button near the middle of the screen.](<../../.gitbook/assets/image (10) (1) (1) (1).png>)
+![At the top, click the "Ethereum" button near the middle of the screen.](<../../.gitbook/assets/image (10) (1) (1) (1) (1).png>)
 
 ![Click the Arbitrum network.](<../../.gitbook/assets/image (3) (1).png>)
 

@@ -10,7 +10,9 @@ Records kept by Summoner Melchizor suggest that the Summoning Circle needs occas
 
 ### **How many Auxiliary Legions can I summon?**
 
-Genesis Legions can summon an unlimited supply of Auxiliary Legions, while Auxiliary Legions can only summon one fellow Auxiliary Legion. This will be reviewed over time to ensure inflation remains in balance with usage.
+Genesis Legions can summon an unlimited supply of Auxiliary Legions, while Auxiliary Legions can only summon one fellow Auxiliary Legion. This will be reviewed over time to ensure inflation remains in balance with usage.\
+\
+There is a chance on summoning failing that is tied to the number of Legions crafting versus the number of Legions summoning. If your summon fails, your Legion will be in stasis for two days, unable to complete other tasks. Your resources will be returned to you with the Legion at the end of the stasis period.
 
 ### **What are the Summoning costs and requirements?**
 
@@ -19,7 +21,7 @@ Legions are able to summon new Auxiliary Legions at the Summoning Altar. Balance
 ### **Difference between Genesis and Auxiliary in Summoning**
 
 ![\* MAGIC and LP fee will be reviewed on a constant basis to ensure the game meta remains accessible.&#x20;
-\*\*Returned at the end of the Summoning process.](<../../../.gitbook/assets/image (1).png>)
+\*\*Returned at the end of the Summoning process.](<../../../.gitbook/assets/image (16).png>)
 
 ### **What are the drop rates of Summoning?**
 
@@ -31,7 +33,10 @@ You can craft small/medium/large prisms and sacrifice them in the summoning circ
 
 ![Note. For example, using a large crystal will decrease the odds of summoning a common Auxiliary by 7%, while also increasing the odds of obtaining an uncommon or rare.](../../../.gitbook/assets/image.png)
 
-You can also use a small, medium or large prism to reduce the Summoning time by 12 hours, 36 hours and 72 hours.
+You can also use a small, medium or large prism to reduce the Summoning time by 12 hours, 36 hours and 72 hours.\
+
+
+![](<../../../.gitbook/assets/image (7).png>)
 
 ### **Do I get anything special from Summoning?**
 
