@@ -31,7 +31,7 @@ Legions are able to summon new Auxiliary Legions at the Summoning Altar. Balance
 
 You can craft small/medium/large prisms and sacrifice them in the summoning circle to improve the odds of obtaining a rare Auxiliary Legion via summoning. The boost rates are as follows:
 
-![Note. For example, using a large crystal will decrease the odds of summoning a common Auxiliary by 7%, while also increasing the odds of obtaining an uncommon or rare.](../../../.gitbook/assets/image.png)
+![Note. For example, using a large crystal will decrease the odds of summoning a common Auxiliary by 7%, while also increasing the odds of obtaining an uncommon or rare.](<../../../.gitbook/assets/image (1).png>)
 
 You can also use a small, medium or large prism to reduce the Summoning time by 12 hours, 36 hours and 72 hours.\
 

@@ -34,9 +34,9 @@ Now that you're on the Arbitrum network (you can confirm this with the "Arbitrum
 
 ![Type in "MAGIC" to find the $MAGIC token. If you don't have any $MAGIC, the number to the right will read "0".](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
-![Confirm that the screen looks like this to swap buy $MAGIC with ETH.](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
+![Confirm that the screen looks like this to swap buy $MAGIC with ETH.](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
-![Enter the amount of MAGIC you'd like to purchase OR the amount of ETH you'd like to spend. Click the "Swap" button when you're ready.](<../../.gitbook/assets/image (1) (1).png>)
+![Enter the amount of MAGIC you'd like to purchase OR the amount of ETH you'd like to spend. Click the "Swap" button when you're ready.](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ![Review the swap details and, when you're happy, click "Confirm Swap".](<../../.gitbook/assets/image (2) (1).png>)
 

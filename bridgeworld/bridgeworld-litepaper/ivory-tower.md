@@ -34,13 +34,13 @@ Yes! You can stake Balancer Crystals to have the game automate questing for you.
 
 ### **What kinds of loot are dropped from Quests?**
 
-![](<../../.gitbook/assets/image (20).png>)
+![](../../.gitbook/assets/image.png)
 
 ### **Does Treasures’ Tier affect their drop rate in Quests?**
 
 Yes, if a player is lucky enough to obtain a Treasure from a Quest (15% chance), the probability of them obtaining a T1 to T5 treasure is weighted based on the Questing Tier. Of importance, Grins and Honeycomb will not drop from Quests as their supply is capped.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 ### **What is this loot used for?**
 

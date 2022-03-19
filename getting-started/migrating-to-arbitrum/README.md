@@ -2,7 +2,7 @@
 
 ## Treasure on Arbitrum
 
-Originally created on the Ethereum Mainnet ("L1"), Treasure has since migrated to Arbitrum.&#x20;
+Originally created on the Ethereum Mainnet ("L1"), Treasure has since migrated to Arbitrum.
 
 [Arbitrum](https://arbitrum.io) is an Optimistic Rollup scaling solution and Layer 2 ("L2") protocol that allows participants to settle their transactions away from L1, leading to much lower transaction fees.
 
@@ -11,10 +11,10 @@ While many L2s exist, Arbitrum was selected for the following reasons:
 * **Significantly lower gas fees:** On Arbitrum, transactions fees and gas are a fraction of the costs on L1. This is illustrated on [L2Fees.info](https://l2fees.info) which contrasts the costs pertaining to transferring or swapping ETH and other tokens.
 * **Wide Adoption:** At the time of writing, Arbitrum's TVL was nearly US$2B.
 * **Partnerships**: With multiple DeFi transitioning to Arbitrum, it is critical for TreasureDAO to capture this momentum to establish mutually beneficial partnerships.
-* **Security**: Arbitrum has the right balance between speed and security.&#x20;
+* **Security**: Arbitrum has the right balance between speed and security.
 
 {% hint style="warning" %}
-**Note**: As multi-chain become more prevalent, it will matter less and less where Treasure's home base is (e.g., LUNA, MIM, and OHM transitioning to cross-chain).&#x20;
+**Note**: As multi-chain become more prevalent, it will matter less and less where Treasure's home base is (e.g., LUNA, MIM, and OHM transitioning to cross-chain).
 {% endhint %}
 
 ### **To learn more about L2, check out the following resources:**
@@ -24,7 +24,7 @@ While many L2s exist, Arbitrum was selected for the following reasons:
 * L2 Fees Checker: [https://l2fees.info/](https://l2fees.info)
 * The Arbitrum Ecosystem: [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)
 
-## Steps to Migrate to Arbitrum&#x20;
+## Steps to Migrate to Arbitrum
 
 _This tutorial assumes you have already downloaded a Web3 wallet like_ [_MetaMask_](https://metamask.io) _and that you have Ether or a token in that wallet on the Ethereum Mainnet._
 
@@ -42,7 +42,7 @@ On desktop, you can add the Arbitrum Network in two ways:
     2. Once you're logged in, click "Add L2 Network" in the top right corner and click "Switch network" in the popup that appears
 
     ![](<../../.gitbook/assets/image (4) (1) (1).png>)\
-    ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
+    ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 2. Manually by following these steps:
    1. Click on the MetaMask extension
    2.  Click on “Ethereum Mainnet” network at the top -> click on “Add Network” at the bottom of the menu, and enter the following in the tab that appears:
