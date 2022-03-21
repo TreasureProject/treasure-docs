@@ -47,6 +47,7 @@
   * [Ivory Tower](bridgeworld/bridgeworld-litepaper/ivory-tower.md)
   * [The Forge](bridgeworld/bridgeworld-litepaper/the-forge.md)
   * [Pilgrimage](bridgeworld/bridgeworld-litepaper/pilgrimage.md)
+  * [Starlight Temple](bridgeworld/bridgeworld-litepaper/starlight-temple.md)
   * [Patch Notes](bridgeworld/bridgeworld-litepaper/patch-notes/README.md)
     * [Patch 1.0 Notes](bridgeworld/bridgeworld-litepaper/patch-notes/patch-1.0-notes.md)
 

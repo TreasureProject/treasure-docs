@@ -34,7 +34,7 @@ Various recipes will require a number of different Treasures as ingredients (see
 
 ### **What are the crafting times and success rates?**
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 ### **Do Treasures have unlimited uses?**
 
