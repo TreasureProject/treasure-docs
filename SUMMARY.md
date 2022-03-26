@@ -72,14 +72,13 @@
 
 ## References
 
+* [Contracts](references/contracts.md)
 * [Official Links](about-treasure-dao/official-links/README.md)
   * [Website](https://treasure.lol)
   * [Marketplace](https://marketplace.treasure.lol)
-  * [Mine](https://mine.treasure.lol)
+  * [GitHub](https://github.com/TreasureProject)
   * [Discord](https://discord.gg/treasuredao)
   * [Twitter](https://twitter.com/Treasure\_NFT)
-  * [GitHub] (https://github.com/TreasureProject)
-* [Contracts](references/contracts.md)
 * [Glossary](references/glossary.md)
 * [Media & Content](references/articles.md)
   * [TreasureDAO Announces Integration of Chainlink Oracles for Secure NFT Marketplace Pricing](references/articles/treasuredao-announces-integration-of-chainlink-oracles-for-secure-nft-marketplace-pricing.md)

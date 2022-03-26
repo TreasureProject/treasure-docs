@@ -19,7 +19,7 @@
 
 ![](<../../../.gitbook/assets/image (5) (1) (1) (2) (1).png>)
 
-![](<../../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1) (2).png>)
 
 ### Other Genesis Legions
 
