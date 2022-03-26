@@ -8,6 +8,29 @@ Attention all Legions! Reveal of the Starlight Temple!
 >
 > _The core focus will be on reducing Treasure inflation and slowing down crafting._&#x20;
 
+## Crafting Changes (Temporary)
+
+As the community is already aware, the launch of harvesters will take longer pending audits, and we cannot provide exact dates when they will complete. In order to preserve the original game progression where dedicated crafters are building towards early access to harvesters, we will need to temporarily pause crafting EXP gains until harvesters are ready to safely launch.&#x20;
+
+Pausing EXP gains is to our knowledge, a fair way to preserve the original timeline for ALL crafters, as it affects everyone equally, whether they started early or later. It avoids arbitrary cutoff points which would be unfair to some crafters.&#x20;
+
+The longer lead time to harvesters also presents the possibility that many parts can be created and sold to unsuspecting buyers at large premiums meanwhile many more parts are created. This creates an adverse risk where buyers may both severely overpay and miss out on a place in harvesters. This would be a devastating outcome which we look to avoid.&#x20;
+
+To offset this inconvenience, we will look to **temporarily reduce break rates by 50%** so you can still craft prisms, and mini crafts in the near future when released.&#x20;
+
+EXP gain will be resumed **prior** to the release of the Harvesters.
+
+**Updated (Temporary) Break Chance**
+
+| Treasure Tier  | Probability that a Treasure will break during crafting |
+| -------------- | ------------------------------------------------------ |
+| Grin/Honeycomb | 0.15%                                                  |
+| 1              | 1.37%                                                  |
+| 2              | 2.70%                                                  |
+| 3              | 3.44%                                                  |
+| 4              | 5.65%                                                  |
+| 5              | 7.67%                                                  |
+
 ## Summoning 2.0 Post-Corruption Era Changes
 
 New summoning mechanics to increase the sustainability of Bridgeworld economy. The following changes incentives  opportunity costs and competition to slow down the growth rate of legions.&#x20;
