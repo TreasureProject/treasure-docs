@@ -20,8 +20,7 @@ Legions are able to summon new Auxiliary Legions at the Summoning Altar. Balance
 
 ### **Difference between Genesis and Auxiliary in Summoning**
 
-![\* MAGIC and LP fee will be reviewed on a constant basis to ensure the game meta remains accessible.&#x20;
-\*\*Returned at the end of the Summoning process.](<../../../.gitbook/assets/image (17).png>)
+![](../../../.gitbook/assets/Screenshot\_44.jpg)
 
 ### **What are the drop rates of Summoning?**
 
