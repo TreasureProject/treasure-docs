@@ -4,16 +4,20 @@
 
 * [@jpatten\_\_](https://twitter.com/jpatten\_\_) (John) - Founder | Creative Advisor
 * [@gaarping](https://twitter.com/\_gaarping) - Founder | Growth | Tokenomics | Partnerships
+* [@karel](https://twitter.com/0xkarel) - Chief Operating Officer
+* [@Travelerr](https://twitter.com/NFTravelerr) - Chief Financial Officer | PM Smolverse
 * [@Timoraegi](https://twitter.com/Timoraegi) (Tei) - Art Director | Narrative | Game Design
 * [@DukePaints](https://twitter.com/DukePaints) - Concept Artist | Imperium
 * [@Mao](https://twitter.com/Mezereth) - Art | Life NFT
 * [@pixel\_mat](https://twitter.com/pixel\_mat) - Art | Smol Brains
+* [@maximee](https://twitter.com/maximee\_eth) Art, Animation | Smolverse
 * [@notrealend](https://twitter.com/notrealend) - Product Lead | Quests | Consumables
 * [@jumpmanft](https://twitter.com/jumpmanft) - Marketplace Curation | Life NFT
 * [@sisu](https://twitter.com/sisukasgod) Social Media | Marketing
 * [@JustCheese](https://twitter.com/jc\_1917) - Front End Developer | UI
 * [@wyze](https://twitter.com/wyze) (Neil) - Front End Developer | UI
 * [@T1dev](https://twitter.com/pr0zy) - Solidity Developer
+* [@X\_](https://twitter.com/cxf\_0886) - Community Manager&#x20;
 
 ## Community
 
@@ -24,11 +28,11 @@ TreasureDAO could not be the entity it is today without the love and support fro
 **Community and Discord management**
 
 * [cryptopantone](https://twitter.com/cryptopantone) (Alex)
-* [@Trippe](https://twitter.com/NFTrippe)
-* [@X\_](https://twitter.com/cxf\_0886)
 * [NFTbroo](https://twitter.com/cryptonftbroo)
 * [Hildi](https://twitter.com/0xHildi)
 * JoeR
+* [Vic](https://twitter.com/bringthenoodle)
+* Loc8
 {% endtab %}
 
 {% tab title="Builders" %}
