@@ -17,6 +17,8 @@ The Ivory Tower is where Legions can set out on quests in search of Treasures an
 
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
+![](../../.gitbook/assets/FQ8MAeeacAA41id.jfif)
+
 In order to progress further into a journey, legions must satisfy questing level requirements:
 
 * Section 1: requires questing level 1
@@ -25,11 +27,9 @@ In order to progress further into a journey, legions must satisfy questing level
 
 #### **An illustration of the questing progress is shown below:**
 
-![Questing V2 Game Loop](https://lh3.googleusercontent.com/mFvFKPEaQjdjGgwMVzFdjeHoS-zhbJwhVFtalTmVe4b5y22Qy4xWIzjFk3-bYmjJ\_CW35NlWGko6gBCVRqTsE9q-A9jY2599Unhd284Kk4EfgVL8E2oDjs0mkomh2i38zULMrgdnrsrgZnDqTQ)
+![](../../.gitbook/assets/Questing-2-Game-Loop.jpg)
 
-The chance of finding a treasure fragment is 60% (boosted pending your Treasure Triad game outcomes), and drop rates for each tier of treasure across each section are detailed in the “Rewards” section below.&#x20;
-
-Continuing a journey for rarer treasures comes with risk. Users forfeit whatever loot they earned in the previous sections, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4hrs at the time of writing).&#x20;
+Continuing a journey for rarer treasures comes with risk. Users forfeit whatever loot they earned in the previous sections **(see Rewards Section)**, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4hrs at the time of writing).&#x20;
 
 Each level of constellation reduces stasis risk from the default 30% chance:
 
@@ -41,21 +41,26 @@ Each level of constellation reduces stasis risk from the default 30% chance:
 * Desert Ruins: Wind, Water
 * Icy Ascent: Light, Dark
 
+![](../../.gitbook/assets/entering\_region\_\_6\_.png)
+
 ## **Ending Journeys with Treasure Triad**
 
 In the third and final section of a journey, legions will play the Treasure Triad game using Treasures they equipped at the beginning. The goal is to flip as many cards to your control which boosts the loot drop rate. The game works as follows:
 
 1. Cards have 4 stats for the “north”, “east”, “south”, and “west” sides of the card.&#x20;
-2. When a card is placed next to another card, if the stats on your card is higher on the touching sides, you flip the adjacent card to your color!
-3. Players can place up to 3 cards on the grid by dragging and dropping a Treasure in their deck to an unflipped grid location of their choice.&#x20;
+
+![](../../.gitbook/assets/Screenshot\_65.jpg)
+
+1. When a card is placed next to another card, if the stats on your card is higher on the touching sides, you flip the adjacent card to your color!
+2. Players can place up to 3 cards on the grid by dragging and dropping a Treasure in their deck to an unflipped grid location of their choice.&#x20;
    * Simply click on a card to unplay it and move it back to your deck.&#x20;
-4. Grid cells with a purple color have a status effect of “corruption”. If you do not play a card on a corrupted grid cell, your legion will be put in stasis (frozen for X hours).&#x20;
+3. Grid cells with a purple color have a status effect of “corruption”. If you do not play a card on a corrupted grid cell, your legion will be put in stasis (frozen for X hours).&#x20;
    * Game generates at most 2 corrupted cells.
    * 1 unflipped “corruption” grid cell ⇒ 12 hrs stasis
    * 2 unflipped “corruption” grid cells ⇒ 24 hrs stasis
    * Note - genesis legions cannot be put in stasis.
-5. Once you play 3 cards, click “Finish Games” to submit a metamask transaction to complete the quest. Note that you do not have to place all 3 cards to finish the game.&#x20;
-6. The more cards flipped into your control, the higher the drop rate!
+4. Once you play 3 cards, click “Finish Games” to submit a metamask transaction to complete the quest. Note that you do not have to place all 3 cards to finish the game.&#x20;
+5. The more cards flipped into your control, the higher the drop rate!
    * 1 card ⇒ +3%
    * 2 cards ⇒ +6%
    * 3 cards ⇒ +9%
@@ -75,6 +80,8 @@ Two grid cells in the game are randomly selected to have “affinities” (alche
   * \+2 stat point boosts at most.
 
 ## Quest Rewards
+
+![](../../.gitbook/assets/image\_from\_ios.jpg)
 
 Drop rates for Treasure fragments (**soulbound and non-transferable**) are set to 60%, and each zone drops a category of treasure fragments as follows:
 
