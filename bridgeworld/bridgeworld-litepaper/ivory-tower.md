@@ -29,7 +29,7 @@ In order to progress further into a journey, legions must satisfy questing level
 
 ![](../../.gitbook/assets/Questing-2-Game-Loop.jpg)
 
-Continuing a journey for rarer treasures comes with risk. Users forfeit whatever loot they earned in the previous sections **(see Rewards Section)**, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4hrs at the time of writing).&#x20;
+Continuing a journey for rarer treasures comes with risk. Users forfeit whatever loot they earned in the previous sections **(see Rewards Section)**, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4 hrs at the time of writing).&#x20;
 
 Each level of constellation reduces stasis risk from the default 30% chance:
 
