@@ -64,7 +64,7 @@ In the third and final section of a journey, legions will play the Treasure Tria
    * 1 card ⇒ +3%
    * 2 cards ⇒ +6%
    * 3 cards ⇒ +9%
-   * For a total of 69% drop chance if all three cards are converted!
+   * Fragment standard drop rate is 60% so 3 cards flipped = 60 + 9 = 69%
 
 ![](<../../.gitbook/assets/image (4).png>)
 
