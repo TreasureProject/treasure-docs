@@ -13,7 +13,7 @@ The Ivory Tower is where Legions can set out on quests in search of Treasures an
   * Desert Ruins ⇒ Smithing and Leatherworking fragments
 * Constellations protect legions from stasis (temporary freeze) and enable them to equip more treasures, to be used in the “Treasure Triad” card game at the end.
 * Genesis Legions are (1) immune to stasis, (2) have better fragment drop rates and (3) have a low chance to loot full Treasures
-* Quests drop fragments, which can be combined via mini-crafts to full Treasures
+* Quests drop [soulbound ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)fragments, can be combined via mini-crafts to full&#x20;
 
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
@@ -83,7 +83,7 @@ Two grid cells in the game are randomly selected to have “affinities” (alche
 
 ![](../../.gitbook/assets/image\_from\_ios.jpg)
 
-Drop rates for Treasure fragments (**soulbound and non-transferable**) are set to 60%, and each zone drops a category of treasure fragments as follows:
+Drop rates for Treasure fragments ([**soulbound** ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)**and non-transferable**) are set to 60%, and each zone drops a category of treasure fragments as follows:
 
 * Corruption Canyons ⇒ Alchemy/Arcana fragments
 * Icy Ascent ⇒ Enchanting/Brewing fragments
