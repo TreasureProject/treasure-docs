@@ -24,7 +24,7 @@ If you are on another network and not Arbitrum, follow these screenshot instruct
 
 ![Click the Arbitrum network.](<../../.gitbook/assets/image (3) (1).png>)
 
-![Review the prompt that appears and click "Switch network".](<../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)
+![Review the prompt that appears and click "Switch network".](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png>)
 
 ### ii. Purchase $MAGIC
 
@@ -40,7 +40,7 @@ Now that you're on the Arbitrum network (you can confirm this with the "Arbitrum
 
 ![Review the swap details and, when you're happy, click "Confirm Swap".](<../../.gitbook/assets/image (2) (1).png>)
 
-![Review the MetaMask notification that appears and confirm the transaction once you've reviewed and are okay with all of the details.](<../../.gitbook/assets/image (5) (1) (1).png>)
+![Review the MetaMask notification that appears and confirm the transaction once you've reviewed and are okay with all of the details.](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **Note:** These steps are also applicable if you have a hardware wallet like a Ledger or a Trezor.

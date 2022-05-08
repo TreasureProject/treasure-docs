@@ -28,7 +28,7 @@ For more details, read [Smol Brains: A Beginner’s Guide](https://medium.com/@S
 
 ### Potential Plans
 
-![May or may not be affa leaks](<../../../.gitbook/assets/image (5) (1) (1) (1) (1).png>) ![More leeks](../../../.gitbook/assets/Screenshot\_3.jpg)
+![May or may not be affa leaks](<../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>) ![More leeks](../../../.gitbook/assets/Screenshot\_3.jpg)
 
 ### Smolbot
 

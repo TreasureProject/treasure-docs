@@ -1,52 +1,112 @@
 # Ivory Tower
 
-{% embed url="https://youtu.be/A-iyaRR66BU" %}
-
 The Ivory Tower is where Legions can set out on quests in search of Treasures and other items, growing more experienced as they continue to explore Bridgeworld’s frontiers. Questing points are awarded per completed quests, and these are used to automatically gain questing levels.
 
-![](<../../.gitbook/assets/image (20) (1).png>)
+![](<../../.gitbook/assets/image (20) (1) (1).png>)
 
-### **How many Questing Points are required per level?**
+## **Executive Summary:**
 
-In Season 1, Legions will have a maximum of 5 Questing Levels.
+* Quest duration are 7.5 hours / stage
+* Players can select multiple questing “zones”, each dropping different loot
+  * Corruption Canyons ⇒ Alchemy and Arcana fragments
+  * Icy Ascent ⇒ Enchanting and Brewing fragments
+  * Desert Ruins ⇒ Smithing and Leatherworking fragments
+* Constellations protect legions from stasis (temporary freeze) and enable them to equip more treasures, to be used in the “Treasure Triad” card game at the end.
+* Genesis Legions are (1) immune to stasis, (2) have better fragment drop rates and (3) have a low chance to loot full Treasures
+* Quests drop fragments, which can be combined via mini-crafts to full Treasures
 
-Increasing their QP unlocks more difficult quests, which then offer players better rewards. Questing experience and in turn, levels are automatically awarded for each successful quest completion (see below).
+## Embarking on Journeys <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
-![](<../../.gitbook/assets/image (9).png>)
+In order to progress further into a journey, legions must satisfy questing level requirements:
 
-### **How many quests are there?**
+* Section 1: requires questing level 1
+* Section 2: requires questing level 2
+* Section 3: requires questing level 3
 
-Initially, there are three tiers of quests: Easy, Medium and Hard.
+#### **An illustration of the questing progress is shown below:**
 
-### **Do I need to pay MAGIC to go on a quest?**
+![Questing V2 Game Loop](https://lh3.googleusercontent.com/mFvFKPEaQjdjGgwMVzFdjeHoS-zhbJwhVFtalTmVe4b5y22Qy4xWIzjFk3-bYmjJ\_CW35NlWGko6gBCVRqTsE9q-A9jY2599Unhd284Kk4EfgVL8E2oDjs0mkomh2i38zULMrgdnrsrgZnDqTQ)
 
-No. There is no MAGIC cost associated with questing.
+The chance of finding a treasure fragment is 60% (boosted pending your Treasure Triad game outcomes), and drop rates for each tier of treasure across each section are detailed in the “Rewards” section below.&#x20;
 
-### **Is there an auto-quest feature?**
+Continuing a journey for rarer treasures comes with risk. Users forfeit whatever loot they earned in the previous sections, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4hrs at the time of writing).&#x20;
 
-Yes! You can stake Balancer Crystals to have the game automate questing for you.
+Each level of constellation reduces stasis risk from the default 30% chance:
 
-1. Harder quests require more Balancer Crystals staked to activate the auto-quest feature.
-2. The Balancer Crystals requirements are per legion, not per wallet.
-3. Balancer Crystals tokens are locked for the duration of the auto-quest.
+![](https://lh4.googleusercontent.com/QsgRS-hkRHjrm0\_L27Dw\_xGmUJN2VZCHASt0UbN8L50fAM8OEsc5rk8\_eZ0qyjoUZ3nOzsECk8q-XAziktZ4DUHEB9sBhSwJ3FTXGGTmup7qXDQqn\_qtQBHzzFxNQVFh5P\_qmq81PA5Qvfu9ZA)
 
-![Note: This requirement is per legion. If you want to send two legions on easy 3 auto-questing loops, you will need to stake and lock 5 x 2 = 10 Balancer Crystals.](<../../.gitbook/assets/image (14).png>)
+**Note that each questing “zone” is affiliated with two elemental constellations.** In order for constellations to have any effect for a particular zone, legions must upgrade the correct one for the right zone. The “zone elemental affinities” are as follows:
 
-### **What kinds of loot are dropped from Quests?**
+* Corruption Canyons: Fire, Earth
+* Desert Ruins: Wind, Water
+* Icy Ascent: Light, Dark
 
-![](../../.gitbook/assets/image.png)
+## **Ending Journeys with Treasure Triad**
 
-### **Does Treasures’ Tier affect their drop rate in Quests?**
+In the third and final section of a journey, legions will play the Treasure Triad game using Treasures they equipped at the beginning. The goal is to flip as many cards to your control which boosts the loot drop rate. The game works as follows:
 
-Yes, if a player is lucky enough to obtain a Treasure from a Quest (15% chance), the probability of them obtaining a T1 to T5 treasure is weighted based on the Questing Tier. Of importance, Grins and Honeycomb will not drop from Quests as their supply is capped.
+1. Cards have 4 stats for the “north”, “east”, “south”, and “west” sides of the card.&#x20;
+2. When a card is placed next to another card, if the stats on your card is higher on the touching sides, you flip the adjacent card to your color!
+3. Players can place up to 3 cards on the grid by dragging and dropping a Treasure in their deck to an unflipped grid location of their choice.&#x20;
+   * Simply click on a card to unplay it and move it back to your deck.&#x20;
+4. Grid cells with a purple color have a status effect of “corruption”. If you do not play a card on a corrupted grid cell, your legion will be put in stasis (frozen for X hours).&#x20;
+   * Game generates at most 2 corrupted cells.
+   * 1 unflipped “corruption” grid cell ⇒ 12 hrs stasis
+   * 2 unflipped “corruption” grid cells ⇒ 24 hrs stasis
+   * Note - genesis legions cannot be put in stasis.
+5. Once you play 3 cards, click “Finish Games” to submit a metamask transaction to complete the quest. Note that you do not have to place all 3 cards to finish the game.&#x20;
+6. The more cards flipped into your control, the higher the drop rate!
+   * 1 card ⇒ +3%
+   * 2 cards ⇒ +6%
+   * 3 cards ⇒ +9%
+   * For a total of 69% drop chance if all three cards are converted!
+
+![](<../../.gitbook/assets/image (4).png>)
+
+### Additional Game Mechanics
+
+Two grid cells in the game are randomly selected to have “affinities” (alchemy, arcana, etc).&#x20;
+
+* Treasures are grouped into “affinities”
+  * Alchemy, arcana, brewing, leatherworking, smithing, etc
+* If a treasure of the same affinity as the cell is placed, the card enjoys a +1 stat boost
+  * e.g. Donkey is a “leather working” affinity treasure. When placed on a cell with a “leather working” affinity, will enjoy a +1 boost to stats.
+  * Each legion class has “affinities”, when they place a card on the gridCell with the same affinity, they get a +1 boost to the stats
+  * \+2 stat point boosts at most.
+
+## Quest Rewards
+
+Drop rates for Treasure fragments (**soulbound and non-transferable**) are set to 60%, and each zone drops a category of treasure fragments as follows:
+
+* Corruption Canyons ⇒ Alchemy/Arcana fragments
+* Icy Ascent ⇒ Enchanting/Brewing fragments
+* Desert Ruins ⇒ Smithing/Leatherworking fragments
+
+The probability of finding different rarity tiers of treasure fragments are as follows:
 
 ![](<../../.gitbook/assets/image (18).png>)
 
-### **What is this loot used for?**
+Questing EXP and Other Loot earned depends on the distance traveled:
 
-Quest rewards are used for different aspects of Bridgeworld. These are:
+![](<../../.gitbook/assets/image (20).png>)
 
-* Essence of Starlight: Used to upgrade Legion’s constellations.
-* Prism Shards: Exchange at Mysterious Merchant (coming soon) for complete Prisms.
-* Treasures: (a) Stake in the MAGIC mine or (b) Used to craft consumables
-* Universal Lock: ???
+### Bonuses for Genesis Legions <a href="#docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334" id="docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334"></a>
+
+Genesis Legions are immune to stasis in questing, have higher chances of finding treasure fragments, and have an additional chance to earn an additional full treasure during quests.
+
+![](<../../.gitbook/assets/image (16).png>)
+
+## Mini Crafts <a href="#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406" id="docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406"></a>
+
+Mini-crafts (to be added in a later patch) are entry level crafting recipes for players to experiment without the risk of breaking treasures. Some notable features include:&#x20;
+
+* Mini Crafts accessible by level 1 crafters.
+* Mini Craft is instant
+* Mini-craft has no influence on summoning probabilities
+* Fragments are soul-bound and cannot be mass purchased to max out crafting level.
+
+Treasure fragments and Prism Shards are consumed to produce a full Treasure.&#x20;
+
+**The reforge recipes are listed in the table below.**
+
+![](<../../.gitbook/assets/image (13).png>)
