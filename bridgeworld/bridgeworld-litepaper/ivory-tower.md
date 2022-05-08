@@ -4,7 +4,7 @@ The Ivory Tower is where Legions can set out on quests in search of Treasures an
 
 ![](<../../.gitbook/assets/image (20) (1) (1).png>)
 
-## **Executive Summary:**
+## **TLDR:**
 
 * Quest duration are 7.5 hours / stage
 * Players can select multiple questing “zones”, each dropping different loot
@@ -15,7 +15,7 @@ The Ivory Tower is where Legions can set out on quests in search of Treasures an
 * Genesis Legions are (1) immune to stasis, (2) have better fragment drop rates and (3) have a low chance to loot full Treasures
 * Quests drop fragments, which can be combined via mini-crafts to full Treasures
 
-## Embarking on Journeys <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
+## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
 In order to progress further into a journey, legions must satisfy questing level requirements:
 
