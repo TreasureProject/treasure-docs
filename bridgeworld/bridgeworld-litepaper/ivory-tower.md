@@ -35,7 +35,7 @@ Each level of constellation reduces stasis risk from the default 30% chance:
 
 ![](https://lh4.googleusercontent.com/QsgRS-hkRHjrm0\_L27Dw\_xGmUJN2VZCHASt0UbN8L50fAM8OEsc5rk8\_eZ0qyjoUZ3nOzsECk8q-XAziktZ4DUHEB9sBhSwJ3FTXGGTmup7qXDQqn\_qtQBHzzFxNQVFh5P\_qmq81PA5Qvfu9ZA)
 
-**Note that each questing “zone” is affiliated with two elemental constellations.** In order for constellations to have any effect for a particular zone, legions must upgrade the correct one for the right zone. The “zone elemental affinities” are as follows:
+**Note that each questing “zone” is affiliated with two elemental constellations.** In order for constellations to have any effect for a particular zone, legions must upgrade one of the two correct constellations for the right zone. The “zone elemental affinities” are as follows:
 
 * Corruption Canyons: Fire, Earth
 * Desert Ruins: Wind, Water
