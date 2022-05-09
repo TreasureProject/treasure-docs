@@ -11,7 +11,7 @@ The Ivory Tower is where Legions can set out on quests in search of Treasures an
   * Corruption Canyons ⇒ Alchemy and Arcana fragments
   * Icy Ascent ⇒ Enchanting and Brewing fragments
   * Desert Ruins ⇒ Smithing and Leatherworking fragments
-* Constellations protect legions from stasis (temporary freeze) and enable them to equip more treasures, to be used in the “Treasure Triad” card game at the end.
+* Constellations protect legions from stasis (temporary freeze) and enable them to equip more treasures, to be used in the “Treasure Triad” card game at the end. Each constellation level, up to 7, allows one Treasure to be equipped.
 * Genesis Legions are (1) immune to stasis, (2) have better fragment drop rates and (3) have a low chance to loot full Treasures
 * Quests drop [soulbound ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)fragments, can be combined via mini-crafts to full&#x20;
 
