@@ -116,4 +116,4 @@ Treasure fragments and Prism Shards are consumed to produce a full Treasure.&#x2
 
 **The reforge recipes are listed in the table below.**
 
-![](<../../.gitbook/assets/image (13).png>)
+![EXP gains are paused in-line with main crafting recipes](<../../.gitbook/assets/image (13).png>)
