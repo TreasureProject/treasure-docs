@@ -113,7 +113,3 @@ Mini-crafts (to be added in a later patch) are entry level crafting recipes for 
 * Fragments are soul-bound and cannot be mass purchased to max out crafting level.
 
 Treasure fragments and Prism Shards are consumed to produce a full Treasure.&#x20;
-
-**The reforge recipes are listed in the table below.**
-
-![EXP gains are paused in-line with main crafting recipes](<../../.gitbook/assets/image (13).png>)
