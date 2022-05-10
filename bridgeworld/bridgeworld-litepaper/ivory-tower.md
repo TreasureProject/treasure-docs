@@ -81,7 +81,7 @@ Two grid cells in the game are randomly selected to have “affinities” (alche
 
 ## Quest Rewards
 
-![](../../.gitbook/assets/image\_from\_ios.jpg)
+![](<../../.gitbook/assets/image (22).png>)
 
 Drop rates for Treasure fragments ([**soulbound** ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)**and non-transferable**) are set to 60%, and each zone drops a category of treasure fragments as follows:
 
