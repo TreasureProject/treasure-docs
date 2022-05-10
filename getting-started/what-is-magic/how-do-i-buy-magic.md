@@ -24,7 +24,7 @@ If you are on another network and not Arbitrum, follow these screenshot instruct
 
 ![Click the Arbitrum network.](<../../.gitbook/assets/image (3) (1).png>)
 
-![Review the prompt that appears and click "Switch network".](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png>)
+![Review the prompt that appears and click "Switch network".](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png>)
 
 ### ii. Purchase $MAGIC
 
