@@ -81,9 +81,9 @@ Two grid cells in the game are randomly selected to have “affinities” (alche
 
 ![Legion Affinities](<../../.gitbook/assets/image (14).png>)
 
-![](../../.gitbook/assets/Screenshot\_66.jpg)
+### Treasure Triad Card Stats
 
-![](<../../.gitbook/assets/image (13).png>)
+![](../../.gitbook/assets/Screenshot\_66.jpg)
 
 ## Quest Rewards
 
