@@ -76,8 +76,10 @@ Two grid cells in the game are randomly selected to have “affinities” (alche
   * Alchemy, arcana, brewing, leatherworking, smithing, etc
 * If a treasure of the same affinity as the cell is placed, the card enjoys a +1 stat boost
   * e.g. Donkey is a “leather working” affinity treasure. When placed on a cell with a “leather working” affinity, will enjoy a +1 boost to stats.
-  * Each legion class has “affinities”, when they place a card on the gridCell with the same affinity, they get a +1 boost to the stats
-  * \+2 stat point boosts at most.
+* Each legion class has “affinities”, when they place a card on the gridCell with the same affinity, they get a +1 boost to the stats
+  * Legion affinities are listed in the table below.
+
+![Legion Affinities](<../../.gitbook/assets/image (14).png>)
 
 ![](../../.gitbook/assets/Screenshot\_66.jpg)
 
