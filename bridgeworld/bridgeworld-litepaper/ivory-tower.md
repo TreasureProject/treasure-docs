@@ -79,6 +79,10 @@ Two grid cells in the game are randomly selected to have “affinities” (alche
   * Each legion class has “affinities”, when they place a card on the gridCell with the same affinity, they get a +1 boost to the stats
   * \+2 stat point boosts at most.
 
+![](../../.gitbook/assets/Screenshot\_66.jpg)
+
+![](<../../.gitbook/assets/image (13).png>)
+
 ## Quest Rewards
 
 ![](<../../.gitbook/assets/image (22).png>)
