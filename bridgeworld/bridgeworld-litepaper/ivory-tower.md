@@ -49,7 +49,7 @@ Each level of constellation reduces stasis risk from the default 30% chance:
 
 In the third and final section of a journey, legions will play the Treasure Triad game using Treasures they equipped at the beginning. The goal is to flip as many cards to your control which boosts the loot drop rate. The game works as follows:
 
-1. Cards have 4 stats for the “north”, “east”, “south”, and “west” sides of the card. View [here](https://docs.google.com/spreadsheets/d/1-CWlGEQPniy61se2HSjZKdP7q0VgCpwclSlQ6Zp3dc0/edit?usp=sharing) for an overview of each treasure’s stats.
+1. Cards have 4 stats for the “north”, “east”, “south”, and “west” sides of the card.&#x20;
 
 ![](../../.gitbook/assets/Screenshot\_65.jpg)
 
