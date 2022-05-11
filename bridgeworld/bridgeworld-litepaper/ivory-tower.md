@@ -17,6 +17,8 @@ The Ivory Tower is where Legions can set out on quests in search of Treasures an
 * Genesis Legions are (1) immune to stasis, (2) have better fragment drop rates and (3) have a low chance to loot full Treasures
 * Quests drop [soulbound ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)fragments, can be combined via mini-crafts to full&#x20;
 
+![Credit: Vic](../../.gitbook/assets/Untitled\_Draft-1.jpg)
+
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
 ![](../../.gitbook/assets/FQ8MAeeacAA41id.jfif)
