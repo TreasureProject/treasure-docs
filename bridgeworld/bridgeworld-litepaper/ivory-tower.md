@@ -47,30 +47,31 @@ Each level of constellation reduces stasis risk from the default 30% chance:
 
 ## **Ending Journeys with Treasure Triad**
 
-In the third and final section of a journey, legions will play the Treasure Triad game using Treasures they equipped at the beginning. The goal is to flip as many cards to your control which boosts the loot drop rate. The game works as follows:
+{% embed url="https://youtu.be/b7yxSabWaqU" %}
+Treasure Triad Video Tutorial
+{% endembed %}
 
-1. Cards have 4 stats for the “north”, “east”, “south”, and “west” sides of the card.&#x20;
+In the third and final section of a journey, legions will play the Treasure Triad game using Treasures they equipped at the beginning. The goal is to flip as many cards to your control which boosts the loot drop rate. The game works as follows:
 
 ![](../../.gitbook/assets/Screenshot\_65.jpg)
 
-1. When a card is placed next to another card, if the stats on your card is higher on the touching sides, you flip the adjacent card to your color!
-2. Players can place up to 3 cards on the grid by dragging and dropping a Treasure in their deck to an unflipped grid location of their choice.&#x20;
+1. Cards have 4 stats for the “north”, “east”, “south”, and “west” sides of the card.&#x20;
+2. When a card is placed next to another card, if the stats on your card is higher on the touching sides, you flip the adjacent card to your color!
+3. Players can place up to 3 cards on the grid by dragging and dropping a Treasure in their deck to an unflipped grid location of their choice.&#x20;
    * Simply click on a card to unplay it and move it back to your deck.&#x20;
-3. Grid cells with a purple color have a status effect of “corruption”. If you do not play a card on a corrupted grid cell, your legion will be put in stasis (frozen for X hours).&#x20;
+4. Grid cells with a purple color have a status effect of “corruption”. If you do not play a card on a corrupted grid cell, your legion will be put in stasis (frozen for X hours).&#x20;
    * Game generates at most 2 corrupted cells.
    * 1 unflipped “corruption” grid cell ⇒ 12 hrs stasis
    * 2 unflipped “corruption” grid cells ⇒ 24 hrs stasis
    * Note - genesis legions cannot be put in stasis.
-4. Once you play 3 cards, click “Finish Games” to submit a metamask transaction to complete the quest. Note that you do not have to place all 3 cards to finish the game.&#x20;
-5. The more cards flipped into your control, the higher the drop rate!
+5. Once you play 3 cards, click “Finish Games” to submit a metamask transaction to complete the quest. Note that you do not have to place all 3 cards to finish the game.&#x20;
+6. The more cards flipped into your control, the higher the drop rate!
    * 1 card ⇒ +3%
    * 2 cards ⇒ +6%
    * 3 cards ⇒ +9%
    * Fragment standard drop rate is 60% so 3 cards flipped = 60 + 9 = 69%
 
 ![](<../../.gitbook/assets/image (4).png>)
-
-{% embed url="https://youtu.be/b7yxSabWaqU" %}
 
 ### Additional Game Mechanics
 
