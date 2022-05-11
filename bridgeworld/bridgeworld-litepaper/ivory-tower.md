@@ -4,9 +4,9 @@
 
 The Ivory Tower is where Legions can set out on quests in search of Treasures and other items, growing more experienced as they continue to explore Bridgeworld’s frontiers. Questing points are awarded per completed quests, and these are used to automatically gain questing levels.
 
-![](<../../.gitbook/assets/image (20) (1) (1).png>)
-
 ## **TLDR:**
+
+![Credit: Vic](../../.gitbook/assets/Untitled\_Draft-1.jpg)
 
 * Quest duration are 7.5 hours / stage
 * Players can select multiple questing “zones”, each dropping different loot
@@ -16,8 +16,6 @@ The Ivory Tower is where Legions can set out on quests in search of Treasures an
 * Constellations protect legions from stasis (temporary freeze) and enable them to equip more treasures, to be used in the “Treasure Triad” card game at the end. Each constellation level, up to 7, allows one Treasure to be equipped.
 * Genesis Legions are (1) immune to stasis, (2) have better fragment drop rates and (3) have a low chance to loot full Treasures
 * Quests drop [soulbound ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)fragments, can be combined via mini-crafts to full&#x20;
-
-![Credit: Vic](../../.gitbook/assets/Untitled\_Draft-1.jpg)
 
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
