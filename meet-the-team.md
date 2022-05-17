@@ -2,20 +2,18 @@
 
 ## DAO Council
 
-* [@jpatten\_\_](https://twitter.com/jpatten\_\_) (John) - Founder | Creative Advisor
-* [@gaarping](https://twitter.com/\_gaarping) - Founder | Growth | Tokenomics | Partnerships
+* [@jpatten\_\_](https://twitter.com/jpatten\_\_) (John) - Co-Founder | Creative
+* [@gaarping](https://twitter.com/\_gaarping) - Co-Founder | Growth | Tokenomics | Partnerships
 * [@karel](https://twitter.com/0xkarel) - Chief Operating Officer
-* [@Travelerr](https://twitter.com/NFTravelerr) - Chief Financial Officer | PM Smolverse
-* [@Timoraegi](https://twitter.com/Timoraegi) (Tei) - Art Director | Narrative | Game Design
-* [@DukePaints](https://twitter.com/DukePaints) - Concept Artist | Imperium
-* [@Mao](https://twitter.com/Mezereth) - Art | Life NFT
-* [@pixel\_mat](https://twitter.com/pixel\_mat) - Art | Smol Brains
-* [@maximee](https://twitter.com/maximee\_eth) Art, Animation | Smolverse
+* [@Travelerr](https://twitter.com/NFTravelerr) - Finance | PM Smolverse
 * [@notrealend](https://twitter.com/notrealend) - Product Lead | Quests | Consumables
+* [@Timoraegi](https://twitter.com/Timoraegi) (Tei) - Art Director | Narrative | Game Design
+* [@DukePaints](https://twitter.com/DukePaints) - Concept Artist | Trove
+* [@pixel\_mat](https://twitter.com/pixel\_mat) - Art | Smolverse
+* [@maximee](https://twitter.com/maximee\_eth) Art, Animation | Smolverse
 * [@jumpmanft](https://twitter.com/jumpmanft) - Marketplace Curation | Life NFT
-* [@sisu](https://twitter.com/sisukasgod) Social Media | Marketing
-* [@JustCheese](https://twitter.com/jc\_1917) - Front End Developer | UI
-* [@wyze](https://twitter.com/wyze) (Neil) - Front End Developer | UI
+* [@JustCheese](https://twitter.com/jc\_1917) - Front-End Developer | UI
+* [@wyze](https://twitter.com/wyze) (Neil) - Front-End Developer | UI
 * [@T1dev](https://twitter.com/pr0zy) - Solidity Developer
 * [@X\_](https://twitter.com/cxf\_0886) - Community Manager&#x20;
 
