@@ -17,7 +17,9 @@
 * 711 Numeraires (8 different types)
 * 1564 Commons (12 different types)
 
-![](<../../../.gitbook/assets/image (4).png>)
+![All Class Genesis Legions](<../../../.gitbook/assets/All Class.png>)
+
+![Uncommon and Special Genesis Legions](../../../.gitbook/assets/Uncommon+Special.png)
 
 ### Other Genesis Legions
 
@@ -37,6 +39,8 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 {% endtab %}
 {% endtabs %}
 
+![Common Auxiliary Legions](<../../../.gitbook/assets/Aux Common.png>)
+
 ## Non-Genesis Legions in Existence
 
 {% hint style="info" %}
@@ -46,5 +50,3 @@ Only 540 exist in the Treasure Bridgeworld Metaverse.
 {% hint style="warning" %}
 **Important:** As the Treasure metaverse scales, Gen1 Legions will be inflated via summoning mechanics. This is vital to ensure there exists a vibrant and participatory ecosystem that can accommodate the next wave of users.
 {% endhint %}
-
-![](../../../.gitbook/assets/Screenshot\_1.jpg)
