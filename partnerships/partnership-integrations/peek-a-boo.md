@@ -12,7 +12,7 @@ Peek-A-Boo is a collection of adorable Ghosts and Busters inspired by Doodles. T
 
 On January 9, Treasure announced Peek-A-Boo as its [first project in the TreasureDAO Launchpad](https://twitter.com/Treasure\_NFT/status/1480083994905616384) and will be listed on the [Treasure Marketplace](https://marketplace.treasure.lol).
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 {% hint style="success" %}
 **Peek-A-Boo Links**: [Website](https://www.peekaboonft.io) | [Twitter](https://twitter.com/PeekABooGameNFT) | [Discord](https://discord.gg/peekaboo)

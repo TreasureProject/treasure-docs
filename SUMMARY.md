@@ -17,7 +17,6 @@
 * [Migrating to Arbitrum](getting-started/migrating-to-arbitrum/README.md)
   * [Using Arbiscan](getting-started/migrating-to-arbitrum/using-arbiscan.md)
   * [Bridging Back to Mainnet](getting-started/migrating-to-arbitrum/bridging-back-to-mainnet/README.md)
-  * [Migrating Treasures to Arbitrum](getting-started/migrating-to-arbitrum/migrating-treasures-to-arbitrum.md)
 * [What is $MAGIC?](getting-started/what-is-magic/README.md)
   * [How do I buy $MAGIC?](getting-started/what-is-magic/how-do-i-buy-magic.md)
 * [Staking $MAGIC](getting-started/treasure-mine-staking.md)
