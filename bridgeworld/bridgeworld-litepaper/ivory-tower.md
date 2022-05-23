@@ -88,7 +88,7 @@ Two grid cells in the game are randomly selected to have “affinities” (alche
 
 ### Treasure Triad Card Stats
 
-![](../../.gitbook/assets/Screenshot\_66.jpg)
+![](../../.gitbook/assets/triad\_points\_on\_treasures.jpg)
 
 ## Quest Rewards
 
