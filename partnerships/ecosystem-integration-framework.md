@@ -12,32 +12,32 @@ This framework is designed to provide clarity to the growing number of projects 
 ## Why build with us?
 
 * Onboard into one of the most vibrant and passionate grass-roots communities of builders, talent and users (ie. community bootstrapping);
-* Contribute to and benefit from significant network effects driven from cross-game NFT/token composability, shared infrastructure (eg. marketplace, AMM) and a unified unit of account (MAGIC);
+* Contribute to and benefit from significant network effects driven from cross-game NFT/token composability, shared infrastructure (eg. marketplace, AMM) and a unified unit of account ($MAGIC);
 * Leverage a high growth ecosystem with scale (eg. volume, liquidity, users, TVL, resources) and depth and breadth of capabilities;
-* Bootstrap operations and/or enrich game attractiveness by accessing a highly desired token with multi-layered demand (MAGIC) via grants;&#x20;
+* Bootstrap operations and/or enrich game attractiveness by accessing a highly desired token with multi-layered demand ($MAGIC) via grants;&#x20;
 * Access demand on the largest NFT marketplace on Arbitrum and one of the strongest on L2.
 
 ## **Levels of Integration**
 
 From discussions with and analysis of projects interested in Treasure, three key points of integration have emerged:
 
-1. **Bootstrapped liquidity and funding** - Help bootstrap the project with capital in its initial stages as a replacement for or complementary to a paid mint. This would be in the form of vesting MAGIC with key performance milestones.&#x20;
-2. **MAGIC emissions** - MAGIC and Treasure NFTs are woven deeply into the game mechanics and purpose of the project. Projects are seeking MAGIC in two primary ways:
-   1. Request emissions from TreasureDAO to complement or seed MAGIC rewards in their metaverse
-   2. Raise funds or re-invest their treasury into purchasing MAGIC and Treasure NFTs to actively participate in Bridgeworld, Life and/or Smolverse as a de facto ‘metaverse guild’. This forms both a ‘long’ on the Treasure ecosystem, and as a source of MAGIC for ongoing game rewards.
-3. **Treasure Marketplace integration** - All NFTs within an integrated project are exclusively listed on the Treasure Marketplace and denominated in MAGIC. Royalties received in MAGIC would go towards funding ongoing in-game rewards and / or participation in Bridgeworld / Life / Smolverse.
+1. **Bootstrapped liquidity and funding** - Help bootstrap the project with capital in its initial stages as a replacement for or complementary to a paid mint. This would be in the form of vesting $MAGIC with key performance milestones.&#x20;
+2. **$MAGIC emissions** - $MAGIC and Treasure NFTs are woven deeply into the game mechanics and purpose of the project. Projects are seeking $MAGIC in two primary ways:
+   1. Request emissions from TreasureDAO to complement or seed $MAGIC rewards in their metaverse
+   2. Raise funds or re-invest their treasury into purchasing $MAGIC and Treasure NFTs to actively participate in Bridgeworld, Life and/or Smolverse as a de facto ‘metaverse guild’. This forms both a ‘long’ on the Treasure ecosystem, and as a source of $MAGIC for ongoing game rewards.
+3. **Treasure Marketplace integration** - All NFTs within an integrated project are exclusively listed on the Treasure Marketplace and denominated in $MAGIC. Royalties received in $MAGIC would go towards funding ongoing in-game rewards and / or participation in Bridgeworld / Life / Smolverse.
 
 Projects will be required to select **what level of integration is sought** when submitting their application.
 
 ## Terms of Integration
 
-Treasure is committed to empowering and enabling the future builders of the ecosystem. This includes MAGIC (or other token) grants, MAGIC emissions and access to a growing network of talent. To align long-term interests and de-risk bad actors / impacts to the DAO, several ‘quid pro quo’ terms will be implemented.
+Treasure is committed to empowering and enabling the future builders of the ecosystem. This includes $MAGIC (or other token) grants, $MAGIC emissions and access to a growing network of talent. To align long-term interests and de-risk bad actors / impacts to the DAO, several ‘quid pro quo’ terms will be implemented.
 
-For any project receiving MAGIC for bootstrapping their launch (eg. initial capital) and/or ongoing emissions, the following key terms will be applied:&#x20;
+For any project receiving $MAGIC for bootstrapping their launch (eg. initial capital) and/or ongoing emissions, the following key terms will be applied:&#x20;
 
-1. MAGIC (or other tokens) supplied by TreasureDAO will be vested and released at agreed milestones and design choices (ie. MAGIC emissions must be used in a thoughtful way, not simple farming and dumping mechanics). Ongoing emissions will be subject to periodic performance reviews (eg. token design, user engagement) to ensure alignment&#x20;
+1. $MAGIC (or other tokens) supplied by TreasureDAO will be vested and released at agreed milestones and design choices (ie. $MAGIC emissions must be used in a thoughtful way, not simple farming and dumping mechanics). Ongoing emissions will be subject to periodic performance reviews (eg. token design, user engagement) to ensure alignment&#x20;
 2. If the project has or intends to launch a native token, the project commits to:&#x20;
-   1. Token X <> MAGIC as their primary LP
+   1. Token X <> $MAGIC as their primary LP
    2. Listing on a Treasure AMM (if and when one is developed)
 3. The project will provide TreasureDAO a commensurate value of NFTs / native tokens (eg. akin to a Treasury Swap) to align long-term interests. These will be subject to vesting periods.
 
