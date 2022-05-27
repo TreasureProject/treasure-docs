@@ -27,11 +27,11 @@ From discussions with and analysis of projects interested in Treasure, three key
    2. Raise funds or re-invest their treasury into purchasing $MAGIC and Treasure NFTs to actively participate in Bridgeworld, Life and/or Smolverse as a de facto ‘metaverse guild’. This forms both a ‘long’ on the Treasure ecosystem, and as a source of $MAGIC for ongoing game rewards.
 3. **Treasure Marketplace integration** - All NFTs within an integrated project are exclusively listed on the Treasure Marketplace and denominated in $MAGIC. Royalties received in $MAGIC would go towards funding ongoing in-game rewards and / or participation in Bridgeworld / Life / Smolverse.
 
-Projects will be required to select **what level of integration is sought** when submitting their application.
+Projects will be required to indicate **the desired level of integration** when submitting their application.
 
 ## Terms of Integration
 
-Treasure is committed to empowering and enabling the future builders of the ecosystem. This includes $MAGIC (or other token) grants, $MAGIC emissions and access to a growing network of talent. To align long-term interests and de-risk bad actors / impacts to the DAO, several ‘quid pro quo’ terms will be implemented.
+Treasure is committed to empowering and enabling the future builders of the ecosystem. This includes $MAGIC (or other token) grants, $MAGIC emissions and access to a growing network of talent. To align long-term interests and de-risk bad actors and impacts to the DAO, several ‘quid pro quo’ terms will be implemented.
 
 For any project receiving $MAGIC for bootstrapping their launch (eg. initial capital) and/or ongoing emissions, the following key terms will be applied:&#x20;
 
