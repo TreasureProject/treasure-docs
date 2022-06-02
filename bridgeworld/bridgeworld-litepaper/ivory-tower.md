@@ -1,6 +1,6 @@
 # Ivory Tower
 
-{% embed url="https://youtu.be/4KMlZCY7S2I" %}
+{% embed url="https://youtu.be/muCV8bvydRU" %}
 
 The Ivory Tower is where Legions can set out on quests in search of Treasures and other items, growing more experienced as they continue to explore Bridgeworld’s frontiers. Questing points are awarded per completed quests, and these are used to automatically gain questing levels.
 
