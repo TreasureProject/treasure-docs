@@ -127,3 +127,53 @@ Mini Crafts (to be added in a later patch) are entry level crafting recipes for 
 * Fragments are soul-bound and cannot be mass purchased to max out crafting level.
 
 View \[here]\([https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge](https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge)) for more information on Minicrafting.&#x20;
+
+
+
+## Fragment Swapper
+
+Due to a bug causing Treasure Fragments dropped during quests through the Desert Ruins and Icy Ascent to be switched, we have deployed a Fragment Swapper smart contract that will allow you to swap Brewing/Enchanting and Leathworking/Smithing Treasure Fragments of any tier for a limited time. The bug was patched on Monday, June 6, 2022 and all quests started after then will drop the correct Fragments without requiring any swapping.
+
+NOTE: Alchemy/Arcana Treasure Fragments will **NOT** be eligible for swapping as they were not affected by the bug.
+
+### Instructions
+
+1. Go to the [Fragment Swapper contract on Arbiscan](https://testnet.arbiscan.io/address/0xc161F3905c856A9B91f6C4C69D63a0d9c919a514#writeProxyContract) and navigate to Contract > Write as Proxy
+2. Click "Connect to Web3" and connect your wallet
+3. Scroll down to "9. swapFragments"
+4. Enter the list of Fragments you want to swap with the following format:
+
+```
+[[tokenId1,quantity1],[tokenId2,quantity2],...]
+```
+
+Eligible Treasure Fragment token IDs are as follows:
+
+#### Brewing/Enchanting
+
+| Tier | Token ID |
+| ---- | -------- |
+| T1   | 6        |
+| T2   | 7        |
+| T3   | 8        |
+| T4   | 9        |
+| T5   | 10       |
+
+#### Leatherworking/Smithing
+
+| Tier | Token ID |
+| ---- | -------- |
+| T1   | 11       |
+| T2   | 12       |
+| T3   | 13       |
+| T4   | 14       |
+| T5   | 15       |
+
+For example, if you want to swap three T4 Brewing/Enchanting Fragments and two T5 Leathworking/Smithing Fragments, your input would be:
+
+`[[9,3],[15,2]]`
+
+1. Click "Write" and send the transaction
+2. Wait a few minutes, then view your updated Resources inventory on the Bridgeworld UI
+
+If you encounter any issues or need assistance with the input formatting, please create a ticket on Discord in the [#bw-tickets channel](https://discord.com/channels/882867268021800991/974076966707798056)
