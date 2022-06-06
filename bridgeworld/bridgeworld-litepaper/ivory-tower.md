@@ -126,7 +126,7 @@ Mini Crafts (to be added in a later patch) are entry level crafting recipes for 
 * Mini-craft has no influence on summoning probabilities
 * Fragments are soul-bound and cannot be mass purchased to max out crafting level.
 
-View \[here]\([https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge](https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge)) for more information on Minicrafting.&#x20;
+View [here](https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge) for more information on Minicrafting.&#x20;
 
 
 
