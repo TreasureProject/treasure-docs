@@ -119,11 +119,11 @@ Genesis Legions are immune to stasis in questing, have higher chances of finding
 
 ## Mini Crafts <a href="#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406" id="docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406"></a>
 
-Mini-crafts (to be added in a later patch) are entry level crafting recipes for players to experiment without the risk of breaking treasures. Some notable features include:&#x20;
+Mini Crafts (to be added in a later patch) are entry level crafting recipes for players to experiment without the risk of breaking treasures. Mini Crafts use treasure fragments and Prism shards to craft a Treasure. Some notable features include:&#x20;
 
 * Mini Crafts accessible by level 1 crafters.
 * Mini Craft is instant
 * Mini-craft has no influence on summoning probabilities
 * Fragments are soul-bound and cannot be mass purchased to max out crafting level.
 
-Treasure fragments and Prism Shards are consumed to produce a full Treasure.&#x20;
+View \[here]\([https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge](https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge)) for more information on Minicrafting.&#x20;
