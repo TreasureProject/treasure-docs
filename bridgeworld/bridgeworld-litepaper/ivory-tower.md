@@ -138,9 +138,9 @@ NOTE: Alchemy/Arcana Treasure Fragments will **NOT** be eligible for swapping as
 
 ### Instructions
 
-1. Go to the [Fragment Swapper contract on Arbiscan](https://testnet.arbiscan.io/address/0xc161F3905c856A9B91f6C4C69D63a0d9c919a514#writeProxyContract) and navigate to Contract > Write as Proxy
+1. Go to the [Fragment Swapper contract on Arbiscan](https://arbiscan.io/address/0x54d154524a7D27FBEd750bf0bfF95822C5667256) and navigate to Contract > Write as Proxy
 2. Click "Connect to Web3" and connect your wallet
-3. Scroll down to "9. swapFragments"
+3. Scroll down to `9. swapFragments`
 4. Enter the list of Fragments you want to swap with the following format:
 
 ```
@@ -173,7 +173,8 @@ For example, if you want to swap three T4 Brewing/Enchanting Fragments and two T
 
 `[[9,3],[15,2]]`
 
-1. Click "Write" and send the transaction
-2. Wait a few minutes, then view your updated Resources inventory on the Bridgeworld UI
+5\. Click "Write" and send the transaction
+
+6\. Wait a few minutes, then view your updated Resources inventory on the Bridgeworld UI
 
 If you encounter any issues or need assistance with the input formatting, please create a ticket on Discord in the [#bw-tickets channel](https://discord.com/channels/882867268021800991/974076966707798056)
