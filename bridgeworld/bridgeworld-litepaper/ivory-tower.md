@@ -138,7 +138,7 @@ NOTE: Alchemy/Arcana Treasure Fragments will **NOT** be eligible for swapping as
 
 ### Instructions
 
-1. Go to the [Fragment Swapper contract on Arbiscan](https://arbiscan.io/address/0x54d154524a7D27FBEd750bf0bfF95822C5667256) and navigate to Contract > Write as Proxy
+1. Go to the [Fragment Swapper contract on Arbiscan](https://arbiscan.io/address/0x54d154524a7D27FBEd750bf0bfF95822C5667256#writeProxyContract) and navigate to Contract > Write as Proxy
 2. Click "Connect to Web3" and connect your wallet
 3. Scroll down to `9. swapFragments`
 4. Enter the list of Fragments you want to swap with the following format:
