@@ -1,49 +1,65 @@
+---
+description: >-
+  The Ivory Tower is where Legions can set out on quests in search of assets
+  hidden within Bridgeworld.
+---
+
 # Ivory Tower
 
-{% embed url="https://youtu.be/muCV8bvydRU" %}
+## Questing Overview
 
-The Ivory Tower is where Legions can set out on quests in search of Treasures and other items, growing more experienced as they continue to explore Bridgeworld’s frontiers. Questing points are awarded per completed quests, and these are used to automatically gain questing levels.
+The Ivory Tower is where Legions can set out on quests in search of Essence of Starlight, Treasure Fragments, and Prysm Shards. **Note** - Genesis Legions have the added advantage of finding full Treasures (in addition to the above).&#x20;
 
-## **TLDR:**
+Rewards from questing are used in a variety of ways across Bridgeworld. For example, treasure fragments can be used to craft full treasures within the Forge. Essence of starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more treasures while on their quest to earn higher tiered Treasure Fragments.&#x20;
 
-![Credit: Vic](../../.gitbook/assets/Untitled\_Draft-1.jpg)
-
-* Quest duration are 7.5 hours / stage
-* Players can select multiple questing “zones”, each dropping different loot
-  * Corruption Canyons ⇒ Alchemy and Arcana fragments
-  * Icy Ascent ⇒ Enchanting and Brewing fragments
-  * Desert Ruins ⇒ Smithing and Leatherworking fragments
-* Constellations protect legions from stasis (temporary freeze) and enable them to equip more treasures, to be used in the “Treasure Triad” card game at the end. Each constellation level, up to 7, allows one Treasure to be equipped.
-* Genesis Legions are (1) immune to stasis, (2) have better fragment drop rates and (3) have a low chance to loot full Treasures
-* Quests drop [soulbound ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)fragments, can be combined via mini-crafts to full Treasures
+Legions gain experience as they explore Bridgeworld’s frontiers. Questing points are awarded after each completed quests and are used to increase a legion's questing experience level. The higher a legion's questing level the farther they can go in a quest. Currently the farthest a legion can travel in a quest is through part 3 (this will be discussed more below). &#x20;
 
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
-![](../../.gitbook/assets/FQ8MAeeacAA41id.jfif)
+There are three zones a Legion can quest in. Each zone drops a specific affinity of Treasure fragments which can then be used to craft full treasures based on their affinity type. View \[[here](the-forge.md#treasure-affinities)] for an overview of which affinities craft certain treasures.&#x20;
 
-In order to progress further into a journey, legions must satisfy questing level requirements:
+#### Questing Zones and Fragment Drops
 
-* Section 1: requires questing level 1
-* Section 2: requires questing level 2
-* Section 3: requires questing level 3
+1. Corruption Canyons ==> drops Alchemy and Arcana Treasure Fragments
+2. Desert Ruins ==> drops Smithing and Leatherworking Fragments
+3. Icy Ascent ==> drops Enchanting and Brewing Fragments
+
+![Sending a Legion to quest within a specific zone](<../../.gitbook/assets/Screen Shot 2022-06-09 at 1.16.04 PM.png>)
+
+Legions have the opportunity to quest through three sections of a quest. In order to progress further into a journey, legions must satisfy questing level requirements:
+
+* Section 1: Requires Legions' to be questing level 1
+* Section 2: Requires Legions' to be questing level 2
+* Section 3: Requires Legions' to be questing level 3
 
 #### **An illustration of the questing progress is shown below:**
 
-![](../../.gitbook/assets/Questing-2-Game-Loop.jpg)
+![High level overview of questing](../../.gitbook/assets/Questing-2-Game-Loop.jpg)
 
 Continuing a journey for rarer treasures comes with risk. Users forfeit whatever loot they earned in the previous sections **(see Rewards Section)**, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4 hrs at the time of writing).&#x20;
 
-Each level of constellation reduces stasis risk from the default 30% chance:
+Each level of constellation reduces stasis risk from the default 30% chance (see chart below).&#x20;
 
 ![](https://lh4.googleusercontent.com/QsgRS-hkRHjrm0\_L27Dw\_xGmUJN2VZCHASt0UbN8L50fAM8OEsc5rk8\_eZ0qyjoUZ3nOzsECk8q-XAziktZ4DUHEB9sBhSwJ3FTXGGTmup7qXDQqn\_qtQBHzzFxNQVFh5P\_qmq81PA5Qvfu9ZA)
 
-**Note that each questing “zone” is affiliated with two elemental constellations.** In order for constellations to have any effect for a particular zone, legions must upgrade one of the two correct constellations for the right zone. The “zone elemental affinities” are as follows:
+#### Zone Constellation Types
 
-* Corruption Canyons: Fire, Earth
-* Desert Ruins: Wind, Water
-* Icy Ascent: Light, Dark
+Each questing “zone” is affiliated with **two** elemental constellations. In order for constellations to have any effect (ie reduce stasis) for a particular zone, legions must upgrade one of the two correct constellations for the right zone. The “zone elemental affinities” are as follows:
 
-![](../../.gitbook/assets/entering\_region\_\_6\_.png)
+* Corruption Canyons: Earth, Fire
+* Desert Ruins: Water, Wind
+* Icy Ascent: Dark, Light
+
+#### Equipping Legion's with Treasures
+
+Legion's with a questing level of at least 3 have the opportunity to quest through section 3 of a quest which gives them the opportunity to play Treasure Triad (a card game described in more detail below). In order to play Treasure Traid Legions need to equip at least 1 Treasure on their quest. Note - legions below questing level 3 can still quest, they just will not be able to quest to section 3. \
+
+
+![](<../../.gitbook/assets/Screen Shot 2022-06-09 at 2.09.13 PM.png>)
+
+#### Questing Tutorial
+
+{% embed url="https://youtu.be/muCV8bvydRU" %}
 
 ## **Ending Journeys with Treasure Triad**
 
@@ -51,9 +67,11 @@ Each level of constellation reduces stasis risk from the default 30% chance:
 Treasure Triad Video Tutorial
 {% endembed %}
 
-In the third and final section of a journey, legions will play the Treasure Triad game using Treasures they equipped at the beginning. The goal is to flip as many cards to your control which boosts the loot drop rate. The game works as follows:
+In the third and final section of a journey, legions will play the Treasure Triad game using Treasures they equipped at the beginning. The goal is to flip as many cards to your control which boosts the change your legion receives higher tiered Treasure Fragments and/or Treasures.&#x20;
 
-![](../../.gitbook/assets/Screenshot\_65.jpg)
+![Treasure Triad](../../.gitbook/assets/Screenshot\_65.jpg)
+
+The game works as follows:
 
 1. Cards have 4 stats for the “north”, “east”, “south”, and “west” sides of the card.&#x20;
 2. When a card is placed next to another card, if the stats on your card is higher on the touching sides, you flip the adjacent card to your color!
@@ -119,7 +137,7 @@ Genesis Legions are immune to stasis in questing, have higher chances of finding
 
 ## Mini Crafts <a href="#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406" id="docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406"></a>
 
-Mini Crafts (to be added in a later patch) are entry level crafting recipes for players to experiment without the risk of breaking treasures. Mini Crafts use treasure fragments and Prism shards to craft a Treasure. Some notable features include:&#x20;
+Mini Crafts are entry level crafting recipes for players to experiment without the risk of breaking treasures. Mini Crafts use treasure fragments and Prism shards to craft a Treasure. Some notable features include:&#x20;
 
 * Mini Crafts accessible by level 1 crafters.
 * Mini Craft is instant
@@ -127,8 +145,6 @@ Mini Crafts (to be added in a later patch) are entry level crafting recipes for 
 * Fragments are soul-bound and cannot be mass purchased to max out crafting level.
 
 View [here](https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge) for more information on Minicrafting.&#x20;
-
-
 
 ## Fragment Swapper
 
