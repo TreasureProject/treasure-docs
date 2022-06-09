@@ -16,7 +16,7 @@ Legions gain experience as they explore Bridgeworld’s frontiers. Questing poin
 
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
-There are three zones a Legion can quest in. Each zone drops a specific affinity of Treasure fragments which can then be used to craft full treasures based on their affinity type. View \[[here](the-forge.md#treasure-affinities)] for an overview of which affinities craft certain treasures.&#x20;
+There are three zones a Legion can quest in. Each zone drops a specific affinity of Treasure fragments which can then be used to craft full treasures based on their affinity type. View [here](the-forge.md#treasure-affinities) for an overview of which affinities craft certain treasures.&#x20;
 
 #### Questing Zones and Fragment Drops
 
@@ -24,7 +24,7 @@ There are three zones a Legion can quest in. Each zone drops a specific affinity
 2. Desert Ruins ==> drops Smithing and Leatherworking Fragments
 3. Icy Ascent ==> drops Enchanting and Brewing Fragments
 
-![Sending a Legion to quest within a specific zone](<../../.gitbook/assets/Screen Shot 2022-06-09 at 1.16.04 PM.png>)
+![Sending a Legion to quest within a specific zone. 'Optimized' Legions have the same constellation as the zone. ](<../../.gitbook/assets/Screen Shot 2022-06-09 at 1.16.04 PM.png>)
 
 Legions have the opportunity to quest through three sections of a quest. In order to progress further into a journey, legions must satisfy questing level requirements:
 
@@ -32,11 +32,7 @@ Legions have the opportunity to quest through three sections of a quest. In orde
 * Section 2: Requires Legions' to be questing level 2
 * Section 3: Requires Legions' to be questing level 3
 
-#### **An illustration of the questing progress is shown below:**
-
-![High level overview of questing](../../.gitbook/assets/Questing-2-Game-Loop.jpg)
-
-Continuing a journey for rarer treasures comes with risk. Users forfeit whatever loot they earned in the previous sections **(see Rewards Section)**, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4 hrs at the time of writing).&#x20;
+Continuing a journey for rarer treasures comes with risk. Users forfeit whatever loot they earned in the previous sections **(see** [**Rewards Section**](ivory-tower.md#quest-rewards)**)**, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4 hrs at the time of writing).&#x20;
 
 Each level of constellation reduces stasis risk from the default 30% chance (see chart below).&#x20;
 
@@ -44,7 +40,7 @@ Each level of constellation reduces stasis risk from the default 30% chance (see
 
 #### Zone Constellation Types
 
-Each questing “zone” is affiliated with **two** elemental constellations. In order for constellations to have any effect (ie reduce stasis) for a particular zone, legions must upgrade one of the two correct constellations for the right zone. The “zone elemental affinities” are as follows:
+Each questing “zone” is affiliated with **two** elemental constellations. In order for constellations to have any effect for a particular zone (ie reduce stasis), legions must upgrade one of the two correct constellations for the right zone. The “zone elemental affinities” are as follows:
 
 * Corruption Canyons: Earth, Fire
 * Desert Ruins: Water, Wind
@@ -52,14 +48,16 @@ Each questing “zone” is affiliated with **two** elemental constellations. In
 
 #### Equipping Legion's with Treasures
 
-Legion's with a questing level of at least 3 have the opportunity to quest through section 3 of a quest which gives them the opportunity to play Treasure Triad (a card game described in more detail below). In order to play Treasure Traid Legions need to equip at least 1 Treasure on their quest. Note - legions below questing level 3 can still quest, they just will not be able to quest to section 3. \
+Legion's with a questing level of at least 3 have the opportunity to quest through section 3 of a quest which gives them the opportunity to play Treasure Triad (a card game described in more detail below). In order to play Treasure Triad, Legions need to equip at least 1 Treasure on their quest. Note - legions below questing level 3 can still quest but will not be able to quest to section 3. \
 
 
-![](<../../.gitbook/assets/Screen Shot 2022-06-09 at 2.09.13 PM.png>)
+![Adding treasures to a legion to be used during part 3 of a quest when playing Treasure Triad](<../../.gitbook/assets/Screen Shot 2022-06-09 at 2.09.13 PM.png>)
 
-#### Questing Tutorial
+### Questing Overview Diagram
 
-{% embed url="https://youtu.be/muCV8bvydRU" %}
+![High level overview of questing](../../.gitbook/assets/Questing-2-Game-Loop.jpg)
+
+### Questing Tutorial
 
 ## **Ending Journeys with Treasure Triad**
 
@@ -134,6 +132,8 @@ Questing EXP and Other Loot earned depends on the distance traveled:
 Genesis Legions are immune to stasis in questing, have higher chances of finding treasure fragments, and have an additional chance to earn an additional full treasure during quests.
 
 ![](<../../.gitbook/assets/image (16).png>)
+
+{% embed url="https://youtu.be/muCV8bvydRU" %}
 
 ## Mini Crafts <a href="#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406" id="docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406"></a>
 
