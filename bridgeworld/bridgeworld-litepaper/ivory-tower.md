@@ -63,7 +63,7 @@ Legion's with a questing level of at least 3 have the opportunity to quest throu
 Treasure Triad Video Tutorial
 {% endembed %}
 
-In the third and final section of a journey, legions will play the Treasure Triad game using Treasures they equipped at the beginning. The goal is to flip as many cards to your control which boosts the change your legion receives higher tiered Treasure Fragments and/or Treasures.&#x20;
+Legions who have questing level 3 (or greater) and equipped treasures will play the Treasure Triad game in the last part of their quest. The goal is to flip as many cards to your control which boosts the change your legion receives higher tiered Treasure Fragments and/or Treasures.&#x20;
 
 ![Treasure Triad](../../.gitbook/assets/Screenshot\_65.jpg)
 
