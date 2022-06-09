@@ -57,8 +57,6 @@ Legion's with a questing level of at least 3 have the opportunity to quest throu
 
 ![High level overview of questing](../../.gitbook/assets/Questing-2-Game-Loop.jpg)
 
-### Questing Tutorial
-
 ## **Ending Journeys with Treasure Triad**
 
 {% embed url="https://youtu.be/b7yxSabWaqU" %}
@@ -132,6 +130,8 @@ Questing EXP and Other Loot earned depends on the distance traveled:
 Genesis Legions are immune to stasis in questing, have higher chances of finding treasure fragments, and have an additional chance to earn an additional full treasure during quests.
 
 ![](<../../.gitbook/assets/image (16).png>)
+
+## Questing Tutorial
 
 {% embed url="https://youtu.be/muCV8bvydRU" %}
 
