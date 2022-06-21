@@ -8,50 +8,43 @@ description: >-
 
 ## Questing Overview
 
-The Ivory Tower is where Legions can set out on quests in search of Essence of Starlight, Treasure Fragments, and Prysm Shards. **Note** - Genesis Legions have the added advantage of finding full Treasures (in addition to the above).&#x20;
+The Ivory Tower is where Legions can set out on quests in search of Essence of Starlight, Treasure Fragments, and Prism Shards. **NOTE:** Genesis Legions have the added advantage of finding full Treasures (in addition to the above).&#x20;
 
-Rewards from questing are used in a variety of ways across Bridgeworld. For example, treasure fragments can be used to craft full treasures within the Forge. Essence of starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more treasures while on their quest to earn higher tiered Treasure Fragments.&#x20;
+Rewards from questing are used in a variety of ways across Bridgeworld. For example, Treasure Fragments can be used to [Mini Craft](ivory-tower.md#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406) full Treasures at [The Forge](the-forge.md). Essence of Starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more Treasures while on quests to earn higher tiered Treasure Fragments.
 
-Legions gain experience as they explore Bridgeworld’s frontiers. Questing points are awarded after each completed quests and are used to increase a legion's questing experience level. The higher a legion's questing level the farther they can go in a quest. Currently the farthest a legion can travel in a quest is through part 3 (this will be discussed more below). &#x20;
+Legions gain experience as they explore Bridgeworld’s frontiers. Questing points are awarded after each completed quest and are used to increase a Legion's questing experience level. The higher a Legion's questing level, the farther they can go in a quest. Currently the farthest a Legion can travel in a quest is through [Part 3](ivory-tower.md#questing-zones-and-fragment-drops). &#x20;
 
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
-There are three zones a Legion can quest in. Each zone drops a specific affinity of Treasure fragments which can then be used to craft full treasures based on their affinity type. View [here](the-forge.md#treasure-affinities) for an overview of which affinities craft certain treasures.&#x20;
+There are three regions a Legion can quest in. Each region drops a specific affinity of Treasure Fragments which can then be used to Mini Craft full Treasures based on their affinity type. View [here](the-forge.md#treasure-affinities) for an overview of Treasure affinities.
 
-#### Questing Zones and Fragment Drops
+![Sending a Legion to quest within a specific region. 'Optimized' Legions have the same constellation as the region. ](<../../.gitbook/assets/Screen Shot 2022-06-09 at 1.16.04 PM.png>)
 
-1. Corruption Canyons ==> drops Alchemy and Arcana Treasure Fragments
-2. Desert Ruins ==> drops Smithing and Leatherworking Fragments
-3. Icy Ascent ==> drops Enchanting and Brewing Fragments
+Legions have the opportunity to quest through three parts of a quest. In order to progress further into a journey, Legions must satisfy questing level requirements:
 
-![Sending a Legion to quest within a specific zone. 'Optimized' Legions have the same constellation as the zone. ](<../../.gitbook/assets/Screen Shot 2022-06-09 at 1.16.04 PM.png>)
+* Part 1: Requires Legions to be at least Questing Level 1
+* Part 2: Requires Legions to be at least Questing Level 2
+* Part 3: Requires Legions to be at least Questing Level 3
 
-Legions have the opportunity to quest through three sections of a quest. In order to progress further into a journey, legions must satisfy questing level requirements:
+Continuing a journey for rarer Treasures comes with risk. Users forfeit whatever loot they earned in the previous sections **(see** [**Rewards Section**](ivory-tower.md#quest-rewards)**)**, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4 hrs at the time of writing).&#x20;
 
-* Section 1: Requires Legions' to be questing level 1
-* Section 2: Requires Legions' to be questing level 2
-* Section 3: Requires Legions' to be questing level 3
-
-Continuing a journey for rarer treasures comes with risk. Users forfeit whatever loot they earned in the previous sections **(see** [**Rewards Section**](ivory-tower.md#quest-rewards)**)**, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4 hrs at the time of writing).&#x20;
-
-Each level of constellation reduces stasis risk from the default 30% chance (see chart below).&#x20;
+Each level of constellation reduces stasis risk from the default 30% chance:&#x20;
 
 ![](https://lh4.googleusercontent.com/QsgRS-hkRHjrm0\_L27Dw\_xGmUJN2VZCHASt0UbN8L50fAM8OEsc5rk8\_eZ0qyjoUZ3nOzsECk8q-XAziktZ4DUHEB9sBhSwJ3FTXGGTmup7qXDQqn\_qtQBHzzFxNQVFh5P\_qmq81PA5Qvfu9ZA)
 
-#### Zone Constellation Types
+#### Region Constellation Types
 
-Each questing “zone” is affiliated with **two** elemental constellations. In order for constellations to have any effect for a particular zone (ie reduce stasis), legions must upgrade one of the two correct constellations for the right zone. The “zone elemental affinities” are as follows:
+Each questing region is affiliated with **two** elemental constellations. In order for constellations to have any effect for a particular region (i.e., reduce stasis and enable Treasures to be equipped), Legions must upgrade one of the two correct constellations for the right region. The “region elemental affinities” are as follows:
 
 * Corruption Canyons: Earth, Fire
 * Desert Ruins: Water, Wind
 * Icy Ascent: Dark, Light
 
-#### Equipping Legion's with Treasures
+#### Equipping Legions with Treasures
 
-Legion's with a questing level of at least 3 have the opportunity to quest through section 3 of a quest which gives them the opportunity to play Treasure Triad (a card game described in more detail below). In order to play Treasure Triad, Legions need to equip at least 1 Treasure on their quest. Note - legions below questing level 3 can still quest but will not be able to quest to section 3. \
+Legions with a Questing Level of at least 3 have the opportunity to quest through Part 3, which gives them the opportunity to play Treasure Triad (a card game described in more detail below). In order to play Treasure Triad, Legions need to equip at least 1 Treasure on their quest. **NOTE:** Legions below Questing Level 3 can still quest but will not be able to reach Part 3.&#x20;
 
-
-![Adding treasures to a legion to be used during part 3 of a quest when playing Treasure Triad](<../../.gitbook/assets/Screen Shot 2022-06-09 at 2.09.13 PM.png>)
+![Adding Treasures to a Legion to be used during Part 3 of a quest while playing Treasure Triad](<../../.gitbook/assets/Screen Shot 2022-06-09 at 2.09.13 PM.png>)
 
 ### Questing Overview Diagram
 
@@ -63,23 +56,23 @@ Legion's with a questing level of at least 3 have the opportunity to quest throu
 Treasure Triad Video Tutorial
 {% endembed %}
 
-Legions who have questing level 3 (or greater) and equipped treasures will play the Treasure Triad game in the last part of their quest. The goal is to flip as many cards to your control which boosts the change your legion receives higher tiered Treasure Fragments and/or Treasures.&#x20;
+Legions who have a Questing Level of at least 3 and equipped Treasures must play the Treasure Triad game in the last part of their quest. The goal is to flip as many cards to your control, which boosts the chance your Legion receives higher tiered Treasure Fragments and/or Treasures.&#x20;
 
 ![Treasure Triad](../../.gitbook/assets/Screenshot\_65.jpg)
 
 The game works as follows:
 
 1. Cards have 4 stats for the “north”, “east”, “south”, and “west” sides of the card.&#x20;
-2. When a card is placed next to another card, if the stats on your card is higher on the touching sides, you flip the adjacent card to your color!
-3. Players can place up to 3 cards on the grid by dragging and dropping a Treasure in their deck to an unflipped grid location of their choice.&#x20;
+2. When a card is placed next to another card, if the stats on your card are higher on the touching sides, you flip the adjacent cards to your color.
+3. Players can place **up to 3 cards** on the grid by dragging and dropping a Treasure from their deck to an unflipped grid location of their choice.&#x20;
    * Simply click on a card to unplay it and move it back to your deck.&#x20;
 4. Grid cells with a purple color have a status effect of “corruption”. If you do not play a card on a corrupted grid cell, your legion will be put in stasis (frozen for X hours).&#x20;
    * Game generates at most 2 corrupted cells.
    * 1 unflipped “corruption” grid cell ⇒ 12 hrs stasis
    * 2 unflipped “corruption” grid cells ⇒ 24 hrs stasis
-   * Note - genesis legions cannot be put in stasis.
-5. Once you play 3 cards, click “Finish Games” to submit a metamask transaction to complete the quest. Note that you do not have to place all 3 cards to finish the game.&#x20;
-6. The more cards flipped into your control, the higher the drop rate!
+   * **NOTE:** Genesis Legions cannot be put in stasis
+5. Once you play 3 cards, click “End Games” to submit a transaction to end or restart your quests. Note that you do not have to place all 3 cards to finish a game.
+6. The more cards flipped into your control, the higher the drop rate:
    * 1 card ⇒ +3%
    * 2 cards ⇒ +6%
    * 3 cards ⇒ +9%
@@ -89,57 +82,54 @@ The game works as follows:
 
 ### Additional Game Mechanics
 
-Two grid cells in the game are randomly selected to have “affinities” (alchemy, arcana, etc).&#x20;
+Two grid cells in the game are randomly selected to have affinities, and matching Treasures/Legions with them will offer game boosts:
 
-* Treasures are grouped into “affinities”
-  * Alchemy, arcana, brewing, leatherworking, smithing, etc
-* If a treasure of the same affinity as the cell is placed, the card enjoys a +1 stat boost
-  * e.g. Donkey is a “leather working” affinity treasure. When placed on a cell with a “leather working” affinity, will enjoy a +1 boost to stats.
-*   Each legion class has “affinities”, when they place a card on the gridCell with the same affinity, they get a +1 boost to the stats
+* Treasures are grouped into affinities of Alchemy, Arcana, Brewing, Enchanting, Leatherworking, and Smithing
+* If a Treasure matches the affinity of the cell it is placed on, the card enjoys a +1 stat boost on all sides.
+  * For example, Donkey is a Leathworking Treasure so when it is placed on a cell with a Leathworking affinity, it will enjoy a +1 boost to stats
+* Each Legion class has associated affinities, and when they place a card on a cell with a matching affinity, they get a +1 boost to stats:
 
-    * Legion affinities are listed in the table below.
+![Legion class to affinity mapping](<../../.gitbook/assets/image (20).png>)
 
-
-
-![](<../../.gitbook/assets/image (20).png>)
+* Boosts can be accumulated, so matching Legion and Treasure affinities will offer a +2 stat boost
 
 ### Treasure Triad Card Stats
 
-![](../../.gitbook/assets/triad\_points\_on\_treasures.jpg)
+![Diagram showing Treasure tiers, affinities, and Treasure Triad card stats](../../.gitbook/assets/triad\_points\_on\_treasures.jpg)
 
 ## Quest Rewards
 
 ![](<../../.gitbook/assets/image (22).png>)
 
-Drop rates for Treasure fragments ([**soulbound** ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)**and non-transferable**) are set to 60%, and each zone drops a category of treasure fragments as follows:
+Drop rates for Treasure Fragments ([**soulbound** ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)**and non-transferable**) are set to 60%, and each region drops a category of Treasure Fragments as follows:
 
-* Corruption Canyons ⇒ Alchemy/Arcana fragments
-* Icy Ascent ⇒ Enchanting/Brewing fragments
-* Desert Ruins ⇒ Smithing/Leatherworking fragments
+* Corruption Canyons ⇒ Alchemy/Arcana Fragments
+* Icy Ascent ⇒ Enchanting/Brewing Fragments
+* Desert Ruins ⇒ Smithing/Leatherworking Fragments
 
-The probability of finding different rarity tiers of treasure fragments are as follows:
+The probability of finding different rarity tiers of Treasure Fragments are as follows:
 
 ![](<../../.gitbook/assets/image (18).png>)
 
-Questing EXP and Other Loot earned depends on the distance traveled:
+Questing XP and other loot earned depends on the distance traveled:
 
 ![](<../../.gitbook/assets/image (20) (1).png>)
 
-Legions questing in any region or zone have a 0.001% chance of finding a [Universal Lock](https://trove.treasure.lol/collection/consumables/10).
+Legions questing in any region or part have a 0.001% chance of finding a [Universal Lock](https://trove.treasure.lol/collection/consumables/10).
 
 ### Bonuses for Questing Level 4/5/6 Legions <a href="#docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334" id="docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334"></a>
 
 Legions with Questing Level 4, 5, or 6 have higher chances of finding Treasure Fragments:
 
-| Quest Level | Increased likelihood of Treasure Fragment drops |
-| ----------- | ----------------------------------------------- |
-| Level 4     | + 2%                                            |
-| Level 5     | + 4%                                            |
-| Level 6     | + 6%                                            |
+| Questing Level | Increased likelihood of Treasure Fragment drops |
+| -------------- | ----------------------------------------------- |
+| Level 4        | + 2%                                            |
+| Level 5        | + 4%                                            |
+| Level 6        | + 6%                                            |
 
 ### Bonuses for Genesis Legions <a href="#docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334" id="docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334"></a>
 
-Genesis Legions are immune to stasis in questing, have higher chances of finding treasure fragments, and have an additional chance to earn an additional full treasure during quests.
+Genesis Legions are immune to stasis in questing, have higher chances of finding Treasure Fragments, and have an additional chance to earn a full Treasure during quests:
 
 ![](<../../.gitbook/assets/image (16).png>)
 
@@ -149,14 +139,14 @@ Genesis Legions are immune to stasis in questing, have higher chances of finding
 
 ## Mini Crafts <a href="#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406" id="docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406"></a>
 
-Mini Crafts are entry level crafting recipes for players to experiment without the risk of breaking treasures. Mini Crafts use treasure fragments and Prism shards to craft a Treasure. Some notable features include:&#x20;
+Mini Crafts are entry level crafting recipes for players to experiment without the risk of breaking Treasures. Mini Crafts use Treasure Fragments and Prism Shards to craft a Treasure. Some notable features include:&#x20;
 
-* Mini Crafts accessible by level 1 crafters.
-* Mini Craft is instant
-* Mini-craft has no influence on summoning probabilities
-* Fragments are soul-bound and cannot be mass purchased to max out crafting level.
+* Mini Crafts are accessible by Legions with any Crafting Level
+* Mini Crafts are instant
+* Mini Crafts have no influence on summoning probabilities
+* Fragments are soulbound and cannot be mass purchased to max out crafting level
 
-View [here](https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge) for more information on Minicrafting.&#x20;
+View [here](https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge) for more information on Mini Crafts.&#x20;
 
 ## Fragment Swapper
 
