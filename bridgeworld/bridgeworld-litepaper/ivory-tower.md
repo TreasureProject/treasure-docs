@@ -125,6 +125,18 @@ Questing EXP and Other Loot earned depends on the distance traveled:
 
 ![](<../../.gitbook/assets/image (20) (1).png>)
 
+Legions questing in any region or zone have a 0.001% chance of finding a [Universal Lock](https://trove.treasure.lol/collection/consumables/10).
+
+### Bonuses for Questing Level 4/5/6 Legions <a href="#docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334" id="docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334"></a>
+
+Legions with Questing Level 4, 5, or 6 have higher chances of finding Treasure Fragments:
+
+| Quest Level | Increased likelihood of Treasure Fragment drops |
+| ----------- | ----------------------------------------------- |
+| Level 4     | + 2%                                            |
+| Level 5     | + 4%                                            |
+| Level 6     | + 6%                                            |
+
 ### Bonuses for Genesis Legions <a href="#docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334" id="docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334"></a>
 
 Genesis Legions are immune to stasis in questing, have higher chances of finding treasure fragments, and have an additional chance to earn an additional full treasure during quests.
