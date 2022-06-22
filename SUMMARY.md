@@ -26,9 +26,7 @@
 * [Treasure Marketplace](marketplaces/using-the-marketplace/README.md)
   * [Listing on the Marketplace](marketplaces/using-the-marketplace/listing-on-the-marketplace.md)
   * [API](marketplaces/using-the-marketplace/api.md)
-* [Trove](marketplaces/trove/README.md)
-  * [💌 Letter from the Trove Team (Mar 17, 2022)](marketplaces/trove/letter-from-the-trove-team-mar-17-2022.md)
-  * [Trove Whitepaper](https://drive.google.com/file/d/1FyuF2To5nhXatlxHjIGhUkjcRcaQYjPR/view?usp=sharing)
+* [Trove](https://docs.trove.treasure.lol)
 
 ## Bridgeworld
 
