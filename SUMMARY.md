@@ -21,19 +21,13 @@
   * [How do I buy $MAGIC?](getting-started/what-is-magic/how-do-i-buy-magic.md)
 * [Staking $MAGIC](getting-started/treasure-mine-staking.md)
 
-## Marketplaces
+## Marketplace
 
-* [Treasure Marketplace](marketplaces/using-the-marketplace/README.md)
-  * [Listing on the Marketplace](marketplaces/using-the-marketplace/listing-on-the-marketplace.md)
-  * [API](marketplaces/using-the-marketplace/api.md)
 * [Trove](https://docs.trove.treasure.lol)
 
 ## Bridgeworld
 
-* [Infographic](bridgeworld/infographic.md)
-* [Lore](https://lore.treasure.lol)
-* [Game Video Tutorials](https://www.youtube.com/channel/UCw3mq\_ycQog6byQUspG-Pag)
-* [Master Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
+* [Getting Started](bridgeworld/getting-started.md)
 * [Bridgeworld Litepaper](bridgeworld/bridgeworld-litepaper/README.md)
   * [Magic Mining](bridgeworld/bridgeworld-litepaper/magic-mining/README.md)
     * [Atlas Mine](bridgeworld/bridgeworld-litepaper/magic-mining/atlas-mine.md)
@@ -48,24 +42,15 @@
   * [Starlight Temple](bridgeworld/bridgeworld-litepaper/starlight-temple.md)
   * [Patch Notes](bridgeworld/bridgeworld-litepaper/patch-notes/README.md)
     * [Patch 1.0 Notes](bridgeworld/bridgeworld-litepaper/patch-notes/patch-1.0-notes.md)
-
-## Life
-
-* [Life Whitepaper](https://drive.google.com/file/d/1HwV-90u5TwffAvk83DIxfCKKLHfBAdmo/view?usp=sharing)
+* [Lore](https://lore.treasure.lol)
+* [Game Video Tutorials](https://www.youtube.com/channel/UCw3mq\_ycQog6byQUspG-Pag)
+* [Master Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
 
 ## Partnerships
 
-* [Partnership Integrations](partnerships/partnership-integrations/README.md)
-  * [🧠 Smolverse](partnerships/partnership-integrations/smolverse/README.md)
-    * [Smol Brains FAQ](partnerships/partnership-integrations/smolverse/smol-brains-faq.md)
-    * [Smol Bodies FAQ](partnerships/partnership-integrations/smolverse/faq.md)
-  * [🍄 Mushrohms](partnerships/partnership-integrations/olympus-odysey.md)
-  * [👹 Ether Orcs](partnerships/partnership-integrations/ether-orcs.md)
-  * [🔺 Imperium](partnerships/partnership-integrations/imperium.md)
-  * [👻 Peek-A-Boo](partnerships/partnership-integrations/peek-a-boo.md)
-* [Community Projects](partnerships/community-projects/README.md)
-  * [🐸 Toadstoolz](partnerships/community-projects/toadstoolz/README.md)
-    * [FAQ](partnerships/community-projects/toadstoolz/faq.md)
+* [Cartridges](partnerships/partnership-integrations/README.md)
+  * [Smolverse](https://www.smolverse.lol/)
+  * [BattleFly](https://www.battlefly.game/)
 * [Ecosystem Integration Framework](partnerships/ecosystem-integration-framework.md)
 
 ## References
@@ -73,7 +58,7 @@
 * [Contracts](references/contracts.md)
 * [Official Links](about-treasure-dao/official-links/README.md)
   * [Website](https://treasure.lol)
-  * [Marketplace](https://marketplace.treasure.lol)
+  * [Trove (NFT Marketplace)](https://trove.treasure.lol)
   * [GitHub](https://github.com/TreasureProject)
   * [Discord](https://discord.gg/treasuredao)
   * [Twitter](https://twitter.com/Treasure\_DAO)
@@ -83,7 +68,7 @@
 
 ## Get Involved
 
-* [Meet the Team](meet-the-team.md)
+* [Meet the Team](https://treasure.lol/team)
 * [Strategic Partners](get-involved/strategic-partners.md)
 * [How to Get Involved](get-involved/involvement.md)
 * [Contributing to Treasure Docs](get-involved/contributors.md)
