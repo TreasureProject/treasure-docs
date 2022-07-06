@@ -86,12 +86,21 @@ Two grid cells in the game are randomly selected to have affinities, and matchin
 
 * Treasures are grouped into affinities of Alchemy, Arcana, Brewing, Enchanting, Leatherworking, and Smithing
 * If a Treasure matches the affinity of the cell it is placed on, the card enjoys a +1 stat boost on all sides.
-  * For example, Donkey is a Leathworking Treasure so when it is placed on a cell with a Leathworking affinity, it will enjoy a +1 boost to stats
-* Each Legion class has associated affinities, and when they place a card on a cell with a matching affinity, they get a +1 boost to stats:
+  * For example, Donkey is a Leathworking Treasure so when it is placed on a cell with a Leatherworking affinity, it will enjoy a +1 boost to stats
+* Each Legion class is associated with multiple affinities (see chart below). If a Legion matches the affinity of a Treasure that also matches the affinity of the cell it is placed on, the card enjoys a +2 stat boost on all sides.
+  * For example, Donkey is a Leatherworking Treasure, so when it is placed on a cell with a Leatherworking affinity by a Legion with class Assassin, it will enjoy a +2 boost to stats
 
-![Legion class to affinity mapping](<../../.gitbook/assets/image (20).png>)
-
-* Boosts can be accumulated, so matching Legion and Treasure affinities will offer a +2 stat boost
+| Legion Class                                                                     | Affinities               |
+| -------------------------------------------------------------------------------- | ------------------------ |
+| 1/1 (Bombmaker, Clocksnatcher, Dreamwinder, Fallen, Warlock)                     | All                      |
+| All-Class (Ashen Kingsguard, Clockwork Marine, Executioner, Reaper, Shadowguard) | All                      |
+| Numeraire                                                                        | Alchemy & Arcana         |
+| Riverman                                                                         | Brewing & Enchanting     |
+| Ranger                                                                           | Alchemy & Leatherworking |
+| Fighter                                                                          | Enchanting & Smithing    |
+| Spellcaster                                                                      | Arcana & Enchanting      |
+| Siege                                                                            | Alchemy & Smithing       |
+| Assassin                                                                         | Brewing & Leatherworking |
 
 ### Treasure Triad Card Stats
 
