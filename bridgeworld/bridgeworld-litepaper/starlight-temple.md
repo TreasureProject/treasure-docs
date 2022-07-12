@@ -12,5 +12,3 @@ Select one of the 6 elements (Fire, Water, Wind, Earth, Light and Dark) \
 Upgrade is immediate, but all of the Essence Of Starlight will be burned in the process (see table below)
 
 ![](<../../.gitbook/assets/image (12).png>)
-
-Completing a Rank 7 constellation will enable you to stake MAGIC on your legion. Put simply, the constellation is the compass that guides Legion to new territories. Similarly, MAGIC represents the aura that shields Legions from the toxicity of uncharted territories.
