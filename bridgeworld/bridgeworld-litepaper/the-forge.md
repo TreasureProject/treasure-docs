@@ -58,7 +58,7 @@ Legions can use Treasures to craft consumables. The 3 types of consumables that 
 
 **Note** - Crafting consumables cost 5 MAGIC.
 
-#### Prisms
+### Prisms
 
 Prisms are used to reduce the summoning duration of new Legions in the Summoning Circle and increase the chance of receiving a more rare Legion during Summoning.&#x20;
 
@@ -74,13 +74,13 @@ The bigger the prism the more benefit your Legion receives when summoning (see b
 
 ![](<../../.gitbook/assets/Screen Shot 2022-08-08 at 7.29.31 PM.png>)
 
-#### Harvester Parts
+### Harvester Parts
 
 Harvester Parts grant Legion’s access to Harvesters. Each staked Part increases how much MAGIC a wallet can deposit into the harvester by 30,000 MAGIC. Legions must be crafting level 3 or greater in order to craft a Extractor.\
 \
 **Note - There is a 100% chance of success when crafting your first harvester part and a 0.01% chance to craft 2 or more parts.**&#x20;
 
-#### Extractors
+### Extractors
 
 Extractors give your harvester a _temporary_ boost to the Harvester’s mining power. A maximum of 10 Extractors can be staked in a harvester at once. Legions must be crafting level 5 or greater in order to craft a Extractor.
 
