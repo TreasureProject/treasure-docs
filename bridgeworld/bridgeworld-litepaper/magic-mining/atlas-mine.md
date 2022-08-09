@@ -17,9 +17,9 @@ Users must time lock their MAGIC for a minimum of two weeks and up to 12 months.
 The Mining Power ‘boost model’ has been carried forward from the Genesis Mine. The ‘boost’ percentage is not an APR. It represents the multiplier on your MAGIC staked in the mine for the purposes of calculating your ‘mining power’ and relative share of mining emissions.
 
 {% hint style="warning" %}
-**IMPORTANT: Once your MAGIC is staked in the Atlas Mine or Harvester, you will NOT be able to move it for the duration of the lock.**&#x20;
+**IMPORTANT: Once your MAGIC is staked in the Atlas Mine or Harvester, you will NOT be able to move it for the duration of the lock.**
 
-Harvesters will be released progressively in February driven by meta events. While Harvesters can unlock a higher maximum potential share of emissions than the Atlas Mine, there is a hard cap of 10M MAGIC per Harvester in Season 1.&#x20;
+Harvesters will be released progressively in February driven by meta events. While Harvesters can unlock a higher maximum potential share of emissions than the Atlas Mine, there is a hard cap of 10M MAGIC per Harvester in Season 1.
 
 This dynamic drives social coordination and individual conscious decision making; stake immediately in the Atlas Mine, join a guild and wait to build a Harvester or split up MAGIC to optimise returns. The strategies are endless.
 {% endhint %}
@@ -67,7 +67,7 @@ The main protagonists and stewards of Bridgeworld carry with them the greatest m
 
 ### Treasures (up to 20 per wallet)
 
-The economic resources of Bridgeworld and the key ingredients to consumables and items yet unknown. Their relative power is determined by Genesis rarity (distribution) with the two most rare Treasures - Honeycomb and Grin - given heightened powers.&#x20;
+The economic resources of Bridgeworld and the key ingredients to consumables and items yet unknown. Their relative power is determined by Genesis rarity (distribution) with the two most rare Treasures - Honeycomb and Grin - given heightened powers.
 
 Refer to the picture below for details about Treasures’ boost.
 

@@ -1,6 +1,6 @@
 # Game Theory and Meta
 
-The introduction of Harvesters will drive social coordination and progressive changes in strategy as the game meta progresses. Guilds and Sub-DAOs alike, will need to consider the optimal strategy at each stage of the ‘game’ both collectively and as individuals.&#x20;
+The introduction of Harvesters will drive social coordination and progressive changes in strategy as the game meta progresses. Guilds and Sub-DAOs alike, will need to consider the optimal strategy at each stage of the ‘game’ both collectively and as individuals.
 
 We will also seed these dynamics through macro shifts over time that force decision tradeoffs, disincentivise monopolistic behaviors and create meta tension between Harvester owners and new participants. This seeks to keep the economy vibrant, thriving and attractive to new players.
 

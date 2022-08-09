@@ -1,4 +1,4 @@
-# Magic Mining
+# Magic Emissions
 
 {% embed url="https://youtu.be/8Pw_mkkULmw" %}
 
