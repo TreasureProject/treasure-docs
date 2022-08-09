@@ -65,7 +65,7 @@ The genesis story of the project has attracted collaborators who align with our 
 
 Treasure is DAO-governed. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
 
-For more information on the Treasure Council and broader team, see[Broken link](broken-reference "mention").
+For more information on the Treasure Council and broader team, see [Team](https://treasure.lol/team).
 
 Decisions are formed by the DAO and voted by $MAGIC holders through [snapshot-voting.md](about-treasure/governance/snapshot-voting.md "mention").
 
