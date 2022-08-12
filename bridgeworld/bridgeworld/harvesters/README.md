@@ -2,14 +2,16 @@
 
 ## Overview
 
-Harvesters are ancient constructs that Bridgeworld Legions have harnessed to procure MAGIC. Harvesters find and extract MAGIC from within Bridgeworld that players and guilds must compete over via coordination and games of strategy for access. They serve two primary purposes:&#x20;
+Harvesters are ancient creatures that find and consume MAGIC across Bridgeworld. Legions have learned to harness the power of Harvesters by attaching Harvester Parts to them which divert the MAGIC they consume to themselves. \
+\
+Harvesters find and extract MAGIC from Bridgeworld that Legions compete over via a social-coordination game. Harvesters serve two primary purposes:&#x20;
 
 1. Function as the primary reward mechanism for players who play, engage, and contribute to the Bridgeworld and greater Treasure economy
 2. Serve as the primary utility for acquiring Treasures
 
-Harvesters will start as roaming creatures for the Treasure Legions NFT collection to tame, capture, stake, and procure MAGIC. They are flexible and have the ability to be configured for other NFT collections. In the future, some Harvesters may be open to a “Harvester Takeover”, wherein another collection has the opportunity to contest and take control of a specific Harvester.
+Harvesters begin as roaming creatures for the Treasure Legions NFT collection to tame, capture, stake, and procure MAGIC. They are flexible and have the ability to be configured for other NFT collections. In the future, some Harvesters may be open to a “Harvester Takeover”, wherein another collection has the opportunity to contest and take control of a specific Harvester.
 
-Players and Guilds can compete for increased emissions by utilising Treasures to craft and construct Harvester Parts and special mining Extractors which are used in a social coordination game to boost the amount of MAGIC the Harvester produces.&#x20;
+Players and Guilds can compete for increased emissions by utilizing Treasures to craft and construct Harvester Parts and special mining Extractors which are used in a social coordination game to boost the amount of MAGIC the Harvester produces.&#x20;
 
 Games in the ecosystem may form their own guilds to aid in the accumulation of players and resources towards maximising the use of Harvesters. This interplay between guilds and games leads to collective bargaining between different groups as they exert influence over how the Bridgeworld metagame develops. As each ecosystem metaverse gains a larger amount of engaged players and revenue sources, digital nation states emerge with their own in-game economies, all vying for control over Harvesters.
 
