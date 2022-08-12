@@ -1,26 +1,6 @@
-# The Forge
+# Crafting Treasures
 
-
-
-{% embed url="https://youtu.be/KYKBrVRgOkw" %}
-
-### What is the Forge?
-
-The Forge is where Legions can utilize assets to craft new assets with varying utility in Bridgeworld. Increasing Legions’ Crafting Levels enables them to craft more difficult recipes.&#x20;
-
-![](<../../.gitbook/assets/image (18) (1) (1).png>)
-
-### What types of crafts can Legions perform?
-
-Legions have the option to craft **Treasures** or **Consumables**. \
-\
-**Treasures** are artifacts made powerful by exposure to MAGIC. They act as productive resources across Bridgeworld and beyond. There is some mystery between the exact relationship between Treasures and MAGIC, but they allow it to be wielded in ways that are not possible in its natural state. \
-\
-Legions can use Treasure Fragments and Prism Shards to craft Treasures. \
-\
-Legions can use Treasures to craft **Consumables**. Consumables are a category of assets that use Treasures (e.g. beetle-wing, diamond, carriage) to create powerful assets in Bridgeworld.  There are 3 types of consumables. More details on consumables will be discussed in subsequent sections.&#x20;
-
-### How do you craft Treasures?
+## How do you craft Treasures?
 
 To craft Treasures, your Legion will need to go on quests in the Ivory tower to find varying tiers of Treasure Fragments. While questing, legions also receive assets known as Prism Shards which are required in combination with Treasure Fragments to create Treasures.  Note - Legions do not earn XP from crafting.
 
@@ -50,7 +30,7 @@ To craft Treasures, users need Prism shards and Tier-specific Treasure Fragments
 
 #### Treasure Affinities
 
-![](../../.gitbook/assets/Treasures-affinities.jpg)
+![](../../../.gitbook/assets/Treasures-affinities.jpg)
 
 ## Consumables
 
@@ -72,7 +52,7 @@ There are 3 types of Prisms (small, medium, large). When crafting Prisms, Legion
 
 The bigger the prism the more benefit your Legion receives when summoning (see below).&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2022-08-08 at 7.29.31 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-08-08 at 7.29.31 PM.png>)
 
 #### Harvester Parts
 
@@ -104,7 +84,7 @@ There are 3 types of Extractors (small, medium, large). See below for the likeli
 
 In Season 1, Legions will have a maximum of 6 Crafting Levels. Increasing Legions’ Crafting Points (CP) enables them to craft more difficult recipes when crafting consumables. Crafting experience and, in turn, levels are automatically awarded for each successful consumable craft (see below).
 
-![](<../../.gitbook/assets/Screenshot\_15 (1).jpg>)
+![](<../../../.gitbook/assets/Screenshot\_15 (1).jpg>)
 
 ### **What are the ingredients needed for each Consumable Recipe?**
 
