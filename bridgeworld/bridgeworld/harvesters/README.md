@@ -21,7 +21,7 @@ Harvesters roam Bridgeworld in effort to extract MAGIC. Legions (and other NFT c
 
 ### Joining a Harvester
 
-To access a Harvester, a player must first stake a Harvester Part to the Harvester. You can obtain a Harvester Part by crafting it in the [Forge](../the-forge/#harvester-parts) if you have a Legion with a level 3+ crafting level or by purchasing it on the [Trove marketplace](https://trove.treasure.lol/collection/consumables). \
+To access a Harvester, a player must first stake a Harvester Part to the Harvester. You can obtain a Harvester Part by crafting it in the [Forge](../../bridgeworld-litepaper/the-forge.md#harvester-parts) if you have a Legion with a level 3+ crafting level or by purchasing it on the [Trove marketplace](https://trove.treasure.lol/collection/consumables). \
 \
 Each Harvester Part staked in the Harvester gives that specific wallet address a 30,000 MAGIC allocation to deposit.Dedicated players may produce a large number of Harvester Parts and can bind a maximum of 40 Harvester Parts per address, leading to a maximum 1.2M MAGIC that can be staked per address in a Harvester.&#x20;
 

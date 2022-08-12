@@ -8,7 +8,7 @@
 
 The Forge is where Legions can utilize assets to craft new assets with varying utility in Bridgeworld. Increasing Legions’ Crafting Levels enables them to craft more difficult recipes.&#x20;
 
-![](<../../../.gitbook/assets/image (18) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1).png>)
 
 ### What types of crafts can Legions perform?
 

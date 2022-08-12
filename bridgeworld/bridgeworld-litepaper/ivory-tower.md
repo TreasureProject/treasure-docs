@@ -10,13 +10,13 @@ description: >-
 
 The Ivory Tower is where Legions can set out on quests in search of Essence of Starlight, Treasure Fragments, and Prism Shards. **NOTE:** Genesis Legions have the added advantage of finding full Treasures (in addition to the above).&#x20;
 
-Rewards from questing are used in a variety of ways across Bridgeworld. For example, Treasure Fragments can be used to [Mini Craft](ivory-tower.md#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406) full Treasures at [The Forge](../bridgeworld/the-forge/). Essence of Starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more Treasures while on quests to earn higher tiered Treasure Fragments.
+Rewards from questing are used in a variety of ways across Bridgeworld. For example, Treasure Fragments can be used to [Mini Craft](ivory-tower.md#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406) full Treasures at [The Forge](the-forge.md). Essence of Starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more Treasures while on quests to earn higher tiered Treasure Fragments.
 
 Legions gain experience as they explore Bridgeworld’s frontiers. Questing points are awarded after each completed quest and are used to increase a Legion's questing experience level. The higher a Legion's questing level, the farther they can go in a quest. Currently the farthest a Legion can travel in a quest is through [Part 3](ivory-tower.md#questing-zones-and-fragment-drops). &#x20;
 
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
-There are three regions a Legion can quest in. Each region drops a specific affinity of Treasure Fragments which can then be used to Mini Craft full Treasures based on their affinity type. View [here](../bridgeworld/the-forge/#treasure-affinities) for an overview of Treasure affinities.
+There are three regions a Legion can quest in. Each region drops a specific affinity of Treasure Fragments which can then be used to Mini Craft full Treasures based on their affinity type. View [here](the-forge.md#treasure-affinities) for an overview of Treasure affinities.
 
 ![Sending a Legion to quest within a specific region. 'Optimized' Legions have the same constellation as the region. ](<../../.gitbook/assets/Screen Shot 2022-06-09 at 1.16.04 PM.png>)
 
