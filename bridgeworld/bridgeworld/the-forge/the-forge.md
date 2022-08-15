@@ -24,7 +24,7 @@ The bigger the prism the more benefit your Legion receives when summoning (see b
 
 ### Harvester Parts
 
-Harvester Parts grant Legion’s access to Harvesters. Each staked Part increases how much MAGIC a wallet can deposit into the harvester by 30,000 MAGIC. Legions must be crafting level 3 or greater in order to craft a Extractor.\
+Harvester Parts grant Legion’s access to Harvesters. Each staked Part increases how much MAGIC a wallet can deposit into the harvester by 30,000 MAGIC. Legions must be crafting level 3 or greater in order to craft a Harvester Part.\
 \
 **Note - There is a 100% chance of success when crafting your first harvester part and a 0.01% chance to craft 2 or more Harvester Parts with the same Auxillary Legion. Genesis Legions have a 2% change to craft 2 or more Harvester Parts.**&#x20;
 
@@ -44,7 +44,7 @@ There are 3 types of Extractors (small, medium, large). See below for the likeli
 
 | Consumable     | Crafting time (in hours) | Success Rate of Crafting                                                                                                                                                              |
 | -------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Prism          | 47.5 hours               | 100%                                                                                                                                                                                  |
+| Prism          | 23.5 hours               | 100%                                                                                                                                                                                  |
 | Harvester Part | 35.5 hours               | <p>100% for your first part and<br>0.01% chance to drop 2 or more Harvester Parts with the same Aux Legion. Genesis Legions have a 2% change to craft 2 or more Harvester Parts. </p> |
 | Extractor      | 47.5 hours               | 100%                                                                                                                                                                                  |
 
