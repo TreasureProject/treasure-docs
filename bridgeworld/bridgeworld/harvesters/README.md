@@ -67,13 +67,17 @@ Players may stake multiple legions in a Harvester, however each Legion has a “
 
 #### Extractors
 
-Extractors are key game items in Harvester. Extractors are crafted from Treasure NFTs and can boost a Harvester’s share of MAGIC emissions temporarily. When active, Extractors increase a Harvester’s Mining Power.&#x20;
+Extractors are key game items in Harvesters. Extractors are crafted from Legions with a crafting XP of level 5+ using Treasures in the Forge. When deployed in a Harvester, extractors boost a Harvester’s share of MAGIC emissions temporarily increasing the Harvester's Mining Power.&#x20;
 
-Extractors can be stacked up to 10 times (per Harvester), but have a finite shelf-life. The lifespan of Extractors is currently 3 hours, and players must be diligent in harvesting MAGIC as close to the expiry as possible or they may forfeit some boosted rewards. Harvester teams must coordinate to ensure someone on their team always has extractors in use to boost their emissions. In the future, other Extractor-like consumables items may appear around the TreasureDAO ecosystem.
+Extractors can be stacked up to 10 times (per Harvester), but expire after 3 hours of being deployed on a Harvester. When an Extractor is in use on a Harvester, players are able to replace existing extractors with an Extractor of a bigger size. For example, a small extractor can be replaced with a medium Extractor, but a medium Extractor cannot be replaced with another medium extractor. Players must be diligent in harvesting MAGIC as close to the extractor's expiry time as possible or they may forfeit some of the boosted rewards.
+
+Harvester teams must coordinate to ensure someone on their team always has Extractors in use to boost their emissions. In the future, other Extractor-like consumables items may appear around the TreasureDAO ecosystem.
 
 Extractor boosts stack additively and have the following attributes:
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-08-09 at 1.13.18 PM.png>)
+
+####
 
 #### Treasures
 
