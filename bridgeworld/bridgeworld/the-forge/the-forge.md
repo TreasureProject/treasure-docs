@@ -30,7 +30,7 @@ Harvester Parts grant Legion’s access to Harvesters. Each staked Part increase
 
 ### Extractors
 
-Extractors give your harvester a _temporary_ boost to the Harvester’s mining power. A maximum of 10 Extractors can be staked in a harvester at once. Legions must be crafting level 5 or greater in order to craft a Extractor.
+Extractors give your harvester a _temporary_ boost to the Harvester’s mining power. A maximum of 10 Extractors can be staked in a harvester at once. Legions must be crafting level 4 or greater in order to craft a Extractor.
 
 There are 3 types of Extractors (small, medium, large). See below for the likelihood a legion crafts a certain size of Extractor and their associated boost they will have in Harvesters. &#x20;
 
