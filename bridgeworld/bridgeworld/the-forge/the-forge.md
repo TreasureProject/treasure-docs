@@ -26,7 +26,7 @@ The bigger the prism the more benefit your Legion receives when summoning (see b
 
 Harvester Parts grant Legion’s access to Harvesters. Each staked Part increases how much MAGIC a wallet can deposit into the harvester by 30,000 MAGIC. Legions must be crafting level 3 or greater in order to craft a Harvester Part.\
 \
-**Note - There is a 100% chance of success when crafting your first harvester part and a 0.01% chance to craft 2 or more Harvester Parts with the same Auxillary Legion. Genesis Legions have a 2% change to craft 2 or more Harvester Parts.**&#x20;
+**Note - There is a 100% chance of success when crafting your first harvester part and a 0.01% chance to craft 2 or more Harvester Parts with the same Auxiliary Legion. Genesis Legions have a 2% chance to craft 2 or more Harvester Parts.**&#x20;
 
 ### Extractors
 
