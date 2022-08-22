@@ -17,4 +17,4 @@ Following the migration to Arbitrum, you can stake 2 things on Treasure:
 
 ## How can I stake?
 
-You can stake $MAGIC in other tokens in the Bridgeworld Atlas Mine. For more details, please see[magic-mining](../bridgeworld/bridgeworld-litepaper/magic-mining/ "mention").
+You can stake $MAGIC in other tokens in the Bridgeworld Atlas Mine. For more details, please see[magic-mining.md](../cartridges/bridgeworld/magic-mining.md "mention").

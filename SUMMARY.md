@@ -21,40 +21,46 @@
   * [How do I buy $MAGIC?](getting-started/what-is-magic/how-do-i-buy-magic.md)
 * [Staking $MAGIC](getting-started/treasure-mine-staking.md)
 
-## Marketplace
+## Cartridges
 
-* [Trove](https://docs.trove.treasure.lol)
-
-## Bridgeworld
-
-* [Getting Started](bridgeworld/getting-started.md)
-* [Bridgeworld ](bridgeworld/bridgeworld-litepaper/README.md)
-  * [Barracks](bridgeworld/bridgeworld-litepaper/barracks.md)
-  * [Ivory Tower](bridgeworld/bridgeworld-litepaper/ivory-tower.md)
-  * [The Forge](bridgeworld/bridgeworld-litepaper/the-forge.md)
-    * [Crafting Treasures](bridgeworld/bridgeworld/the-forge/crafting-treasures.md)
-    * [Crafting Consumables](bridgeworld/bridgeworld/the-forge/the-forge.md)
-  * [Harvesters](bridgeworld/bridgeworld/harvesters/README.md)
-    * [Litepaper](bridgeworld/bridgeworld/harvesters/litepaper.md)
-    * [Game Theory and Meta](bridgeworld/bridgeworld-litepaper/magic-mining/game-theory-and-meta.md)
-  * [Atlas Mine](bridgeworld/bridgeworld-litepaper/magic-mining/atlas-mine.md)
-  * [Summoning Circle](bridgeworld/bridgeworld-litepaper/summoning-circle/README.md)
-    * [Legion Rarity](bridgeworld/bridgeworld-litepaper/summoning-circle/legion-rarity.md)
-  * [Starlight Temple](bridgeworld/bridgeworld-litepaper/starlight-temple.md)
-  * [Magic Emissions](bridgeworld/bridgeworld-litepaper/magic-mining/README.md)
-  * [Pilgrimage](bridgeworld/bridgeworld-litepaper/pilgrimage.md)
-  * [Patch Notes](bridgeworld/bridgeworld-litepaper/patch-notes/README.md)
-    * [Patch 1.0 Notes](bridgeworld/bridgeworld-litepaper/patch-notes/patch-1.0-notes.md)
-* [Lore](https://lore.treasure.lol)
-* [Game Video Tutorials](https://www.youtube.com/channel/UCw3mq\_ycQog6byQUspG-Pag)
-* [Master Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
-
-## Partnerships
-
-* [Cartridges](partnerships/partnership-integrations/README.md)
-  * [Smolverse](https://www.smolverse.lol/)
+* [What are Cartridges?](cartridges/partnership-integrations.md)
+* [Bridgeworld ](cartridges/bridgeworld/README.md)
+  * [Getting Started](cartridges/bridgeworld/getting-started.md)
+  * [Master Game Guide](https://drive.google.com/file/d/1VA01N-2lEYn1EITXmk89CNfGJovwaTXR/view?usp=sharing)
+  * [Lore](https://lore.treasure.lol)
+  * [Game Video Tutorials](https://www.youtube.com/channel/UCw3mq\_ycQog6byQUspG-Pag)
+  * [Barracks](cartridges/bridgeworld/barracks.md)
+  * [Ivory Tower](cartridges/bridgeworld/ivory-tower.md)
+  * [The Forge](cartridges/bridgeworld/the-forge/README.md)
+    * [Crafting Treasures](cartridges/bridgeworld/the-forge/crafting-treasures.md)
+    * [Crafting Consumables](cartridges/bridgeworld/the-forge/the-forge.md)
+  * [Harvesters](cartridges/bridgeworld/harvesters/README.md)
+    * [Litepaper](cartridges/bridgeworld/harvesters/litepaper.md)
+    * [Game Theory and Meta](cartridges/bridgeworld/harvesters/game-theory-and-meta.md)
+  * [Atlas Mine](cartridges/bridgeworld/atlas-mine.md)
+  * [Summoning Circle](cartridges/bridgeworld/summoning-circle/README.md)
+    * [Legion Rarity](cartridges/bridgeworld/summoning-circle/legion-rarity.md)
+  * [Starlight Temple](cartridges/bridgeworld/starlight-temple.md)
+  * [Magic Emissions](cartridges/bridgeworld/magic-mining.md)
+  * [Pilgrimage](cartridges/bridgeworld/pilgrimage.md)
+  * [Patch Notes](cartridges/bridgeworld/patch-notes/README.md)
+    * [Patch 1.0 Notes](cartridges/bridgeworld/patch-notes/patch-1.0-notes.md)
+* [Smolverse](https://www.smolverse.lol/)
+* [Ecosystem Integration Framework](cartridges/ecosystem-integration-framework.md)
+* [Partner Cartridges](cartridges/partner-cartridges/README.md)
   * [BattleFly](https://www.battlefly.game/)
-* [Ecosystem Integration Framework](partnerships/ecosystem-integration-framework.md)
+  * [Knights of the Ether](https://knightsoftheether.com/)
+  * [LifeDAO](https://life.treasure.lol/)
+  * [Peek-A-Boo!](https://www.peekaboonft.io/)
+  * [Realm](https://rlm.land/)
+  * [SmithyDAO](https://smithydao.lol/)
+  * [Tales of Elleria](https://www.talesofelleria.com/)
+  * [The Lost Donkeys](https://www.thelostdonkeys.com/)
+  * [Toadstoolz](https://www.toadstoolz.lol/)
+
+## Infrastructure & Tooling
+
+* [Trove NFT Marketplace](https://docs.trove.treasure.lol)
 
 ## References
 
@@ -73,6 +79,6 @@
 
 * [Meet the Team](https://treasure.lol/team)
 * [Strategic Partners](get-involved/strategic-partners.md)
-* [How to Get Involved](get-involved/involvement.md)
+* [Getting Involved](get-involved/involvement.md)
 * [Contributing to Treasure Docs](get-involved/contributors.md)
 * [Credits](get-involved/credits.md)

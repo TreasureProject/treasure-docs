@@ -10,7 +10,7 @@
 * [x] Novel approaches to incentivise LP and abstract away complexity (as an access key)
 * [x] Introduced and educated a new wave of users to DeFi
 
-## 2021 Q4 (Oct) **| Complete**&#x20;
+## 2021 Q4 (Oct) **| Complete**
 
 ### Migration to Arbitrum
 
@@ -24,7 +24,7 @@
 * [x] 78% of circulating supply committed to our Genesis mine for between 2 weeks and 3 months (TVL of \~$33m USD)
 * [x] Regular top 10 liquidity pair on Sushiswap with >$3m liquidity
 
-## 2021 Q4 (Nov/Dec) | Ongoing
+## 2021 Q4 (Nov/Dec) | Complete
 
 ### Governance and Marketplace
 
@@ -39,10 +39,10 @@
 
 ### Q1-Q2
 
-* [ ] Partnerships
-* [ ] Expand Treasure Metaverse
-* [ ] Bridge Partner Ecosystems
-* [ ] Bridgeworld Phase 01
+* [x] Partnerships
+* [x] Expand Treasure Metaverse
+* [x] Bridge Partner Ecosystems
+* [x] Bridgeworld Phase 01
 
 ### Q3-Q4
 
