@@ -35,7 +35,7 @@
     * [Crafting Treasures](cartridges/bridgeworld/the-forge/crafting-treasures.md)
     * [Crafting Consumables](cartridges/bridgeworld/the-forge/the-forge.md)
   * [Harvesters](cartridges/bridgeworld/harvesters/README.md)
-    * [Litepaper](cartridges/bridgeworld/harvesters/litepaper.md)
+    * [Game Guide](cartridges/bridgeworld/harvesters/game-guide.md)
     * [Game Theory and Meta](cartridges/bridgeworld/harvesters/game-theory-and-meta.md)
   * [Atlas Mine](cartridges/bridgeworld/atlas-mine.md)
   * [Summoning Circle](cartridges/bridgeworld/summoning-circle/README.md)
