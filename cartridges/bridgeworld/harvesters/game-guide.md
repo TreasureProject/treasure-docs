@@ -1,3 +1,3 @@
 # Game Guide
 
-View [here](https://drive.google.com/file/d/1LGQ5NKwhQXcUU06fqrMOiGix6EmtVBd-/view) for the Harvester game guide
+View [here](https://drive.google.com/drive/folders/17UV7e77sTpolFfQI9QHZrezJBVTg0c4z?usp=sharing) for the Harvester game guide
