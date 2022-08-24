@@ -51,12 +51,6 @@ A Utilisation Modifier parameter is implemented to ensure a minimum amount of MA
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-08-09 at 12.57.51 PM.png>)
 
-MAGIC deposited into a Harvester will be locked for 2 weeks. Time locked MAGIC deposits will also be vested on a per second basis from the point of unlock. Rewards will remain claimable on an ongoing basis. Vesting will occur on a per second basis from the point of unlock with longer time locks experiencing longer vesting times.&#x20;
-
-_Note that after the timelock expires, the deposit will continue enjoying the timelock boost until the player withdraws that deposit._
-
-![](<../../../.gitbook/assets/Screen Shot 2022-08-09 at 1.17.36 PM.png>)
-
 #### Legions
 
 Staking a Legion helps increase your Harvester’s Mining Power and  boosts your deposit within the Harvester (increasing your share of MAGIC emissions). Legions multiply the size of the Player’s MAGIC deposit, increasing the Player’s personal share of MAGIC rewards inside of the Harvester.&#x20;
