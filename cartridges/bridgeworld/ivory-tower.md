@@ -8,11 +8,13 @@ description: >-
 
 ## Questing Overview
 
-The Ivory Tower is where Legions can set out on quests in search of Essence of Starlight, Treasure Fragments, and Prism Shards. **NOTE:** Genesis Legions have the added advantage of finding full Treasures (in addition to the above).&#x20;
+The Ivory Tower is where Legions can set out on quests in search of valuable resources such as Essence of Starlight, Treasure Fragments, and Prism Shards. **Note:** Genesis Legions have the added advantage of finding full Treasures (in addition to the above).&#x20;
 
-Rewards from questing are used in a variety of ways across Bridgeworld. For example, Treasure Fragments can be used to [Mini Craft](ivory-tower.md#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406) full Treasures at [The Forge](the-forge/). Essence of Starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more Treasures while on quests to earn higher tiered Treasure Fragments.
+Rewards from questing are used in a variety of ways across Bridgeworld. Treasure Fragments can be used to craft full Treasures in [The Forge](the-forge/). Essence of Starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more Treasures while on quests to earn higher tiered Treasure Fragments.
 
-Legions gain experience as they explore Bridgeworld’s frontiers. Questing points are awarded after each completed quest and are used to increase a Legion's questing experience level. The higher a Legion's questing level, the farther they can go in a quest. Currently the farthest a Legion can travel in a quest is through [Part 3](ivory-tower.md#questing-zones-and-fragment-drops). &#x20;
+Legions gain experience as they explore Bridgeworld’s frontiers. Questing points are awarded after each completed quest and are used to increase a Legion's questing experience level.&#x20;
+
+Each quest has 3 parts. The higher a Legion's questing level, the farther they can go in each quest and the higher chance they find items from questing. Each time a legion quests, the distance the Legion traveled is added to the Legion's stats.  Each part of a quest is considered 10 KMs.  Part 3 enables Legions to play [Treasure Triad](ivory-tower.md#ending-journeys-with-treasure-triad).&#x20;
 
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
@@ -62,7 +64,7 @@ Legions who have a Questing Level of at least 3 and equipped Treasures must play
 
 The game works as follows:
 
-1. Cards have 4 stats for the “north”, “east”, “south”, and “west” sides of the card.&#x20;
+1. Cards have 4 stats for the “North”, “East”, “South”, and “West” sides of the card.&#x20;
 2. When a card is placed next to another card, if the stats on your card are higher on the touching sides, you flip the adjacent cards to your color.
 3. Players can place **up to 3 cards** on the grid by dragging and dropping a Treasure from their deck to an unflipped grid location of their choice.&#x20;
    * Simply click on a card to unplay it and move it back to your deck.&#x20;
@@ -145,63 +147,3 @@ Genesis Legions are immune to stasis in questing, have higher chances of finding
 ## Questing Tutorial
 
 {% embed url="https://youtu.be/muCV8bvydRU" %}
-
-## Mini Crafts <a href="#docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406" id="docs-internal-guid-074a1c70-7fff-47e5-488b-7903cf74a406"></a>
-
-Mini Crafts are entry level crafting recipes for players to experiment without the risk of breaking Treasures. Mini Crafts use Treasure Fragments and Prism Shards to craft a Treasure. Some notable features include:&#x20;
-
-* Mini Crafts are accessible by Legions with any Crafting Level
-* Mini Crafts are instant
-* Mini Crafts have no influence on summoning probabilities
-* Fragments are soulbound and cannot be mass purchased to max out crafting level
-
-View [here](https://docs.treasure.lol/bridgeworld/bridgeworld-litepaper/the-forge) for more information on Mini Crafts.&#x20;
-
-## Fragment Swapper
-
-Due to a bug causing Treasure Fragments dropped during quests through the Desert Ruins and Icy Ascent to be switched, we have deployed a Fragment Swapper smart contract that will allow you to swap Brewing/Enchanting and Leathworking/Smithing Treasure Fragments of any tier for a limited time. The bug was patched on Monday, June 6, 2022 and all quests started after then will drop the correct Fragments without requiring any swapping.
-
-NOTE: Alchemy/Arcana Treasure Fragments will **NOT** be eligible for swapping as they were not affected by the bug.
-
-### Instructions
-
-1. Go to the [Fragment Swapper contract on Arbiscan](https://arbiscan.io/address/0x54d154524a7D27FBEd750bf0bfF95822C5667256#writeProxyContract) and navigate to Contract > Write as Proxy
-2. Click "Connect to Web3" and connect your wallet
-3. Scroll down to `9. swapFragments`
-4. Enter the list of Fragments you want to swap with the following format:
-
-```
-[[tokenId1,quantity1],[tokenId2,quantity2],...]
-```
-
-Eligible Treasure Fragment token IDs are as follows:
-
-#### Brewing/Enchanting
-
-| Tier | Token ID |
-| ---- | -------- |
-| T1   | 6        |
-| T2   | 7        |
-| T3   | 8        |
-| T4   | 9        |
-| T5   | 10       |
-
-#### Leatherworking/Smithing
-
-| Tier | Token ID |
-| ---- | -------- |
-| T1   | 11       |
-| T2   | 12       |
-| T3   | 13       |
-| T4   | 14       |
-| T5   | 15       |
-
-For example, if you want to swap three T4 Brewing/Enchanting Fragments and two T5 Leathworking/Smithing Fragments, your input would be:
-
-`[[9,3],[15,2]]`
-
-5\. Click "Write" and send the transaction
-
-6\. Wait a few minutes, then view your updated Resources inventory on the Bridgeworld UI
-
-If you encounter any issues or need assistance with the input formatting, please create a ticket on Discord in the [#bw-tickets channel](https://discord.com/channels/882867268021800991/974076966707798056)
