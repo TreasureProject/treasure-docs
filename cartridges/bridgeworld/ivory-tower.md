@@ -12,9 +12,9 @@ The Ivory Tower is where Legions can set out on quests in search of valuable res
 
 Rewards from questing are used in a variety of ways across Bridgeworld. Treasure Fragments can be used to craft full Treasures in [The Forge](the-forge/). Essence of Starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more Treasures while on quests to earn higher tiered Treasure Fragments.
 
-Legions gain experience as they explore Bridgeworld’s frontiers. Questing points are awarded after each completed quest and are used to increase a Legion's questing experience level.&#x20;
+Legions gain experience as they explore Bridgeworld’s frontiers. Questing points are awarded after each completed quest and are used to increase a Legion's questing experience level. The max questing level is 6.&#x20;
 
-Each quest has 3 parts. The higher a Legion's questing level, the farther they can go in each quest and the higher chance they find items from questing. Each time a legion quests, the distance the Legion traveled is added to the Legion's stats.  Each part of a quest is considered 10 KMs.  Part 3 enables Legions to play [Treasure Triad](ivory-tower.md#ending-journeys-with-treasure-triad).&#x20;
+Each quest has 3 parts. The higher a Legion's questing level, the farther they can go in each quest and the higher chance they find items from questing. Each time a legion quests, the distance the Legion traveled is added to the Legion's stats.  Each part of a quest is considered 10 kilometers.  Part 3 of a quest enables Legions to play [Treasure Triad](ivory-tower.md#ending-journeys-with-treasure-triad).&#x20;
 
 ## Embarking on Quests <a href="#docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c" id="docs-internal-guid-de6c823b-7fff-1266-a429-e0660af7e70c"></a>
 
@@ -24,9 +24,9 @@ There are three regions a Legion can quest in. Each region drops a specific affi
 
 Legions have the opportunity to quest through three parts of a quest. In order to progress further into a journey, Legions must satisfy questing level requirements:
 
-* Part 1: Requires Legions to be at least Questing Level 1
-* Part 2: Requires Legions to be at least Questing Level 2
-* Part 3: Requires Legions to be at least Questing Level 3
+* Part 1: Requires Legions to be at least Questing level 1
+* Part 2: Requires Legions to be at least Questing level 2
+* Part 3: Requires Legions to be at least Questing level 3
 
 Continuing a journey for rarer Treasures comes with risk. Users forfeit whatever loot they earned in the previous sections **(see** [**Rewards Section**](ivory-tower.md#quest-rewards)**)**, and run the risk of falling into “stasis”, which will temporarily immobilize the legion (4 hrs at the time of writing).&#x20;
 
@@ -44,7 +44,7 @@ Each questing region is affiliated with **two** elemental constellations. In ord
 
 #### Equipping Legions with Treasures
 
-Legions with a Questing Level of at least 3 have the opportunity to quest through Part 3, which gives them the opportunity to play Treasure Triad (a card game described in more detail below). In order to play Treasure Triad, Legions need to equip at least 1 Treasure on their quest. **NOTE:** Legions below Questing Level 3 can still quest but will not be able to reach Part 3.&#x20;
+Legions with a Questing level of at least 3 have the opportunity to quest through Part 3, which gives them the opportunity to play Treasure Triad (a card game described in more detail below). In order to play Treasure Triad, Legions need to equip at least 1 Treasure on their quest. **NOTE:** Legions below Questing level 3 can still quest but will not be able to reach Part 3.&#x20;
 
 ![Adding Treasures to a Legion to be used during Part 3 of a quest while playing Treasure Triad](<../../.gitbook/assets/Screen Shot 2022-06-09 at 2.09.13 PM.png>)
 
@@ -58,7 +58,7 @@ Legions with a Questing Level of at least 3 have the opportunity to quest throug
 Treasure Triad Video Tutorial
 {% endembed %}
 
-Legions who have a Questing Level of at least 3 and equipped Treasures must play the Treasure Triad game in the last part of their quest. The goal is to flip as many cards to your control, which boosts the chance your Legion receives higher tiered Treasure Fragments and/or Treasures.&#x20;
+Legions who have a Questing level of at least 3 and equipped Treasures must play the Treasure Triad game in the last part of their quest. The goal is to flip as many cards to your control, which boosts the chance your Legion receives higher tiered Treasure Fragments and/or Treasures.&#x20;
 
 ![Treasure Triad](../../.gitbook/assets/Screenshot\_65.jpg)
 
@@ -110,8 +110,6 @@ Two grid cells in the game are randomly selected to have affinities, and matchin
 
 ## Quest Rewards
 
-![](<../../.gitbook/assets/image (22).png>)
-
 Drop rates for Treasure Fragments ([**soulbound** ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)**and non-transferable**) are set to 60%, and each region drops a category of Treasure Fragments as follows:
 
 * Corruption Canyons ⇒ Alchemy/Arcana Fragments
@@ -130,7 +128,7 @@ Legions questing in any region or part have a 0.001% chance of finding a [Univer
 
 ### Bonuses for Questing Level 4/5/6 Legions <a href="#docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334" id="docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334"></a>
 
-Legions with Questing Level 4, 5, or 6 have higher chances of finding Treasure Fragments:
+Legions with Questing level 4, 5, or 6 have higher chances of finding Treasure Fragments:
 
 | Questing Level | Increased likelihood of Treasure Fragment drops |
 | -------------- | ----------------------------------------------- |
