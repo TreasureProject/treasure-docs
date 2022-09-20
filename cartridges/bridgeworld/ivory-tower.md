@@ -8,7 +8,9 @@ description: >-
 
 ## Questing Overview
 
-The Ivory Tower is where Legions can set out on quests in search of valuable resources such as Essence of Starlight, Treasure Fragments, and Prism Shards. **Note:** Genesis Legions have the added advantage of finding full Treasures (in addition to the above).&#x20;
+The Ivory Tower is where Legions can set out on quests in search of valuable resources such as Essence of Starlight, Treasure Fragments, and Prism Shards.&#x20;
+
+_Note**:** Genesis Legions have the added advantage of finding full Treasures (in addition to the above)._&#x20;
 
 Rewards from questing are used in a variety of ways across Bridgeworld. Treasure Fragments can be used to craft full Treasures in [The Forge](the-forge/). Essence of Starlight, a liquid form of MAGIC, is used to tattoo Legions with one of Bridgeworld's constellations onto their skin so they can equip more Treasures while on quests to earn higher tiered Treasure Fragments.
 
@@ -110,15 +112,31 @@ Two grid cells in the game are randomly selected to have affinities, and matchin
 
 ## Quest Rewards
 
-Drop rates for Treasure Fragments ([**soulbound** ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)**and non-transferable**) are set to 60%, and each region drops a category of Treasure Fragments as follows:
+Drop rates for Treasure Fragments ([**soulbound** ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)**and non-transferable**) are based on the below formula and each region drops a category of Treasure Fragments as follows:
 
 * Corruption Canyons ⇒ Alchemy/Arcana Fragments
 * Icy Ascent ⇒ Enchanting/Brewing Fragments
 * Desert Ruins ⇒ Smithing/Leatherworking Fragments
 
-The probability of finding different rarity tiers of Treasure Fragments are as follows:
+The chance of earning a Treasure Fragment = **1/(1 + (N/k \* s)^2)**&#x20;
 
-![](<../../.gitbook/assets/image (18).png>)
+* N = the number of recruits questing
+* s = a settable constant set to 1
+* k =  the number of items in the pool at the time of ending the quest.&#x20;
+
+| Treasure Tier | Treasure Fragments emitted per Month |
+| ------------- | ------------------------------------ |
+| T5            | 30,000                               |
+| T4            | 21,000                               |
+| T3            | 12,000                               |
+| T2            | 3,000                                |
+| T1            | 1,500                                |
+
+Note - 5,000 of the above tier 5 treasures per month are allocated to Recruit Legions
+
+The probability of finding different rarity tiers of Treasure Fragments are outlined below. Note Legions can earn multiple fragment Tiers in each section based on the above drop-rate formula.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-09 at 12.51.01 PM.png" alt=""><figcaption></figcaption></figure>
 
 Questing XP and other loot earned depends on the distance traveled:
 

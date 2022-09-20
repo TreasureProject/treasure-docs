@@ -14,7 +14,7 @@ Legions have the option to craft **Treasures** or **Consumables**. \
 \
 Legions can use Treasure Fragments and Prism Shards to craft Treasures. \
 \
-Legions can use Treasures to craft **Consumables**. Consumables are a category of assets that use Treasures (e.g. beetle-wing, diamond, carriage) to create powerful assets in Bridgeworld.  There are 3 types of consumables. More details on consumables will be discussed in subsequent sections.&#x20;
+Legions can use Treasures to craft **Consumables**. Consumables are a category of assets that use Treasures (e.g. beetle-wing, diamond, carriage) to create powerful assets in Bridgeworld.  There are 3 types of consumables.&#x20;
 
 \
 View subsequent sections to learn more about crafting Treasures and Consumables.&#x20;
