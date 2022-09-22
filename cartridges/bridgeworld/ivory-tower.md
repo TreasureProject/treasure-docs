@@ -112,6 +112,17 @@ Two grid cells in the game are randomly selected to have affinities, and matchin
 
 ## Quest Rewards
 
+During a questing Legions gain:&#x20;
+
+1. Questing XP
+2. Essence of Starlight (EoS) and Prism Shards
+3. 0.001% chance of finding a [Universal Lock](https://trove.treasure.lol/collection/consumables/10) (in all regions and sections)
+4. And a chance of finding **Treasure Fragments**
+
+For Questing XP, EoS and Prism Shards, the rewards depends on the distance traveled:
+
+![](<../../.gitbook/assets/image (20) (1).png>)
+
 Drop rates for Treasure Fragments ([**soulbound** ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)**and non-transferable**) are based on the below formula and each region drops a category of Treasure Fragments as follows:
 
 * Corruption Canyons ⇒ Alchemy/Arcana Fragments
@@ -150,13 +161,9 @@ For section 3: Legions have a chance of finding up to 3 fragments (1x T1, 1x T2,
 
 
 
+**For more details on how the Capped Treasure mechanism is implemented and how it works see:** [**https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s/edit#**](https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s/edit)****
 
-
-Questing XP and other loot earned depends on the distance traveled:
-
-![](<../../.gitbook/assets/image (20) (1).png>)
-
-Legions questing in any region or part have a 0.001% chance of finding a [Universal Lock](https://trove.treasure.lol/collection/consumables/10).
+****
 
 
 
