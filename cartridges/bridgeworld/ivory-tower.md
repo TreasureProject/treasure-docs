@@ -77,10 +77,10 @@ The game works as follows:
    * **NOTE:** Genesis Legions cannot be put in stasis
 5. Once you play 3 cards, click “End Games” to submit a transaction to end or restart your quests. Note that you do not have to place all 3 cards to finish a game.
 6. The more cards flipped into your control, the higher the drop rate:
-   * 1 card ⇒ +3%
-   * 2 cards ⇒ +6%
-   * 3 cards ⇒ +9%
-   * Fragment standard drop rate is 60% so 3 cards flipped = 60 + 9 = 69%
+   * 1 card ⇒ +5%
+   * 2 cards ⇒ +10%
+   * 3 cards ⇒ +15%
+   * If the current fragment drop rate is 40%, with 3 cards flipped = 40% \* (1 + 15%) = 46%
 
 ![](<../../.gitbook/assets/image (4) (1).png>)
 
@@ -124,6 +124,12 @@ The chance of earning a Treasure Fragment = **1/(1 + (N/k \* s)^2)**&#x20;
 * s = a settable constant set to 1
 * k =  the number of items in the pool at the time of ending the quest.&#x20;
 
+This formula produces a droprate graph as follows:
+
+<figure><img src="https://lh4.googleusercontent.com/yAe1zSxJTOsxIgKeqXLZpIiygM0Q92GGggqOtqtCpimHVXyX27qoGd5eYsTG_CvWG8lKYVZJNYFD6dr9y_CFcfxl8k_k5Brzp5MQxZcl00zLdMCLVkdnzZPfwVuEaWcp7nW4UOR6V-Pfrj7zwA9z5_hd4MZcL1A3n3cJtIwrOCRfo0ozzzVAl6sL5w" alt=""><figcaption><p>Variable droprates based on N (#legions) and k (#treasure fragments remaning in the pool). See this simluation for example of how droprates vary over time :<a href="https://youtu.be/utfZvA0y_sA">https://youtu.be/utfZvA0y_sA	</a></p></figcaption></figure>
+
+
+
 | Treasure Tier | Treasure Fragments emitted per Month |
 | ------------- | ------------------------------------ |
 | T5            | 30,000                               |
@@ -136,7 +142,15 @@ Note - 5,000 of the above tier 5 treasures per month are allocated to Recruit Le
 
 The probability of finding different rarity tiers of Treasure Fragments are outlined below. Note Legions can earn multiple fragment Tiers in each section based on the above drop-rate formula.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-09 at 12.51.01 PM.png" alt=""><figcaption></figcaption></figure>
+For section 1: Legions have a chance of finding up to 2 fragments (1x T5, 1x T4) or none at all.
+
+For section 2: Legions have a chance of finding up to 2 fragments (1x T5, 1x T4, 1x T3) or none at all.
+
+For section 3: Legions have a chance of finding up to 3 fragments (1x T1, 1x T2, 1x T3) or none at all.
+
+
+
+
 
 Questing XP and other loot earned depends on the distance traveled:
 
@@ -144,21 +158,43 @@ Questing XP and other loot earned depends on the distance traveled:
 
 Legions questing in any region or part have a 0.001% chance of finding a [Universal Lock](https://trove.treasure.lol/collection/consumables/10).
 
+
+
 ### Bonuses for Questing Level 4/5/6 Legions <a href="#docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334" id="docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334"></a>
 
 Legions with Questing level 4, 5, or 6 have higher chances of finding Treasure Fragments:
 
-| Questing Level | Increased likelihood of Treasure Fragment drops |
-| -------------- | ----------------------------------------------- |
-| Level 4        | + 2%                                            |
-| Level 5        | + 4%                                            |
-| Level 6        | + 6%                                            |
+| Questing Level | Boosted chance of Treasure Fragment drops |
+| -------------- | ----------------------------------------- |
+| Level 4        | (1 + 5%) \* BaseDropRate                  |
+| Level 5        | (1 + 10%) \* BaseDropRate                 |
+| Level 6        | (1 + 15%) \* BaseDropRate                 |
 
 ### Bonuses for Genesis Legions <a href="#docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334" id="docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334"></a>
 
 Genesis Legions are immune to stasis in questing, have higher chances of finding Treasure Fragments, and have an additional chance to earn a full Treasure during quests:
 
-![](<../../.gitbook/assets/image (16).png>)
+| Legion Rarity | Chance of finding full treasure | Boosted chance of finding fragments |
+| ------------- | ------------------------------- | ----------------------------------- |
+| Common        | 1%                              | (1 + 2.5%) \* BaseDropRate          |
+| Special       | 1.5%                            | (1 + 3.75%) \* BaseDropRate         |
+| Uncommon      | 2%                              | (1 + 5%) \* BaseDropRate            |
+| Rare          | 4%                              | (1 + 10%) \* BaseDropRate           |
+| Legendary     | 12%                             | (1 + 30%) \* BaseDropRate           |
+
+### Stacking Droprate Bonuses
+
+Bonuses to the Treasure Fragment droprates stack as follows:\
+(1 + QuestingLvlBonus + CardFlipBonus + GenesisLegionBonus)
+
+So for instance if the current BaseDropRate is 35%, and a lvl 4 Special Genesis Legion is questing and flipped 3x Cards in the Triad Card Game,
+
+The drop rate is: (1 + 5% + 3.75% + 15%) \* 35%&#x20;
+
+\= (1 + 23.75%) \* 35%
+
+\= 43.31%\
+
 
 ## Questing Tutorial
 
