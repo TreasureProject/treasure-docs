@@ -126,7 +126,7 @@ The chance of earning a Treasure Fragment = **1/(1 + (N/k \* s)^2)**&#x20;
 
 This formula produces a droprate graph as follows:
 
-<figure><img src="https://lh4.googleusercontent.com/yAe1zSxJTOsxIgKeqXLZpIiygM0Q92GGggqOtqtCpimHVXyX27qoGd5eYsTG_CvWG8lKYVZJNYFD6dr9y_CFcfxl8k_k5Brzp5MQxZcl00zLdMCLVkdnzZPfwVuEaWcp7nW4UOR6V-Pfrj7zwA9z5_hd4MZcL1A3n3cJtIwrOCRfo0ozzzVAl6sL5w" alt=""><figcaption><p>Variable droprates based on N (#legions) and k (#treasure fragments remaning in the pool). See this simluation for example of how droprates vary over time :<a href="https://youtu.be/utfZvA0y_sA">https://youtu.be/utfZvA0y_sA	</a></p></figcaption></figure>
+<figure><img src="https://lh4.googleusercontent.com/yAe1zSxJTOsxIgKeqXLZpIiygM0Q92GGggqOtqtCpimHVXyX27qoGd5eYsTG_CvWG8lKYVZJNYFD6dr9y_CFcfxl8k_k5Brzp5MQxZcl00zLdMCLVkdnzZPfwVuEaWcp7nW4UOR6V-Pfrj7zwA9z5_hd4MZcL1A3n3cJtIwrOCRfo0ozzzVAl6sL5w" alt=""><figcaption><p>Variable droprates based on N (#legions) and k (#treasure fragments remaning in the pool). See this simluation for example of how droprates vary over time: <a href="https://youtu.be/utfZvA0y_sA">https://youtu.be/utfZvA0y_sA	</a></p></figcaption></figure>
 
 
 
