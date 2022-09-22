@@ -16,7 +16,7 @@ Details on questing with Recruit Legions:
 
 * Recruits travel through part one of a quest (Auxillary Legions can venture further)
 * Recruits receive the following from questing:&#x20;
-  * 12 Experience (XP) points
+  * 6 Experience (XP) points
   * 1 Essence of Starlight (EOS)
   * 1 Prism Shard
   * The chance to find a T5 Treasure Fragment
@@ -35,7 +35,7 @@ _Recruit Crafting Recipe_
 
 | Treasure Tier | Prism Shards | MAGIC | Fragments | Recruit XP Gained |
 | ------------- | ------------ | ----- | --------- | ----------------- |
-| T5            | 2            | 0     | 12        | 12                |
+| T5            | 2            | 0     | 12        | 6                 |
 
 ### Promoting a Recruit
 
