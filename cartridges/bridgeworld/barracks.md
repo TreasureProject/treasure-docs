@@ -10,7 +10,7 @@ Recruits are able to gain experience from questing and crafting in order to get 
 
 #### Questing with a Recruit Legion
 
-Recruit Legions are able to go on quests in the [Ivory Tower](https://docs.treasure.lol/cartridges/bridgeworld/ivory-tower) to find  Treasure Fragments which they can craft into Treasures.&#x20;
+Recruit Legions are able to go on quests in the [Ivory Tower](https://docs.treasure.lol/cartridges/bridgeworld/ivory-tower) to find Treasure Fragments which they can craft into Treasures.&#x20;
 
 Details on questing with Recruit Legions:
 
@@ -43,19 +43,19 @@ Recruits earn experience (XP) for questing and crafting that enables them to lev
 
 Recruits can be promoted to a Cadet at level 3 and have the option to choose to become one of the following types of Cadets:&#x20;
 
-* Melee
-* Arcane
-* Archery
+* Lethality
+* Cognition
+* Parabolics
 
 Recruits can be promoted to an Apprentice at level 7 whereby they can choose **** to become one of the following based on the type of Cadet they are:&#x20;
 
 | Cadet Type | Apprentice Type |
 | ---------- | --------------- |
-| Melee      | Assassin        |
+| Lethality  | Assassin        |
 |            | Warrior         |
-| Arcane     | Spellcaster     |
+| Cognition  | Spellcaster     |
 |            | Numeraire       |
-| Archery    | Range           |
+| Parabolics | Range           |
 |            | Siege           |
 
 Note - The Apprentice type determine the type of Auxillary Legion your Recruit may become when attempting to get promoted to an Auxillary Legion. For example, a Spellcaster Apprentice will become a Spellcaster Auxillary Legion.
