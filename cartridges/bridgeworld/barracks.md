@@ -54,7 +54,6 @@ Recruits can be promoted to an Apprentice at level 7 whereby they can choose ***
 | Lethality  | Assassin        |
 |            | Warrior         |
 | Cognition  | Spellcaster     |
-|            | Numeraire       |
 | Parabolics | Range           |
 |            | Siege           |
 
