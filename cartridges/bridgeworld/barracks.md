@@ -52,7 +52,7 @@ Recruits can be promoted to an Apprentice at level 7 whereby they can choose ***
 | Cadet Type | Apprentice Type |
 | ---------- | --------------- |
 | Lethality  | Assassin        |
-|            | Warrior         |
+|            | Fighter         |
 | Cognition  | Spellcaster     |
 | Parabolics | Range           |
 |            | Siege           |
