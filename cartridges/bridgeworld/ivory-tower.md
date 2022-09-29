@@ -100,7 +100,7 @@ Two grid cells in the game are randomly selected to have affinities, and matchin
 | All-Class (Ashen Kingsguard, Clockwork Marine, Executioner, Reaper, Shadowguard) | All                      |
 | Numeraire                                                                        | Alchemy & Arcana         |
 | Riverman                                                                         | Brewing & Enchanting     |
-| Ranger                                                                           | Alchemy & Leatherworking |
+| Ranged                                                                           | Alchemy & Leatherworking |
 | Fighter                                                                          | Enchanting & Smithing    |
 | Spellcaster                                                                      | Arcana & Enchanting      |
 | Siege                                                                            | Alchemy & Smithing       |
