@@ -6,7 +6,7 @@ The Barrack is where players can obtain a Recruit Legion to begin playing Bridge
 
 ### What can Recruit Legions do?
 
-Recruits are able to gain experience from questing and crafting in order to get promoted to more powerful Legions known as Auxillary Legions.&#x20;
+Recruits are able to gain experience from questing and crafting in order to get promoted to more powerful Legions known as Auxiliary Legions.&#x20;
 
 #### Questing with a Recruit Legion
 
@@ -14,7 +14,7 @@ Recruit Legions are able to go on quests in the [Ivory Tower](https://docs.treas
 
 Details on questing with Recruit Legions:
 
-* Recruits travel through part one of a quest (Auxillary Legions can venture further)
+* Recruits travel through part one of a quest (Auxiliary Legions can venture further)
 * Recruits receive the following from questing:&#x20;
   * 12 Experience (XP) points
   * 1 Essence of Starlight (EOS)
@@ -29,7 +29,7 @@ Details on questing with Recruit Legions:
 
 #### Crafting with a Recruit Legion
 
-Recruits are able to craft T5 Treasures in the [Forge](https://docs.treasure.lol/cartridges/bridgeworld/the-forge/crafting-treasures). Recruits are unable to craft consumables until they are promoted to an Auxillary Legion.  Below is the recipe for Recruits to craft Treasures in the Forge.&#x20;
+Recruits are able to craft T5 Treasures in the [Forge](https://docs.treasure.lol/cartridges/bridgeworld/the-forge/crafting-treasures). Recruits are unable to craft consumables until they are promoted to an Auxiliary Legion.  Below is the recipe for Recruits to craft Treasures in the Forge.&#x20;
 
 _Recruit Crafting Recipe_
 
@@ -39,7 +39,7 @@ _Recruit Crafting Recipe_
 
 ### Promoting a Recruit
 
-Recruits earn experience (XP) for questing and crafting that enables them to level up to be promoted to an Auxillary Legion.&#x20;
+Recruits earn experience (XP) for questing and crafting that enables them to level up to be promoted to an Auxiliary Legion.&#x20;
 
 Recruits can be promoted to a Cadet at level 3 and have the option to choose to become one of the following types of Cadets:&#x20;
 
@@ -54,10 +54,10 @@ Recruits can be promoted to an Apprentice at level 7 whereby they can choose ***
 | Lethality  | Assassin        |
 |            | Fighter         |
 | Cognition  | Spellcaster     |
-| Parabolics | Range           |
+| Parabolics | Ranged          |
 |            | Siege           |
 
-Note - The Apprentice type determine the type of Auxillary Legion your Recruit may become when attempting to get promoted to an Auxillary Legion. For example, a Spellcaster Apprentice will become a Spellcaster Auxillary Legion.
+Note - The Apprentice type determine the type of Auxiliary Legion your Recruit may become when attempting to get promoted to an Auxiliary Legion. For example, a Spellcaster Apprentice will become a Spellcaster Auxiliary Legion.
 
 **Experience Required to Level Up**
 
@@ -70,9 +70,9 @@ Note - The Apprentice type determine the type of Auxillary Legion your Recruit m
 | 5     | 100                 | 240                   | 8                    | 20                   |                                       |
 | 6     | 130                 | 370                   | 11                   | 31                   |                                       |
 | 7     | 175                 | 545                   | 15                   | 45                   | Promote to Apprentice                 |
-| 8     | 230                 | 775                   | 19                   | 65                   | Attempt Ascension to Auxillary Legion |
+| 8     | 230                 | 775                   | 19                   | 65                   | Attempt Ascension to Auxiliary Legion |
 
-When attempting to ascend to an Auxillary Legion, there is a chance that your Recruit fails to ascent resulting in your Recruit needing to repeat level 8 in order for another chance to ascend.&#x20;
+When attempting to ascend to an Auxiliary Legion, there is a chance that your Recruit fails to ascent resulting in your Recruit needing to repeat level 8 in order for another chance to ascend.&#x20;
 
 
 
