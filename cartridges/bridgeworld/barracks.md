@@ -1,6 +1,6 @@
 # Barracks
 
-Bridgeworld is full of adventurers and dreamers from far and wide who come to Bridgeworld to make a better life for themselves and their families. The most ambitious among these transient citizens volunteer to join the Bridgeworld Recruits, earning the chance to prove themselves worthy of permanent citizenship. Recruit training is long, arduous, and dangerous—many who set out fail along the way. But for the most extraordinary, ascending through the ranks to become an Auxiliary Legion is a reward worth the sacrifice.
+Bridgeworld is full of adventurers and dreamers from far and wide who come to Bridgeworld to make a better life for themselves. The most ambitious among these transient citizens volunteer to join the Bridgeworld Recruits, earning the chance to prove themselves worthy of permanent citizenship. Recruit training is long, arduous, and dangerous—many who set out fail along the way. But for the most extraordinary, ascending through the ranks to become an Auxiliary Legion is a reward worth the sacrifice.
 
 The Barrack is where players can obtain a Recruit Legion to begin playing Bridgeworld. Recruits can be minted for 10 MAGIC. See below for more details on Recruit Legions.&#x20;
 
