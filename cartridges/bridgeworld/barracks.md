@@ -54,7 +54,7 @@ Recruits can be promoted to an Apprentice at level 7 whereby they can choose ***
 | Lethality  | Assassin        |
 |            | Fighter         |
 | Cognition  | Spellcaster     |
-| Parabolics | Ranged          |
+| Parabolics | Ranger          |
 |            | Siege           |
 
 Note - The Apprentice type determine the type of Auxiliary Legion your Recruit may become when attempting to get promoted to an Auxiliary Legion. For example, a Spellcaster Apprentice will become a Spellcaster Auxiliary Legion.
