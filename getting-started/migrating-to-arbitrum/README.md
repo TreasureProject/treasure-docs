@@ -61,7 +61,7 @@ Be sure to bridge additional ETH to allow for you to pay for transactions on Arb
 
 {% embed url="https://bridge.arbitrum.io" %}
 
-![](<../../.gitbook/assets/image (2) (2).png>)
+![](<../../.gitbook/assets/image (2) (2) (1).png>)
 
 ### 3. Buy $MAGIC
 

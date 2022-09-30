@@ -22,7 +22,7 @@ If you are on another network and not Arbitrum, follow these screenshot instruct
 
 ![At the top, click the "Ethereum" button near the middle of the screen.](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (2).png>)
 
-![Click the Arbitrum network.](<../../.gitbook/assets/image (3) (1).png>)
+![Click the Arbitrum network.](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 ![Review the prompt that appears and click "Switch network".](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png>)
 
