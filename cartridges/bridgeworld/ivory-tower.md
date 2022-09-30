@@ -169,7 +169,7 @@ Travelling to latter sections does not give you rewards from previous sections.
 
 
 
-Additional Treasure Fragments are emitted from separate pools for Recruits and ecosystem partners like Realm. For example:
+Additional Treasure Fragments are emitted from separate pools in other places in BW for Recruits and ecosystem partners like Realm. As more game loops and sinks are built, we may gradually introduce more places to earn Treasure Fragments. Current extra Treasure fragment pools include:
 
 | Treasure Tier | Treasure Fragments emitted per Month |
 | ------------- | ------------------------------------ |
