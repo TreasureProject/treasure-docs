@@ -57,7 +57,7 @@ Recruits can be promoted to an Apprentice at level 7 whereby they can choose ***
 | Parabolics | Ranger          |
 |            | Siege           |
 
-Note - The Apprentice type determine the type of Auxiliary Legion your Recruit may become when attempting to get promoted to an Auxiliary Legion. For example, a Spellcaster Apprentice will become a Spellcaster Auxiliary Legion.
+The Apprentice type determine the type of Auxiliary Legion your Recruit may become when attempting to get promoted to an Auxiliary Legion. For example, a Spellcaster Apprentice will become a Spellcaster Auxiliary Legion.
 
 **Experience Required to Level Up**
 
@@ -72,11 +72,11 @@ Note - The Apprentice type determine the type of Auxiliary Legion your Recruit m
 | 7     | 175                 | 545                   | 15                   | 45                   | Promote to Apprentice                 |
 | 8     | 230                 | 775                   | 19                   | 65                   | Attempt Ascension to Auxiliary Legion |
 
-When attempting to ascend to an Auxiliary Legion, there is a chance that your Recruit fails to ascent resulting in your Recruit needing to repeat level 8 in order for another chance to ascend.&#x20;
+In order toa scend to an Auxillary Legion, Apprentices are required to pay 150 MAGIC. When attempting to ascend to an Auxiliary Legion, there is a chance that your Recruit fails to ascent resulting in your Recruit needing to repeat level 8 in order for another chance to ascend. If the ascenscion fails the 150 MAGIC will be refunded.&#x20;
 
 
 
 **Additional Information on Recruits**
 
 * Players can only mint 1 Recruit per wallet
-* Recruits are non-transferrable&#x20;
+* Recruits are non-transferable&#x20;
