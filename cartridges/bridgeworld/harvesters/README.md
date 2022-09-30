@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Harvesters are ancient creatures that find and consume MAGIC across Bridgeworld. Legions have learned to harness the power of Harvesters by attaching Harvester Parts to them which divert the MAGIC they consume to themselves. \
 \
