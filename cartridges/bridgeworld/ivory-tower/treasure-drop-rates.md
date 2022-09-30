@@ -54,14 +54,6 @@ Additional Treasure Fragments are emitted from separate pools in other places in
 
 
 
-
-
-**For more details on how the Capped Treasure mechanism is implemented and how it works see:** [**https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s/edit#**](https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s/edit)****
-
-****
-
-
-
 ### Bonuses for Questing Level 4/5/6 Legions <a href="#docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334" id="docs-internal-guid-c9503063-7fff-6414-44f5-cb6801d60334"></a>
 
 Legions with Questing level 4, 5, or 6 have higher chances of finding Treasure Fragments:
@@ -95,4 +87,8 @@ The drop rate is: (1 + 5% + 3.75% + 15%) \* 35%&#x20;
 
 \= (1 + 23.75%) \* 35%
 
-\= 43.31%\
+\= 43.31%
+
+
+
+**For more details on how the Capped Treasure mechanism is implemented and how it works see:** [**https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s/edit#**](https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s/edit)\

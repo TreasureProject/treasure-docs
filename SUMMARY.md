@@ -27,7 +27,7 @@
 * [Bridgeworld ](cartridges/bridgeworld/README.md)
   * [Getting Started](cartridges/bridgeworld/getting-started.md)
   * [Barracks](cartridges/bridgeworld/barracks.md)
-  * [Ivory Tower](cartridges/bridgeworld/ivory-tower/README.md)
+  * [Ivory Tower](cartridges/bridgeworld/ivory-tower.md)
     * [Constellation Quests](cartridges/bridgeworld/ivory-tower/constellation-quests.md)
     * [Treasure Triad](cartridges/bridgeworld/ivory-tower/treasure-triad.md)
     * [Treasure Drop Rates](cartridges/bridgeworld/ivory-tower/treasure-drop-rates.md)
