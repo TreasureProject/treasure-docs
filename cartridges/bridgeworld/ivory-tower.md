@@ -18,7 +18,7 @@ Legions gain experience as they explore Bridgeworld’s frontiers. Questing poin
 
 Each quest has 3 parts. The higher a Legion's questing level, the farther they can go in each quest and the higher chance they find items from questing. Each time a legion quests, the distance the Legion traveled is added to the Legion's stats.  Each part of a quest is considered 10 kilometers.  Part 3 of a quest enables Legions to play [Treasure Triad](ivory-tower.md#ending-journeys-with-treasure-triad).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>High level game loop for Questing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>High level game loop for Questing</p></figcaption></figure>
 
 
 

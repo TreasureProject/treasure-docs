@@ -2,6 +2,8 @@
 
 ## Overview
 
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
 Harvesters are ancient creatures that find and consume MAGIC across Bridgeworld. Legions have learned to harness the power of Harvesters by attaching Harvester Parts to them which divert the MAGIC they consume to themselves. \
 \
 Harvesters find and extract MAGIC from Bridgeworld that Legions compete over via a social-coordination game. Harvesters serve two primary purposes:&#x20;
@@ -71,64 +73,13 @@ Extractor boosts stack additively and have the following attributes:
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-08-09 at 1.13.18 PM.png>)
 
-####
+
 
 #### Treasures
 
-Treasures do not boost the amount of MAGIC a Harvester receives but it does boost the amount of MAGIC a player receives within the Harvester. As with the Atlas mine, players may stake and bind up to 20 Treasures to a Harvester to boost a Player’s deposit. As part of active gameplay, a player’s legion characters may find Treasures as loot while questing. The additional boost each staked Treasure provides is determined by rarity.
+Treasures do not boost the amount of MAGIC a Harvester receives but it does boost the amount of MAGIC a player receives within the Harvester. As with the Atlas mine, players may stake and bind up to 20 Treasures to a Harvester to boost a Player’s deposit. As part of active gameplay, a player’s legion characters may find Treasures as loot while questing. The additional boost each staked Treasure provides is determined by rarity. See the [game guide](game-guide.md) for the boost stats on each Treasure.
 
 
-
-| Tier        | Treasure                | Boost  |
-| ----------- | ----------------------- | ------ |
-| Tier 1      | Honeycomb               | 15.78% |
-| <p><br></p> | Grin                    | 15.71% |
-| <p><br></p> | Bottomless Elixir       | 7.61%  |
-| <p><br></p> | Cap of Invisibility     | 7.61%  |
-| <p><br></p> | Ancient Relic           | 7.52%  |
-| <p><br></p> | Castle                  | 7.33%  |
-| Tier 2      | Thread of Divine Silk   | 7.33%  |
-| <p><br></p> | Bait for Monsters       | 7.30%  |
-| <p><br></p> | Immovable Stone         | 7.24%  |
-| <p><br></p> | Mollusk Shell           | 6.72%  |
-| <p><br></p> | Snow White Feather      | 6.40%  |
-| <p><br></p> | Red Feather             | 6.38%  |
-| <p><br></p> | Ivory Breastpin         | 6.37%  |
-| <p><br></p> | Divine Hourglass        | 6.34%  |
-| <p><br></p> | Military Stipend        | 6.23%  |
-| <p><br></p> | Bag of Rare Mushrooms   | 6.16%  |
-| <p><br></p> | Carriage                | 6.07%  |
-| Tier 3      | Small Bird              | 5.99%  |
-| <p><br></p> | Score of Ivory          | 5.95%  |
-| <p><br></p> | Unbreakable Pocketwatch | 5.93%  |
-| <p><br></p> | Framed Butterfly        | 5.84%  |
-| <p><br></p> | Cow                     | 5.80%  |
-| <p><br></p> | Pot of Gold             | 5.79%  |
-| <p><br></p> | Divine Mask             | 5.71%  |
-| <p><br></p> | Common Bead             | 5.64%  |
-| <p><br></p> | Favor from the Gods     | 5.55%  |
-| <p><br></p> | Jar of Fairies          | 5.33%  |
-
-| Tier 4      | Witches Broom  | 5.07% |
-| ----------- | -------------- | ----- |
-| <p><br></p> | Common Feather | 3.38% |
-| <p><br></p> | Green Rupee    | 3.27% |
-| <p><br></p> | Grain          | 3.22% |
-| <p><br></p> | Lumber         | 3.02% |
-| <p><br></p> | Common Relic   | 2.15% |
-| <p><br></p> | Ox             | 1.59% |
-| <p><br></p> | Blue Rupee     | 1.53% |
-| <p><br></p> | Donkey         | 1.22% |
-| Tier 5      | Half-Penny     | 0.78% |
-| <p><br></p> | Silver Coin    | 0.78% |
-| <p><br></p> | Diamond        | 0.78% |
-| <p><br></p> | Pearl          | 0.78% |
-| <p><br></p> | Dragon Tail    | 0.77% |
-| <p><br></p> | Red Rupee      | 0.77% |
-| <p><br></p> | Gold Coin      | 0.77% |
-| <p><br></p> | Emerald        | 0.76% |
-| <p><br></p> | Beetle-wing    | 0.75% |
-| <p><br></p> | Quarter-Penny  | 0.75% |
 
 ### Calculating a Harvester's emissions
 

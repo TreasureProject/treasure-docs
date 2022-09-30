@@ -1,3 +1,6 @@
 # Game Guide
 
-View [here](https://bridgeworld.treasure.lol/game-guide) for the Harvester game guide
+Click [here](https://bridgeworld.treasure.lol/game-guide) to download the Harvester game guide:
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+

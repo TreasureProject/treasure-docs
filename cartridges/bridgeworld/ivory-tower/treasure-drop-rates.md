@@ -91,4 +91,4 @@ The drop rate is: (1 + 5% + 3.75% + 15%) \* 35%&#x20;
 
 
 
-**For more details on how the Capped Treasure mechanism is implemented and how it works see:** [**https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s/edit#**](https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s/edit)\
+**For more details on how the Capped Treasure mechanism is implemented and how it works see:** [**https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s**](https://docs.google.com/document/d/1l82TwyJMNJ42Bup7Y2C\_E32t1iDuDVIwc79bbiI0V3s/edit)\
