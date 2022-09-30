@@ -123,6 +123,8 @@ For Questing XP, EoS and Prism Shards, the rewards depends on the distance trave
 
 ![](<../../.gitbook/assets/image (20) (1).png>)
 
+#### Treasure Droprates
+
 Drop rates for Treasure Fragments ([**soulbound** ](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)**and non-transferable**) are based on the below formula and each region drops a category of Treasure Fragments as follows:
 
 * Corruption Canyons ⇒ Alchemy/Arcana Fragments
@@ -133,9 +135,11 @@ The chance of earning a Treasure Fragment = **1/(1 + (N/k \* s)^2)**&#x20;
 
 * N = the number of recruits questing
 * s = a settable constant set to 1
-* k =  the number of items in the pool at the time of ending the quest.&#x20;
+* k =  the number of Treasure fragments in the pool when legion ends the quest.&#x20;
+  * The number of Treasure fragments gradually increases every second at a fixed rate
+    * e.g. if there is a 30,000 monthly cap for T5, then this works out to be 30000/(30\*24\*60\*60) = 0.0115740 T5 Treasures per second
 
-This formula produces a droprate graph as follows:
+This formula produces a drop rate graph as follows:
 
 <figure><img src="https://lh4.googleusercontent.com/yAe1zSxJTOsxIgKeqXLZpIiygM0Q92GGggqOtqtCpimHVXyX27qoGd5eYsTG_CvWG8lKYVZJNYFD6dr9y_CFcfxl8k_k5Brzp5MQxZcl00zLdMCLVkdnzZPfwVuEaWcp7nW4UOR6V-Pfrj7zwA9z5_hd4MZcL1A3n3cJtIwrOCRfo0ozzzVAl6sL5w" alt=""><figcaption><p>Variable droprates based on N (#legions) and k (#treasure fragments remaning in the pool). See this simluation for example of how droprates vary over time: <a href="https://youtu.be/utfZvA0y_sA">https://youtu.be/utfZvA0y_sA	</a></p></figcaption></figure>
 
@@ -149,9 +153,9 @@ This formula produces a droprate graph as follows:
 | T2            | 3,000                                |
 | T1            | 1,500                                |
 
-Note - 5,000 of the above tier 5 treasures per month are allocated to Recruit Legions
+The probability of finding different rarity tiers of Treasure Fragments are outlined below.&#x20;
 
-The probability of finding different rarity tiers of Treasure Fragments are outlined below. Note Legions can earn multiple fragment Tiers in each section based on the above drop-rate formula.
+Note Legions can earn multiple fragment Tiers in each section based on the above drop-rate formula, but only one of each tier.
 
 **For section 1**: Legions have a chance of finding up to 2 fragments (1x T5, 1x T4) or none at all.
 
@@ -162,6 +166,18 @@ _You have a chance to find either: (1x T5 and 1x T4) or (1x T5) or (1x T4) or no
 **For section 3**: Legions have a chance of finding up to 3 fragments: (1x T1, 1x T2, 1x T3) or none at all.\
 \
 Travelling to latter sections does not give you rewards from previous sections.
+
+
+
+Additional Treasure Fragments are emitted from separate pools for Recruits and ecosystem partners like Realm. For example:
+
+| Treasure Tier | Treasure Fragments emitted per Month |
+| ------------- | ------------------------------------ |
+| Recruits      | 5,000                                |
+| Realm         | 5,000                                |
+|               |                                      |
+
+
 
 
 
