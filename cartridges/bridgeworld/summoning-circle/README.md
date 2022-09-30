@@ -24,18 +24,18 @@ Legions are able to summon new Auxiliary Legions at the Summoning Altar. Balance
 
 ### **What are the drop rates of Summoning?**
 
-![Note: All summoned Legion has a 0.01% chance of obtaining 1 completed constellation.](<../../../.gitbook/assets/image (6).png>)
+![Note: All summoned Legion has a 0.01% chance of obtaining 1 completed constellation.](<../../../.gitbook/assets/image (6) (2).png>)
 
 ### **Can I increase the odds of getting Rares from Summoning?**
 
 You can craft small/medium/large prisms and sacrifice them in the summoning circle to improve the odds of obtaining a rare Auxiliary Legion via summoning. The boost rates are as follows:
 
-![Note: For example, using a large prism will decrease the odds of summoning a common Auxiliary by 14%, while also increasing the odds of obtaining an uncommon or rare.](<../../../.gitbook/assets/image (10).png>)
+![Note: For example, using a large prism will decrease the odds of summoning a common Auxiliary by 14%, while also increasing the odds of obtaining an uncommon or rare.](<../../../.gitbook/assets/image (10) (1).png>)
 
 You can also use a small, medium or large prism to reduce the Summoning time by 12 hours, 36 hours and 72 hours.\
 
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (2).png>)
 
 ### **Do I get anything special from Summoning?**
 

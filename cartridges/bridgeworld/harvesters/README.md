@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Harvesters are ancient creatures that find and consume MAGIC across Bridgeworld. Legions have learned to harness the power of Harvesters by attaching Harvester Parts to them which divert the MAGIC they consume to themselves. \
 \
@@ -51,15 +51,32 @@ When each Harvester is created, it has a maximum capacity of MAGIC that can be s
 
 A Utilisation Modifier parameter is implemented to ensure a minimum amount of MAGIC is staked in each Harvester Part to earn emissions. Until 30% of the Harvester’s maximum capacity filled with staked MAGIC, the Harvester will not receive any emissions. At 30% the Harvester will receive half of the potential emission, and emission levels will step up at every 10% staking interval until the harvester is receiving its full share of emissions when above 80% of the Harvester’s maximum capacity is staked.
 
-![](<../../../.gitbook/assets/Screen Shot 2022-08-09 at 12.57.51 PM.png>)
+| Harvester Capacity Utilisation | Amount of Staked MAGIC | Emissions Activated |
+| ------------------------------ | ---------------------- | ------------------- |
+| Less than 30%                  | < 1.8M MAGIC           | 0%                  |
+| Between 30% and 40%            | 1.8M \~ 2.4M MAGIC     | 50%                 |
+| Between 40% and 50%            | 2.4M \~ 3M MAGIC       | 60%                 |
+| Between 50% and 60%            | 3M \~ 3.6M MAGIC       | 70%                 |
+| Between 60% and 70%            | 3.6M \~ 4.2M MAGIC     | 80%                 |
+| Between 70% and 80%            | 4.2M \~ 4.8M MAGIC     | 90%                 |
+| Above 80%                      | >4.8M MAGIC            | 100%                |
 
 #### Legions
 
 Staking a Legion helps increase your Harvester’s Mining Power and  boosts your deposit within the Harvester (increasing your share of MAGIC emissions). Legions multiply the size of the Player’s MAGIC deposit, increasing the Player’s personal share of MAGIC rewards inside of the Harvester.&#x20;
 
-Players may stake multiple legions in a Harvester, however each Legion has a “weight class” and there is a maximum tonnage of 200kg to the legions you can stake per wallet. The weights and boosts for each Legion class are outlined in the table below.
+Players may stake multiple legions in a Harvester, however each Legion has a “weight class” and there is a maximum tonnage of 220kg to the legions you can stake per wallet. The weights and boosts for each Legion class are outlined in the table below.
 
-![](<../../../.gitbook/assets/Screen Shot 2022-08-09 at 1.02.42 PM.png>)
+| Legion Class       | Boost | Weight (kg) |
+| ------------------ | ----- | ----------- |
+| Genesis 1/1        | 600%  | 120 kg      |
+| Genesis All Class  | 200%  | 40 kg       |
+| Genesis Uncommon   | 100%  | 21 kg       |
+| Genesis Special    | 75%   | 16 kg       |
+| Genesis Common     | 50%   | 11 kg       |
+| Auxiliary Rare     | 25%   | 5.5 kg      |
+| Auxiliary Uncommon | 10%   | 4 kg        |
+| Auxiliary Common   | 5%    | 2.5 kg      |
 
 #### Extractors
 
@@ -71,7 +88,11 @@ Harvester teams must coordinate to ensure someone on their team always has Extra
 
 Extractor boosts stack additively and have the following attributes:
 
-![](<../../../.gitbook/assets/Screen Shot 2022-08-09 at 1.13.18 PM.png>)
+| Extractor Type   | Boost | Duration |
+| ---------------- | ----- | -------- |
+| Small Extractor  | 20%   | 3hrs     |
+| Medium Extractor | 25%   | 3hrs     |
+| Large Extractor  | 30%   | 3hrs     |
 
 
 
@@ -81,9 +102,13 @@ Treasures do not boost the amount of MAGIC a Harvester receives but it does boos
 
 
 
+
+
 ### Calculating a Harvester's emissions
 
-The share of MAGIC emissions each Harvester receives is simply its “Mining Power” as a ratio of all other Harvesters’ “Mining Powers” including the Atlas Mine. View [here](https://docs.google.com/document/d/17\_by-FXoXTUcOBPK2MiBmK50jCjZl8iMFwyt9iI3bvk/edit#heading=h.ssy8ir4fxfq) for more information on calculating a harvester's emissions.&#x20;
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+The share of MAGIC emissions each Harvester receives is simply its “Mining Power” as a ratio of all other Harvesters’ “Mining Powers” including the Atlas Mine. For more information on calculating a harvester's emissions, please view the [Harvester game guide](https://drive.google.com/file/d/1uTw85vDFHQJNacUQYbwiSfjJQfbgBgoR/view).
 
 ![Formula for calculating how much MAGIC a Harvester should receive](https://lh6.googleusercontent.com/w7hZTw\_LnNWbJrZfiZPPRomZTSaU9oGPMGKjxg9m\_sblBlTPBDxX-by1Wa6J5TctqNm6avatlSsXEFbHETxMOz-TkDFu-PTiu6ySJrfdzKUJ4ghh6I8zv5NJpkLhY0QLKNd68op7OCP5\_KjADyPW6lo)
 
