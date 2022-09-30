@@ -153,11 +153,15 @@ Note - 5,000 of the above tier 5 treasures per month are allocated to Recruit Le
 
 The probability of finding different rarity tiers of Treasure Fragments are outlined below. Note Legions can earn multiple fragment Tiers in each section based on the above drop-rate formula.
 
-For section 1: Legions have a chance of finding up to 2 fragments (1x T5, 1x T4) or none at all.
+**For section 1**: Legions have a chance of finding up to 2 fragments (1x T5, 1x T4) or none at all.
 
-For section 2: Legions have a chance of finding up to 2 fragments (1x T5, 1x T4, 1x T3) or none at all.
+_You have a chance to find either: (1x T5 and 1x T4) or (1x T5) or (1x T4) or nothing at all. You cannot get 2x T4 or 2x T5._
 
-For section 3: Legions have a chance of finding up to 3 fragments (1x T1, 1x T2, 1x T3) or none at all.
+**For section 2**: Legions have a chance of finding up to 2 fragments (1x T5, 1x T4, 1x T3) or none at all.
+
+**For section 3**: Legions have a chance of finding up to 3 fragments (1x T1, 1x T2, 1x T3) or none at all.\
+\
+Travelling to latter sections does not give you rewards from previous sections.
 
 
 
