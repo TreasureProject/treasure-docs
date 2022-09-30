@@ -136,8 +136,8 @@ The chance of earning a Treasure Fragment = **1/(1 + (N/k \* s)^2)**&#x20;
 * N = the number of recruits questing
 * s = a settable constant set to 1
 * k =  the number of Treasure fragments in the pool when legion ends the quest.&#x20;
-  * The number of Treasure fragments gradually increases every second at a fixed rate
-    * e.g. if there is a 30,000 monthly cap for T5, then this works out to be 30000/(30\*24\*60\*60) = 0.0115740 T5 Treasures per second
+  * The number of Treasure fragments gradually increases every second at a fixed rate.
+    * e.g. if there is a 30,000 monthly cap for T5, then this works out to be 30,000/(30\*24\*60\*60) = 0.0115740 T5 Treasures per second
 
 This formula produces a drop rate graph as follows:
 
