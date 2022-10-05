@@ -52,7 +52,14 @@ There are 3 types of Extractors (small, medium, large). See below for the likeli
 
 In Season 1, Legions will have a maximum of 6 Crafting Levels. Increasing Legions’ Crafting Points (CP) enables them to craft more difficult recipes when crafting consumables. Crafting experience and, in turn, levels are automatically awarded for each successful consumable craft (see below).
 
-![](<../../../.gitbook/assets/Screenshot\_15 (1).jpg>)
+|         | Crafting XP needed to level up | Cumulative CP to reach lvl | Unlock Crafts  | CP Gain/craft |
+| ------- | ------------------------------ | -------------------------- | -------------- | ------------- |
+| Level 1 | 140                            | 0                          | Prism          | 10            |
+| Level 2 | 160                            | 140                        |                | 10            |
+| Level 3 | 160                            | 300                        | Harvester Part | 20            |
+| Level 4 | 160                            | 460                        | Extractor      | 20            |
+| Level 5 | 480                            | 620                        |                | 40            |
+| Level 6 | 480                            | 1100                       |                | 40            |
 
 ### **What are the ingredients needed for each Consumable Recipe?**
 
