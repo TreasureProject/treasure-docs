@@ -79,14 +79,14 @@ When crafting consumables, Treasures have a chance of breaking. Broken Treasures
 
 With the exception of Grin and Honeycomb, Treasures’ likelihood of breaking are based on their Tier. Treasures break during the process required to extract and apply the MAGIC at their core to Legions' craft. Legions who break a Grin or Honeycomb report feeling a tremor that shakes the very foundation of Bridgeworld, an Essence of Grin or Honeycomb in the debris.
 
-| Treasure       | Max uses | Probability that it will break during crafting |
-| -------------- | -------- | ---------------------------------------------- |
-| Grin/Honeycomb | 1,000    | 0.30%                                          |
-| Tier 1         | 108      | 2.74%                                          |
-| Tier 2         | 54       | 5.40%                                          |
-| Tier 3         | 42       | 6.88%                                          |
-| Tier 4         | 25       | 11.29%                                         |
-| Tier 5         | 18       | 15.33%                                         |
+| Treasure       | Probability that it will break during crafting |
+| -------------- | ---------------------------------------------- |
+| Grin/Honeycomb | 0.30%                                          |
+| Tier 1         | 2.74%                                          |
+| Tier 2         | 5.40%                                          |
+| Tier 3         | 6.88%                                          |
+| Tier 4         | 11.29%                                         |
+| Tier 5         | 15.33%                                         |
 
 ### **How do Consumable success rates interact with Treasures’ break chance?**
 
