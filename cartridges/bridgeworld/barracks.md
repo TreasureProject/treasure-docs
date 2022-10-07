@@ -6,7 +6,7 @@ The Barrack is where players can obtain a Recruit Legion to begin playing Bridge
 
 ### What can Recruit Legions do?
 
-Recruits are able to gain experience from questing and crafting in order to get promoted to more powerful Legions known as Auxiliary Legions.&#x20;
+Recruits are able to gain experience from questing in order to get promoted to more powerful Legions known as Auxiliary Legions.&#x20;
 
 #### Questing with a Recruit Legion
 
@@ -35,11 +35,11 @@ _Recruit Crafting Recipe_
 
 | Treasure Tier | Prism Shards | MAGIC | Fragments | Recruit XP Gained |
 | ------------- | ------------ | ----- | --------- | ----------------- |
-| T5            | 2            | 0     | 12        | 4                 |
+| T5            | 2            | 0     | 12        | 0                 |
 
 ### Promoting a Recruit
 
-Recruits earn experience (XP) for questing and crafting that enables them to level up to be promoted to an Auxiliary Legion.&#x20;
+Recruits earn experience (XP) for questing that enables them to level up to be promoted to an Auxiliary Legion.&#x20;
 
 Recruits can be promoted to a Cadet at level 3 and have the option to choose to become one of the following types of Cadets:&#x20;
 
@@ -61,16 +61,16 @@ The Apprentice type determine the type of Auxiliary Legion your Recruit may beco
 
 **Experience Required to Level Up**
 
-| Level | Experience to Level | Cumulative Experience | # of Quests to Level | # of Crafts to Level | Gained Perk                           |
-| ----- | ------------------- | --------------------- | -------------------- | -------------------- | ------------------------------------- |
-| 1     | 10                  | 10                    | 1                    | 1                    | Craft Treasures                       |
-| 2     | 20                  | 30                    | 2                    | 3                    |                                       |
-| 3     | 40                  | 70                    | 3                    | 6                    | Promote to Cadet                      |
-| 4     | 70                  | 140                   | 6                    | 12                   |                                       |
-| 5     | 100                 | 240                   | 8                    | 20                   |                                       |
-| 6     | 130                 | 370                   | 11                   | 31                   |                                       |
-| 7     | 175                 | 545                   | 15                   | 45                   | Promote to Apprentice                 |
-| 8     | 230                 | 775                   | 19                   | 65                   | Attempt Ascension to Auxiliary Legion |
+| Level | Experience to Level | Cumulative Experience | # of Quests to Level | Gained Perk                           |
+| ----- | ------------------- | --------------------- | -------------------- | ------------------------------------- |
+| 1     | 10                  | 10                    | 1                    | Craft Treasures                       |
+| 2     | 20                  | 30                    | 2                    |                                       |
+| 3     | 40                  | 70                    | 3                    | Promote to Cadet                      |
+| 4     | 70                  | 140                   | 6                    |                                       |
+| 5     | 100                 | 240                   | 8                    |                                       |
+| 6     | 130                 | 370                   | 11                   |                                       |
+| 7     | 175                 | 545                   | 15                   | Promote to Apprentice                 |
+| 8     | 230                 | 775                   | 19                   | Attempt Ascension to Auxiliary Legion |
 
 In order to ascend to an Auxiliary Legion, Apprentices are required to pay 150 MAGIC.&#x20;
 
