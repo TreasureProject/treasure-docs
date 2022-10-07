@@ -72,7 +72,9 @@ The Apprentice type determine the type of Auxiliary Legion your Recruit may beco
 | 7     | 175                 | 545                   | 15                   | 45                   | Promote to Apprentice                 |
 | 8     | 230                 | 775                   | 19                   | 65                   | Attempt Ascension to Auxiliary Legion |
 
-In order to ascend to an Auxiliary Legion, Apprentices are required to pay 150 MAGIC. When attempting to ascend to an Auxiliary Legion, there is a chance that your Recruit fails to ascend resulting in your Recruit needing to repeat level 8 in order for another chance to ascend. If the ascension fails, the 150 MAGIC will be refunded. \
+In order to ascend to an Auxiliary Legion, Apprentices are required to pay 150 MAGIC.&#x20;
+
+When attempting to ascend to an Auxiliary Legion, there is a chance that your Recruit fails to ascend. In this case, your 150 MAGIC is refunded and in order to attempt another ascension, your Recruit needs to repeat level 8 first. \
 \
 It is rare that a Recruit ascends to an Auxiliary Legion, and is rate limited to approximately 14 ascensions a week over time. The probability of ascending depends on how many Recruits are simultaneously trying to ascend, and how many spots are available (2 spots are added every day, 14 per week), so it is best if a Recruit strategically times their ascension attempt when fewer other Recruits are attempting to ascend.
 
