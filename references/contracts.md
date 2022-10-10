@@ -61,8 +61,7 @@ description: >-
 | Contract          | Mainnet Address                            | Testnet Address                            |
 | ----------------- | ------------------------------------------ | ------------------------------------------ |
 | UniswapV2Factory  | 0x015e379Ce0Ff195228b3A9eBDFA13F9afC155Dd7 | 0x6Cd71961e531aBB505256ffa945D59ab9a2156ec |
-| UniswapV2Router02 | 0x23805449f91bB2d2054D9Ba288FdC8f09B5eAc79 | 0xe6eF3daC2bA5b785A36c2200Da2c087735c3b426 |
-| MAGIC             | 0x539bdE0d7Dbd336b79148AA742883198BBF60342 | 0x511b71c2deabc27156524131eef179DfeEE60898 |
+| UniswapV2Router02 | 0x23805449f91bB2d2054D9Ba288FdC8f09B5eAc79 | 0x2D3Ab76d3bbECf0Bb5FDbE2f992129c1a555A2E8 |
 | Ellerium (ELM)    | 0x45d55eadf0ed5495b369e040af0717eafae3b731 | 0xF915bD8f46ad9E9e36C9CC4b012DfbC76BEA09D8 |
 | MAGIC-ELM LP Pair | 0xf904469497e6a179a9D47A7b468e4BE42eC56e65 |                                            |
 
