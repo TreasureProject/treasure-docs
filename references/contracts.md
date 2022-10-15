@@ -31,7 +31,7 @@ description: >-
 | Treasure Fragments        | 0x756E4F3bb69c47d492aBf2a52af320190c174c55 | 0x22493924D89308fB8CFf0687cC21DB0484EcCD53 |
 | Consumables               | 0xf3d00a2559d84de7ac093443bcaada5f4ee4165c | 0x38129F7a7DAC2119b5F1D99cE6a1bb3778e5B73F |
 | Balancer Crystals         | 0xBfeBa04384CeCfAf0240b49163ed418f82E43d3A | 0x46b20a918903702Ed8C89320D49feE19B3d98657 |
-| Balancer Crystal Exchange |                                            | 0x604D6164d5D3a6700D36951d285b2870e3f0F257 |
+| Balancer Crystal Exchange | 0xfe51d5571743979ea838f070aa7Dfa621555e409 | 0x604D6164d5D3a6700D36951d285b2870e3f0F257 |
 | Master of Inflation       | 0xA5447D47BFd314C205BfAeC8EB0A66af8f467819 | 0x6778448E6991d7D49aC69f8103Ae396963D944DB |
 | Pilgrimage                | 0xD661A18E824c8d2EDf3BADF75aeDDa5B7D142448 | 0x610727cfA49531f4f68C92AEC1E530814f8027d4 |
 | Summoning                 | 0xC8dbDC58289474AB3E01568Eb5f88f440BDE6B46 | 0x4F50fc16a7b647066929A980e62502C656CEd52B |
@@ -76,8 +76,8 @@ description: >-
 
 The following contracts are either deprecated or no longer in use:
 
-| Contract                     | Mainnet Address                            | Testnet Address                            |
-| ---------------------------- | ------------------------------------------ | ------------------------------------------ |
-| Mine                         | 0xDf19f1216aA406DF8bC585246bee7D96933f285F |                                            |
-| Auxiliary Legions (ERC-1155) | 0x658365026D06F00965B5bb570727100E821e6508 | 0xbb0Df8289cF0cf2De423385b2d821EBA763aA7f6 |
-| Genesis Legions (ERC-1155)   | 0xE83c0200E93Cb1496054e387BDdaE590C07f0194 | 0xE8123a180826f0b0CBEccb3703014e12937B52bD |
+| Contract                               | Mainnet Address                            | Testnet Address                            |
+| -------------------------------------- | ------------------------------------------ | ------------------------------------------ |
+| Mine                                   | 0xDf19f1216aA406DF8bC585246bee7D96933f285F |                                            |
+| <p>Auxiliary Legions<br>(ERC-1155)</p> | 0x658365026D06F00965B5bb570727100E821e6508 | 0xbb0Df8289cF0cf2De423385b2d821EBA763aA7f6 |
+| <p>Genesis Legions<br>(ERC-1155)</p>   | 0xE83c0200E93Cb1496054e387BDdaE590C07f0194 | 0xE8123a180826f0b0CBEccb3703014e12937B52bD |
