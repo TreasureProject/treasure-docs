@@ -61,16 +61,16 @@ The Apprentice type determine the type of Auxiliary Legion your Recruit may beco
 
 **Experience Required to Level Up**
 
-| Level | Experience to Level | Cumulative Experience | # of Quests to Level | Gained Perk                           |
-| ----- | ------------------- | --------------------- | -------------------- | ------------------------------------- |
-| 1     | 10                  | 10                    | 1                    | Craft Treasures                       |
-| 2     | 20                  | 30                    | 2                    |                                       |
-| 3     | 40                  | 70                    | 3                    | Promote to Cadet                      |
-| 4     | 70                  | 140                   | 6                    |                                       |
-| 5     | 100                 | 240                   | 8                    |                                       |
-| 6     | 130                 | 370                   | 11                   |                                       |
-| 7     | 175                 | 545                   | 15                   | Promote to Apprentice                 |
-| 8     | 230                 | 775                   | 19                   | Attempt Ascension to Auxiliary Legion |
+| Level | Experience to Level | Cumulative Experience | Gained Perk                           |
+| ----- | ------------------- | --------------------- | ------------------------------------- |
+| 1     | 10                  | 10                    | Craft Treasures                       |
+| 2     | 20                  | 30                    |                                       |
+| 3     | 40                  | 70                    | Promote to Cadet                      |
+| 4     | 70                  | 140                   |                                       |
+| 5     | 100                 | 240                   |                                       |
+| 6     | 130                 | 370                   |                                       |
+| 7     | 175                 | 545                   | Promote to Apprentice                 |
+| 8     | 230                 | 775                   | Attempt Ascension to Auxiliary Legion |
 
 In order to ascend to an Auxiliary Legion, Apprentices are required to pay 150 MAGIC.&#x20;
 
