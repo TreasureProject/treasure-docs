@@ -1,11 +1,11 @@
 # Governance
 
-* [**Forum**](https://treasuredao.freeflarum.com)**:** Where to go to discuss new proposals and review formalized TIPs
+* ****[**Forum**](https://commonwealth.im/treasure-dao)**:** Where to go to discuss new proposals and review formalized TIPs
 * [**Snapshot**](https://snapshot.org/#/treasuredao.eth)**:** Where to go to vote on proposals for implementations by the DAO
 
 ## **Process**
 
-1. Submit Treasure DAO Improvement Proposals (TIP) via our [Treasure DAO forum](https://treasuredao.freeflarum.com/t/general) to gauge interest and spark healthy conversation - discussion which can be continued in our new dedicated Discord channels for "TIPs" and "Governance."
+1. Submit Treasure DAO Improvement Proposals (TIP) via our [Treasure DAO forum](https://commonwealth.im/treasure-dao) to gauge interest and spark healthy conversation - discussion which can be continued in our new dedicated Discord channels for "TIPs" and "Governance."
 2. If quorum and sufficient engagement are achieved, move to formal Snapshot voting which will ratify proposals for implementation by the DAO.
 
 Typically, voting lasts 24-48 hours.
@@ -19,7 +19,7 @@ Only veMAGIC holders (those staked in the Atlas Mine) and those with $MAGIC-WETH
 Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. As such:
 
 * Only staked $MAGIC (veMAGIC) or $MAGIC-WETH SLP within the Arbitrum LP Rewards contract will count for voting - liquid $MAGIC (eg. unstaked or uncommited $MAGIC) will **NOT** count for governance.
-* gMAGIC derived from the Atlas Mine is weighted based on timelock - the longer the lock, the higher the weight.
+* gMAGIC derived from the Atlas Mine is weighted based on timelock - the longer the lock, the higher the weight. gMAGIC derived from Harvesters is calculated on a 1:1 basis for MAGIC staked.
 
 gMAGIC automatically adjusts for new positions in the Atlas Mine and SLP rewards contract.
 
@@ -27,7 +27,7 @@ gMAGIC automatically adjusts for new positions in the Atlas Mine and SLP rewards
 
 Snapshot voting will be based on your gMAGIC holdings on Arbitrum only.
 
-If you're already staked in the Atlas Mine or you have SLP within the LP Rewards contract, you do **NOT** need to do anything.
+If you're already staked in the Atlas Mine, Harvesters, or you have SLP within the LP Rewards contract, you do **NOT** need to do anything.
 
 To participate in voting, you'll need to connect your wallet to our Snapshot page (to be shared at later date) and your gMAGIC holdings will automatically appear. You must be connected to the Arbitrum network.
 
