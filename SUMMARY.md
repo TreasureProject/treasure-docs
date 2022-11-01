@@ -7,7 +7,6 @@
   * [Improvement Proposals](about-treasure/governance/treasure-dao-improvement-proposals-tip.md)
   * [Proposal Template](about-treasure/governance/tip-template.md)
   * [Snapshot Voting](about-treasure/governance/snapshot-voting.md)
-  * [TIP Log](about-treasure/governance/tip-log.md)
 * [Liquidity](about-treasure/liquidity/README.md)
   * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
 * [Roadmap](about-treasure/roadmap.md)
@@ -49,16 +48,15 @@
   * [BattleFly](https://www.battlefly.game/)
   * [Knights of the Ether](https://knightsoftheether.com/)
   * [LifeDAO](https://life.treasure.lol/)
-  * [Peek-A-Boo!](https://www.peekaboonft.io/)
   * [Realm](https://rlm.land/)
-  * [SmithyDAO](https://smithydao.lol/)
   * [Tales of Elleria](https://www.talesofelleria.com/)
   * [The Lost Donkeys](https://www.thelostdonkeys.com/)
   * [Toadstoolz](https://www.toadstoolz.lol/)
 
-## Infrastructure & Tooling
+## Infrastructure
 
-* [Trove NFT Marketplace](https://docs.trove.treasure.lol)
+* [Trove Marketplace](https://docs.trove.treasure.lol)
+* [MagicSwap](https://magicswap.lol/)
 
 ## References
 
