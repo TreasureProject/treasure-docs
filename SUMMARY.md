@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [Governance](about-treasure/governance/README.md)
   * [Improvement Proposals](about-treasure/governance/treasure-dao-improvement-proposals-tip.md)
-  * [Proposal Template](about-treasure/governance/tip-template.md)
+  * [Proposal Template](https://commonwealth.im/treasure-dao/discussion/5952-treasuredao-improvement-proposal-tip-rules-and-guidelines)
   * [Snapshot Voting](about-treasure/governance/snapshot-voting.md)
 * [Liquidity](about-treasure/liquidity/README.md)
   * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
