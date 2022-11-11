@@ -1,11 +1,11 @@
 # Governance
 
-* ****[**Forum**](https://commonwealth.im/treasure-dao)**:** Where to go to discuss new proposals and review formalized TIPs
-* [**Snapshot**](https://snapshot.org/#/treasuredao.eth)**:** Where to go to vote on proposals for implementations by the DAO
+* ****[**Forum**](https://gov.treasure.lol)**:** Where to go to discuss new proposals and review formalized TIPs
+* ****[**Snapshot**](https://vote.treasure.lol)**:** Where to go to vote on proposals for implementations by the DAO
 
 ## **Process**
 
-1. Submit Treasure DAO Improvement Proposals (TIP) via our [Treasure DAO forum](https://commonwealth.im/treasure-dao) to gauge interest and spark healthy conversation - discussion which can be continued in our new dedicated Discord channels for "TIPs" and "Governance."
+1. Submit Treasure DAO Improvement Proposals (TIP) via our [Treasure DAO forum](https://gov.treasure.lol) to gauge interest and spark healthy conversation - discussion which can be continued in our new dedicated Discord channels for "TIPs" and "Governance."
 2. If quorum and sufficient engagement are achieved, move to formal Snapshot voting which will ratify proposals for implementation by the DAO.
 
 Typically, voting lasts 24-48 hours.
@@ -25,10 +25,12 @@ gMAGIC automatically adjusts for new positions in the Atlas Mine and SLP rewards
 
 ## **Snapshot Voting**
 
-Snapshot voting will be based on your gMAGIC holdings on Arbitrum only.
+[Snapshot voting](https://vote.treasure.lol) will be based on your gMAGIC holdings on Arbitrum only.
 
 If you're already staked in the Atlas Mine, Harvesters, or you have SLP within the LP Rewards contract, you do **NOT** need to do anything.
 
 To participate in voting, you'll need to connect your wallet to our Snapshot page (to be shared at later date) and your gMAGIC holdings will automatically appear. You must be connected to the Arbitrum network.
+
+The TIP will be ratified when quorum is reached with a greater than or equal to 75% vote 'for' in the Snapshot vote.
 
 We look forward to building Treasure together with the community!
