@@ -63,7 +63,6 @@
 * [Contracts](references/contracts.md)
 * [Official Links](about-treasure-dao/official-links/README.md)
   * [Website](https://treasure.lol)
-  * [Trove (NFT Marketplace)](https://trove.treasure.lol)
   * [GitHub](https://github.com/TreasureProject)
   * [Discord](https://discord.gg/treasuredao)
   * [Twitter](https://twitter.com/Treasure\_DAO)
@@ -77,4 +76,3 @@
 * [Strategic Partners](get-involved/strategic-partners.md)
 * [Getting Involved](get-involved/involvement.md)
 * [Contributing to Treasure Docs](get-involved/contributors.md)
-* [Credits](get-involved/credits.md)

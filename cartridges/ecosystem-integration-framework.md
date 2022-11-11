@@ -1,7 +1,3 @@
----
-description: As of March 12, 2022.
----
-
 # Ecosystem Integration Framework
 
 This framework is designed to provide clarity to the growing number of projects looking to deeply integrate into and build on top of the Treasure Ecosystem. It is an important next step in Treasure’s journey to become a ‘decentralised Nintendo’. It serves to:
@@ -14,7 +10,7 @@ This framework is designed to provide clarity to the growing number of projects 
 * Onboard into one of the most vibrant and passionate grass-roots communities of builders, talent and users (ie. community bootstrapping);
 * Contribute to and benefit from significant network effects driven from cross-game NFT/token composability, shared infrastructure (eg. marketplace, AMM) and a unified unit of account ($MAGIC);
 * Leverage a high growth ecosystem with scale (eg. volume, liquidity, users, TVL, resources) and depth and breadth of capabilities;
-* Bootstrap operations and/or enrich game attractiveness by accessing a highly desired token with multi-layered demand ($MAGIC) via grants;&#x20;
+* Bootstrap operations and/or enrich game attractiveness by accessing a highly desired token with multi-layered demand ($MAGIC) via grants;
 * Access demand on the largest NFT marketplace on Arbitrum and one of the strongest on L2.
 
 ## **Levels of Integration**
@@ -25,7 +21,7 @@ From discussions with and analysis of projects interested in Treasure, three key
 2. **$MAGIC emissions** - $MAGIC and Treasure NFTs are woven deeply into the game mechanics and purpose of the project. Projects are seeking $MAGIC in two primary ways:
    1. Request emissions from TreasureDAO to complement or seed $MAGIC rewards in their metaverse
    2. Raise funds or re-invest their treasury into purchasing $MAGIC and Treasure NFTs to actively participate in Bridgeworld, Life and/or Smolverse as a de facto ‘metaverse guild’. This forms both a ‘long’ on the Treasure ecosystem, and as a source of $MAGIC for ongoing game rewards.
-3. **Treasure Marketplace integration** - All NFTs within an integrated project are exclusively listed on the Treasure Marketplace and denominated in $MAGIC. Royalties received in $MAGIC would go towards funding ongoing in-game rewards and / or participation in Bridgeworld / Life / Smolverse.
+3. **Trove Marketplace integration** - All NFTs within an integrated project are exclusively listed on the Trove Marketplace and denominated in $MAGIC. Royalties received in $MAGIC would go towards funding ongoing in-game rewards and / or participation in Bridgeworld / Life / Smolverse.
 
 Projects will be required to indicate **the desired level of integration** when submitting their application.
 

@@ -31,15 +31,3 @@ Acronym for "Seed of Life"
 ## Extra Life
 
 Exclusive NFT gifted to our earliest and most loyal supporters.
-
-## Crispy
-
-The legend of `crispyboi` - best understood by searching up the username in Discord.
-
-## Harold
-
-Harold is everywhere.
-
-## Bonk
-
-Bonk.
