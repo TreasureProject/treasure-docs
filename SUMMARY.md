@@ -20,31 +20,11 @@
   * [How do I buy $MAGIC?](getting-started/what-is-magic/how-do-i-buy-magic.md)
 * [Staking $MAGIC](getting-started/treasure-mine-staking.md)
 
-## Cartridges
+## Games
 
-* [What are Cartridges?](cartridges/partnership-integrations.md)
-* [Bridgeworld ](cartridges/bridgeworld/README.md)
-  * [Getting Started](cartridges/bridgeworld/getting-started.md)
-  * [Barracks](cartridges/bridgeworld/barracks.md)
-  * [Ivory Tower](cartridges/bridgeworld/ivory-tower.md)
-    * [Constellation Quests](cartridges/bridgeworld/ivory-tower/constellation-quests.md)
-    * [Treasure Triad](cartridges/bridgeworld/ivory-tower/treasure-triad.md)
-    * [Treasure Drop Rates](cartridges/bridgeworld/ivory-tower/treasure-drop-rates.md)
-  * [The Forge](cartridges/bridgeworld/the-forge/README.md)
-    * [Crafting Treasures](cartridges/bridgeworld/the-forge/crafting-treasures.md)
-    * [Crafting Consumables](cartridges/bridgeworld/the-forge/the-forge.md)
-  * [Harvesters](cartridges/bridgeworld/harvesters/README.md)
-    * [Game Guide](cartridges/bridgeworld/harvesters/game-guide.md)
-    * [Game Theory and Meta](cartridges/bridgeworld/harvesters/game-theory-and-meta.md)
-  * [Atlas Mine](cartridges/bridgeworld/atlas-mine.md)
-  * [Summoning Circle](cartridges/bridgeworld/summoning-circle/README.md)
-    * [Legion Rarity](cartridges/bridgeworld/summoning-circle/legion-rarity.md)
-  * [Starlight Temple](cartridges/bridgeworld/starlight-temple.md)
-  * [Lore](https://lore.treasure.lol)
-  * [Game Video Tutorials](https://www.youtube.com/channel/UCw3mq\_ycQog6byQUspG-Pag)
+* [Bridgeworld](https://docs.bridgeworld.treasure.lol/)
 * [Smolverse](https://www.smolverse.lol/)
-* [Ecosystem Integration Framework](cartridges/ecosystem-integration-framework.md)
-* [Partner Cartridges](cartridges/partner-cartridges/README.md)
+* [Powered by Treasure](games/powered-by-treasure/README.md)
   * [BattleFly](https://www.battlefly.game/)
   * [Knights of the Ether](https://knightsoftheether.com/)
   * [LifeDAO](https://life.treasure.lol/)
@@ -52,6 +32,7 @@
   * [Tales of Elleria](https://www.talesofelleria.com/)
   * [The Lost Donkeys](https://www.thelostdonkeys.com/)
   * [Toadstoolz](https://www.toadstoolz.lol/)
+* [Ecosystem Integration Framework](games/ecosystem-integration-framework.md)
 
 ## Infrastructure
 
@@ -73,6 +54,5 @@
 ## Get Involved
 
 * [Meet the Team](https://treasure.lol/team)
-* [Strategic Partners](get-involved/strategic-partners.md)
 * [Getting Involved](get-involved/involvement.md)
 * [Contributing to Treasure Docs](get-involved/contributors.md)

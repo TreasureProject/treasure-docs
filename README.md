@@ -16,30 +16,12 @@ Treasure projects are linked–narratively and economically–through MAGIC. The
 The central metaverse in Treasure is a place called Bridgeworld, where MAGIC is emitted and harvested. Bridgeworld utilizes a three-part resource economy:
 
 * **$MAGIC** (Power);
-* **Treasures** (NFT | Resources); and
+* **Treasures** (Resources); and
 * **Legions** (NFT | Players)
 
 Legions use treasures to mine for MAGIC and build larger forms of infrastructure and equipment. MAGIC is the resource that allows legions to quest and craft new items using treasures. The relationship between treasures and MAGIC is the equilibrium underpinning Bridgeworld.
 
 MAGIC is an increasingly scarce resource needed to “power on” treasures and allow them to function as productive assets. Treasures produce the instruments and materials needed to continue mining MAGIC. This dance between treasures and MAGIC forms a base layer metaverse on which other metaverse economies can be built and connected.
-
-> This is where our story begins.
->
-> _**The Bridgeworld**_, The Origin Enclave, The Stasis Dimension.
->
-> A splice of worlds.
->
-> Through the ages, there have been countless songs and legends that told the tale of this world. All suspended in time, eclipsed from space -- silent. It was said that this world had no origin; a blank slate. A mere bridge connecting the multitude of other worlds together, from the beginning to the end of time.
->
-> Until -- the celestial ones gazed upon this abstract world. They found a world of remains filled with debris from other worlds rich with lore and essence that existed long ago.
->
-> It was a world of _**Treasures**_, of long forgotten relics, and of effaced legends.
->
-> _The Treasure World._
->
-> The celestial ones deemed this world the nexus of all worlds. It weaves other worlds together in perpetuity. _**Legions**_\*\* \*\* were elected to study the _**Magic**_\*\* \*\* that sustained this world -- to guide, to govern, and to protect it.
->
-> **This is where our story begins.**
 
 ## Vision and Mission
 
