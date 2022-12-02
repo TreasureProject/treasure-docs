@@ -12,7 +12,7 @@ First, make sure you're on Arbitrum (not L1 / Ethereum Mainnet) because this is 
 
 If you already have some ETH on L1 / Ethereum Mainnet, please see the [Steps to Migrate to Arbitrum](https://docs.treasure.lol/getting-started/migrating-to-arbitrum#steps-to-migrate-to-arbitrum) guide (which uses MetaMask as an example).
 
-You can also buy ETH on Arbitrum directly on exchanges like [Binance](https://www.binance.com/en), [Crypto.com](https://crypto.com), and [FTX](https://ftx.com).
+You can also buy ETH on Arbitrum directly on exchanges like [Binance](https://www.binance.com/en) and [Crypto.com](https://crypto.com).
 
 ## 2. Purchase $MAGIC using SushiSwap.
 
