@@ -9,7 +9,6 @@
   * [Snapshot Voting](about-treasure/governance/snapshot-voting.md)
 * [Liquidity](about-treasure/liquidity/README.md)
   * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
-* [Roadmap](about-treasure/roadmap.md)
 
 ## Getting Started
 
