@@ -7,12 +7,12 @@ MAGIC is designed to be increasingly scarce (emissions decline as the complexity
 Players can earn $MAGIC through playing, mining, and participating in Bridgeworld. The Treasure ecosystem, therefore, is governed by $MAGIC holders.
 
 {% hint style="info" %}
-**Note:** You can learn more about how MAGIC is integrated over at [Bridgeworld ](broken-reference)
+**Note:** You can learn more about how MAGIC is integrated over at [Bridgeworld](https://bridgeworld.treasure.lol/)
 {% endhint %}
 
 ## Proof of Work
 
-In the next phase of farming, users will have to stake Legion, treasures and MAGIC to earn new items (see [Bridgeworld](broken-reference)). The cost of farming is the price of the initial assets (the mining equipment) and the time it takes to perform these actions. An example mine would include:
+In the next phase of farming, users will have to stake Legion, treasures and MAGIC to earn new items (see [Bridgeworld](broken-reference/)). The cost of farming is the price of the initial assets (the mining equipment) and the time it takes to perform these actions. An example mine would include:
 
 * Stake MAGIC and diamonds to create drilling tools (one-time use consumables)
 
