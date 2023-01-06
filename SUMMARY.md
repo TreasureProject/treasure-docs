@@ -32,7 +32,7 @@
   * [The Beacon](https://thebeacon.gg/)
   * [The Lost Donkeys](https://www.thelostdonkeys.com/)
   * [Toadstoolz](https://www.toadstoolz.lol/)
-* [Ecosystem Integration Framework](games/ecosystem-integration-framework.md)
+* [Game Integration Framework](games/ecosystem-integration-framework.md)
 
 ## Infrastructure
 
