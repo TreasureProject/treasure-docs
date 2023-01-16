@@ -52,6 +52,7 @@ From here, you are all set to begin purchasing NFTs on the [Treasure Marketplace
 
 There are a few options to check the price of $MAGIC:
 
-* [Dexscreener](https://dexscreener.com/arbitrum/0xb7e50106a5bd3cf21af210a755f9c8740890a8c9)
-* [CoinMarketCap](https://coinmarketcap.com/currencies/magic-token/)
 * [CoinGecko](https://www.coingecko.com/en/coins/magic)
+* [CoinMarketCap](https://coinmarketcap.com/currencies/magic-token/)
+* [GeckoTerminal](https://www.geckoterminal.com/arbitrum/pools/0xb7e50106a5bd3cf21af210a755f9c8740890a8c9)
+* [Dexscreener](https://dexscreener.com/arbitrum/0xb7e50106a5bd3cf21af210a755f9c8740890a8c9)
