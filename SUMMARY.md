@@ -32,7 +32,10 @@
   * [The Beacon](https://thebeacon.gg/)
   * [The Lost Donkeys](https://www.thelostdonkeys.com/)
   * [Toadstoolz](https://www.toadstoolz.lol/)
-* [Game Integration Framework](games/game-integration-framework.md)
+* [Game Builders Program](games/game-builders-program/README.md)
+  * [GBP Partnership Tiers](games/game-builders-program/gbp-partnership-tiers/README.md)
+    * [Gold Integration](games/game-builders-program/gbp-partnership-tiers/gold-integration.md)
+    * [Diamond Integration](games/game-builders-program/gbp-partnership-tiers/diamond-integration.md)
 
 ## Infrastructure
 
