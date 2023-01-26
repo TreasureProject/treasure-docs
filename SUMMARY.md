@@ -45,7 +45,8 @@
 
 ## References
 
-* [Contracts](references/contracts.md)
+* [Contracts](references/contracts/README.md)
+  * [Audits](references/contracts/audits.md)
 * [Official Links](about-treasure-dao/official-links/README.md)
   * [Website](https://treasure.lol)
   * [GitHub](https://github.com/TreasureProject)
