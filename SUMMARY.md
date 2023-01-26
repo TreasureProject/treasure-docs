@@ -40,7 +40,8 @@
 ## Infrastructure
 
 * [Trove Marketplace](https://docs.trove.treasure.lol)
-* [MagicSwap](https://magicswap.lol/)
+* [MagicSwap (AMM)](https://magicswap.lol/)
+* [TreasureTag](infrastructure/treasuretag.md)
 
 ## References
 
