@@ -49,6 +49,8 @@ description: >-
 | Harvester 1 (Kameji)      | 0xdf9f9ca6ee5c3024b64dcecbadc462c0b896147a | 0x1e288583e9154178fab77c82c5c7884820c979a9 |
 | Harvester 2 (Shinoba)     | 0x2b1de6d22e6cb9178b3ecbcb7f20b62fcce925d4 | 0x5d426cab2dcaa68a9c0a85f229d65a9cf12bf691 |
 | Harvester 3 (Asiterra)    | 0x88Bf661446C8f5a7072C0f75193daE0e18ae40BC | 0xaa32d051668af574736923aa1eb7102daa3d36d9 |
+| Harvester 4 (Lupus Magus) | 0x3fbfcdc02f649d5875bc9f97281b7ef5a7a9c491 | 0x684b21eb2ab53a02cf0b405c87b445a96a3674ed |
+| Harvester 5 (Afarit)      | 0x70a75ac9537f6cdac553f82b6e39484acc521067 | 0x36ce8994038d4cf4f86413d721b89e7c31a744dc |
 
 ### Trove
 

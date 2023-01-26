@@ -1,6 +1,6 @@
 # Diamond Integration
 
-![](<../../../.gitbook/assets/Treasure\_Tier\_Badge\_Diamond\_100px (1).png>)\
+![](../../../.gitbook/assets/Treasure\_Tier\_Badge\_Diamond\_100px.png)\
 
 
 The Diamond tier is targeted at high potential, aligned teams who will greatly benefit from Treasure’s end-to-end advisory and support to supercharge adoption and growth.

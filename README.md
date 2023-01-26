@@ -31,7 +31,7 @@ The DAO votes on which projects to onboard, MAGIC distribution, and revenue shar
 
 Over time, Treasure hopes to become the beacon of decentralization across the entire NFT ecosystem. The DAO will begin building decentralized competitors to existing NFT products, using this revenue to jumpstart new projects and continue growing older ones. MAGIC acts as a flywheel to increase decentralization in the metaverse and develop decentralized crypto-economic primitives that can function as “real world” economic assets.
 
-![Click to view the "The Composable Metaverse", the TreasureDAO Community WGMI Trailer.](<.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
+![Click to view the "The Composable Metaverse", the TreasureDAO Community WGMI Trailer.](<.gitbook/assets/8udn2uch28hdjs .png>)
 
 ## Community
 
