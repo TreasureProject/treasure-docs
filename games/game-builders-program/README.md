@@ -10,10 +10,10 @@ The **GBP** aims to support and incentivise aligned, high potential games buildi
 
 There are two integration tiers to aim for:
 
-<img src="../../.gitbook/assets/Treasure_Tier_Badge_Gold_60px.png" alt="" data-size="original"> **Gold**\
+<img src="../../.gitbook/assets/Treasure_Tier_Badge_Gold_AW_60px (1).png" alt="" data-size="original"> **Gold** \
 ****Access the Exclusive Treasure Partners Discord, Treasure and Arbitrum team support, and compete for the chance to win periodic MAGIC rewards as a top driver of ecosystem priorities.
 
-****<img src="../../.gitbook/assets/Treasure_Tier_Badge_Diamond_60px.png" alt="" data-size="original"> **Diamond**\
+****<img src="../../.gitbook/assets/Treasure_Tier_Badge_Diamond_AW_60px.png" alt="" data-size="original"> **Diamond**\
 ****Gold Tier plus end-to-end advisory and support from Treasure’s internal and industry expert Network (including Arbitrum technical and marketing) to kickstart adoption and hypercharge growth.
 
 To access these benefits, game builders must collect and fill their **Treasure Builders Pass (BPass)** with **Badges** obtained from achieving milestones in five key integration areas.

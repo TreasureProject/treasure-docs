@@ -1,6 +1,6 @@
 # Gold Integration
 
-![](<../../../.gitbook/assets/Treasure\_Tier\_Badge\_Gold\_100px (2).png>)\
+![](../../../.gitbook/assets/Treasure\_Tier\_Badge\_Gold\_AW\_100px.png)\
 \
 Games in the Gold tier will have access to Treasure’s exceptional support and suite of products, including an exclusive discord for ecosystem builders and creators to collaborate. The Arbitrum team will also assist in technical areas and marketing.
 

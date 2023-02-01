@@ -8,7 +8,7 @@ In the long term, your Tag can be linked to avatars to power up your social iden
 
 The Tag is comprised of two parts: (1) a name; and (2) a discriminant (4-digit ending similar to Discord). Players will be limited to one Tag per wallet.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Player Benefits
 
