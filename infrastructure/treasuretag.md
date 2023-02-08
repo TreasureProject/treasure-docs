@@ -167,3 +167,11 @@ No, TreasureTag will be able to co-exist alongside [Smol Domains](https://www.sm
 
 
 </details>
+
+<details>
+
+<summary>What is your policy on inappropriate Tags?</summary>
+
+Tags that contain hate speech, discriminatory language, or terms that are otherwise obscene or disruptive may have limited functionality and will not be visible nor discoverable within the Treasure ecosystem. Open a support ticket in the Treasure Discord if you’d like to report an offensive Tag that we may have missed or if you feel a term was incorrectly flagged.
+
+</details>
