@@ -143,6 +143,14 @@ Between 1-12 characters in length for the name. The discriminant is comprised of
 
 <details>
 
+<summary>What is your policy on inappropriate Tags?</summary>
+
+Tags that contain hate speech, discriminatory language, or terms that are otherwise obscene or disruptive may have limited functionality and will not be visible nor discoverable within the Treasure ecosystem. Open a support ticket in the Treasure Discord if you’d like to report an offensive Tag that we may have missed or if you feel a term was incorrectly flagged.
+
+</details>
+
+<details>
+
 <summary>Is TreasureTag built on top of an existing standard (eg. ENS domains)?</summary>
 
 Yes, the TreasureTag is derived from the ENS standard.
@@ -165,13 +173,5 @@ No, TreasureTag will be able to co-exist alongside [Smol Domains](https://www.sm
 
 ![](<../.gitbook/assets/TreasureTag\_Graphic\_v4-SmolDomains (1).jpg>)\
 
-
-</details>
-
-<details>
-
-<summary>What is your policy on inappropriate Tags?</summary>
-
-Tags that contain hate speech, discriminatory language, or terms that are otherwise obscene or disruptive may have limited functionality and will not be visible nor discoverable within the Treasure ecosystem. Open a support ticket in the Treasure Discord if you’d like to report an offensive Tag that we may have missed or if you feel a term was incorrectly flagged.
 
 </details>
