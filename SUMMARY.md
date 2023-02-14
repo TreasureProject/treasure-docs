@@ -41,7 +41,7 @@
 
 * [Trove Marketplace](https://docs.trove.treasure.lol)
 * [MagicSwap (AMM)](https://magicswap.lol/)
-* [TreasureTag](infrastructure/treasuretag.md)
+* [TreasureTags](infrastructure/treasuretags.md)
 
 ## References
 

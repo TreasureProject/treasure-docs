@@ -1,18 +1,18 @@
-# TreasureTag
+# TreasureTags
 
 ## What is a TreasureTag?
 
-The TreasureTag ("Tag") is a free, soulbound (non-transferrable) gamertag that will serve as your global player profile, identity, and the basis for user reputation across the Treasure gaming ecosystem. Your Tag will allow you to own your identity and will be required to participate in upcoming product releases including the future Proof of Play meta game (TreasureXP, Treasure Achieve, and Treasure Quests), among other experiences that may be accessible to only those who possess a Tag.
+TreasureTags ("Tags") are free, soulbound (non-transferrable) gamertags that serve as your global player profile, identity, and the basis for user reputation across the Treasure gaming ecosystem. Your Tag will allow you to own your identity and will be required to participate in upcoming product releases including the future Proof of Play meta game (TreasureXP, Treasure Achieve, and Treasure Quests), among other experiences that may be accessible to only those who possess a Tag.
 
 In the long term, your Tag can be linked to avatars to power up your social identity, earned badges to showcase your greatest achievements, and even benefit from cosmetic modifiers to alter the appearance of your Tag to stand out.&#x20;
 
-The Tag is comprised of two parts: (1) a name; and (2) a discriminant (4-digit ending similar to Discord). Players will be limited to one Tag per wallet.
+The Tag is comprised of two parts: (1) a name; and (2) a discriminant (ie. 4-digit ending similar to Discord). Players will be limited to one Tag per wallet.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Player Benefits
 
-* Feel like a player and less like an anonymous 0x1234 wallet address
+* Feel like a player and less like an anonymous `0x1234` wallet address
 * Customize how the community sees you to match your own personal style
 * Access Tag-gated events and features
 
@@ -41,7 +41,7 @@ The TreasureTag is a free, soulbound gamertag that will serve as your global pla
 
 <summary>How do I get a TreasureTag?</summary>
 
-You will be able to reserve and mint your Tag (when it launches) [on Trove here](https://trove.treasure.lol/treasuretag). TreasureTags, at this time, will be free to reserve and mint (beyond accompanying gas fees).
+You can mint your Tag [on Trove here](https://trove.treasure.lol/treasuretag). TreasureTags, at this time, are free to mint (beyond accompanying gas fees).
 
 </details>
 
@@ -75,9 +75,7 @@ The discriminant is the 4 numbers at the end of the Tag (#0000).
 
 <summary>What games, infrastructure, or other products currently support TreasureTags?</summary>
 
-For now, not many!&#x20;
-
-We are still in our reservation stage to obtain your TreasureTag. As we go live and more Tags are minted by users, we will be working with all of our partners to implement this into their games and tools. The [Trove](https://trove.treasure.lol/) marketplace will likely be the first place you will see your TreasureTag come to life.
+Currently, you can see your TreasureTag within the [Trove](https://trove.treasure.lol/) marketplace. We are working with all of our partners to implement Tags into their games and tools.&#x20;
 
 We follow the widely adopted standards created by ENS to allow for easy adoption for dapps that support ENS to leverage TreasureTags in the future.
 
@@ -85,9 +83,17 @@ We follow the widely adopted standards created by ENS to allow for easy adoption
 
 <details>
 
+<summary><strong>How many TreasureTags can I have?</strong></summary>
+
+Only one per wallet address.
+
+</details>
+
+<details>
+
 <summary>Do TreasureTags expire?</summary>
 
-Currently, TreasureTags are not planned to expire (unlike ENS Domains). This may be subject to change in the future.
+No. Currently, TreasureTags are not planned to expire (unlike ENS Domains). This may be subject to change in the future.
 
 </details>
 
@@ -111,9 +117,7 @@ No, TreasureTags are soulbound / non-transferrable. If you would like to obtain 
 
 <summary>Can I rename, edit or update my TreasureTag (name or discriminant)?</summary>
 
-During the reservation stage, you will be able to rename and edit your TreasureTag freely.&#x20;
-
-Once the TreasureTag has been minted, there may be a small MAGIC cost associated to update your TreasureTag so please take the time during the reservation stage to choose wisely to avoid any potential future costs!
+Yes, but there is a small $10 cost in MAGIC required to edit or update your TreasureTag so please take the time before minting one to choose wisely to avoid any future costs!
 
 </details>
 
@@ -145,7 +149,7 @@ Between 1-12 characters in length for the name. The discriminant is comprised of
 
 <summary>What is your policy on inappropriate Tags?</summary>
 
-Tags that contain hate speech, discriminatory language, or terms that are otherwise obscene or disruptive may have limited functionality and will not be visible nor discoverable within the Treasure ecosystem. Open a support ticket in the Treasure Discord if you’d like to report an offensive Tag that we may have missed or if you feel a term was incorrectly flagged.
+Tags that contain hate speech, discriminatory language, or terms that are otherwise obscene or disruptive may have limited functionality and will not be visible nor discoverable within the Treasure ecosystem. Open a support ticket in the Treasure Discord (`#support-tickets`) if you’d like to report an offensive Tag that we may have missed or if you feel a term was incorrectly flagged.
 
 </details>
 
@@ -159,7 +163,7 @@ Yes, the TreasureTag is derived from the ENS standard.
 
 <details>
 
-<summary>Can I store text and unique metadata on my TreasureTag (like ENS)?</summary>
+<summary>Can I store text and unique metadata on my Tag (like ENS)?</summary>
 
 Yes, you will be able to store text and unique metadata on your TreasureTag, including avatars, descriptions, social media and website links, and other details similar to ENS.
 
