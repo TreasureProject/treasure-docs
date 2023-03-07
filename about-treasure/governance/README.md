@@ -12,22 +12,25 @@ Typically, voting lasts 24-48 hours.
 
 ## Who is allowed to vote?
 
-Only veMAGIC holders (those staked in the Atlas Mine) and those with $MAGIC-WETH SLP in the Arbitrum LP Rewards contract are eligible to vote with gMAGIC. The longer the vest on your veMAGIC, the higher the weight of your vote.
+Only MAGIC stakers (Harvesters and Governance Staking) and those with $MAGIC-WETH SLP in the Arbitrum LP Rewards contract are eligible to vote with gMAGIC.
+
+_Note: the Atlas Mine has been sunsetted as part of_ [_TIP-23_](https://gov.treasure.lol/discussion/8902-tip23-atlas-mine-cataclysm-sunset) _as of January 2023._
 
 ## **gMAGIC**
 
 Governance $MAGIC (or "gMAGIC") introduces concepts from the veCRV model where governance rights are weighted towards community members who commit and provide to the longer term success of the DAO. As such:
 
 * Only staked $MAGIC (veMAGIC) or $MAGIC-WETH SLP within the Arbitrum LP Rewards contract will count for voting - liquid $MAGIC (eg. unstaked or uncommited $MAGIC) will **NOT** count for governance.
-* gMAGIC derived from the Atlas Mine is weighted based on timelock - the longer the lock, the higher the weight. gMAGIC derived from Harvesters is calculated on a 1:1 basis for MAGIC staked.
+* gMAGIC derived from [Harvesters](https://bridgeworld.treasure.lol/harvesters/) is calculated on a 1:1 basis for MAGIC staked.
+* gMAGIC derived from [Governance Staking](https://governance-staking.treasure.lol/) is calculated on a 1:1 basis for MAGIC staked.
 
-gMAGIC automatically adjusts for new positions in the Atlas Mine and SLP rewards contract.
+gMAGIC automatically adjusts for new positions in the Harvesters, SLP rewards, and Governance Staking contract.
 
 ## **Snapshot Voting**
 
 [Snapshot voting](https://vote.treasure.lol) will be based on your gMAGIC holdings on Arbitrum only.
 
-If you're already staked in the Atlas Mine, Harvesters, or you have SLP within the LP Rewards contract, you do **NOT** need to do anything.
+If you're already staked in the Harvesters, Governance Staking, or you have SLP within the LP Rewards contract, you do **NOT** need to do anything.
 
 To participate in voting, you'll need to connect your wallet to our Snapshot page (to be shared at later date) and your gMAGIC holdings will automatically appear. You must be connected to the Arbitrum network.
 
