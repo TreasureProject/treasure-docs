@@ -8,7 +8,7 @@ Staking is the process of locking up your holdings (whether that be $MAGIC and/o
 
 Following the migration to Arbitrum, you can stake 2 things on Treasure:
 
-* $MAGIC in the Atlas Mine in Bridgeworld
+* $MAGIC in the Harvesters in Bridgeworld
 * SLP tokens in the MAGIC-WETH SLP
 
 {% hint style="danger" %}
@@ -17,4 +17,4 @@ Following the migration to Arbitrum, you can stake 2 things on Treasure:
 
 ## How can I stake?
 
-You can stake $MAGIC in other tokens in the Bridgeworld Atlas Mine. For more details, please see [Atlas Mine](https://docs.bridgeworld.treasure.lol/bridgeworld/gameplay/atlas-mine).
+You can stake $MAGIC along with NFTs in the Bridgeworld Harvesters. For more details, please see [Bridgeworld](https://docs.bridgeworld.treasure.lol/bridgeworld/introduction).
