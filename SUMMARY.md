@@ -46,9 +46,9 @@
 
 ## References
 
-* [DAO Multisigs](references/contracts.md)
-* [Contracts](references/contracts-1/README.md)
-  * [Audits](references/contracts-1/audits.md)
+* [DAO Multisigs](references/dao-multisigs.md)
+* [Contracts](references/contracts/README.md)
+  * [Audits](references/contracts/audits.md)
 * [Official Links](about-treasure-dao/official-links/README.md)
   * [Website](https://treasure.lol)
   * [GitHub](https://github.com/TreasureProject)
