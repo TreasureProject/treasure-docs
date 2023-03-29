@@ -10,6 +10,7 @@
 | Mining                                  | arb1:0x81FA605235E4c32d8b440eEBE43D82e9E083166b |
 | Staking/LP                              | arb1:0x64bFB08217B30b70f287a1B7f0670BDD49F8A13f |
 | Developer                               | arb1:0xE8409cd2aBae06871D166E808D75aDdb0537033A |
+| Contributor Allocation                  | arb1:0x4D3aAA252850EE7C82b299CB5778925BBE92f1fC |
 | Community Grants Program                | arb1:0x1054E9D9091dC55a1738F9c8Fc0c79E59E222804 |
 | MagicSwap - Community Gamification Fund | arb1:0x3Fe5d6AE3470b2De09eD062Ac78444E44Aa0cACe |
 | MagicSwap - Community Ecosystem Fund    | arb1:0x45236EB7C47a68aE63f62F7e38f7C2F864f2Ad14 |
