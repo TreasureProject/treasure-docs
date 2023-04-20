@@ -23,7 +23,7 @@
 
 * [Bridgeworld](https://docs.bridgeworld.treasure.lol/)
 * [Smolverse](https://www.smolverse.lol/)
-* [Powered by Treasure](games/powered-by-treasure/README.md)
+* [Third-Party Games](games/powered-by-treasure/README.md)
   * [BattleFly](https://www.battlefly.game/)
   * [Knights of the Ether](https://knightsoftheether.com/)
   * [LifeVerse](https://life.treasure.lol/)
@@ -32,17 +32,20 @@
   * [The Beacon](https://thebeacon.gg/)
   * [The Lost Donkeys](https://www.thelostdonkeys.com/)
   * [Toadstoolz](https://www.toadstoolz.lol/)
-* [Game Builders Program](games/game-builders-program/README.md)
-  * [GBP Partnership Tiers](games/game-builders-program/gbp-partnership-tiers/README.md)
-    * [Gold Integration](games/game-builders-program/gbp-partnership-tiers/gold-integration.md)
-    * [Diamond Integration](games/game-builders-program/gbp-partnership-tiers/diamond-integration.md)
+
+## Publishing
+
+* [Game Builders Program](publishing/game-builders-program/README.md)
+  * [GBP Partnership Tiers](publishing/game-builders-program/gbp-partnership-tiers/README.md)
+    * [Gold Integration](publishing/game-builders-program/gbp-partnership-tiers/gold-integration.md)
+    * [Diamond Integration](publishing/game-builders-program/gbp-partnership-tiers/diamond-integration.md)
+* [Treasure Create](publishing/treasure-create.md)
 
 ## Infrastructure
 
-* [Trove Marketplace](https://docs.trove.treasure.lol)
+* [Trove (Marketplace)](https://docs.trove.treasure.lol)
 * [MagicSwap (AMM)](https://magicswap.lol/)
 * [TreasureTags](infrastructure/treasuretags.md)
-* [Treasure Create](infrastructure/treasure-create.md)
 
 ## References
 

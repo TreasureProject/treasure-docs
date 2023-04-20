@@ -27,3 +27,15 @@
 | Name     | Safe Address                                    |
 | -------- | ----------------------------------------------- |
 | Treasury | arb1:0x674295B530A1F69a4Bc217FFFB7E8BcDF9971678 |
+
+## Bridgeworld
+
+| Name            | Safe Address                                   |
+| --------------- | ---------------------------------------------- |
+| Treasury (Game) | eth:0xC983AA839910e7fa206dbC9478d9e3bbDFb88515 |
+
+## Darkbright Studios
+
+| Name     | Safe Address                                   |
+| -------- | ---------------------------------------------- |
+| Treasury | eth:0xFc4aA8C3Ee7d40C4C38ad5565Da7AF8Fc53F1487 |

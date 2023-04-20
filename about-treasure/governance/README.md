@@ -1,7 +1,7 @@
 # Governance
 
-* ****[**Forum**](https://gov.treasure.lol)**:** Where to go to discuss new proposals and review formalized TIPs
-* ****[**Snapshot**](https://vote.treasure.lol)**:** Where to go to vote on proposals for implementations by the DAO
+* [**Forum**](https://gov.treasure.lol)**:** Where to go to discuss new proposals and review formalized TIPs
+* [**Snapshot**](https://vote.treasure.lol)**:** Where to go to vote on proposals for implementations by the DAO
 
 ## **Process**
 
