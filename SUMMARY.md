@@ -9,6 +9,7 @@
   * [Snapshot Voting](about-treasure/governance/snapshot-voting.md)
 * [Liquidity](about-treasure/liquidity/README.md)
   * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
+* [Visit Treasure](https://app.treasure.lol)
 
 ## Getting Started
 
@@ -19,11 +20,26 @@
   * [How do I buy $MAGIC?](getting-started/what-is-magic/how-do-i-buy-magic.md)
 * [Staking $MAGIC](getting-started/treasure-mine-staking.md)
 
+## Infrastructure
+
+* [Platform](infrastructure/platform/README.md)
+  * [Marketplace](infrastructure/platform/marketplace/README.md)
+    * [Listing Process](infrastructure/platform/marketplace/listing-process.md)
+    * [Collection Verification](infrastructure/platform/marketplace/collection-verification.md)
+    * [Metadata Support](infrastructure/platform/marketplace/metadata-support.md)
+    * [Setting Collection Royalties](infrastructure/platform/marketplace/setting-collection-royalties.md)
+    * [Delisting Framework](infrastructure/platform/marketplace/delisting-framework.md)
+  * [API](infrastructure/platform/api.md)
+  * [FAQ](infrastructure/platform/faq.md)
+* [TreasureTags](infrastructure/treasuretags.md)
+* [MagicSwap (AMM)](https://magicswap.lol/)
+
 ## Games
 
-* [Bridgeworld](https://docs.bridgeworld.treasure.lol/)
-* [Smolverse](https://www.smolverse.lol/)
-* [Third-Party Games](games/powered-by-treasure/README.md)
+* [First-Party Games](games/first-party-games/README.md)
+  * [Bridgeworld](https://docs.bridgeworld.treasure.lol/)
+  * [Smolverse](https://www.smolverse.lol/)
+* [Partnered Games](games/powered-by-treasure/README.md)
   * [BattleFly](https://www.battlefly.game/)
   * [Knights of the Ether](https://knightsoftheether.com/)
   * [LifeVerse](https://life.treasure.lol/)
@@ -31,7 +47,7 @@
   * [Tales of Elleria](https://www.talesofelleria.com/)
   * [The Beacon](https://thebeacon.gg/)
   * [The Lost Donkeys](https://www.thelostdonkeys.com/)
-  * [Toadstoolz](https://www.toadstoolz.lol/)
+  * [Zeeverse](https://zee-verse.com/)
 
 ## Publishing
 
@@ -39,13 +55,7 @@
   * [GBP Partnership Tiers](publishing/game-builders-program/gbp-partnership-tiers/README.md)
     * [Gold Integration](publishing/game-builders-program/gbp-partnership-tiers/gold-integration.md)
     * [Diamond Integration](publishing/game-builders-program/gbp-partnership-tiers/diamond-integration.md)
-* [Treasure Create](publishing/treasure-create.md)
-
-## Infrastructure
-
-* [Trove (Marketplace)](https://docs.trove.treasure.lol)
-* [MagicSwap (AMM)](https://magicswap.lol/)
-* [TreasureTags](infrastructure/treasuretags.md)
+* [Content Creators](publishing/content-creators.md)
 
 ## References
 
@@ -54,9 +64,10 @@
   * [Audits](references/contracts/audits.md)
 * [Official Links](about-treasure-dao/official-links/README.md)
   * [Website](https://treasure.lol)
-  * [GitHub](https://github.com/TreasureProject)
+  * [Platform](https://app.treasure.lol)
   * [Discord](https://discord.gg/treasuredao)
   * [Twitter](https://twitter.com/Treasure\_DAO)
+  * [GitHub](https://github.com/TreasureProject)
 * [Glossary](references/glossary.md)
 * [Media & Content](references/articles.md)
   * [TreasureDAO Announces Integration of Chainlink Oracles for Secure NFT Marketplace Pricing](references/articles/treasuredao-announces-integration-of-chainlink-oracles-for-secure-nft-marketplace-pricing.md)

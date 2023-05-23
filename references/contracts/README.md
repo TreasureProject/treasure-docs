@@ -51,8 +51,12 @@ description: >-
 | Harvester 3 (Asiterra)    | 0x88Bf661446C8f5a7072C0f75193daE0e18ae40BC | 0xaa32d051668af574736923aa1eb7102daa3d36d9 |
 | Harvester 4 (Lupus Magus) | 0x3fbfcdc02f649d5875bc9f97281b7ef5a7a9c491 | 0x684b21eb2ab53a02cf0b405c87b445a96a3674ed |
 | Harvester 5 (Afarit)      | 0x70a75ac9537f6cdac553f82b6e39484acc521067 | 0x36ce8994038d4cf4f86413d721b89e7c31a744dc |
+| Corruption                | 0x6b66d774a862539f84128f171db1940302c4671e | 0xAA2998515801dfeDF79b9a2B17324c1EEe81b9d6 |
+| Corruption Removal        | 0x08f3533acdf2b9c400204056f771bdd6f1f1c200 | 0xac5401ff3F78C21Ad55298531E5641a7456C7839 |
+| Corruption Crypts         | 0x447c73f3ee46050d618fd956c1641274860b6c74 | 0xa12786378F4CA03269A53a012da606fdcf655EB0 |
+| Corruption Crypts Rewards | 0xc0df5094b3b2413e4891a2dc2ff583a2ffd3e8d3 | 0xf992E54b8dE47056825E1f5cFA3d1817b40dc62F |
 
-### Trove
+### Platform
 
 | Contract            | Mainnet Address                            | Testnet Address                            |
 | ------------------- | ------------------------------------------ | ------------------------------------------ |

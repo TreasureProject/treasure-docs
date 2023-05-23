@@ -2,11 +2,13 @@
 
 ## What is a TreasureTag?
 
-TreasureTags ("Tags") are free, soulbound (non-transferrable) gamertags that serve as your global player profile, identity, and the basis for user reputation across the Treasure gaming ecosystem. Your Tag will allow you to own your identity and will be required to participate in upcoming product releases including the future Proof of Play meta game (TreasureXP, Treasure Achieve, and Treasure Quests), among other experiences that may be accessible to only those who possess a Tag.
+TreasureTags ("Tags") are free gamertags that serve as your global player profile, identity, and the basis for user reputation across the Treasure gaming ecosystem. Your Tag is a "soulbound" (non-transferrable) digital collectible that will allow you to own your identity and will be required to participate in upcoming product releases including the future Proof of Play meta game (TreasureXP, Treasure Achieve, and Treasure Quests), among other experiences that may be accessible to only those who possess a Tag.
 
 In the long term, your Tag can be linked to avatars to power up your social identity, earned badges to showcase your greatest achievements, and even benefit from cosmetic modifiers to alter the appearance of your Tag to stand out.&#x20;
 
 The Tag is comprised of two parts: (1) a name; and (2) a discriminant (ie. 4-digit ending similar to Discord). Players will be limited to one Tag per wallet.
+
+**Get your TreasureTag on Treasure at** [**app.treasure.lol**](https://app.treasure.lol)**!**
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,13 +18,13 @@ The Tag is comprised of two parts: (1) a name; and (2) a discriminant (ie. 4-dig
 * Customize how the community sees you to match your own personal style
 * Access Tag-gated events and features
 
-### **Game Benefits**
+## **Game Benefits**
 
 * Show names on your leaderboard over unmemorable wallet addresses
 * Attract users who want to flex their individuality by targeting Tag-gated events, competitions, activities, and features
 * Enable greater interoperability across Treasure by collaborating on game-specific cosmetic modifiers or badges
 
-### Creator Benefits
+## Creator Benefits
 
 * Potential opportunities for creator-specific cosmetic modifiers that stand out to your audience
 * Potential tie-in to future creator programs launched by Treasure enabled by the TreasureTag

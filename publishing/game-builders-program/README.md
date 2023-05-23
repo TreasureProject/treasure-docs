@@ -54,7 +54,7 @@ The **Treasure Flywheel** benefits game builders in three key ways:
 ### **2. Immersive Gaming Experiences**
 
 * **Proof of Play** - Form deeper connections with your community through meta-progression (TreasureXP, Treasure Achieve) and powerful inter and intra game player funnels (Treasure Quests).
-* **Trove** - Leverage the premier gaming destination and marketplace on Arbitrum packed with game rich features and world-class developer support.&#x20;
+* **Platform** - Leverage the premier gaming destination and marketplace on Arbitrum packed with game rich features and world-class developer support.&#x20;
 * **MagicSwap** - Tap into powerful cross-game trading with instant liquidity, seamless interoperability and novel barter models to de-emphasise speculation.
 * **Cross-Game Resources and Interoperability** - Enhance player retention and engagement by extending assets and IP across an ecosystem of games.&#x20;
 

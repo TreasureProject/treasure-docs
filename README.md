@@ -1,15 +1,16 @@
 ---
 description: >-
-  The official documentation for Treasure, the decentralized video game console
-  connecting games and communities together through imagination, $MAGIC, and
-  NFTs.
+  The official documentation for Treasure, the decentralized gaming ecosystem
+  connecting games and players together through imagination, $MAGIC, and NFTs.
 ---
 
 # Introduction
 
+<figure><img src=".gitbook/assets/GitBook.png" alt=""><figcaption></figcaption></figure>
+
 ## What is Treasure?
 
-Treasure is a decentralized NFT ecosystem on Arbitrum that is built specifically for metaverse projects. Every project listed on Treasure’s marketplace utilizes MAGIC in their respective metaverses, with each community inventing its own lore and storytelling for this resource. MAGIC, the native token of Treasure, is the sole currency for marketplace transactions. In this way, MAGIC acts as the reserve currency for the entire web of metaverses connected under the Treasure umbrella.
+Treasure is a decentralized gaming ecosystem on Arbitrum built specifically for community-driven games and metaverses. Every project listed on the Treasure platform utilizes MAGIC in their respective metaverses, with each community inventing its own lore and storytelling for this resource. MAGIC, the native token of Treasure, is the sole currency for marketplace transactions. In this way, MAGIC acts as the reserve currency for the entire web of metaverses connected under the Treasure umbrella.
 
 Treasure projects are linked–narratively and economically–through MAGIC. The DAO uses MAGIC emissions to grow new projects and continue supporting more mature ones.
 
@@ -31,9 +32,7 @@ The DAO votes on which projects to onboard, MAGIC distribution, and revenue shar
 
 Over time, Treasure hopes to become the beacon of decentralization across the entire NFT ecosystem. The DAO will begin building decentralized competitors to existing NFT products, using this revenue to jumpstart new projects and continue growing older ones. MAGIC acts as a flywheel to increase decentralization in the metaverse and develop decentralized crypto-economic primitives that can function as “real world” economic assets.
 
-![Click to view the "The Composable Metaverse", the TreasureDAO Community WGMI Trailer.](<.gitbook/assets/8udn2uch28hdjs .png>)
-
-## Community
+## Community-Driven
 
 Treasure is a fair-launch, community-driven project. The vast majority of Treasure’s team members came directly from the community, inspired by Treasure’s ethos of building in the open. The DAO has established a framework by which the community can build alongside the team and receive rewards in MAGIC for developing key parts of the ecosystem (e.g., tooling, lore, quests). These incentives deepen MAGIC’s network effect by aligning the broader ecosystem and incentivizing other communities to build on top of Treasure.
 
@@ -43,9 +42,9 @@ The DAO believes that metaverse assets become valuable because of the work that 
 
 The genesis story of the project has attracted collaborators who align with our vision of community-run, decentralized metaverses. In December 2021, the DAO voted to approve a strategic partnership with 1kx, an early-stage investment fund that shared Treasure’s belief in grassroots building. 1kx spearheaded a network of strategic investors who enabled the DAO to diversify its treasury and rapidly scale the project.
 
-## TreasureDAO
+## DAO Governed
 
-Treasure is DAO-governed. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
+Treasure is governed by its DAO. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
 
 For more information on the Treasure Council and broader team, see [Team](https://treasure.lol/team).
 

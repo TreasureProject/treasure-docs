@@ -1,12 +1,12 @@
-# Treasure Create
+# Content Creators
 
 <figure><img src="../.gitbook/assets/Treasure_Create_Graphic_v2.png" alt=""><figcaption></figcaption></figure>
 
-Treasure Create is a new content creator program aimed at cultivating a community of top video content creators across the Treasure ecosystem!
+**Treasure Create** is Treasure's content creator program helping cultivate a community of leading video content creators across the Treasure ecosystem!
 
 ## About the Program
 
-Treasure Create is a curated program aimed at identifying top video content creators in the Treasure ecosystem.&#x20;
+Treasure Create is a curated program for top video content creators in the Treasure ecosystem.&#x20;
 
 As an official Treasure Creator, content creators can tap into Treasure’s large community of 150k+ players and games for increased exposure and receive perks like allowlists, in-game items, and early access to playtests, as well as collaboration opportunities with fellow creators.
 
@@ -23,7 +23,7 @@ In the early stages of this program, the following perks will be available to th
 * Receive select in-game items and perks
 * Early access to beta playtests
 * Promotion from official Treasure channels
-* Exclusive Trove Creator Badge (minted on-chain)
+* Exclusive Treasure Create badge (on-chain, soulbound digital collectible)
 * Exclusive Discord Creator Role
 * Access to a private creator channel in Treasure Partners Discord to connect with other creators
 

@@ -24,10 +24,6 @@ Annual Percentage Yield, is the normalized representation of an interest rate, b
 
 Decentralized Autonomous Organization, is a governance mechanism for making decisions in a more trustless and collaborative way. Voting rights are often bound to a governance token. In Treasure, the governance token is Governance $MAGIC ("gMAGIC").
 
-## SoL or SOL
-
-Acronym for "Seed of Life"
-
 ## Extra Life
 
 Exclusive NFT gifted to our earliest and most loyal supporters.
