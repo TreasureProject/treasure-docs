@@ -10,7 +10,7 @@ The Tag is comprised of two parts: (1) a name; and (2) a discriminant (ie. 4-dig
 
 **Get your TreasureTag on Treasure at** [**app.treasure.lol**](https://app.treasure.lol)**!**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Player Benefits
 

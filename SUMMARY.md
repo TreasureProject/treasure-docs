@@ -31,6 +31,8 @@
     * [Delisting Framework](infrastructure/platform/marketplace/delisting-framework.md)
   * [API](infrastructure/platform/api.md)
   * [FAQ](infrastructure/platform/faq.md)
+* [Badges & Achievements](infrastructure/badges-and-achievements/README.md)
+  * [Badge Technical Implementation](infrastructure/badges-and-achievements/badge-technical-implementation.md)
 * [TreasureTags](infrastructure/treasuretags.md)
 * [MagicSwap (AMM)](https://magicswap.lol/)
 
