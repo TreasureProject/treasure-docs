@@ -6,9 +6,9 @@
 
 ## About the Program
 
-Treasure Create is a curated program for top video content creators in the Treasure ecosystem.&#x20;
+Treasure Create is an exclusive creator program that brings together top creators to champion Treasure games, grow their platform, and take part in unique opportunities across the ecosystem.
 
-As an official Treasure Creator, content creators can tap into Treasure’s large community of 150k+ players and games for increased exposure and receive perks like allowlists, in-game items, and early access to playtests, as well as collaboration opportunities with fellow creators.
+As an official Treasure Creator, content creators can tap into Treasure’s large community of 150k+ players and games for increased exposure and receive monetary perks like MAGIC, as well as allowlists, in-game items, and early access to playtests.
 
 ### **Goals of the program:**&#x20;
 
@@ -20,29 +20,14 @@ As an official Treasure Creator, content creators can tap into Treasure’s larg
 
 In the early stages of this program, the following perks will be available to those accepted and actively contributing content for our Treasure games:
 
+* Receive MAGIC compensation
 * Receive select in-game items and perks
 * Early access to beta playtests
 * Promotion from official Treasure channels
 * Exclusive Treasure Create badge (on-chain, soulbound digital collectible)
-* Exclusive Discord Creator Role
 * Access to a private creator channel in Treasure Partners Discord to connect with other creators
 
-With more benefits to come as the program develops!
-
-## Launch Partners
-
-To kickoff the program, we've partnered with 10 early launch creators who we've identified as top creators across the Treasure ecosystem. Get to know them!&#x20;
-
-* [Apix](https://twitter.com/apixtwts)
-* [DJ](https://twitter.com/TheNextGenGuy)
-* [DustStorm](https://twitter.com/The\_Duststorm)
-* [Elisa](https://twitter.com/goddessinflesh)
-* [Hantao](https://twitter.com/Hantao)
-* [kp](https://twitter.com/KP5ive)
-* [Raiden](https://twitter.com/0xRaiden)
-* [Spike](https://twitter.com/SpikeReacts\_)&#x20;
-* [Wrecks](https://twitter.com/WrecksGG)
-* [YellowPanther](https://twitter.com/yellowpantherx)
+And more!
 
 ## Application Process
 
