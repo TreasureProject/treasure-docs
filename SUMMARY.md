@@ -24,8 +24,7 @@
 
 * [Platform](infrastructure/platform/README.md)
   * [Marketplace](infrastructure/platform/marketplace/README.md)
-    * [Listing Process](infrastructure/platform/marketplace/listing-process.md)
-    * [Collection Verification](infrastructure/platform/marketplace/collection-verification.md)
+    * [Collection Listing Process](infrastructure/platform/marketplace/collection-listing-process.md)
     * [Metadata Support](infrastructure/platform/marketplace/metadata-support.md)
     * [Setting Collection Royalties](infrastructure/platform/marketplace/setting-collection-royalties.md)
     * [Delisting Framework](infrastructure/platform/marketplace/delisting-framework.md)

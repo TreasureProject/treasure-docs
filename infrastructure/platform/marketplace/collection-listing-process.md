@@ -4,7 +4,7 @@ description: >-
   each collection to list on the Treasure platform.
 ---
 
-# Listing Process
+# Collection Listing Process
 
 In order to ease the onboarding for collections interested in being listing on Treasure, all collections will need to follow a standardized framework and process. Rather than reinvent the wheel, we will be leveraging best practices and standards followed by the majority of NFT marketplaces.
 
@@ -15,21 +15,22 @@ In order to ease the onboarding for collections interested in being listing on T
 * the [Non-Fungible Token (ERC-721)](https://eips.ethereum.org/EIPS/eip-721) and [Multi Token (ERC-1155)](https://eips.ethereum.org/EIPS/eip-1155) standards; and
 * the [OpenSea Metadata Standards](https://docs.opensea.io/docs/metadata-standards) to design your metadata structure
 
-For more details, see [Broken link](broken-reference "mention").
+For more details, see [metadata-support.md](metadata-support.md "mention").
 
 ## Listing Process
 
-The below outlines the high-level process for listing on the Treasure. The timeline from start to finish is estimated at 1-2 weeks prior to the selection of a launch date as part of a cohort-based launch and is contingent on the volume of submissions.
+The below outlines the high-level process for listing on the Treasure:
 
-1. Submit application via the [Partnership Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScd\_G8RCJwTlk2SwN4hUnAX1lAYmK0O3HJgijkH5sYeKhl0Rg/viewform)
-2. Review by the Trove Council
-3. Decision made to provide feedback and/or implementation
+1. Submit application via the [Game Partner Application Form](https://docs.google.com/forms/d/e/1FAIpQLSe\_4Luv3wXGli-mR3GB-eOyjEU47r61qsjfDvBKISEggafz4Q/viewform)&#x20;
+2. Review by the Treasure partnerships team
+3. Discuss candidacy with prospective partner
+4. Decision made to implement or reject
 
-To list on Trove in $MAGIC, please see the [Ecosystem Integration Framework](https://docs.treasure.lol/partnerships/ecosystem-integration-framework) as this follows a different process.
+As a curated marketplace, not all partners will be accepted. Please see the [game-builders-program](../../../publishing/game-builders-program/ "mention") for more information
 
 ## Required Information
 
-Once a collection has been accepted into a cohort to launch on Trove, the following details are required:
+Once a game partner has been accepted to list their collection(s) on the Treasure marketplace, the following details are required:
 
 * **Logistical Details:**
   * Requested launch timing
@@ -56,8 +57,8 @@ Once a collection has been accepted into a cohort to launch on Trove, the follow
 
 ## Delisting Framework
 
-For details regarding parameters that may result in a collection being delisted, please visit [Broken link](broken-reference "mention").
+For details regarding parameters that may result in a collection being delisted, please visit [delisting-framework.md](delisting-framework.md "mention").
 
 ## Permissionless / Open Listing Model
 
-Treasure is currently a DAO-curated platform but there are plans to allow for an open and permissionless listing model down the road.
+Treasure is currently a DAO-curated platform but there are plans to allow for an open and permissionless listing model down the road. No timeline is available for the time being.
