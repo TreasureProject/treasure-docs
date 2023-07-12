@@ -17,7 +17,7 @@ description: >-
 
 ### Smolverse
 
-<table><thead><tr><th>Contract</th><th>Mainnet Address</th><th>Testnet Address</th><th data-hidden data-type="select"></th></tr></thead><tbody><tr><td>Smol Brains</td><td>0x6325439389E0797Ab35752B4F43a14C004f22A9c</td><td>0x2542421ACA04A98f5Cf04DA97a36DAD8F1FaC3f4</td><td></td></tr><tr><td>Smol Bodies</td><td>0x17dacad7975960833f374622fad08b90ed67d1b5</td><td>0xF8e004f5447a3D9ae0841fAc98523Fa89c1Ea63d</td><td></td></tr><tr><td>Smol Land</td><td>0xd666d1CC3102cd03e07794A61E5F4333B4239F53</td><td>0x2De47e310C5413EA957104bA3C0bEf12F2506660</td><td></td></tr><tr><td>Smol Brains Pets</td><td>0xF6Cc57C45CE730496b4d3Df36b9A4E4C3a1B9754</td><td>0xfeC202A557A2419b09a52fD5C497839ec15167Ef</td><td></td></tr><tr><td>Smol Bodies Pets</td><td>0xAe0d0C4Cc3335FD49402781E406ADF3f02D41bcA</td><td>0x1B4528c69Ee591C59dA056F43C139F4009D34F76</td><td></td></tr><tr><td>Smol Cars</td><td>0xb16966dad2b5a5282b99846b23dcdf8c47b6132c</td><td>0x4B52e4fD04E48b6B68C3B538A44b6404a37Da9D1</td><td></td></tr><tr><td>Swolercycles</td><td>0xdf32aED1eB841A174Cb637eAa1707026319fb563</td><td>0xC9c1de3C26c431F8d8dC66210541BA5156361eC2</td><td></td></tr><tr><td>Smol Brains School</td><td>0x602e50ed10a90d324b35930ec0f8e5d3b28cd509</td><td>0xfFd2C963aB2525Fb402c74FeB95D9a631d399142</td><td></td></tr><tr><td>Smol Bodies Gym</td><td>0x66299ecc614b7a1920922bba7527819c841174bd</td><td>0xF4178C3Cbe7E771B28fB3E78EE45cb27A9F465FE</td><td></td></tr><tr><td>Smol Farm</td><td>0xC2E007C61319fcf028178FAB14CD6ED6660C6e86</td><td></td><td></td></tr><tr><td>Smol Treasures</td><td>0xc5295C6a183F29b7c962dF076819D44E0076860E</td><td>0xAB938e18d13F555A652FD4a24d4449BFb5A4E38B</td><td></td></tr><tr><td>Smol Racing</td><td>0xEc895f620D1c103d5Bbc85CcE3b623C958Ce35cC</td><td>0xa7be8F1A317E74C771D0E97bB683b2e7f9Cf0747</td><td></td></tr><tr><td>Smol Racing Trophies</td><td>0xD5e7c7128A4b348E2b9b2d8539BC53130B7F5789</td><td>0xb4D266E93942c4F9C4B6D4a7FCE5934bF9eeeeE1</td><td></td></tr><tr><td>Smol Trait Shop</td><td>0x747468e17cF47e861759e70a4355D6cB0b170bC6</td><td>0x967561437fe12b31f39912b64ac7da0451868479</td><td></td></tr><tr><td>Smoloween</td><td>0x919c574D12dF2b534467f224c16Bd8475846B25c</td><td>0xE3619DE3f33DEcCc91D90A1da84A42d269d8A674</td><td></td></tr><tr><td>wSMOL<br>(Smol Quests)</td><td>0x1f245E83fB88A1e85b4A1c3e4B3c16660d54319a</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Contract</th><th>Mainnet Address</th><th>Testnet Address</th><th data-hidden data-type="select"></th></tr></thead><tbody><tr><td>Smol Brains</td><td>0xA7f1462e0EcdeEbDeE4FaF6681148Ca96Db78777</td><td>0xC831f372B4342824EB533C486bF0aafc1cf0521F</td><td></td></tr><tr><td>Smol Bodies</td><td>0x17dacad7975960833f374622fad08b90ed67d1b5</td><td>0xF8e004f5447a3D9ae0841fAc98523Fa89c1Ea63d</td><td></td></tr><tr><td>Smol Land</td><td>0xd666d1CC3102cd03e07794A61E5F4333B4239F53</td><td>0x2De47e310C5413EA957104bA3C0bEf12F2506660</td><td></td></tr><tr><td>Smol Brains Pets</td><td>0xF6Cc57C45CE730496b4d3Df36b9A4E4C3a1B9754</td><td>0xfeC202A557A2419b09a52fD5C497839ec15167Ef</td><td></td></tr><tr><td>Smol Bodies Pets</td><td>0xAe0d0C4Cc3335FD49402781E406ADF3f02D41bcA</td><td>0x1B4528c69Ee591C59dA056F43C139F4009D34F76</td><td></td></tr><tr><td>Smol Cars</td><td>0xb16966dad2b5a5282b99846b23dcdf8c47b6132c</td><td>0x4B52e4fD04E48b6B68C3B538A44b6404a37Da9D1</td><td></td></tr><tr><td>Swolercycles</td><td>0xdf32aED1eB841A174Cb637eAa1707026319fb563</td><td>0xC9c1de3C26c431F8d8dC66210541BA5156361eC2</td><td></td></tr><tr><td>Smol Brains School</td><td>0x602e50ed10a90d324b35930ec0f8e5d3b28cd509</td><td>0xfFd2C963aB2525Fb402c74FeB95D9a631d399142</td><td></td></tr><tr><td>Smol Bodies Gym</td><td>0x66299ecc614b7a1920922bba7527819c841174bd</td><td>0xF4178C3Cbe7E771B28fB3E78EE45cb27A9F465FE</td><td></td></tr><tr><td>Smol Farm</td><td>0xC2E007C61319fcf028178FAB14CD6ED6660C6e86</td><td></td><td></td></tr><tr><td>Smol Treasures</td><td>0xc5295C6a183F29b7c962dF076819D44E0076860E</td><td>0xAB938e18d13F555A652FD4a24d4449BFb5A4E38B</td><td></td></tr><tr><td>Smol Racing</td><td>0xEc895f620D1c103d5Bbc85CcE3b623C958Ce35cC</td><td>0xa7be8F1A317E74C771D0E97bB683b2e7f9Cf0747</td><td></td></tr><tr><td>Smol Racing Trophies</td><td>0xD5e7c7128A4b348E2b9b2d8539BC53130B7F5789</td><td>0xb4D266E93942c4F9C4B6D4a7FCE5934bF9eeeeE1</td><td></td></tr><tr><td>Smol Trait Shop</td><td>0x747468e17cF47e861759e70a4355D6cB0b170bC6</td><td>0x967561437fe12b31f39912b64ac7da0451868479</td><td></td></tr><tr><td>Smoloween</td><td>0x919c574D12dF2b534467f224c16Bd8475846B25c</td><td>0xE3619DE3f33DEcCc91D90A1da84A42d269d8A674</td><td></td></tr><tr><td>Transmolgrifier</td><td>0xD9480355d534a428a36E0FeCFf310A731Ff6ce11</td><td>0xbd12D635E0a17ef2cBf9af2E4683BAF9d20e4157</td><td></td></tr><tr><td>wSMOL<br>(Smol Quests)</td><td>0x1f245E83fB88A1e85b4A1c3e4B3c16660d54319a</td><td></td><td></td></tr></tbody></table>
 
 ### Bridgeworld
 
@@ -51,6 +51,8 @@ description: >-
 | Harvester 3 (Asiterra)    | 0x88Bf661446C8f5a7072C0f75193daE0e18ae40BC | 0xaa32d051668af574736923aa1eb7102daa3d36d9 |
 | Harvester 4 (Lupus Magus) | 0x3fbfcdc02f649d5875bc9f97281b7ef5a7a9c491 | 0x684b21eb2ab53a02cf0b405c87b445a96a3674ed |
 | Harvester 5 (Afarit)      | 0x70a75ac9537f6cdac553f82b6e39484acc521067 | 0x36ce8994038d4cf4f86413d721b89e7c31a744dc |
+| Harvester 6 (Emerion)     | 0x587Dc30014e10B56907237d4880A9bF8B9518150 | 0x67a848bb748c132fd7c048832cc2028717394707 |
+| Harvester 7 (Thundermane) |                                            | 0x8f8908ce594c323ffde8ffcbfcf1839f534f4865 |
 | Corruption                | 0x6b66d774a862539f84128f171db1940302c4671e | 0xAA2998515801dfeDF79b9a2B17324c1EEe81b9d6 |
 | Corruption Removal        | 0x08f3533acdf2b9c400204056f771bdd6f1f1c200 | 0xac5401ff3F78C21Ad55298531E5641a7456C7839 |
 | Corruption Crypts         | 0x447c73f3ee46050d618fd956c1641274860b6c74 | 0xa12786378F4CA03269A53a012da606fdcf655EB0 |
@@ -64,13 +66,14 @@ description: >-
 
 ### MagicSwap
 
-| Contract           | Mainnet Address                            | Testnet Address                            |
-| ------------------ | ------------------------------------------ | ------------------------------------------ |
-| UniswapV2Factory   | 0x015e379Ce0Ff195228b3A9eBDFA13F9afC155Dd7 | 0x6Cd71961e531aBB505256ffa945D59ab9a2156ec |
-| UniswapV2Router02  | 0x23805449f91bB2d2054D9Ba288FdC8f09B5eAc79 | 0x2D3Ab76d3bbECf0Bb5FDbE2f992129c1a555A2E8 |
-| Ellerium (ELM)     | 0x45d55eadf0ed5495b369e040af0717eafae3b731 | 0xF915bD8f46ad9E9e36C9CC4b012DfbC76BEA09D8 |
-| MAGIC-ELM LP Pair  | 0xf904469497e6a179a9D47A7b468e4BE42eC56e65 | 0x82b79579f07a3539f10d0b2c35316b0e8333b2cc |
-| MAGIC-GFLY LP Pair | 0x088f2bd3667f385427d9289c28725d43d4b74ab4 | 0x088f2bd3667f385427d9289c28725d43d4b74ab4 |
+| Contract            | Mainnet Address                            | Testnet Address                            |
+| ------------------- | ------------------------------------------ | ------------------------------------------ |
+| UniswapV2Factory    | 0x015e379Ce0Ff195228b3A9eBDFA13F9afC155Dd7 | 0x6Cd71961e531aBB505256ffa945D59ab9a2156ec |
+| UniswapV2Router02   | 0x23805449f91bB2d2054D9Ba288FdC8f09B5eAc79 | 0x2D3Ab76d3bbECf0Bb5FDbE2f992129c1a555A2E8 |
+| MAGIC-ELM LP Pair   | 0x3e8fb78ec6fb60575967bb07ac64e5fa9f498a4a | 0xc175926f79c3f77efd2a88330aabe45f9066b617 |
+| MAGIC-GFLY LP Pair  | 0x088f2bd3667f385427d9289c28725d43d4b74ab4 | 0x088f2bd3667f385427d9289c28725d43d4b74ab4 |
+| MAGIC-VEE LP Pair   | 0x6210775833732f144058713c9b36de09afd1ca3b | 0xa5f4441c1dd3515767a4e33bacc320fb3828688f |
+| MAGIC-ANIMA LP Pair | 0x7bc27907ac638dbceb74b1fb02fc154da3e15334 | 0x7cfc374cfe753c9b77b6dac1d5d8c97ed84adc36 |
 
 ### Other Liquidity Pairs
 
@@ -88,3 +91,4 @@ The following contracts are either deprecated or no longer in use:
 | Genesis Mine                           | 0xDf19f1216aA406DF8bC585246bee7D96933f285F |                                            |
 | <p>Auxiliary Legions<br>(ERC-1155)</p> | 0x658365026D06F00965B5bb570727100E821e6508 | 0xbb0Df8289cF0cf2De423385b2d821EBA763aA7f6 |
 | <p>Genesis Legions<br>(ERC-1155)</p>   | 0xE83c0200E93Cb1496054e387BDdaE590C07f0194 | 0xE8123a180826f0b0CBEccb3703014e12937B52bD |
+| Smol Brains (Legacy)                   | 0x6325439389E0797Ab35752B4F43a14C004f22A9c | 0x2542421ACA04A98f5Cf04DA97a36DAD8F1FaC3f4 |
