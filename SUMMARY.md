@@ -1,41 +1,42 @@
 # Table of contents
 
-## About Treasure
+## ✨ About Treasure
 
 * [Introduction](README.md)
 * [Governance](about-treasure/governance/README.md)
   * [Improvement Proposals](about-treasure/governance/treasure-dao-improvement-proposals-tip.md)
   * [Proposal Template](https://commonwealth.im/treasure-dao/discussion/5952-treasuredao-improvement-proposal-tip-rules-and-guidelines)
-  * [Snapshot Voting](about-treasure/governance/snapshot-voting.md)
 * [Liquidity](about-treasure/liquidity/README.md)
   * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
 * [Visit Treasure](https://app.treasure.lol)
 
-## Getting Started
+## ▶ Get Started
 
-* [Migrating to Arbitrum](getting-started/migrating-to-arbitrum/README.md)
-  * [Using Arbiscan](getting-started/migrating-to-arbitrum/using-arbiscan.md)
-  * [Bridging Back to Mainnet](getting-started/migrating-to-arbitrum/bridging-back-to-mainnet/README.md)
-* [What is $MAGIC?](getting-started/what-is-magic/README.md)
-  * [How do I buy $MAGIC?](getting-started/what-is-magic/how-do-i-buy-magic.md)
-* [Staking $MAGIC](getting-started/treasure-mine-staking.md)
+* [What is $MAGIC?](get-started/what-is-magic/README.md)
+  * [How do I buy $MAGIC?](get-started/what-is-magic/how-do-i-buy-magic.md)
+* [Staking $MAGIC](get-started/treasure-mine-staking.md)
 
-## Infrastructure
+## 💻 Infrastructure
 
-* [Platform](infrastructure/platform/README.md)
-  * [Marketplace](infrastructure/platform/marketplace/README.md)
-    * [Collection Listing Process](infrastructure/platform/marketplace/collection-listing-process.md)
-    * [Metadata Support](infrastructure/platform/marketplace/metadata-support.md)
-    * [Setting Collection Royalties](infrastructure/platform/marketplace/setting-collection-royalties.md)
-    * [Delisting Framework](infrastructure/platform/marketplace/delisting-framework.md)
-  * [API](infrastructure/platform/api.md)
-  * [FAQ](infrastructure/platform/faq.md)
-* [Badges & Achievements](infrastructure/badges-and-achievements/README.md)
-  * [Badge Technical Implementation](infrastructure/badges-and-achievements/badge-technical-implementation.md)
-* [TreasureTags](infrastructure/treasuretags.md)
-* [MagicSwap (AMM)](https://magicswap.lol/)
+* [Platform](infrastructure/platform.md)
+* [Marketplace](infrastructure/marketplace/README.md)
+  * [Collection Listing Process](infrastructure/marketplace/collection-listing-process.md)
+  * [Metadata Support](infrastructure/marketplace/metadata-support.md)
+  * [Setting Collection Royalties](infrastructure/marketplace/setting-collection-royalties.md)
+  * [Delisting Framework](infrastructure/marketplace/delisting-framework.md)
+  * [API](infrastructure/marketplace/api.md)
+  * [FAQ](infrastructure/marketplace/faq.md)
+* [Player Identity & Progression](infrastructure/player-identity-and-progression/README.md)
+  * [TreasureTags](infrastructure/player-identity-and-progression/treasuretags.md)
+  * [Badges & Achievements](infrastructure/player-identity-and-progression/badges-and-achievements/README.md)
+    * [Badge Technical Implementation](infrastructure/player-identity-and-progression/badges-and-achievements/badge-technical-implementation.md)
+* [AMM (Magicswap)](https://magicswap.lol/)
+* [Game Development Suite](infrastructure/game-development-suite/README.md)
+  * [Guilds](infrastructure/game-development-suite/guilds.md)
+  * [Payments](infrastructure/game-development-suite/payments.md)
+  * [Emissions](infrastructure/game-development-suite/emissions.md)
 
-## Games
+## 🕹 Games
 
 * [First-Party Games](games/first-party-games/README.md)
   * [Bridgeworld](https://docs.bridgeworld.treasure.lol/)
@@ -50,7 +51,7 @@
   * [The Lost Donkeys](https://www.thelostdonkeys.com/)
   * [Zeeverse](https://zee-verse.com/)
 
-## Publishing
+## 📣 Publishing
 
 * [Game Builders Program](publishing/game-builders-program/README.md)
   * [GBP Partnership Tiers](publishing/game-builders-program/gbp-partnership-tiers/README.md)
@@ -58,7 +59,7 @@
     * [Diamond Integration](publishing/game-builders-program/gbp-partnership-tiers/diamond-integration.md)
 * [Content Creators](publishing/content-creators.md)
 
-## References
+## ℹ References
 
 * [DAO Multisigs](references/dao-multisigs.md)
 * [Contracts](references/contracts/README.md)
@@ -73,7 +74,7 @@
 * [Media & Content](references/articles.md)
   * [TreasureDAO Announces Integration of Chainlink Oracles for Secure NFT Marketplace Pricing](references/articles/treasuredao-announces-integration-of-chainlink-oracles-for-secure-nft-marketplace-pricing.md)
 
-## Get Involved
+## 🤝 Get Involved
 
 * [Meet the Team](https://treasure.lol/team)
 * [Getting Involved](get-involved/involvement.md)

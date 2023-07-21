@@ -10,14 +10,14 @@ The Treasure platform is your destination for gaming on Treasure. As an asset ma
 
 👉 Visit the platform: [app.treasure.lol](https://app.treasure.lol)
 
-<figure><img src="../../.gitbook/assets/Treasure_Meta_1200x628px.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Treasure_Meta_1200x628px.jpg" alt=""><figcaption></figcaption></figure>
 
 ## For Players
 
 * Play and discover your new favorite games on Treasure
 * Collect and trade your game assets and digital collectibles through our marketplace by using MAGIC and ETH
 * Earn badges by playing games, collecting assets, and competing in tournaments and events
-* Obtain your [treasuretags.md](../treasuretags.md "mention") build your player identity within the Treasure ecosystem
+* Obtain your [treasuretags.md](player-identity-and-progression/treasuretags.md "mention") build your player identity within the Treasure ecosystem
 * Showcase your achievements, prized assets, and loved games on your profile
 
 ## For Games
@@ -29,7 +29,7 @@ The Treasure platform is your destination for gaming on Treasure. As an asset ma
 
 ## For Creators
 
-* Join the Treasure Create program for [content-creators.md](../../publishing/content-creators.md "mention") and earn an exclusive badge collectible
+* Join the Treasure Create program for [content-creators.md](../publishing/content-creators.md "mention") and earn an exclusive badge collectible
 * Potential for exclusive streaming and video features on the Treasure platform
 
 _**Fun fact!**_ _The Treasure platform was previously known as Trove and the Treasure Marketplace._

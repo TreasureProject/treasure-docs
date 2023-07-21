@@ -1,7 +1,7 @@
 ---
 description: >-
   The process, required information, and guidelines that need to be followed for
-  each collection to list on the Treasure platform.
+  collections to list on the Treasure platform.
 ---
 
 # Collection Listing Process
@@ -26,7 +26,7 @@ The below outlines the high-level process for listing on the Treasure:
 3. Discuss candidacy with prospective partner
 4. Decision made to implement or reject
 
-As a curated marketplace, not all partners will be accepted. Please see the [game-builders-program](../../../publishing/game-builders-program/ "mention") for more information
+As a curated marketplace, not all partners will be accepted. Please see the [game-builders-program](../../publishing/game-builders-program/ "mention") for more information
 
 ## Required Information
 

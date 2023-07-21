@@ -12,7 +12,7 @@ Players can earn $MAGIC through playing, mining, and participating in Bridgeworl
 
 ## Proof of Work
 
-In the next phase of farming, users will have to stake Legion, treasures and MAGIC to earn new items (see [Bridgeworld](broken-reference/)). The cost of farming is the price of the initial assets (the mining equipment) and the time it takes to perform these actions. An example mine would include:
+In the next phase of farming, users will have to stake Legion, treasures and MAGIC to earn new items (see [Bridgeworld](../../getting-started/what-is-magic/broken-reference/)). The cost of farming is the price of the initial assets (the mining equipment) and the time it takes to perform these actions. An example mine would include:
 
 * Stake MAGIC and diamonds to create drilling tools (one-time use consumables)
 

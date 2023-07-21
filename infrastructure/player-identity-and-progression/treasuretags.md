@@ -10,7 +10,7 @@ The Tag is comprised of two parts: (1) a name; and (2) a discriminant (ie. 4-dig
 
 **Get your TreasureTag on Treasure at** [**app.treasure.lol**](https://app.treasure.lol)**!**
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Player Benefits
 
@@ -177,7 +177,7 @@ Yes, you will be able to store text and unique metadata on your TreasureTag, inc
 
 No, TreasureTag will be able to co-exist alongside [Smol Domains](https://www.smol.domains/) built by long-standing community member, Astro. If a user owns both a TreasureTag and .smol domain, it is planned to eventually allow users to select between showing the Tag or .smol domain. If a user only possesses a Tag, they will see the original treatment of the TreasureTag above with the red magic sparkle. If a user only possesses a .smol domain, they will see the text-based domain ending in .smol (eg. `gamer.smol`).
 
-![](<../.gitbook/assets/TreasureTag\_Graphic\_v4-SmolDomains (1).jpg>)\
+![](<../../.gitbook/assets/TreasureTag\_Graphic\_v4-SmolDomains (1).jpg>)\
 
 
 </details>

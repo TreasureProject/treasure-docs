@@ -1,7 +1,7 @@
 ---
 description: >-
-  The official documentation for Treasure, the decentralized gaming ecosystem
-  connecting games and players together through imagination, $MAGIC, and NFTs.
+  The official documentation for Treasure, the decentralized game publisher
+  connecting games and players through $MAGIC.
 ---
 
 # Introduction
@@ -10,19 +10,21 @@ description: >-
 
 ## What is Treasure?
 
-Treasure is a decentralized gaming ecosystem on Arbitrum built specifically for community-driven games and metaverses. Every project listed on the Treasure platform utilizes MAGIC in their respective metaverses, with each community inventing its own lore and storytelling for this resource. MAGIC, the native token of Treasure, is the sole currency for marketplace transactions. In this way, MAGIC acts as the reserve currency for the entire web of metaverses connected under the Treasure umbrella.
+Treasure is the decentralized game publisher on Arbitrum built for community-driven games. Every project listed on the Treasure platform utilizes MAGIC in their respective metaverses, with each community inventing its own lore and storytelling for this resource. MAGIC, the native token of Treasure, is the sole currency for marketplace transactions. In this way, MAGIC acts as the reserve currency for the entire web of metaverses connected under the Treasure umbrella.
 
 Treasure projects are linked–narratively and economically–through MAGIC. The DAO uses MAGIC emissions to grow new projects and continue supporting more mature ones.
+
+### Bridgeworld
 
 The central metaverse in Treasure is a place called Bridgeworld, where MAGIC is emitted and harvested. Bridgeworld utilizes a three-part resource economy:
 
 * **$MAGIC** (Power);
 * **Treasures** (Resources); and
-* **Legions** (NFT | Players)
+* **Legions** (Characters)
 
-Legions use treasures to mine for MAGIC and build larger forms of infrastructure and equipment. MAGIC is the resource that allows legions to quest and craft new items using treasures. The relationship between treasures and MAGIC is the equilibrium underpinning Bridgeworld.
+Legions use treasures to mine for MAGIC and build larger forms of infrastructure and equipment. MAGIC is the resource that allows Legions to quest and craft new items using treasures. The relationship between treasures and MAGIC is the equilibrium underpinning Bridgeworld.
 
-MAGIC is an increasingly scarce resource needed to “power on” treasures and allow them to function as productive assets. Treasures produce the instruments and materials needed to continue mining MAGIC. This dance between treasures and MAGIC forms a base layer metaverse on which other metaverse economies can be built and connected.
+MAGIC is an increasingly scarce resource needed to “power on” Treasures and allow them to function as productive assets. Treasures produce the instruments and materials needed to continue mining MAGIC. This dance between treasures and MAGIC forms a base layer metaverse on which other metaverse economies can be built and connected.
 
 ## Vision and Mission
 
@@ -46,9 +48,9 @@ The genesis story of the project has attracted collaborators who align with our 
 
 Treasure is governed by its DAO. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
 
-For more information on the Treasure Council and broader team, see [Team](https://treasure.lol/team).
+For more information on the Treasure Council and broader team, [meet the team](https://treasure.lol/team).
 
-Decisions are formed by the DAO and voted by $MAGIC holders through [snapshot-voting.md](about-treasure/governance/snapshot-voting.md "mention").
+Decisions are formed by the DAO and voted by $MAGIC holders through [governance](about-treasure/governance/ "mention").
 
 {% hint style="info" %}
 **Decentralization** solves a crucial scaling problem. There is no way the team (no matter the size) can scrape together a **collective imagination** sufficient to construct the entirety of this metaverse. Decentralization, therefore, creates the conditions by which a true metaverse can develop and be **free of proprietary distortion**.
