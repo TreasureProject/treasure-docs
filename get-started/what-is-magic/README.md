@@ -34,10 +34,10 @@ Future MAGIC emissions will be distributed at the following ratios:
 
 ![](https://miro.medium.com/max/778/1\*ktmlzbwFAaOD9Fo4tqkSSw.png)
 
-MAGIC emission mimics Bitcoin’s **halvening**, but this event occurs every year as opposed to every four years. The total supply will be \~350,000,000 tokens.
+MAGIC emission mimics Bitcoin’s **halvening**, but this event occurs every year as opposed to every four years. The total supply will be 347,714,007 tokens.
 
 ![](https://miro.medium.com/max/875/1\*CdYPv4j-CfqYdSJL-92lkA.png)
 
-The team deliberately opted for high inflation at the beginning to create long-term sustainability. Successful DeFi protocols have almost universally implemented high emissions to help bootstrap a community and liquidity.
+&#x20;Successful DeFi protocols have almost universally implemented high emissions to help bootstrap a community and liquidity.
 
 Moreover, the design of the MAGIC mine created uniquely high rewards for users who were willing to lock up their MAGIC for longer periods. These users played a key role in bootstrapping liquidity for the protocol and demonstrated great confidence in its future. This group proved themselves to be the best stewards of the protocol and therefore the best possible trustees of the DAO.
