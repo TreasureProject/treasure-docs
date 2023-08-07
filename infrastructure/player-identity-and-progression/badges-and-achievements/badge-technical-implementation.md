@@ -6,7 +6,7 @@ description: Guide for games to integrate badges into Treasure
 
 ## Step 1: Design Your Badge
 
-Before determining which use case suits your needs, please review the Treasure Badge Guide for how to prepare the image assets for your badge.
+Before determining which use case suits your needs, please review the [**Treasure Badge Design Guide**](https://drive.google.com/open?id=11598qNNmqoapSIUplgmtzPm-XsJOzTU9\&usp=drive\_fs) for how to prepare the image assets for your badge.
 
 ## Step 2: Identify Your Use Case
 
