@@ -3,11 +3,15 @@
 ## ✨ About Treasure
 
 * [Introduction](README.md)
+* [Public Roadmap](about-treasure/public-roadmap.md)
 * [Governance](about-treasure/governance/README.md)
+  * [Reporting](about-treasure/governance/reporting.md)
+  * [DAO Treasury & Multisigs](about-treasure/governance/dao-multisigs.md)
   * [Improvement Proposals](about-treasure/governance/treasure-dao-improvement-proposals-tip.md)
   * [Proposal Template](https://commonwealth.im/treasure-dao/discussion/5952-treasuredao-improvement-proposal-tip-rules-and-guidelines)
 * [Liquidity](about-treasure/liquidity/README.md)
   * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
+* [Meet the Core Contributors](https://treasure.lol/team)
 * [Visit Treasure](https://app.treasure.lol)
 
 ## ▶ Get Started
@@ -43,12 +47,12 @@
   * [Smolverse](https://www.smolverse.lol/)
 * [Partnered Games](games/powered-by-treasure/README.md)
   * [BattleFly](https://www.battlefly.game/)
+  * [Kaiju Cards](https://www.kaiju.cards/)
   * [Knights of the Ether](https://knightsoftheether.com/)
-  * [LifeVerse](https://life.treasure.lol/)
+  * [Mighty Action Heroes](https://www.mightyactionheroes.com/)
   * [Realm](https://rlm.land/)
   * [Tales of Elleria](https://www.talesofelleria.com/)
   * [The Beacon](https://thebeacon.gg/)
-  * [The Lost Donkeys](https://www.thelostdonkeys.com/)
   * [Zeeverse](https://zee-verse.com/)
 
 ## 📣 Publishing
@@ -61,21 +65,18 @@
 
 ## ℹ References
 
-* [DAO Multisigs](references/dao-multisigs.md)
 * [Contracts](references/contracts/README.md)
   * [Audits](references/contracts/audits.md)
 * [Official Links](about-treasure-dao/official-links/README.md)
   * [Website](https://treasure.lol)
-  * [Platform](https://app.treasure.lol)
+  * [Platform & Marketplace](https://app.treasure.lol)
   * [Discord](https://discord.gg/treasuredao)
-  * [Twitter](https://twitter.com/Treasure\_DAO)
+  * [X/Twitter](https://twitter.com/Treasure\_DAO)
   * [GitHub](https://github.com/TreasureProject)
+  * [DAO Multisigs](https://github.com/TreasureProject/dao-multisigs-and-resources)
 * [Glossary](references/glossary.md)
-* [Media & Content](references/articles.md)
-  * [TreasureDAO Announces Integration of Chainlink Oracles for Secure NFT Marketplace Pricing](references/articles/treasuredao-announces-integration-of-chainlink-oracles-for-secure-nft-marketplace-pricing.md)
 
 ## 🤝 Get Involved
 
-* [Meet the Team](https://treasure.lol/team)
 * [Getting Involved](get-involved/involvement.md)
 * [Contributing to Treasure Docs](get-involved/contributors.md)
