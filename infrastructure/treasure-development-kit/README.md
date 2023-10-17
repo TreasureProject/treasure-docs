@@ -2,7 +2,7 @@
 description: Pluggable on-chain game features
 ---
 
-# Game Development Suite
+# Treasure Development Kit
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Treasure offers a collection of modular on-chain features and engaging game loop
 
 ## Key Features
 
-We offer a comprehensive suite of interconnected on-chain game loops and features that can be easily plugged into your game. This modular design enables developers to choose the functionalities that best suit their game, while providing a seamless integration experience. We currently offer the following infrastructure functionalities for games and dApps:
+We offer a comprehensive development kit of interconnected on-chain game loops and features that can be easily plugged into your game. This modular design enables developers to choose the functionalities that best suit their game, while providing a seamless integration experience. We currently offer the following infrastructure functionalities for games and dApps:
 
 * **Creating and managing guilds**: Build and oversee player communities, establish hierarchies, and set up communication channels.
 * **Facilitating in-game commerce/payments**: Enable secure and seamless in-game payments, including trading, buying, and selling virtual goods or services.
@@ -24,7 +24,7 @@ By utilizing our game development suite's powerful set of features, developers c
 
 **Continuous Updates and Feature Expansions -** We are committed to ongoing development, with regular updates and feature expansions to ensure it stays at the forefront of gaming infrastructure technology. Developers can rely on a continuously evolving toolkit to help them stay ahead of the curve and meet the demands of a dynamic industry.
 
-**Integration into the Treasure Ecosystem -** Our game development suite is an integral part of the Treasure ecosystem, a thriving network of games and applications. This integration offers developers access to a larger community of users and partners, enabling collaboration on shared game loops, cross-game interactions, and enhanced gaming experiences.
+**Integration into the Treasure Ecosystem -** Our game development kit is an integral part of the Treasure ecosystem, a thriving network of games and applications. This integration offers developers access to a larger community of users and partners, enabling collaboration on shared game loops, cross-game interactions, and enhanced gaming experiences.
 
 **API/SDK for Simplified Integration (coming soon) -** The user-friendly API and SDK provided by our suite will streamline the integration process, making it simple for developers to connect their games and dApps to the platform. Comprehensive documentation and code samples further support developers in leveraging the tool's capabilities to their fullest potential.
 

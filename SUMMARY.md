@@ -22,7 +22,8 @@
 
 ## 💻 Infrastructure
 
-* [Platform](infrastructure/platform.md)
+* [Platform](infrastructure/platform/README.md)
+  * [Quest Technical Implementation](infrastructure/platform/quest-technical-implementation.md)
 * [Marketplace](infrastructure/marketplace/README.md)
   * [Collection Listing Process](infrastructure/marketplace/collection-listing-process.md)
   * [Metadata Support](infrastructure/marketplace/metadata-support.md)
@@ -35,10 +36,10 @@
   * [Badges & Achievements](infrastructure/player-identity-and-progression/badges-and-achievements/README.md)
     * [Badge Technical Implementation](infrastructure/player-identity-and-progression/badges-and-achievements/badge-technical-implementation.md)
 * [AMM (Magicswap)](https://magicswap.lol/)
-* [Game Development Suite](infrastructure/game-development-suite/README.md)
-  * [Guilds](infrastructure/game-development-suite/guilds.md)
-  * [Payments](infrastructure/game-development-suite/payments.md)
-  * [Emissions](infrastructure/game-development-suite/emissions.md)
+* [Treasure Development Kit](infrastructure/treasure-development-kit/README.md)
+  * [Guilds](infrastructure/treasure-development-kit/guilds.md)
+  * [Payments](infrastructure/treasure-development-kit/payments.md)
+  * [Emissions](infrastructure/treasure-development-kit/emissions.md)
 
 ## 🕹 Games
 
