@@ -1,9 +1,9 @@
 # Quest Technical Implementation
 
-In order for us to set up a Quest for a game within the Treasure Platform, the following details will need to be collected:
+In order for us to set up a Quest for a game within the Treasure Platform, the following details will need to be collected ([see here for a Google Sheets template to provide quests in bulk](https://docs.google.com/spreadsheets/d/1NW8hKWim2dYNDNCOyPgii2FE9wFW7QwtZJIqQNzF-e4/edit?usp=sharing)).
 
 1. **Quest Name**
-2. **Name of the associated Game**
+2. **Name of the associated game**
 3. **Quest Description:** A non-technical definition of what a player needs to do to achieve this quest (73 character limit is preferred).
 4. **Technical Quest Criteria:** Technical information and definition of criteria. Please provide quest status info for a `walletAddress` using one of the following methods:
    1. **\[Option 1]** Provide us contract info (contract address + function call parameters) to indicate whether a user with `walletAddress` has completed the quest.
