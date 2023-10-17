@@ -11,7 +11,7 @@
   * [Proposal Template](https://commonwealth.im/treasure-dao/discussion/5952-treasuredao-improvement-proposal-tip-rules-and-guidelines)
 * [Liquidity](about-treasure/liquidity/README.md)
   * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
-* [Meet the Core Contributors](https://treasure.lol/team)
+* [Meet the Team](https://treasure.lol/team)
 * [Visit Treasure](https://app.treasure.lol)
 
 ## ▶ Get Started
