@@ -11,6 +11,4 @@ Reports will be published on a recurring basis within forty-five (45) days after
 
 ## Published Reports
 
-{% file src="../../.gitbook/assets/TreasureDAO Report (Q2 2023).pdf" %}
-Also available on [GitHub](https://github.com/TreasureProject/multisigs-and-resources/blob/main/reports/TreasureDAO%20Report%20\(Q2%202023\).pdf).
-{% endfile %}
+* [Q2'2023 Report](https://drive.google.com/file/d/1ZP1pJEJ2h3bjKMR5NRjw3WsWYtNtYQDJ/view?usp=sharing)
