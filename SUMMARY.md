@@ -13,6 +13,7 @@
   * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
 * [Meet the Team](https://treasure.lol/team)
 * [Visit Treasure](https://app.treasure.lol)
+* [Treasure Hunter Starter Kit](about-treasure/treasure-hunter-starter-kit.md)
 
 ## ▶ Get Started
 
