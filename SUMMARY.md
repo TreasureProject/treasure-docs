@@ -80,5 +80,6 @@
 
 ## 🤝 Get Involved
 
+* [Community Grants Program](get-involved/community-grants-program.md)
 * [Getting Involved](get-involved/involvement.md)
 * [Contributing to Treasure Docs](get-involved/contributors.md)
