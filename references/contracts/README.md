@@ -1,7 +1,7 @@
 ---
 description: >-
-  All production (mainnet) contracts are on Arbitrum and development (testnet
-  contracts are on Arbitrum Sepolia, unless otherwise stated).
+  All production (mainnet) contracts are on Arbitrum and development (testnet)
+  contracts are on Arbitrum Sepolia, unless otherwise stated.
 ---
 
 # Contracts
