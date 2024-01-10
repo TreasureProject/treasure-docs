@@ -97,6 +97,12 @@ description: >-
 | MAGIC-ETH LP Rewarder | 0x73EB8b2b235F7957f830ea66ABE433D9EED9f0E3 |                 |
 | MAGIC-ETH LP Pair     | 0xB7E50106A5bd3Cf21AF210A755F9C8740890A8c9 |                 |
 
+### Governance
+
+| Contract                    | Mainnet Address                            | Testnet Address |
+| --------------------------- | ------------------------------------------ | --------------- |
+| Governance Staking (gMAGIC) | 0xc0e641c7ea263166a238285556ff61fdf37a4c79 |                 |
+
 ### Legacy
 
 The following contracts are either deprecated or no longer in use:
