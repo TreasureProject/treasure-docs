@@ -3,67 +3,55 @@
 ## ✨ About Treasure
 
 * [Introduction](README.md)
+  * [Liquidity](about-treasure/readme/liquidity/README.md)
+    * [Thesis: Liquidity Abstraction](about-treasure/readme/liquidity/liquidity-abstraction.md)
 * [Public Roadmap](about-treasure/public-roadmap.md)
 * [Governance](about-treasure/governance/README.md)
   * [Reporting](about-treasure/governance/reporting.md)
   * [DAO Treasury & Multisigs](about-treasure/governance/dao-multisigs.md)
   * [Improvement Proposals](about-treasure/governance/treasure-dao-improvement-proposals-tip.md)
-  * [Proposal Template](https://commonwealth.im/treasure-dao/discussion/5952-treasuredao-improvement-proposal-tip-rules-and-guidelines)
-* [Liquidity](about-treasure/liquidity/README.md)
-  * [Liquidity Abstraction](about-treasure/liquidity/liquidity-abstraction.md)
+* [$MAGIC](about-treasure/what-is-magic/README.md)
+  * [How do I buy $MAGIC?](about-treasure/what-is-magic/how-do-i-buy-magic.md)
+  * [Staking $MAGIC](about-treasure/what-is-magic/treasure-mine-staking.md)
+* [Games](about-treasure/games/README.md)
+  * [First-Party Games](about-treasure/games/first-party-games/README.md)
+    * [Bridgeworld](https://docs.bridgeworld.treasure.lol/)
+    * [Smolverse](https://www.smolverse.lol/)
+  * [See All Games](https://app.treasure.lol/games)
+* [Treasure Hunter Starter Kit](about-treasure/treasure-hunter-starter-kit.md)
 * [Meet the Team](https://treasure.lol/team)
 * [Visit Treasure](https://app.treasure.lol)
-* [Treasure Hunter Starter Kit](about-treasure/treasure-hunter-starter-kit.md)
 
-## ▶ Get Started
+## 💻 Treasure Stack
 
-* [What is $MAGIC?](get-started/what-is-magic/README.md)
-  * [How do I buy $MAGIC?](get-started/what-is-magic/how-do-i-buy-magic.md)
-* [Staking $MAGIC](get-started/treasure-mine-staking.md)
-
-## 💻 Infrastructure
-
-* [Platform](infrastructure/platform/README.md)
-  * [Quest Technical Implementation](infrastructure/platform/quest-technical-implementation.md)
-* [Marketplace](infrastructure/marketplace/README.md)
-  * [Collection Listing Process](infrastructure/marketplace/collection-listing-process.md)
-  * [Metadata Support](infrastructure/marketplace/metadata-support.md)
-  * [Setting Collection Royalties](infrastructure/marketplace/setting-collection-royalties.md)
-  * [Delisting Framework](infrastructure/marketplace/delisting-framework.md)
-  * [API](infrastructure/marketplace/api.md)
-  * [FAQ](infrastructure/marketplace/faq.md)
-* [Player Identity & Progression](infrastructure/player-identity-and-progression/README.md)
-  * [TreasureTags](infrastructure/player-identity-and-progression/treasuretags.md)
-  * [Badges & Achievements](infrastructure/player-identity-and-progression/badges-and-achievements/README.md)
-    * [Badge Technical Implementation](infrastructure/player-identity-and-progression/badges-and-achievements/badge-technical-implementation.md)
+* [Treasure Chain](treasure-stack/treasure-chain.md)
+* [Treasure Platform](treasure-stack/treasure-platform.md)
+* [Treasure Identity](treasure-stack/treasure-identity/README.md)
+  * [TreasureTags](treasure-stack/treasure-identity/treasuretags.md)
+  * [Badges & Achievements](treasure-stack/treasure-identity/badges-and-achievements.md)
+* [Treasure Development Kit](treasure-stack/treasure-development-kit/README.md)
+  * [Guilds](treasure-stack/treasure-development-kit/guilds.md)
+  * [Payments](treasure-stack/treasure-development-kit/payments.md)
+  * [Emissions](treasure-stack/treasure-development-kit/emissions.md)
 * [AMM (Magicswap)](https://magicswap.lol/)
-* [Treasure Development Kit](infrastructure/treasure-development-kit/README.md)
-  * [Guilds](infrastructure/treasure-development-kit/guilds.md)
-  * [Payments](infrastructure/treasure-development-kit/payments.md)
-  * [Emissions](infrastructure/treasure-development-kit/emissions.md)
 
-## 🕹 Games
+## ⚒ For Game Developers
 
-* [First-Party Games](games/first-party-games/README.md)
-  * [Bridgeworld](https://docs.bridgeworld.treasure.lol/)
-  * [Smolverse](https://www.smolverse.lol/)
-* [Partnered Games](games/powered-by-treasure/README.md)
-  * [BattleFly](https://www.battlefly.game/)
-  * [Kaiju Cards](https://www.kaiju.cards/)
-  * [Knights of the Ether](https://knightsoftheether.com/)
-  * [Mighty Action Heroes](https://www.mightyactionheroes.com/)
-  * [Realm](https://rlm.land/)
-  * [Tales of Elleria](https://www.talesofelleria.com/)
-  * [The Beacon](https://thebeacon.gg/)
-  * [Zeeverse](https://zee-verse.com/)
+* [Game Builders Program](for-game-developers/game-builders-program/README.md)
+  * [Application Process & Requirements](for-game-developers/game-builders-program/application-process-and-requirements.md)
+* [Marketplace](for-game-developers/marketplace/README.md)
+  * [Marketplace Listing](for-game-developers/marketplace/marketplace-listing.md)
+  * [Metadata Support](for-game-developers/marketplace/metadata-support.md)
+  * [Setting Collection Royalties](for-game-developers/marketplace/setting-collection-royalties.md)
+  * [Delisting Framework](for-game-developers/marketplace/delisting-framework.md)
+  * [FAQ](for-game-developers/marketplace/faq.md)
+* [API](for-game-developers/api.md)
+* [Badges Implementation](for-game-developers/badges-implementation.md)
+* [Quests Implementation](for-game-developers/quests-implementation.md)
 
-## 📣 Publishing
+## 📣 For Creators
 
-* [Game Builders Program](publishing/game-builders-program/README.md)
-  * [GBP Partnership Tiers](publishing/game-builders-program/gbp-partnership-tiers/README.md)
-    * [Gold Integration](publishing/game-builders-program/gbp-partnership-tiers/gold-integration.md)
-    * [Diamond Integration](publishing/game-builders-program/gbp-partnership-tiers/diamond-integration.md)
-* [Content Creators](publishing/content-creators.md)
+* [Content Creators](for-creators/content-creators.md)
 
 ## ℹ References
 
@@ -81,5 +69,5 @@
 ## 🤝 Get Involved
 
 * [Community Grants Program](get-involved/community-grants-program.md)
-* [Getting Involved](get-involved/involvement.md)
 * [Contributing to Treasure Docs](get-involved/contributors.md)
+* [Careers at Treasure](https://jobs.treasure.lol)

@@ -1,6 +1,6 @@
 # Treasure Hunter Starter Kit
 
-Rep Treasure wherever you go with our splash art banners and wallpaper. Right-click and save!
+Represent Treasure wherever you go with our splash art banners and wallpaper. Right-click the images below to save them!
 
 ### Twitter Banner
 

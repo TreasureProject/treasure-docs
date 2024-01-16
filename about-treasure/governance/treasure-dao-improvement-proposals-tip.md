@@ -18,3 +18,5 @@ TIPs are proposals submitted by the community and the DAO Council proposing chan
 * Quorum must be reached from an informal poll (>66% vote "for").
 * At least one DAO Council member must be made aware of the proposal.
 * The author should indicate clearly when the Snapshot vote will commence (see the Template section below).
+
+[See here for the Treasure Improvement Proposal template](https://forum.treasure.lol/discussion/5952-treasuredao-improvement-proposal-tip-rules-and-guidelines).
