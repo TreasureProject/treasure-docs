@@ -53,7 +53,7 @@ _Example cast:_\
 `cast call 0xF325aC5c9dc74A3c3b7F2474A709154E9F6bc194 "calculatePaymentAmountByPriceType(address,uint256,uint8,address)(uint256)" 0x539bdE0d7Dbd336b79148AA742883198BBF60342 1000000000 2 0x0000000000000000000000000000000000000000 --rpc-url https://arb1.arbitrum.io/rpc`
 
 _Example cast formatted (assumes you have bc command):_\
-`echo "scale=18; $(cast call 0xF325aC5c9dc74A3c3b7F2474A709154E9F6bc194 "calculatePaymentAmountByPriceType(address,uint256,uint8,address)(uint256)" 0x539bdE0d7Dbd336b79148AA742883198BBF60342 1000000000 2 0x0000000000000000000000000000000000000000 --rpc-url https://arb1.arbitrum.io/rpc) / 1000000000000000000" | bc`
+`echo "scale=18; $(cast call 0xF325aC5c9dc74A3c3b7F2474A709154E9F6bc194 "calculatePaymentAmountByPriceType(address,uint256,uint8,address)(uint256)" 0x539bdE0d7Dbd336b79148AA742883198BBF60342 1000000000 2 0x0000000000000000000000000000000000000000 --rpc-url https://arb1.arbitrum.io/rpc | awk '{print $1;}') / 1000000000000000000" | bc`
 
 **Get $10 USD worth of ARB:**\
 `calculatePaymentAmountByPriceType(0x912CE59144191C1204E64559FE8253a0e49E654, 1000000000, 2, 0x0000000000000000000000000000000000000000)`
@@ -65,7 +65,7 @@ _Example cast:_\
 `cast call 0xF325aC5c9dc74A3c3b7F2474A709154E9F6bc194 "calculatePaymentAmountByPriceType(address,uint256,uint8,address)(uint256)" 0x0000000000000000000000000000000000000000 1000000000 2 0x0000000000000000000000000000000000000000 --rpc-url https://arb1.arbitrum.io/rpc`
 
 _Example cast formatted (assumes you have bc command):_\
-`echo "scale=18; $(cast call 0xF325aC5c9dc74A3c3b7F2474A709154E9F6bc194 "calculatePaymentAmountByPriceType(address,uint256,uint8,address)(uint256)" 0x0000000000000000000000000000000000000000 1000000000 2 0x0000000000000000000000000000000000000000 --rpc-url https://arb1.arbitrum.io/rpc) / 1000000000000000000" | bc`
+`echo "scale=18; $(cast call 0xF325aC5c9dc74A3c3b7F2474A709154E9F6bc194 "calculatePaymentAmountByPriceType(address,uint256,uint8,address)(uint256)" 0x0000000000000000000000000000000000000000 1000000000 2 0x0000000000000000000000000000000000000000 --rpc-url https://arb1.arbitrum.io/rpc | awk '{print $1;}') / 1000000000000000000" | bc`
 
 #### Making Payments
 
@@ -147,3 +147,11 @@ _Working example_:&#x20;
 | Payments Module | 0x366A17839a625b87B114bE0aB5a45A979959702B |
 | MAGIC           | 0x88f9eFB3A7F728fdb2B8872fE994c84b1d148f65 |
 | ARB             | 0xF861378B543525ae0C47d33C90C954Dc774Ac1F9 |
+
+Arbitrum Sepolia
+
+| Contract        | Address                                    |
+| --------------- | ------------------------------------------ |
+| Payments Module | 0x06E308c2ED6168AfD158A4B495b084E9677F4E1D |
+| MAGIC           | 0x55d0CF68a1Afe0932Aff6F36C87eFa703508191C |
+| ARB             | N/A                                        |
