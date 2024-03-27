@@ -35,7 +35,7 @@
   * [Emissions](treasure-stack/treasure-development-kit/emissions.md)
 * [AMM (Magicswap)](https://magicswap.lol/)
 
-## ⚒ For Game Developers
+## ⚒️ For Game Developers
 
 * [Game Builders Program](for-game-developers/game-builders-program/README.md)
   * [Application Process & Requirements](for-game-developers/game-builders-program/application-process-and-requirements.md)
@@ -51,9 +51,9 @@
 
 ## 📣 For Creators
 
-* [Content Creators](for-creators/content-creators.md)
+* [Content Creators](publishing/content-creators.md)
 
-## ℹ References
+## ℹ️ References
 
 * [Contracts](references/contracts/README.md)
   * [Audits](references/contracts/audits.md)
@@ -68,6 +68,8 @@
 
 ## 🤝 Get Involved
 
+* [Getting Involved](get-involved/involvement.md)
 * [Community Grants Program](get-involved/community-grants-program.md)
+* [Become a Treasure Ambassador](get-involved/become-a-treasure-ambassador.md)
 * [Contributing to Treasure Docs](get-involved/contributors.md)
 * [Careers at Treasure](https://jobs.treasure.lol)

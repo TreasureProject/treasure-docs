@@ -29,7 +29,7 @@ The Treasure platform is your destination for gaming on Treasure. As an asset ma
 
 ## For Creators
 
-* Join the Treasure Create program for [content-creators.md](../for-creators/content-creators.md "mention") and earn an exclusive badge collectible
+* Join the Treasure Create program for [content-creators.md](../publishing/content-creators.md "mention") and earn an exclusive badge collectible
 * Potential for exclusive streaming and video features on the Treasure platform
 
 _**Fun fact!**_ _The Treasure platform was previously known as Trove and the Treasure Marketplace._

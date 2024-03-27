@@ -1,30 +1,40 @@
 ---
 description: >-
-  The official documentation for Treasure, the decentralized game publisher
+  Official documentation for Treasure, the decentralized game publisher
   connecting games and players through $MAGIC.
 ---
 
 # Introduction
 
-<figure><img src=".gitbook/assets/GitBook.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Treasure_Twitter_Banner_1500x500 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## What is Treasure?
 
-Treasure is the decentralized game publisher on Arbitrum built for community-driven games. Every project listed on the Treasure platform utilizes MAGIC in their respective metaverses, with each community inventing its own lore and storytelling for this resource. MAGIC, the native token of Treasure, is the sole currency for marketplace transactions. In this way, MAGIC acts as the reserve currency for the entire web of metaverses connected under the Treasure umbrella.
+Treasure is the decentralized game publisher on the Arbitrum network and is built for community-driven games.&#x20;
 
-Treasure projects are linked–narratively and economically–through MAGIC. The DAO uses MAGIC emissions to grow new projects and continue supporting more mature ones.
+### $MAGIC
+
+MAGIC is the currency of the Treasure ecosystem. Players are able to earn and use MAGIC through playing **Bridgeworld,** and other game cartridges.&#x20;
+
+Every project listed on the Treasure platform utilizes a resource known as **MAGIC** in their respective metaverses, with each community inventing its own lore and storytelling for this resource. MAGIC is the native token of Treasure, and is the sole currency for all marketplace transactions. MAGIC acts as the reserve currency for the entire web of metaverses all connected under the Treasure umbrella.
+
+<figure><img src=".gitbook/assets/red-star-ENCSEZGU.png" alt="" width="188"><figcaption></figcaption></figure>
+
+All Treasure projects are linked through narrative and economy by MAGIC. The TreasureDAO (Decentralized Autonomous Organization) uses MAGIC emissions to grow new projects and continue supporting more mature ones.
+
+For further information on $MAGIC, [check out this page.](about-treasure/what-is-magic/)
 
 ### Bridgeworld
 
-The central metaverse in Treasure is a place called Bridgeworld, where MAGIC is emitted and harvested. Bridgeworld utilizes a three-part resource economy:
+The central metaverse in Treasure is a place called Bridgeworld. Within Bridgeworld, MAGIC is emitted and harvested. Bridgeworld utilizes a three-part resource economy:
 
 * **$MAGIC** (Power);
 * **Treasures** (Resources); and
 * **Legions** (Characters)
 
-Legions use treasures to mine for MAGIC and build larger forms of infrastructure and equipment. MAGIC is the resource that allows Legions to quest and craft new items using treasures. The relationship between treasures and MAGIC is the equilibrium underpinning Bridgeworld.
+Legions (characters) use treasures (resources) to mine for MAGIC (power) and build larger forms of infrastructure and equipment. MAGIC is the resource that allows Legions to quest and craft new items using treasures. The relationship between treasures and MAGIC is the equilibrium underpinning Bridgeworld.
 
-MAGIC is an increasingly scarce resource needed to “power on” Treasures and allow them to function as productive assets. Treasures produce the instruments and materials needed to continue mining MAGIC. This dance between treasures and MAGIC forms a base layer metaverse on which other metaverse economies can be built and connected.
+MAGIC is an increasingly scarce resource needed to “power on” treasures and allow them to function as productive assets. Treasures produce the instruments and materials needed to continue mining MAGIC. This dance between treasures and MAGIC forms a base layer metaverse on which other metaverse economies can be built and connected.
 
 ## Vision and Mission
 
@@ -36,7 +46,9 @@ Over time, Treasure hopes to become the beacon of decentralization across the en
 
 ## Community-Driven
 
-Treasure is a fair-launch, community-driven project. The vast majority of Treasure’s team members came directly from the community, inspired by Treasure’s ethos of building in the open. The DAO has established a framework by which the community can build alongside the team and receive rewards in MAGIC for developing key parts of the ecosystem (e.g., tooling, lore, quests). These incentives deepen MAGIC’s network effect by aligning the broader ecosystem and incentivizing other communities to build on top of Treasure.
+Treasure is a fair-launch, community-driven project. The vast majority of Treasure’s team members came directly from the community, inspired by Treasure’s ethos of building in the open and with transparency.&#x20;
+
+The DAO has established a framework by which the community can build alongside the team and receive rewards in MAGIC for developing key parts of the ecosystem (e.g., tooling, lore, quests). These incentives deepen MAGIC’s network effect by aligning the broader ecosystem and incentivizing other communities to build on top of Treasure.
 
 Every item in the Treasure ecosystem–legions, treasures, and MAGIC–was distributed for free. The other collections on Treasure’s marketplace were also free-to-mint, fair launch projects. Moreover, Treasure itself is open source. The marketplace, quests, and lore are publicly-hosted projects to which anyone can contribute.
 
@@ -46,7 +58,7 @@ The genesis story of the project has attracted collaborators who align with our 
 
 ## DAO Governed
 
-Treasure is governed by its DAO. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
+Treasure is governed by its DAO, or _Decentralized Autonomous Organization_. To ensure a degree of structure, however, a group of dedicated DAO members from the "Treasure Council" will help execute Treasure's vision.
 
 For more information on the Treasure Council and broader team, [meet the team](https://treasure.lol/team).
 
